@@ -2,7 +2,7 @@
 layout: page
 title: Afaces fanpage
 ---
-
+[![Alt text](assets/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![Alt text](assets/bandcamp.svg)](https://afaces.bandcamp.com) [![Alt text](assets/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Alt text](assets/facebook.svg)](https://www.facebook.com/afaces/) [![Alt text](assets/instagram.svg)](https://www.instagram.com/_afaces/) [![Alt text](assets/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Alt text](assets/napster.svg)](https://us.napster.com/artist/afaces) [![Alt text](assets/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![Alt text](assets/soundcloud.svg)](https://soundcloud.com/afaces) [![Alt text](assets/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Alt text](assets/tidal.svg)](https://tidal.com/browse/artist/10889435) [![Alt text](assets/tiktok.svg)](https://www.tiktok.com/@afaces) [![Alt text](assets/twitter.svg)](https://twitter.com/afaces2) [![Alt text](assets/youtube.svg)](https://www.youtube.com/user/axelaxel12)
 ## Table of contents
 1. [Nefasto](#nefasto)
 2. [Writer](#writer)
