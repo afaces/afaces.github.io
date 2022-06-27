@@ -85,7 +85,7 @@ This doesn't work either.
 #### Not Too Bad <a name="nottoobad"></a>
 [![Not Too Bad](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "Not Too Bad")
 #### There is Another <a name="thereisanother"></a>
-[![There is Another](/assets/cafes_cover.png)](https://www.youtube.com/watch?v=yJaQezPFOdc "There is Another")
+[![There is Another](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc "There is Another")
+
 #### Cafés <a name="cafes"></a>
-[![Not Too Bad](/assets/cafes_cover.png)](https://afaces.tk "cafés")
-30% progress - 28/06/2022
+[![Not Too Bad](assets/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
