@@ -28,24 +28,18 @@ title: Afaces fanpage
 22. [Not Too Bad](#nottoobad)
 23. [There is Another](#thereisanother)
 
-<script src="/script.js"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-
-
-
+#### Play random song
+<button type="button" id="btn">Click Here 4 nothing! 😊</button>
+<script>
+</script>
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1.- Nefasto
 
-<div id="text"></div>
-
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
-
 <audio controls>
   <source src="assets/music/1.Nefasto/1 - Nefasto.wav" type="audio/wav">
 </audio>
+This doesn't work either.
 
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
