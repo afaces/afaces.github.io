@@ -30,6 +30,11 @@ title: Afaces fanpage
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
+###### Nefasto
+<audio controls>
+  <source src="assets/music/1.- 'Nefasto'/1 - Nefasto.wav" type="audio/wav">
+</audio>
+
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
 #### Back and Fro <a name="backandfro"></a>
