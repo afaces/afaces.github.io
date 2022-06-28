@@ -31,11 +31,11 @@ title: Afaces fanpage
 
 #### Play random song
 <script type = "text/javascript">  
-myfunction()  {
-  alert("how are you?");
+clickText()  {
+  document.getElementById("btn").innerHTML = "how are you?";
 }
 </script>
-<input type = "button" onclick = "myfunction()" value = "Click Here 4 nothing! 😊">  
+<input type = "button" onclick = "clickText()" value = "Click Here 4 nothing! 😊">  
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1.- Nefasto
