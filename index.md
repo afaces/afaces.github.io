@@ -31,12 +31,7 @@ title: Afaces fanpage
 
 #### Play random song
 <div>
-    <script src="script.js"></script>
-    <script>
-        let d = new Date();
-        document.body.innerHTML = "<h1>Time right now is:  " + d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds()</h1>"
-    </script>
-    <input type = "button" onclick = "clickText()" value = "Click Here 4 nothing! 😊">
+    <input type = "button" onclick = "myFunction()" value = "Click Here 4 nothing! 😊">
 </div>
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
