@@ -33,6 +33,9 @@ title: Afaces fanpage
 <div>
     <input type = "button" onclick = "myFunction()" value = "Click Here 4 nothing! 😊">
 </div>
+
+<script src="index.js"></script>
+
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1.- Nefasto
