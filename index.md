@@ -33,9 +33,10 @@ title: Afaces fanpage
 <div>
     <input type = "button" onclick = "myFunction()" value = "Click Here 4 nothing! 😊">
 </div>
+<p id="btn"></p>
 <script>
 function myFunction() {
-  document.getElementById("demo").innerHTML = "Hello World";
+  document.getElementById("btn").innerHTML = "Hello World";
 }
 </script>
 
