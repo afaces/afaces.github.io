@@ -35,7 +35,7 @@ title: Afaces fanpage
 </div>
 <p id="btn"></p>
 
-<script type="text/javascript" src="index.js"></script>
+<script type="text/javascript" src="/index.js"></script>
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
