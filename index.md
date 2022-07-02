@@ -30,12 +30,14 @@ title: Afaces fanpage
 24. [Cafés](#cafes)
 
 #### Play random song
-<script type = "text/javascript">  
-clickText()  {
-  document.getElementById("btn").innerHTML = "how are you?";
-}
-</script>
-<input type = "button" onclick = "clickText()" value = "Click Here 4 nothing! 😊">  
+<div>
+    <script src="script.js"></script>
+    <script>
+        let d = new Date();
+        document.body.innerHTML = "<h1>Time right now is:  " + d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds()</h1>"
+    </script>
+    <input type = "button" onclick = "clickText()" value = "Click Here 4 nothing! 😊">
+</div>
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1.- Nefasto
