@@ -1,3 +1,2 @@
 function myFunction() {
-  document.getElementById("demo").innerHTML = "Hello World";
-}
+  document.getElementById("btn").innerHTML = "Hello World";

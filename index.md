@@ -34,11 +34,7 @@ title: Afaces fanpage
     <input type = "button" onclick = "myFunction()" value = "Click Here 4 nothing! 😊">
 </div>
 <p id="btn"></p>
-<script>
-function myFunction() {
-  document.getElementById("btn").innerHTML = "Hello World";
-}
-</script>
+<script src="index.js"></script>
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
