@@ -44,7 +44,6 @@ title: Afaces fanpage
 <audio controls>
   <source src="assets/music/1.Nefasto/1 - Nefasto.mp3" type="audio/wav">
 </audio>
-This doesn't work either.
 
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
