@@ -42,7 +42,7 @@ title: Afaces fanpage
 ###### 1.- Nefasto
 
 <audio controls>
-  <source src="assets/music/1.Nefasto/1 - Nefasto.wav" type="audio/wav">
+  <source src="assets/music/1.Nefasto/1 - Nefasto.mp3" type="audio/wav">
 </audio>
 This doesn't work either.
 
