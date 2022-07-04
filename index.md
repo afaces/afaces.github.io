@@ -46,12 +46,12 @@ title: Afaces fanpage
 
 ###### 2 - Forgotten past.mp3
 <audio controls>
-<source src="assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3" type="audio/wav">
+<source src="assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3" type="audio/mp3">
 </audio>
 
 ###### 3 - Desgarrador#2.mp3
 <audio controls>
-<source src="assets/music/1.- 'Nefasto'/3 - Desgarrador#2.mp3" type="audio/wav">
+<source src="assets/music/1.- 'Nefasto'/3 - Desgarrador#2.mp3" type="audio/mp3">
 </audio>
 
 ###### 4 - Baby On Fire.mp3
