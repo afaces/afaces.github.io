@@ -39,6 +39,125 @@ title: Afaces fanpage
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
+###### 1 - Nefasto.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/1 - Nefasto.mp3" type="audio/mp3">
+</audio>
+
+###### 2 - Forgotten past.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3" type="audio/mp3">
+</audio>
+
+###### 3 - Desgarrador#2.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/3 - Desgarrador#2.mp3" type="audio/mp3">
+</audio>
+
+###### 4 - Baby On Fire.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/4 - Baby On Fire.mp3" type="audio/mp3">
+</audio>
+
+###### 5 - Floating.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/5 - Floating.mp3" type="audio/mp3">
+</audio>
+
+###### 6 - Inconscience.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/6 - Inconscience.mp3" type="audio/mp3">
+</audio>
+
+###### 7 - Hot & Spicy.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/7 - Hot & Spicy.mp3" type="audio/mp3">
+</audio>
+
+###### 8 - A Team Fight.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/8 - A Team Fight.mp3" type="audio/mp3">
+</audio>
+
+###### 9 - Ha ha ha.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/9 - Ha ha ha.mp3" type="audio/mp3">
+</audio>
+
+###### 10 - Aberrante.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/10 - Aberrante.mp3" type="audio/mp3">
+</audio>
+
+###### 11 - Help.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/11 - Help.mp3" type="audio/mp3">
+</audio>
+
+###### 12 - Cough.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/12 - Cough.mp3" type="audio/mp3">
+</audio>
+
+###### 13 - Just enough.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/13 - Just enough.mp3" type="audio/mp3">
+</audio>
+
+###### 14 - Song for the deaf.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/14 - Song for the deaf.mp3" type="audio/mp3">
+</audio>
+
+###### 15 - Helo.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/15 - Helo.mp3" type="audio/mp3">
+</audio>
+
+###### 16 - Back from there.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/16 - Back from there.mp3" type="audio/mp3">
+</audio>
+
+###### 17 - Catastrofico.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/17 - Catastrofico.mp3" type="audio/mp3">
+</audio>
+
+###### 18 - egipto.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/18 - egipto.mp3" type="audio/mp3">
+</audio>
+
+###### 19 - take those pills.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/19 - take those pills.mp3" type="audio/mp3">
+</audio>
+
+###### 20 - Uh-uh ft. Yellow Button.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/20 - Uh-uh ft. Yellow Button.mp3" type="audio/mp3">
+</audio>
+
+###### 21 - Waves Not Found.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/21 - Waves Not Found.mp3" type="audio/mp3">
+</audio>
+
+###### 22 - aceptable.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/22 - aceptable.mp3" type="audio/mp3">
+</audio>
+
+###### 23 - Don't remind me.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/23 - Don't remind me.mp3" type="audio/mp3">
+</audio>
+
+###### 24 - Platform.mp3
+<audio controls>
+<source src="assets/music/1.- 'Nefasto'/24 - Platform.mp3" type="audio/mp3">
+</audio>
 
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
