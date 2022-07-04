@@ -2,7 +2,7 @@ origin_folder="/mnt/afaces_albums"
 destination_folder="${HOME}/afaces.github.io/assets/music"
 
 #test -f "${i%.wav}.mp3" || lame -b 320 -h "${i}" "${i%.wav}.mp3"
-rm -Rf "${destination_folder}"
+
 mkdir -p "${destination_folder}"
 
 if ! which lame; then
