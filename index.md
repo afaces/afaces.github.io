@@ -34,7 +34,7 @@ title: Afaces fanpage
 function toggle_visibility(albumnefasto) {
    var e = document.getElementById(albumnefasto);
    if(e.style.display == 'block')
-      e.style.display = 'none';
+      e.style.display = 'hidden';
    else
       e.style.display = 'block';
 }
@@ -289,7 +289,8 @@ function showButtonplatform() {
 <p id="platform"></p>
 </div>
 
-#### 2.- 'Writer' <a name=""></a> 
+2. [Writer](#writer)
+#### 2.- 'Writer' <a name="writer"></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
 ###### 1 - Pencil
 <script type="text/javascript">
@@ -532,7 +533,8 @@ function showButtonlastsight() {
 <p id="lastsight"></p>
 
 
-#### 3.- 'Back and Fro' <a name=""></a>
+3. [Back and Fro](#backandfro)
+#### 3.- 'Back and Fro' <a name="backandfro"></a>
 [![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
 ###### 1 - taste
 <script type="text/javascript">
@@ -735,7 +737,8 @@ function showButtontoandfro() {
 <p id="toandfro"></p>
 
 
-#### 4.- 'Planetc' <a name=""></a>
+4. [Planetc](#planetc)
+#### 4.- 'Planetc' <a name="planetc"></a>
 [![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
 ###### 1 - Ambrosia
 <script type="text/javascript">
@@ -938,7 +941,8 @@ function showButtonyeahr() {
 <p id="yeahr"></p>
 
 
-#### 5.- 'Black' <a name=""></a>
+5. [Black](#black)
+#### 5.- 'Black' <a name="black"></a>
 [![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
 ###### 1 - screan
 <script type="text/javascript">
@@ -1191,7 +1195,8 @@ function showButtonshipfriend() {
 <p id="shipfriend"></p>
 
 
-#### 6.- 'list' <a name=""></a>
+6. [list](#list)
+#### 6.- 'list' <a name="list"></a>
 [![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
 ###### 1 - ace
 <script type="text/javascript">
@@ -1414,7 +1419,8 @@ function showButtonupward() {
 <p id="upward"></p>
 
 
-#### 7.- 'A cool name' <a name=""></a>
+7. [A cool name](#acoolname)
+#### 7.- 'A cool name' <a name="acoolname"></a>
 [![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
 ###### 1 - Negativ
 <script type="text/javascript">
@@ -1597,7 +1603,8 @@ function showButtonboom!() {
 <p id="boom!"></p>
 
 
-#### 8.- '50%' <a name=""></a>
+8. [50%](#50)
+#### 8.- '50%' <a name="50"></a>
 [![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
 ###### 1 - no one
 <script type="text/javascript">
@@ -1820,7 +1827,8 @@ function showButtonhotpockets() {
 <p id="hotpockets"></p>
 
 
-#### 9.- 'advisory content' <a name=""></a>
+9. [advisory content](#advisorycontent)
+#### 9.- 'advisory content' <a name="advisorycontent"></a>
 [![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
 ###### 1 - cigarret advertisement
 <script type="text/javascript">
@@ -2033,7 +2041,8 @@ function showButtonforbear() {
 <p id="forbear"></p>
 
 
-#### 10.- 'BUY NEVER' <a name=""></a>
+10. [BUY NEVER](#buynever)
+#### 10.- 'BUY NEVER' <a name="buynever"></a>
 [![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
 ###### 1 .- Entrance
 <script type="text/javascript">
@@ -2246,7 +2255,8 @@ function showButtonroadstonowhere() {
 <p id="roadstonowhere"></p>
 
 
-#### 11.- 'Bull's-eye' <a name=""></a>
+11. [Bull's-eye](#bullseye)
+#### 11.- 'Bull's-eye' <a name="bullseye"></a>
 [![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
 ###### 1 - Try your worst
 <script type="text/javascript">
@@ -2449,7 +2459,8 @@ function showButtonnotsnew() {
 <p id="notsnew"></p>
 
 
-#### 12.- 'Where are my royalties' <a name=""></a>
+12. [Where are my royalties](#wherearemyroyalties)
+#### 12.- 'Where are my royalties' <a name="wherearemyroyalties"></a>
 [![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
 ###### 1 - God knows no
 <script type="text/javascript">
@@ -2632,7 +2643,8 @@ function showButtonmnoalu() {
 <p id="mnoalu"></p>
 
 
-#### 13.- 'Who u tryna' impress' <a name=""></a>
+13. [Who u tryna' impress](#whoutrynaimpress)
+#### 13.- 'Who u tryna' impress' <a name="whoutrynaimpress"></a>
 [![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
 ###### 1 - Over lovely
 <script type="text/javascript">
@@ -2875,7 +2887,8 @@ function showButtoncastlequeenside() {
 <p id="castlequeenside"></p>
 
 
-#### 14.- 'The bad words' <a name=""></a>
+14. [The bad words](#thebadwords)
+#### 14.- 'The bad words' <a name="thebadwords"></a>
 [![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
 ###### 1 - YouThieve
 <script type="text/javascript">
@@ -3088,7 +3101,8 @@ function showButtonbacktoanewstateofnormality() {
 <p id="backtoanewstateofnormality"></p>
 
 
-#### 15.- 'Journey to Wasted Youth' <a name=""></a>
+15. [Journey to Wasted Youth](#journeytowastedyouth)
+#### 15.- 'Journey to Wasted Youth' <a name="journeytowastedyouth"></a>
 [![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
 ###### 1 - get you hype
 <script type="text/javascript">
@@ -3291,7 +3305,8 @@ function showButtonelope() {
 <p id="elope"></p>
 
 
-#### 16.- 'Lyricless Miracles' <a name=""></a>
+16. [Lyricless Miracles](#lyriclessmiracles)
+#### 16.- 'Lyricless Miracles' <a name="lyriclessmiracles"></a>
 [![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
 ###### 1 - Place
 <script type="text/javascript">
@@ -3504,7 +3519,8 @@ function showButtonlightning() {
 <p id="lightning"></p>
 
 
-#### 17.- 'irl' <a name=""></a>
+17. [irl](#irl)
+#### 17.- 'irl' <a name="irl"></a>
 [![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
 ###### 1.- Misery
 <script type="text/javascript">
@@ -3687,7 +3703,8 @@ function showButtonpayday() {
 <p id="payday"></p>
 
 
-#### 18.- 'before senescence' <a name=""></a>
+18. [before senescence](#beforesenescence)
+#### 18.- 'before senescence' <a name="beforesenescence"></a>
 [![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
 ###### Lonely - Bella Thorne - Afaces remix
 <script type="text/javascript">
@@ -3880,7 +3897,8 @@ function showButtonsoundtest3() {
 <p id="soundtest3"></p>
 
 
-#### 19.- 'back to the origins' <a name=""></a>
+19. [back to the origins](#backtotheorigins)
+#### 19.- 'back to the origins' <a name="backtotheorigins"></a>
 [![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
 ###### 1.- This song has no video
 <script type="text/javascript">
@@ -4093,7 +4111,8 @@ function showButtongoodnight() {
 <p id="goodnight"></p>
 
 
-#### 20.- 'conversation conservation' <a name=""></a>
+20. [conversation conservation](#conversationconservation)
+#### 20.- 'conversation conservation' <a name="conversationconservation"></a>
 [![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
 ###### 1.- Messy streak
 <script type="text/javascript">
@@ -4296,7 +4315,8 @@ function showButtonraw() {
 <p id="raw"></p>
 
 
-#### 21.- 'Gloomy dances' <a name=""></a>
+21. [Gloomy dances](#gloomydances)
+#### 21.- 'Gloomy dances' <a name="gloomydances"></a>
 [![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
 ###### 1.- yeah yeah
 <script type="text/javascript">
@@ -4499,7 +4519,8 @@ function showButtonusedtobemyfriend() {
 <p id="usedtobemyfriend"></p>
 
 
-#### 22.- 'Not Too Bad' <a name=""></a>
+22. [Not Too Bad](#nottoobad)
+#### 22.- 'Not Too Bad' <a name="nottoobad"></a>
 [![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
 ###### 1.- Ker al Loch
 <script type="text/javascript">
@@ -4712,7 +4733,8 @@ function showButtonpleasantstrangeness() {
 <p id="pleasantstrangeness"></p>
 
 
-#### 23.- 'There is Another' <a name=""></a>
+23. [There is Another](#thereisanother)
+#### 23.- 'There is Another' <a name="thereisanother"></a>
 [![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
 ###### 1.-  Kept me hanging
 <script type="text/javascript">
@@ -4943,7 +4965,6 @@ function showButtonhalfbelow() {
 </script>
 <input type = "button" onclick = "showButtonhalfbelow()" value = "⏯ half below">
 <p id="halfbelow"></p>
-
 
 #### Cafés <a name="cafes"></a>
 [![Cafés](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
