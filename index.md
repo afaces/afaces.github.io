@@ -77,6 +77,226 @@ function showButtonbabyonfire() {
 <input type = "button" onclick = "showButtonbabyonfire()" value = "⏯ Baby On Fire">
 <p id="babyonfire"></p>
 
+###### 5 - Floating
+<script type="text/javascript"></script>
+<script>
+function showButtonfloating() {
+  let floating = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/5 - Floating.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("floating").innerHTML = floating;
+}
+</script>
+<input type = "button" onclick = "showButtonfloating()" value = "⏯ Floating">
+<p id="floating"></p>
+
+###### 6 - Inconscience
+<script type="text/javascript"></script>
+<script>
+function showButtoninconscience() {
+  let inconscience = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/6 - Inconscience.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("inconscience").innerHTML = inconscience;
+}
+</script>
+<input type = "button" onclick = "showButtoninconscience()" value = "⏯ Inconscience">
+<p id="inconscience"></p>
+
+###### 7 - Hot  Spicy
+<script type="text/javascript"></script>
+<script>
+function showButtonhotspicy() {
+  let hotspicy = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/7 - Hot & Spicy.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("hotspicy").innerHTML = hotspicy;
+}
+</script>
+<input type = "button" onclick = "showButtonhotspicy()" value = "⏯ Hot  Spicy">
+<p id="hotspicy"></p>
+
+###### 8 - A Team Fight
+<script type="text/javascript"></script>
+<script>
+function showButtonateamfight() {
+  let ateamfight = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/8 - A Team Fight.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("ateamfight").innerHTML = ateamfight;
+}
+</script>
+<input type = "button" onclick = "showButtonateamfight()" value = "⏯ A Team Fight">
+<p id="ateamfight"></p>
+
+###### 9 - Ha ha ha
+<script type="text/javascript"></script>
+<script>
+function showButtonhahaha() {
+  let hahaha = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/9 - Ha ha ha.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("hahaha").innerHTML = hahaha;
+}
+</script>
+<input type = "button" onclick = "showButtonhahaha()" value = "⏯ Ha ha ha">
+<p id="hahaha"></p>
+
+###### 10 - Aberrante
+<script type="text/javascript"></script>
+<script>
+function showButtonaberrante() {
+  let aberrante = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/10 - Aberrante.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("aberrante").innerHTML = aberrante;
+}
+</script>
+<input type = "button" onclick = "showButtonaberrante()" value = "⏯ Aberrante">
+<p id="aberrante"></p>
+
+###### 11 - Help
+<script type="text/javascript"></script>
+<script>
+function showButtonhelp() {
+  let help = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/11 - Help.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("help").innerHTML = help;
+}
+</script>
+<input type = "button" onclick = "showButtonhelp()" value = "⏯ Help">
+<p id="help"></p>
+
+###### 12 - Cough
+<script type="text/javascript"></script>
+<script>
+function showButtoncough() {
+  let cough = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/12 - Cough.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("cough").innerHTML = cough;
+}
+</script>
+<input type = "button" onclick = "showButtoncough()" value = "⏯ Cough">
+<p id="cough"></p>
+
+###### 13 - Just enough
+<script type="text/javascript"></script>
+<script>
+function showButtonjustenough() {
+  let justenough = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/13 - Just enough.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("justenough").innerHTML = justenough;
+}
+</script>
+<input type = "button" onclick = "showButtonjustenough()" value = "⏯ Just enough">
+<p id="justenough"></p>
+
+###### 14 - Song for the deaf
+<script type="text/javascript"></script>
+<script>
+function showButtonsongforthedeaf() {
+  let songforthedeaf = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/14 - Song for the deaf.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("songforthedeaf").innerHTML = songforthedeaf;
+}
+</script>
+<input type = "button" onclick = "showButtonsongforthedeaf()" value = "⏯ Song for the deaf">
+<p id="songforthedeaf"></p>
+
+###### 15 - Helo
+<script type="text/javascript"></script>
+<script>
+function showButtonhelo() {
+  let helo = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/15 - Helo.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("helo").innerHTML = helo;
+}
+</script>
+<input type = "button" onclick = "showButtonhelo()" value = "⏯ Helo">
+<p id="helo"></p>
+
+###### 16 - Back from there
+<script type="text/javascript"></script>
+<script>
+function showButtonbackfromthere() {
+  let backfromthere = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/16 - Back from there.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("backfromthere").innerHTML = backfromthere;
+}
+</script>
+<input type = "button" onclick = "showButtonbackfromthere()" value = "⏯ Back from there">
+<p id="backfromthere"></p>
+
+###### 17 - Catastrofico
+<script type="text/javascript"></script>
+<script>
+function showButtoncatastrofico() {
+  let catastrofico = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/17 - Catastrofico.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("catastrofico").innerHTML = catastrofico;
+}
+</script>
+<input type = "button" onclick = "showButtoncatastrofico()" value = "⏯ Catastrofico">
+<p id="catastrofico"></p>
+
+###### 18 - egipto
+<script type="text/javascript"></script>
+<script>
+function showButtonegipto() {
+  let egipto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/18 - egipto.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("egipto").innerHTML = egipto;
+}
+</script>
+<input type = "button" onclick = "showButtonegipto()" value = "⏯ egipto">
+<p id="egipto"></p>
+
+###### 19 - take those pills
+<script type="text/javascript"></script>
+<script>
+function showButtontakethosepills() {
+  let takethosepills = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/19 - take those pills.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("takethosepills").innerHTML = takethosepills;
+}
+</script>
+<input type = "button" onclick = "showButtontakethosepills()" value = "⏯ take those pills">
+<p id="takethosepills"></p>
+
+###### 20 - Uh-uh ft. Yellow Button
+<script type="text/javascript"></script>
+<script>
+function showButtonuhuhftyellowbutton() {
+  let uhuhftyellowbutton = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/20 - Uh-uh ft. Yellow Button.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("uhuhftyellowbutton").innerHTML = uhuhftyellowbutton;
+}
+</script>
+<input type = "button" onclick = "showButtonuhuhftyellowbutton()" value = "⏯ Uh-uh ft. Yellow Button">
+<p id="uhuhftyellowbutton"></p>
+
+###### 21 - Waves Not Found
+<script type="text/javascript"></script>
+<script>
+function showButtonwavesnotfound() {
+  let wavesnotfound = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/21 - Waves Not Found.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("wavesnotfound").innerHTML = wavesnotfound;
+}
+</script>
+<input type = "button" onclick = "showButtonwavesnotfound()" value = "⏯ Waves Not Found">
+<p id="wavesnotfound"></p>
+
+###### 22 - aceptable
+<script type="text/javascript"></script>
+<script>
+function showButtonaceptable() {
+  let aceptable = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/22 - aceptable.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("aceptable").innerHTML = aceptable;
+}
+</script>
+<input type = "button" onclick = "showButtonaceptable()" value = "⏯ aceptable">
+<p id="aceptable"></p>
+
+###### 23 - Don't remind me
+<script type="text/javascript"></script>
+<script>
+function showButtondontremindme() {
+  let dontremindme = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/23 - Don't remind me.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("dontremindme").innerHTML = dontremindme;
+}
+</script>
+<input type = "button" onclick = "showButtondontremindme()" value = "⏯ Don't remind me">
+<p id="dontremindme"></p>
+
+###### 24 - Platform
+<script type="text/javascript"></script>
+<script>
+function showButtonplatform() {
+  let platform = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/24 - Platform.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("platform").innerHTML = platform;
+}
+</script>
+<input type = "button" onclick = "showButtonplatform()" value = "⏯ Platform">
+<p id="platform"></p>
+
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
 
