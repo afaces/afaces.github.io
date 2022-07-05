@@ -29,12 +29,6 @@ title: Afaces fanpage
 23. [There is Another](#thereisanother)
 24. [Cafés](#cafes)
 
-<style>
-    .nefasto {
-        background-color: #f3f3cd;
-    }
-</style>
-
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
