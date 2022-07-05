@@ -2,7 +2,7 @@ Known bugs:
 - js
 - mardown href to outside page try HTML <p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p> _blank
 - The theme went nuts.
-- Show now playing meant to be on top of everywhing when scrolls down enough it mantains on the top
+- Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
 - Starting one song ends the previous EVENT 
 - button ❇️ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
 - ✳️ button is shown to indicate that the track is present in the selected playlist, ✴ takes it out of the selected playlist
