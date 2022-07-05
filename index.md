@@ -69,11 +69,11 @@ title: Afaces fanpage
 </div>
 <p id="inconscience"></p>
 
-###### 7 - Hot & Spicy
+###### 7 - Hot  Spicy
 <div>
-    <input type = "button" onclick = "showButtonhot&spicy()" value = "⏯7 ">
+    <input type = "button" onclick = "showButtonhotspicy()" value = "⏯7 ">
 </div>
-<p id="hot&spicy"></p>
+<p id="hotspicy"></p>
 
 ###### 8 - A Team Fight
 <div>
@@ -149,7 +149,7 @@ title: Afaces fanpage
 
 ###### 20 - Uh-uh ft. Yellow Button
 <div>
-    <input type = "button" onclick = "showButtonuhuhftyellowbutton()" value = "⏯20 - Uh">
+    <input type = "button" onclick = "showButtonuhuhftyellowbutton()" value = "⏯ Uh">
 </div>
 <p id="uhuhftyellowbutton"></p>
 
@@ -176,6 +176,7 @@ title: Afaces fanpage
     <input type = "button" onclick = "showButtonplatform()" value = "⏯24 ">
 </div>
 <p id="platform"></p>
+
 
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
