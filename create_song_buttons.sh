@@ -66,7 +66,7 @@ for album in $(ls | sort -h); do
     song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
     echo "###### ${song_title}" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
-    title="$(echo ${song_title} | rev | cut -d '-' -f2- | rev)"
+    title="$(echo ${song_title} | cut -d '-' -f2-)"
     echo "<div>
     <input type = \"button\" onclick = \"showButton${song_tag}()\" value = \"⏯${title}\">
 </div>
