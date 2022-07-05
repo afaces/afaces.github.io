@@ -65,8 +65,7 @@ for album in $(ls | sort -h); do
     echo "<h6>> ${song_title}</h6>" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
-    echo "<script type=\"text/javascript\" src=\"/index.js\"></script>
-<script>
+    echo "<script type=\"text/javascript\">
 function showButton${song_tag}() {
   let ${song_tag} = \"<audio controls><source src=\\\"/${repo_relative_path}/${album}/${song}\\\" type=\\\"audio/mp3\\\"></audio>\";
   document.getElementById(\"${song_tag}\").innerHTML = ${song_tag};

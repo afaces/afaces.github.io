@@ -34,8 +34,7 @@ title: Afaces fanpage
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
-<script type="text/javascript" src="/index.js"></script>
-<script>
+<script type="text/javascript">
 function showButtonnefasto() {
   let nefasto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("nefasto").innerHTML = nefasto;
@@ -45,8 +44,7 @@ function showButtonnefasto() {
 <p id="nefasto"></p>
 
 ###### 2 - Forgotten past
-<script type="text/javascript" src="/index.js"></script>
-<script>
+<script type="text/javascript">
 function showButtonforgottenpast() {
   let forgottenpast = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("forgottenpast").innerHTML = forgottenpast;
@@ -56,8 +54,7 @@ function showButtonforgottenpast() {
 <p id="forgottenpast"></p>
 
 ###### 3 - Desgarrador2
-<script type="text/javascript" src="/index.js"></script>
-<script>
+<script type="text/javascript">
 function showButtondesgarrador2() {
   let desgarrador2 = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/3 - Desgarrador2.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("desgarrador2").innerHTML = desgarrador2;
@@ -67,8 +64,7 @@ function showButtondesgarrador2() {
 <p id="desgarrador2"></p>
 
 ###### 4 - Baby On Fire
-<script type="text/javascript" src="/index.js"></script>
-<script>
+<script type="text/javascript">
 function showButtonbabyonfire() {
   let babyonfire = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/4 - Baby On Fire.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("babyonfire").innerHTML = babyonfire;
