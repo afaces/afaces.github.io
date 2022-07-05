@@ -31,7 +31,7 @@ title: Afaces fanpage
 
 #### Play random song
 <div>
-    <input type = "button" onclick = "myFunction()" value = "Click Here 4 nothing! 😊">
+    <input type = "button" onclick = "showButton()" value = "Click Here 4 nothing! 😊">
 </div>
 <p id="btn"></p>
 
