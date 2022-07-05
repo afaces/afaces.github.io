@@ -30,6 +30,20 @@ title: Afaces fanpage
 24. [Cafés](#cafes)
 
 
+<script type="text/javascript">
+<!--
+    function toggle_visibility(albumnefasto) {
+       var e = document.getElementById(albumnefasto);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
+
+<a href="#" onclick="toggle_visibility('albumnefasto');">Click here to show/hide Nefasto album songs</a>
+<div id="albumnefasto">This is nefasto</div>
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
