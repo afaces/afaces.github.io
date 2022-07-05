@@ -31,24 +31,22 @@ title: Afaces fanpage
 
 
 <script type="text/javascript">
-<!--
-    function toggle_visibility(albumnefasto) {
-       var e = document.getElementById(albumnefasto);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
-//-->
+function toggle_visibility(albumnefasto) {
+   var e = document.getElementById(albumnefasto);
+   if(e.style.display == 'block')
+      e.style.display = 'none';
+   else
+      e.style.display = 'block';
+}
 </script>
 
 <a href="#" onclick="toggle_visibility('albumnefasto');">Click here to show/hide Nefasto album songs</a>
-<div id="albumnefasto">This is nefasto</div>
+
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
-
+<div id="albumnefasto">This is nefasto
 <script type="text/javascript">
 function showButtonnefasto() {
   let nefasto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
@@ -57,6 +55,7 @@ function showButtonnefasto() {
 </script>
 <input type = "button" onclick = "showButtonnefasto()" value = "⏯ Nefasto">
 <p id="nefasto"></p>
+</div>
 
 ###### 2 - Forgotten past
 <script type="text/javascript">
