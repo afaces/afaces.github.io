@@ -40,11 +40,10 @@ function toggle_visibility(albumnefasto) {
 }
 </script>
 
-<a href="#nefasto" onclick="toggle_visibility('albumnefasto');">Click here to show/hide Nefasto album songs</a>
-
-
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
+
+<a href="#nefasto" onclick="toggle_visibility('albumnefasto');">Click here to show/hide Nefasto album songs</a>
 <div id="albumnefasto">
 
 ###### 1 - Nefasto
