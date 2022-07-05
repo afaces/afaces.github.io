@@ -41,14 +41,17 @@ title: Afaces fanpage
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto.mp3
-<audio controls>
-<source src="assets/music/1.- 'Nefasto'/1 - Nefasto.mp3" type="audio/mp3">
-</audio>
 
-###### 2 - Forgotten past.mp3
-<audio controls>
-<source src="assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3" type="audio/mp3">
-</audio>
+<div>
+    <input type = "button" onclick = "showNefasto()" value = "⏯Nefasto">
+</div>
+<p id="nefasto"></p>
+
+###### 2 - Forgotten past
+<div>
+    <input type = "button" onclick = "showButtonforgottenpast()" value = "⏯Forgotten past">
+</div>
+<p id="forgottenpast"></p>
 
 ###### 3 - Desgarrador#2.mp3
 <audio controls>
