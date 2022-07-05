@@ -30,7 +30,7 @@ title: Afaces fanpage
 24. [Cafés](#cafes)
 
 #### Nefasto <a name="nefasto"></a>
-[![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
+[![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto"){:target="_blank"}
 ###### 1 - Nefasto
 <div class="nefasto" markdown="1">
 <script type="text/javascript"></script>
