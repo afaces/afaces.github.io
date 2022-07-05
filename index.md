@@ -36,14 +36,35 @@ title: Afaces fanpage
 ###### 1 - Nefasto
 <script type="text/javascript" src="/index.js"></script>
 <script>
-  function showButtonnefasto() {
+function showButtonnefasto() {
   let nefasto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("nefasto").innerHTML = nefasto;
 }
 </script>
-<input type = "button" onclick = "showButtonnefasto()" value = "⏯1 ">
-
+<input type = "button" onclick = "showButtonnefasto()" value = "⏯ Nefasto">
 <p id="nefasto"></p>
+
+###### 2 - Forgotten past
+<script type="text/javascript" src="/index.js"></script>
+<script>
+function showButtonforgottenpast() {
+  let forgottenpast = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("forgottenpast").innerHTML = forgottenpast;
+}
+</script>
+<input type = "button" onclick = "showButtonforgottenpast()" value = "⏯ Forgotten past">
+<p id="forgottenpast"></p>
+
+###### 3 - Desgarrador2
+<script type="text/javascript" src="/index.js"></script>
+<script>
+function showButtondesgarrador2() {
+  let desgarrador2 = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/3 - Desgarrador#2.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("desgarrador2").innerHTML = desgarrador2;
+}
+</script>
+<input type = "button" onclick = "showButtondesgarrador2()" value = "⏯ Desgarrador2">
+<p id="desgarrador2"></p>
 
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")

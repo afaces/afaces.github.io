@@ -1,13 +1,11 @@
 origin_folder="${HOME}/afaces.github.io/assets/music"
 buttons_file="${HOME}/afaces.github.io/buttons.md"
-js_file="${HOME}/afaces.github.io/index.js"
 repo_relative_path="assets/music"
 
 > "${buttons_file}"
 current_directory="$(pwd)"
 IFS=$'\n'
 
-rm "${js_file}"
 header="---
 layout: page
 title: Afaces fanpage
@@ -62,23 +60,21 @@ for album in $(ls | sort -h); do
   i=$((i+1))
   for song in $(ls | sort -h); do
     echo "printing ${song} name to buttons.md"
-    song_title="$(echo ${song} | rev | cut -d '.' -f2- | rev | tr -d "&" | tr -d "(" | tr -d ")" | tr -d "$")"
+    song_title="$(echo ${song} | rev | cut -d '.' -f2- | rev | tr -d "&" | tr -d "(" | tr -d ")" | tr -d  "#" | tr -d "$")"
     song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
     echo "###### ${song_title}" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
-    echo "<div>
-    <input type = \"button\" onclick = \"showButton${song_tag}()\" value = \"⏯${title}\">
-</div>
-<p id=\"${song_tag}\"></p>
-" >> "${buttons_file}"
-
-  echo "function showButton${song_tag}() {
+    echo "<script type=\"text/javascript\" src=\"/index.js\"></script>
+<script>
+function showButton${song_tag}() {
   let ${song_tag} = \"<audio controls><source src=\\\"/${repo_relative_path}/${album}/${song}\\\" type=\\\"audio/mp3\\\"></audio>\";
   document.getElementById(\"${song_tag}\").innerHTML = ${song_tag};
 }
-" >> "${js_file}"
-
+</script>
+<input type = \"button\" onclick = \"showButton${song_tag}()\" value = \"⏯${title}\">
+<p id=\"${song_tag}\"></p>
+" >> "${buttons_file}"
   done
   echo >> "${buttons_file}"
   cd ..
