@@ -32,7 +32,7 @@ title: Afaces fanpage
 #### Play random song
 <script type="text/javascript" src="/index.js"></script>
 <div>
-    <input type = "button" onclick = "showButton()" value = "Click Here 4 nothing! 😊">
+    <input type = "button" onclick = "showButtons()" value = "Click to show Nefasto songs! 😊">
 </div>
 <p id="btn"></p>
 
