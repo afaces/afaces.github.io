@@ -8,6 +8,7 @@ Known bugs:
 - button 🔝 goes back to the top of the page and it shows at the low right page limit when enough scroll down is made
 - ➕➖ volume keys (not float, we want int here)
 - Button ⏹ Pauses all playlist or track playing and gets back to the actual playing track if there is any
+- On mouse over without click there different buttons emoji change yet to be stablished
 
 Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 
