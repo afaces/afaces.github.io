@@ -22,9 +22,9 @@ function showButtoninconscience() {
   let inconscience = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/6 - Inconscience.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById(inconscience).innerHTML = inconscience;
 }
-function showButtonhot&spicy() {
-  let hot&spicy = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/7 - Hot & Spicy.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById(hot&spicy).innerHTML = hot&spicy;
+function showButtonhotspicy() {
+  let hotspicy = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/7 - Hot & Spicy.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(hotspicy).innerHTML = hotspicy;
 }
 function showButtonateamfight() {
   let ateamfight = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/8 - A Team Fight.mp3\" type=\"audio/mp3\"></audio>";
@@ -258,6 +258,14 @@ function showButtonnotsnew() {
   let notsnew = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/20 - Not's new.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById(notsnew).innerHTML = notsnew;
 }
+function showButtongodknowsno() {
+  let godknowsno = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/1 - God knows no.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(godknowsno).innerHTML = godknowsno;
+}
+function showButtoncorsair() {
+  let corsair = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/2 - Corsair.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(corsair).innerHTML = corsair;
+}
 function showButtonohyeahhey() {
   let ohyeahhey = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/10 - Oh yeah hey.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById(ohyeahhey).innerHTML = ohyeahhey;
@@ -265,4 +273,32 @@ function showButtonohyeahhey() {
 function showButtoncalmly() {
   let calmly = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/11 - Calmly.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById(calmly).innerHTML = calmly;
+}
+function showButtonmigraine() {
+  let migraine = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/12 - migraine.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(migraine).innerHTML = migraine;
+}
+function showButtonend() {
+  let end = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/13 - End.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(end).innerHTML = end;
+}
+function showButtonabmas() {
+  let abmas = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/14 - abmas.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(abmas).innerHTML = abmas;
+}
+function showButton26536() {
+  let 26536 = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/15 - 26536.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(26536).innerHTML = 26536;
+}
+function showButtonshadows() {
+  let shadows = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/16 - shadows.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(shadows).innerHTML = shadows;
+}
+function showButtontrial() {
+  let trial = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/17 - trial.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(trial).innerHTML = trial;
+}
+function showButtonmnoalu() {
+  let mnoalu = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/18 - Mnoalu.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(mnoalu).innerHTML = mnoalu;
 }
