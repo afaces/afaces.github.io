@@ -7,7 +7,7 @@ repo_relative_path="assets/music"
 current_directory="$(pwd)"
 IFS=$'\n'
 
-
+rm "${js_file}"
 header="---
 layout: page
 title: Afaces fanpage
