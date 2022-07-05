@@ -62,10 +62,11 @@ for album in $(ls | sort -h); do
     echo "printing ${song} name to buttons.md"
     song_title="$(echo ${song} | rev | cut -d '.' -f2- | rev | tr -d "&" | tr -d "(" | tr -d ")" | tr -d  "#" | tr -d "$")"
     song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d  "#" | tr -d "." | tr "[:upper:]" "[:lower:]")"
-    echo "<h6>> ${song_title}</h6>" >> "${buttons_file}"
+    echo "###### ${song_title}" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
-    echo "<script type=\"text/javascript\">
+    echo "<script type=\"text/javascript\" src=\"/index.js\"></script>
+<script>
 function showButton${song_tag}() {
   let ${song_tag} = \"<audio controls><source src=\\\"/${repo_relative_path}/${album}/${song}\\\" type=\\\"audio/mp3\\\"></audio>\";
   document.getElementById(\"${song_tag}\").innerHTML = ${song_tag};
