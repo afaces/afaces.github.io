@@ -75,7 +75,7 @@ for album in $(ls | sort -h); do
 
   echo "function showButton${song_tag}() {
   let ${song_tag} = \"<audio controls><source src=\\\"/${repo_relative_path}/${album}/${song}\\\" type=\\\"audio/mp3\\\"></audio>\";
-  document.getElementById("${song_tag}").innerHTML = ${song_tag};
+  document.getElementById(\"${song_tag}\").innerHTML = ${song_tag};
 }
 " >> "${js_file}"
 
