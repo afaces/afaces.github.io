@@ -266,6 +266,34 @@ function showButtoncorsair() {
   let corsair = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/2 - Corsair.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById(corsair).innerHTML = corsair;
 }
+function showButtonstayhome(metamorphosis)() {
+  let stayhome(metamorphosis) = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/3 - Stay Home (metamorphosis).mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(stayhome(metamorphosis)).innerHTML = stayhome(metamorphosis);
+}
+function showButtonprevail() {
+  let prevail = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/4 - Prevail.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(prevail).innerHTML = prevail;
+}
+function showButtonshudder() {
+  let shudder = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/5- Shudder.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(shudder).innerHTML = shudder;
+}
+function showButtonsari() {
+  let sari = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/6 - Sari.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(sari).innerHTML = sari;
+}
+function showButtonsubterfuge() {
+  let subterfuge = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/7 - Subterfuge.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(subterfuge).innerHTML = subterfuge;
+}
+function showButtontú() {
+  let tú = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/8- Tú.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(tú).innerHTML = tú;
+}
+function showButtonhow() {
+  let how = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/9 - How.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(how).innerHTML = how;
+}
 function showButtonohyeahhey() {
   let ohyeahhey = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/10 - Oh yeah hey.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById(ohyeahhey).innerHTML = ohyeahhey;
@@ -301,4 +329,60 @@ function showButtontrial() {
 function showButtonmnoalu() {
   let mnoalu = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/18 - Mnoalu.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById(mnoalu).innerHTML = mnoalu;
+}
+function showButtonoverlovely() {
+  let overlovely = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/1 - Over lovely.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(overlovely).innerHTML = overlovely;
+}
+function showButtonnowwhat() {
+  let nowwhat = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/10 - now what.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(nowwhat).innerHTML = nowwhat;
+}
+function showButtondoll() {
+  let doll = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/11 - doll.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(doll).innerHTML = doll;
+}
+function showButtonfirst() {
+  let first = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/12 - first.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(first).innerHTML = first;
+}
+function showButtonthough() {
+  let though = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/13 - though.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(though).innerHTML = though;
+}
+function showButtonnotthelast() {
+  let notthelast = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/14 - not the last.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(notthelast).innerHTML = notthelast;
+}
+function showButtoncheckitout() {
+  let checkitout = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/15 - check it out.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(checkitout).innerHTML = checkitout;
+}
+function showButtonnumbers() {
+  let numbers = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/16 - numbers.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(numbers).innerHTML = numbers;
+}
+function showButtonannexes() {
+  let annexes = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/17 - annexes.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(annexes).innerHTML = annexes;
+}
+function showButtonunaluz() {
+  let unaluz = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/18 - Una luz.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(unaluz).innerHTML = unaluz;
+}
+function showButtondoor() {
+  let door = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/19 - door.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(door).innerHTML = door;
+}
+function showButtonwired() {
+  let wired = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/20 - Wired.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(wired).innerHTML = wired;
+}
+function showButtontogetherstay() {
+  let togetherstay = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/21 - together stay.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(togetherstay).innerHTML = togetherstay;
+}
+function showButtonyes() {
+  let yes = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/22 - yes.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById(yes).innerHTML = yes;
 }
