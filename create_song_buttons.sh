@@ -69,8 +69,8 @@ for album in $(ls | sort -h); do
     title="$(echo ${song_title} | cut -d '-' -f2-)"
     echo "<script type=\"text/javascript\">
 function showButton${song_tag}() {
-  let ${song_tag} = \"<audio controls><source src=\\\"/${repo_relative_path}/${album}/${song}\\\" type=\\\"audio/mp3\\\"></audio>\";
-  document.getElementById(\"${song_tag}\").innerHTML = ${song_tag};
+  let ${song_tag}_controls = \"<audio controls><source src=\\\"/${repo_relative_path}/${album}/${song}\\\" type=\\\"audio/mp3\\\"></audio>\";
+  document.getElementById(\"${song_tag}\").innerHTML = ${song_tag}_controls;
 }
 </script>
 <input type = \"button\" onclick = \"showButton${song_tag}()\" value = \"⏯${title}\">
