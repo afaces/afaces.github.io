@@ -59,7 +59,7 @@ function showButtonforgottenpast() {
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesgarrador2() {
-  let desgarrador2 = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/3 - Desgarrador#2.mp3\" type=\"audio/mp3\"></audio>";
+  let desgarrador2 = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/3 - Desgarrador2.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("desgarrador2").innerHTML = desgarrador2;
 }
 </script>
