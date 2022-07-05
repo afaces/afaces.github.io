@@ -1,6 +1,5 @@
 Known bugs: 
 - js
-- The theme went nuts about 14:00-16:00h and probably not more than 12-12:30 2022/07/05 Y/M/D.
 - Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
 - Starting one song ends the previous EVENT 
 - button ❇️ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
