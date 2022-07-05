@@ -29,11 +29,13 @@ title: Afaces fanpage
 23. [There is Another](#thereisanother)
 24. [Cafés](#cafes)
 
+
+
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
-<script type="text/javascript"></script>
-<script>
+
+<script type="text/javascript">
 function showButtonnefasto() {
   let nefasto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("nefasto").innerHTML = nefasto;
@@ -43,8 +45,7 @@ function showButtonnefasto() {
 <p id="nefasto"></p>
 
 ###### 2 - Forgotten past
-<script type="text/javascript"></script>
-<script>
+<script type="text/javascript">
 function showButtonforgottenpast() {
   let forgottenpast = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("forgottenpast").innerHTML = forgottenpast;
@@ -54,8 +55,7 @@ function showButtonforgottenpast() {
 <p id="forgottenpast"></p>
 
 ###### 24 - Platform
-<script type="text/javascript"></script>
-<script>
+<script type="text/javascript">
 function showButtonplatform() {
   let platform = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/24 - Platform.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("platform").innerHTML = platform;
