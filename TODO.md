@@ -9,7 +9,7 @@ Known bugs:
 - ➕➖ volume keys (not float, we want int here)
 - Button ⏹ Pauses all playlist or track playing and gets back to the actual playing track if there is any
 - On mouse over without click there different buttons emoji change yet to be stablished
-
+- Tooltip over emojis tags correctly triggers
 Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 
 and then it hides the music player controls of the song and the emoji, then button turns back to the original one and if it being pressed again and back to normal and it show the correct music player and the buttons...
