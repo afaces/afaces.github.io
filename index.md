@@ -66,6 +66,17 @@ function showButtondesgarrador2() {
 <input type = "button" onclick = "showButtondesgarrador2()" value = "⏯ Desgarrador2">
 <p id="desgarrador2"></p>
 
+###### 4 - Baby On Fire
+<script type="text/javascript" src="/index.js"></script>
+<script>
+function showButtonbabyonfire() {
+  let babyonfire = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/4 - Baby On Fire.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("babyonfire").innerHTML = babyonfire;
+}
+</script>
+<input type = "button" onclick = "showButtonbabyonfire()" value = "⏯ Baby On Fire">
+<p id="babyonfire"></p>
+
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
 
