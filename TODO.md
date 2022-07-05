@@ -1,6 +1,5 @@
 Known bugs: 
 - js
-- mardown href to outside page try HTML <p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p> _blank
 - The theme went nuts.
 - Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
 - Starting one song ends the previous EVENT 
@@ -16,4 +15,5 @@ Animation:
 and then it hides the music player controls of the song and the emoji, then button turns back to the original one and if it being pressed again and back to normal and it show the correct music player and the buttons...
 - Button for each album to Show/Hide all album related songs buttons 
 - Playing a song directly in the controller changes the emoji to ⏮ (meaning that the button is pressed the song will go back to the beginning which is what happens)
+- Pressing the ⏮ will show correspondant emojis of action for the selected song.
 - Sound bar hopefully similar sync to the actual audio controls live in sort of <div> in .md to play the global playlist management showing the track duration and actual point of reproduction, the current name of the track and in the time emoji button tracking of the music streaming flux of the songs.
