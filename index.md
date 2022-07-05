@@ -32,7 +32,6 @@ title: Afaces fanpage
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
-<div class="nefasto">
 <script type="text/javascript"></script>
 <script>
 function showButtonnefasto() {
@@ -42,7 +41,6 @@ function showButtonnefasto() {
 </script>
 <input type = "button" onclick = "showButtonnefasto()" value = "⏯ Nefasto">
 <p id="nefasto"></p>
-</div>
 
 ###### 2 - Forgotten past
 <script type="text/javascript"></script>
