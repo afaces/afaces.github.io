@@ -61,7 +61,7 @@ for album in $(ls | sort -h); do
   for song in $(ls | sort -h); do
     echo "printing ${song} name to buttons.md"
     song_title="$(echo ${song} | rev | cut -d '.' -f2- | rev | tr -d "&" | tr -d "(" | tr -d ")" | tr -d  "#" | tr -d "$")"
-    song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
+    song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d  "#" | tr -d "." | tr "[:upper:]" "[:lower:]")"
     echo "###### ${song_title}" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
