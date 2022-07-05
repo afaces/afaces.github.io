@@ -1,6 +1,5 @@
 Known bugs: 
 - js
-- The theme went nuts about 14:00-16:00h and probably not more than 12-12:30 2022/07/05 Y/M/D.
 - Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
 - Starting one song ends the previous EVENT 
 - button ❇️ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
@@ -9,6 +8,7 @@ Known bugs:
 - button 🔝 goes back to the top of the page and it shows at the low right page limit when enough scroll down is made
 - ➕➖ volume keys (not float, we want int here)
 - Button ⏹ Pauses all playlist or track playing and gets back to the actual playing track if there is any
+- On mouse over without click there different buttons emoji change yet to be stablished
 
 Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 
