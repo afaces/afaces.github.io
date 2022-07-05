@@ -46,7 +46,7 @@ function toggle_visibility(albumnefasto) {
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
-<div id="albumnefasto">This is nefasto
+<div id="albumnefasto">This is nefasto</div>
 <script type="text/javascript">
 function showButtonnefasto() {
   let nefasto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
@@ -55,7 +55,7 @@ function showButtonnefasto() {
 </script>
 <input type = "button" onclick = "showButtonnefasto()" value = "⏯ Nefasto">
 <p id="nefasto"></p>
-</div>
+
 
 ###### 2 - Forgotten past
 <script type="text/javascript">
