@@ -54,7 +54,9 @@ video_IDs=("SWNbhMxS4S4"
 i=0
 for album in $(ls | sort -h); do
   echo "printing ${album} name to buttons.md"
+  echo "tag of the song is ${album_tags[${i}]}"
   echo "#### ${album} <a name=\"${album_tags[${i}]}\"></a>" >> "${buttons_file}"
+
   echo "[![${album}](https://img.youtube.com/vi/${video_IDs[$i]}/0.jpg)](https://www.youtube.com/watch?v=${video_IDs[$i]}  \"${album}\")" >> "${buttons_file}"
   cd "${album}"
   i=$((i+1))

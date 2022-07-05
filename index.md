@@ -40,7 +40,7 @@ function toggle_visibility(albumnefasto) {
 }
 </script>
 
-<a href="#" onclick="toggle_visibility('albumnefasto');">Click here to show/hide Nefasto album songs</a>
+<a href="#nefasto" onclick="toggle_visibility('albumnefasto');">Click here to show/hide Nefasto album songs</a>
 
 
 #### Nefasto <a name="nefasto"></a>
@@ -288,7 +288,7 @@ function showButtonplatform() {
 <p id="platform"></p>
 
 
-#### 2.- 'Writer' <a name=""></a>
+#### 2.- 'Writer' <a name=""></a> 
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
 ###### 1 - Pencil
 <script type="text/javascript">
@@ -4945,4 +4945,4 @@ function showButtonhalfbelow() {
 
 
 #### Cafés <a name="cafes"></a>
-[![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
+[![Cafés](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
