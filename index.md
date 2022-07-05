@@ -29,154 +29,22 @@ title: Afaces fanpage
 23. [There is Another](#thereisanother)
 24. [Cafés](#cafes)
 
-<script type="text/javascript" src="/index.js"></script>
+
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
-<div>
-    <input type = "button" onclick = "showButtonnefasto()" value = "⏯1 ">
-</div>
+<script type="text/javascript" src="/index.js"></script>
+<script>
+  function showButtonnefasto() {
+  let nefasto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("nefasto").innerHTML = nefasto;
+}
+  }
+</script>
+<input type = "button" onclick = "showButtonnefasto()" value = "⏯1 ">
+
 <p id="nefasto"></p>
-
-###### 2 - Forgotten past
-<div>
-    <input type = "button" onclick = "showButtonforgottenpast()" value = "⏯2 ">
-</div>
-<p id="forgottenpast"></p>
-
-###### 3 - Desgarrador2
-<div>
-    <input type = "button" onclick = "showButtondesgarrador2()" value = "⏯3 ">
-</div>
-<p id="desgarrador2"></p>
-
-###### 4 - Baby On Fire
-<div>
-    <input type = "button" onclick = "showButtonbabyonfire()" value = "⏯4 ">
-</div>
-<p id="babyonfire"></p>
-
-###### 5 - Floating
-<div>
-    <input type = "button" onclick = "showButtonfloating()" value = "⏯5 ">
-</div>
-<p id="floating"></p>
-
-###### 6 - Inconscience
-<div>
-    <input type = "button" onclick = "showButtoninconscience()" value = "⏯6 ">
-</div>
-<p id="inconscience"></p>
-
-###### 7 - Hot  Spicy
-<div>
-    <input type = "button" onclick = "showButtonhotspicy()" value = "⏯7 ">
-</div>
-<p id="hotspicy"></p>
-
-###### 8 - A Team Fight
-<div>
-    <input type = "button" onclick = "showButtonateamfight()" value = "⏯8 ">
-</div>
-<p id="ateamfight"></p>
-
-###### 9 - Ha ha ha
-<div>
-    <input type = "button" onclick = "showButtonhahaha()" value = "⏯9 ">
-</div>
-<p id="hahaha"></p>
-
-###### 10 - Aberrante
-<div>
-    <input type = "button" onclick = "showButtonaberrante()" value = "⏯10 ">
-</div>
-<p id="aberrante"></p>
-
-###### 11 - Help
-<div>
-    <input type = "button" onclick = "showButtonhelp()" value = "⏯11 ">
-</div>
-<p id="help"></p>
-
-###### 12 - Cough
-<div>
-    <input type = "button" onclick = "showButtoncough()" value = "⏯12 ">
-</div>
-<p id="cough"></p>
-
-###### 13 - Just enough
-<div>
-    <input type = "button" onclick = "showButtonjustenough()" value = "⏯13 ">
-</div>
-<p id="justenough"></p>
-
-###### 14 - Song for the deaf
-<div>
-    <input type = "button" onclick = "showButtonsongforthedeaf()" value = "⏯14 ">
-</div>
-<p id="songforthedeaf"></p>
-
-###### 15 - Helo
-<div>
-    <input type = "button" onclick = "showButtonhelo()" value = "⏯15 ">
-</div>
-<p id="helo"></p>
-
-###### 16 - Back from there
-<div>
-    <input type = "button" onclick = "showButtonbackfromthere()" value = "⏯16 ">
-</div>
-<p id="backfromthere"></p>
-
-###### 17 - Catastrofico
-<div>
-    <input type = "button" onclick = "showButtoncatastrofico()" value = "⏯17 ">
-</div>
-<p id="catastrofico"></p>
-
-###### 18 - egipto
-<div>
-    <input type = "button" onclick = "showButtonegipto()" value = "⏯18 ">
-</div>
-<p id="egipto"></p>
-
-###### 19 - take those pills
-<div>
-    <input type = "button" onclick = "showButtontakethosepills()" value = "⏯19 ">
-</div>
-<p id="takethosepills"></p>
-
-###### 20 - Uh-uh ft. Yellow Button
-<div>
-    <input type = "button" onclick = "showButtonuhuhftyellowbutton()" value = "⏯ Uh">
-</div>
-<p id="uhuhftyellowbutton"></p>
-
-###### 21 - Waves Not Found
-<div>
-    <input type = "button" onclick = "showButtonwavesnotfound()" value = "⏯21 ">
-</div>
-<p id="wavesnotfound"></p>
-
-###### 22 - aceptable
-<div>
-    <input type = "button" onclick = "showButtonaceptable()" value = "⏯22 ">
-</div>
-<p id="aceptable"></p>
-
-###### 23 - Don't remind me
-<div>
-    <input type = "button" onclick = "showButtondontremindme()" value = "⏯23 ">
-</div>
-<p id="dontremindme"></p>
-
-###### 24 - Platform
-<div>
-    <input type = "button" onclick = "showButtonplatform()" value = "⏯24 ">
-</div>
-<p id="platform"></p>
-
 
 #### Writer <a name="writer"></a>
 [![Writer](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "Writer")
