@@ -2,7 +2,7 @@
 layout: page
 title: Afaces fanpage
 ---
-[![Alt text](assets/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![Alt text](assets/bandcamp.svg)](https://afaces.bandcamp.com) [![Alt text](assets/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Alt text](assets/facebook.svg)](https://www.facebook.com/afaces/) [![Alt text](assets/instagram.svg)](https://www.instagram.com/_afaces/) [![Alt text](assets/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Alt text](assets/napster.svg)](https://us.napster.com/artist/afaces) [![Alt text](assets/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![Alt text](assets/soundcloud.svg)](https://soundcloud.com/afaces) [![Alt text](assets/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Alt text](assets/tidal.svg)](https://tidal.com/browse/artist/10889435) [![Alt text](assets/tiktok.svg)](https://www.tiktok.com/@afaces) [![Alt text](assets/twitter.svg)](https://twitter.com/afaces2) [![Alt text](assets/youtube.svg)](https://www.youtube.com/user/axelaxel12)
+[![Alt text](assets/images/icon/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces){:target="_blank"} [![Alt text](assets/images/icon/bandcamp.svg)](https://afaces.bandcamp.com){:target="_blank"} [![Alt text](assets/images/icon/deezer.svg)](https://www.deezer.com/es/artist/57830442){:target="_blank"} [![Alt text](assets/images/icon/facebook.svg)](https://www.facebook.com/afaces/){:target="_blank"} [![Alt text](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/){:target="_blank"} [![Alt text](assets/images/icon/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907){:target="_blank"} [![Alt text](assets/images/icon/napster.svg)](https://us.napster.com/artist/afaces){:target="_blank"} [![Alt text](assets/images/icon/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907){:target="_blank"} [![Alt text](assets/images/icon/soundcloud.svg)](https://soundcloud.com/afaces){:target="_blank"} [![Alt text](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l){:target="_blank"} [![Alt text](assets/images/icon/tidal.svg)](https://tidal.com/browse/artist/10889435){:target="_blank"} [![Alt text](assets/images/icon/tiktok.svg)](https://www.tiktok.com/@afaces){:target="_blank"} [![Alt text](assets/images/icon/twitter.svg)](https://twitter.com/afaces2){:target="_blank"} [![Alt text](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12){:target="_blank"}
 ## Table of contents
 1. [Nefasto](#nefasto)
 2. [Writer](#writer)
@@ -30,7 +30,7 @@ title: Afaces fanpage
 24. [Cafés](#cafes)
 
 #### Nefasto <a name="nefasto"></a>
-[![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto"){:target="_blank"}
+[![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto
 <div class="nefasto">
 <script type="text/javascript"></script>
@@ -133,4 +133,4 @@ function showButtonplatform() {
 [![There is Another](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc "There is Another")
 
 #### Cafés <a name="cafes"></a>
-[![Not Too Bad](assets/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
+[![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
