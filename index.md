@@ -288,7 +288,7 @@ function showButtonplatform() {
 <input type = "button" onclick = "showButtonplatform()" value = "⏯ Platform">
 <p id="platform"></p>
 
-
+</div>
 2. [Writer](#writer)
 #### 2.- 'Writer' <a name="writer"></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
