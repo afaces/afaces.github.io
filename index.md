@@ -29,25 +29,19 @@ title: Afaces fanpage
 23. [There is Another](#thereisanother)
 24. [Cafés](#cafes)
 
-#### Play random song
 <script type="text/javascript" src="/index.js"></script>
-<div>
-    <input type = "button" onclick = "showButtons()" value = "Click to show Nefasto songs! 😊">
-</div>
-<p id="btn"></p>
-
-
 
 #### Nefasto <a name="nefasto"></a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 ###### 1 - Nefasto.mp3
 
 <div>
-    <input type = "button" onclick = "showNefasto()" value = "⏯Nefasto">
+    <input type = "button" onclick = "showButtonnefasto()" value = "⏯Nefasto">
 </div>
 <p id="nefasto"></p>
 
 ###### 2 - Forgotten past
+
 <div>
     <input type = "button" onclick = "showButtonforgottenpast()" value = "⏯Forgotten past">
 </div>
