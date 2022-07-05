@@ -1,11 +1,7 @@
 Known bugs: 
 - js
 - mardown href to outside page try HTML <p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p> _blank
-- github for pages css style and how to define new .nefasto background color in a div of index.md github for pages.
-
-- Autogenerate mini icons bar from index.md to link the click to mini icons linkrf to opening in a new browser tab
 - The theme went nuts.
-- bar urls with the opening of the href to a new 
 - Show now playing
 - Starting one song ends the previous
 - button ❇️ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
