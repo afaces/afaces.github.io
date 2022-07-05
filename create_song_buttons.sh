@@ -50,7 +50,7 @@ for album in $(ls | sort -h); do
   echo "printing ${album} name to buttons.md"
   album_tags=()
   album_tag="$(echo "${album}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
-  echo "${u}. [$(echo "${album}" | cut -d ' ' -f2- | cut -d "'" -f2- | rev | cut -d "'" -f2- | rev)](#${album_tag})" ## >> "${buttons_file}"
+  echo "${u}. [$(echo "${album}" | cut -d ' ' -f2- | cut -d "'" -f2- | rev | cut -d "'" -f2- | rev)](#${album_tag})" >> "${buttons_file}"
   u=$((u+1))
 
   echo "tag of the album is ${album_tag}"
