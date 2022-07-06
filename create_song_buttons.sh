@@ -16,7 +16,7 @@ title: Afaces fanpage
 
 # Create menu of albums in webpage
 echo "${header}" >> "${buttons_file}"
-f=1
+f=0
 cd "${origin_folder}"
 
 album_tags=()
@@ -67,7 +67,7 @@ for album in $(ls | sort -h); do
     song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d  "#" | tr -d "." | tr "[:upper:]" "[:lower:]")"
     #echo "The actual tag of the song is ${song_tag}"
     echo "
-<h6>${song_number}</h6>" >> "${buttons_file}"
+${song_number}. " >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
     echo "<script type=\"text/javascript\" src=\"/index.js\"></script>
