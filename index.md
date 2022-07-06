@@ -291,6 +291,7 @@ function showButtonplatform() {
 2. [Writer](#writer)
 #### 2.- 'Writer' <a name="writer"></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
+
 1 
 <script type="text/javascript">
 function showButtonpencil() {
@@ -535,6 +536,7 @@ function showButtonlastsight() {
 3. [Back and Fro](#backandfro)
 #### 3.- 'Back and Fro' <a name="backandfro"></a>
 [![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
+
 1 
 <script type="text/javascript">
 function showButtontaste() {

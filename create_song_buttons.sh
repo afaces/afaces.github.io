@@ -19,7 +19,13 @@ echo "${header}" >> "${buttons_file}"
 u=1
 cd "${origin_folder}"
 
-
+album_tags=()
+for album in $(ls | sort -h); do
+  album_tag="$(echo "${album}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
+  album_tags+="${album_tag}"
+  echo "${u}. [$(echo "${album}" | cut -d ' ' -f2- | cut -d "'" -f2- | rev | cut -d "'" -f2- | rev)](#${album_tag})" >> "${buttons_file}"
+  u=$((u+1))
+done
 
 video_IDs=("SWNbhMxS4S4"
 "1PB176jjic8"
@@ -47,12 +53,6 @@ video_IDs=("SWNbhMxS4S4"
 )
 i=0
 for album in $(ls | sort -h); do
-  echo "printing ${album} name to buttons.md"
-  album_tags=()
-  album_tag="$(echo "${album}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
-  echo "${u}. [$(echo "${album}" | cut -d ' ' -f2- | cut -d "'" -f2- | rev | cut -d "'" -f2- | rev)](#${album_tag})" >> "${buttons_file}"
-  u=$((u+1))
-
   echo "tag of the album is ${album_tag}"
   echo "#### ${album} <a name=\"${album_tag}\"></a>" >> "${buttons_file}"
 
@@ -62,10 +62,11 @@ for album in $(ls | sort -h); do
   for song in $(ls | sort -h); do
     echo "printing ${song} name to buttons.md"
     song_title="$(echo ${song} | rev | cut -d '.' -f2- | rev | tr -d "&" | tr -d "(" | tr -d ")" | tr -d  "#" | tr -d "$")"
-    song_number="$(echo ${song_title} | cut -d '-' -f1 | tr -d '.')"
+    song_number="$(echo ${song_title} | cut -d '-' -f1 | tr -d '.' | tr -d ' ')"
     song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d  "#" | tr -d "." | tr "[:upper:]" "[:lower:]")"
     #echo "The actual tag of the song is ${song_tag}"
-    echo "${song_number}" >> "${buttons_file}"
+    echo "
+<h6>${song_number}</h6>" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
     echo "<script type=\"text/javascript\">
