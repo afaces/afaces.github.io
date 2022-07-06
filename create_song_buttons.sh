@@ -23,12 +23,12 @@ album_tags=()
 f=0
 for album in $(ls | sort -h); do
   album_tag="$(echo "${album}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
-  album_tags+="\"${album_tag[$f]}\" "
+  album_tags[$f]+="${album_tag}"
 
   echo "${u}. [$(echo "${album}" | cut -d ' ' -f2- | cut -d "'" -f2- | rev | cut -d "'" -f2- | rev)](#${album_tag})" >> "${buttons_file}"
   f=$((f+1))
 done
-echo "${album_tags[0}"
+echo "${album_tags[0]}"
 video_IDs=("SWNbhMxS4S4"
 "1PB176jjic8"
 "uwmr2eNdpE4"
