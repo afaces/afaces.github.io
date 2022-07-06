@@ -16,16 +16,15 @@ title: Afaces fanpage
 
 # Create menu of albums in webpage
 echo "${header}" >> "${buttons_file}"
-u=1
+f=0
 cd "${origin_folder}"
 
 album_tags=()
-f=0
 for album in $(ls | sort -h); do
   album_tag="$(echo "${album}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d "." | tr "[:upper:]" "[:lower:]")"
   album_tags[$f]+="${album_tag}"
 
-  echo "${u}. [$(echo "${album}" | cut -d ' ' -f2- | cut -d "'" -f2- | rev | cut -d "'" -f2- | rev)](#${album_tag})" >> "${buttons_file}"
+  echo "${f}. [$(echo "${album}" | cut -d ' ' -f2- | cut -d "'" -f2- | rev | cut -d "'" -f2- | rev)](#${album_tag})" >> "${buttons_file}"
   f=$((f+1))
 done
 
