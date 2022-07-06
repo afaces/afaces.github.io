@@ -1,6 +1,6 @@
 Known bugs: 
 - js
-- tags duplication prevention
+- buttons died, suddenly now only Nefasto is playing
 - menu titles are clicked to show/hide the album songs
 - TABLE OF CONTENTS menu links inside the index.md is broken
 - Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
