@@ -286,6 +286,7 @@ function showButtonplatform() {
 <input type = "button" onclick = "showButtonplatform()" value = "⏯ Platform">
 <p id="platform"></p>
 
+</div>
 
 2. [Writer](#writer)
 #### 2.- 'Writer' <a name="writer"></a>
