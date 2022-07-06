@@ -10,7 +10,7 @@ header="---
 layout: page
 title: Afaces fanpage
 ---
-[![Alt text](assets/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![Alt text](assets/bandcamp.svg)](https://afaces.bandcamp.com) [![Alt text](assets/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Alt text](assets/facebook.svg)](https://www.facebook.com/afaces/) [![Alt text](assets/instagram.svg)](https://www.instagram.com/_afaces/) [![Alt text](assets/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Alt text](assets/napster.svg)](https://us.napster.com/artist/afaces) [![Alt text](assets/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![Alt text](assets/soundcloud.svg)](https://soundcloud.com/afaces) [![Alt text](assets/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Alt text](assets/tidal.svg)](https://tidal.com/browse/artist/10889435) [![Alt text](assets/tiktok.svg)](https://www.tiktok.com/@afaces) [![Alt text](assets/twitter.svg)](https://twitter.com/afaces2) [![Alt text](assets/youtube.svg)](https://www.youtube.com/user/axelaxel12)
+[![Alt text](assets/images/icon/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![Alt text](assets/images/icon/bandcamp.svg)](https://afaces.bandcamp.com) [![Alt text](assets/images/icon/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Alt text](assets/images/icon/facebook.svg)](https://www.facebook.com/afaces/) [![Alt text](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/) [![Alt text](assets/images/icon/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Alt text](assets/images/icon/napster.svg)](https://us.napster.com/artist/afaces) [![Alt text](assets/images/icon/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![Alt text](assets/images/icon/soundcloud.svg)](https://soundcloud.com/afaces) [![Alt text](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Alt text](assets/images/icon/tidal.svg)](https://tidal.com/browse/artist/10889435) [![Alt text](assets/images/icon/tiktok.svg)](https://www.tiktok.com/@afaces) [![Alt text](assets/images/icon/twitter.svg)](https://twitter.com/afaces2) [![Alt text](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
 ## Table of contents"
 
 
@@ -69,7 +69,8 @@ for album in $(ls | sort -h); do
 <h6>${song_number}</h6>" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
-    echo "<script type=\"text/javascript\">
+    echo "<script type=\"text/javascript\" src=\"/index.js\"></script>
+<script>
 function showButton${song_tag}() {
   let ${song_tag}_controls = \"<audio controls><source src=\\\"/${repo_relative_path}/${album}/${song}\\\" type=\\\"audio/mp3\\\"></audio>\";
   document.getElementById(\"${song_tag}\").innerHTML = ${song_tag}_controls;
