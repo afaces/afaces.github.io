@@ -16,7 +16,7 @@ title: Afaces fanpage
 
 # Create menu of albums in webpage
 echo "${header}" >> "${buttons_file}"
-f=0
+f=1
 cd "${origin_folder}"
 
 album_tags=()
