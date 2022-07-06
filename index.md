@@ -40,13 +40,14 @@ function toggle_visibility(albumnefasto) {
 }
 </script>
 
-#### Nefasto <a name="nefasto"></a> <a href="#nefasto" onclick="toggle_visibility('albumnefasto');">Click here to show songs</a>
+####  <a name = "nefasto" href="#nefasto" onclick="toggle_visibility('albumnefasto');">Nefasto</a>
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 
-
-<div id="albumnefasto" class="someclass" markdown="1">
-
-<h6>1</h6> 
+#  markdown="1"
+<div id="albumnefasto">
+<aside>
+###### 1 Nefasto
+</aside>
 <script type="text/javascript">
 function showButtonnefasto() {
   let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
