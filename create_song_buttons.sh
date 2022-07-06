@@ -62,7 +62,7 @@ for album in $(ls | sort -h); do
   i=$((i+1))
   for song in $(ls | sort -h); do
     echo "printing ${song} name to buttons.md"
-    song_title="$(echo ${song} | rev | cut -d '.' -f2- | rev | tr -d "&" | tr -d "(" | tr -d ")" | tr -d  "#" | tr -d "$")"
+    song_title="$(echo ${song} | rev | cut -d '.' -f2- | rev | tr -d "&" | tr -d "(" | tr -d ")" | tr -d "]" | tr -d "[" | tr -d  "#" | tr -d "," | tr -d "$")"
     song_number="$(echo ${song_title} | cut -d '-' -f1 | tr -d '.' | tr -d ' ')"
     song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d  "#" | tr -d "." | tr "[:upper:]" "[:lower:]")"
     #echo "The actual tag of the song is ${song_tag}"
