@@ -44,9 +44,9 @@ function toggle_visibility(albumnefasto) {
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 
 
-<div id="albumnefasto">
+<div id="albumnefasto" class="someclass" markdown="1">
 
-1 
+###### 1 
 <script type="text/javascript">
 function showButtonnefasto() {
   let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
