@@ -44,10 +44,9 @@ function toggle_visibility(albumnefasto) {
 [![Nefasto](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "Nefasto")
 
 #  markdown="1"
-<div id="albumnefasto">
-<aside>
+
 ###### 1 Nefasto
-</aside>
+
 <script type="text/javascript">
 function showButtonnefasto() {
   let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
@@ -287,8 +286,6 @@ function showButtonplatform() {
 <input type = "button" onclick = "showButtonplatform()" value = "⏯ Platform">
 <p id="platform"></p>
 
-</div>
- 
 #### 2.- 'Writer' <a name=""></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
 ###### 1 - Pencil
