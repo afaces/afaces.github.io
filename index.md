@@ -46,7 +46,7 @@ function toggle_visibility(albumnefasto) {
 
 <div id="albumnefasto" class="someclass" markdown="1">
 
-###### 1 
+<h6>1</h6> 
 <script type="text/javascript">
 function showButtonnefasto() {
   let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
@@ -56,7 +56,7 @@ function showButtonnefasto() {
 <input type = "button" onclick = "showButtonnefasto()" value = "⏯ Nefasto">
 <p id="nefasto"></p>
 
-2 
+<h6>2</h6> 
 <script type="text/javascript">
 function showButtonforgottenpast() {
   let forgottenpast_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3\" type=\"audio/mp3\"></audio>";
@@ -287,6 +287,7 @@ function showButtonplatform() {
 <p id="platform"></p>
 
 </div>
+ 
 2. [Writer](#writer)
 #### 2.- 'Writer' <a name="writer"></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
