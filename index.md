@@ -46,19 +46,17 @@ function toggle_visibility(albumnefasto) {
 <a href="#nefasto" onclick="toggle_visibility('albumnefasto');">Click here to show/hide random text</a>
 <div id="albumnefasto">
 
-###### 1 - Nefasto
-
+1 
 <script type="text/javascript">
 function showButtonnefasto() {
-  let nefasto = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("nefasto").innerHTML = nefasto;
+  let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("nefasto").innerHTML = nefasto_controls;
 }
 </script>
 <input type = "button" onclick = "showButtonnefasto()" value = "⏯ Nefasto">
 <p id="nefasto"></p>
 
-
-###### 2 - Forgotten past
+2 
 <script type="text/javascript">
 function showButtonforgottenpast() {
   let forgottenpast_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3\" type=\"audio/mp3\"></audio>";
@@ -68,7 +66,7 @@ function showButtonforgottenpast() {
 <input type = "button" onclick = "showButtonforgottenpast()" value = "⏯ Forgotten past">
 <p id="forgottenpast"></p>
 
-###### 3 - Desgarrador2
+3 
 <script type="text/javascript">
 function showButtondesgarrador2() {
   let desgarrador2_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/3 - Desgarrador2.mp3\" type=\"audio/mp3\"></audio>";
@@ -78,7 +76,7 @@ function showButtondesgarrador2() {
 <input type = "button" onclick = "showButtondesgarrador2()" value = "⏯ Desgarrador2">
 <p id="desgarrador2"></p>
 
-###### 4 - Baby On Fire
+4 
 <script type="text/javascript">
 function showButtonbabyonfire() {
   let babyonfire_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/4 - Baby On Fire.mp3\" type=\"audio/mp3\"></audio>";
@@ -88,7 +86,7 @@ function showButtonbabyonfire() {
 <input type = "button" onclick = "showButtonbabyonfire()" value = "⏯ Baby On Fire">
 <p id="babyonfire"></p>
 
-###### 5 - Floating
+5 
 <script type="text/javascript">
 function showButtonfloating() {
   let floating_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/5 - Floating.mp3\" type=\"audio/mp3\"></audio>";
@@ -98,7 +96,7 @@ function showButtonfloating() {
 <input type = "button" onclick = "showButtonfloating()" value = "⏯ Floating">
 <p id="floating"></p>
 
-###### 6 - Inconscience
+6 
 <script type="text/javascript">
 function showButtoninconscience() {
   let inconscience_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/6 - Inconscience.mp3\" type=\"audio/mp3\"></audio>";
@@ -108,7 +106,7 @@ function showButtoninconscience() {
 <input type = "button" onclick = "showButtoninconscience()" value = "⏯ Inconscience">
 <p id="inconscience"></p>
 
-###### 7 - Hot  Spicy
+7 
 <script type="text/javascript">
 function showButtonhotspicy() {
   let hotspicy_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/7 - Hot & Spicy.mp3\" type=\"audio/mp3\"></audio>";
@@ -118,7 +116,7 @@ function showButtonhotspicy() {
 <input type = "button" onclick = "showButtonhotspicy()" value = "⏯ Hot  Spicy">
 <p id="hotspicy"></p>
 
-###### 8 - A Team Fight
+8 
 <script type="text/javascript">
 function showButtonateamfight() {
   let ateamfight_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/8 - A Team Fight.mp3\" type=\"audio/mp3\"></audio>";
@@ -128,7 +126,7 @@ function showButtonateamfight() {
 <input type = "button" onclick = "showButtonateamfight()" value = "⏯ A Team Fight">
 <p id="ateamfight"></p>
 
-###### 9 - Ha ha ha
+9 
 <script type="text/javascript">
 function showButtonhahaha() {
   let hahaha_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/9 - Ha ha ha.mp3\" type=\"audio/mp3\"></audio>";
@@ -138,7 +136,7 @@ function showButtonhahaha() {
 <input type = "button" onclick = "showButtonhahaha()" value = "⏯ Ha ha ha">
 <p id="hahaha"></p>
 
-###### 10 - Aberrante
+10 
 <script type="text/javascript">
 function showButtonaberrante() {
   let aberrante_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/10 - Aberrante.mp3\" type=\"audio/mp3\"></audio>";
@@ -148,7 +146,7 @@ function showButtonaberrante() {
 <input type = "button" onclick = "showButtonaberrante()" value = "⏯ Aberrante">
 <p id="aberrante"></p>
 
-###### 11 - Help
+11 
 <script type="text/javascript">
 function showButtonhelp() {
   let help_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/11 - Help.mp3\" type=\"audio/mp3\"></audio>";
@@ -158,7 +156,7 @@ function showButtonhelp() {
 <input type = "button" onclick = "showButtonhelp()" value = "⏯ Help">
 <p id="help"></p>
 
-###### 12 - Cough
+12 
 <script type="text/javascript">
 function showButtoncough() {
   let cough_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/12 - Cough.mp3\" type=\"audio/mp3\"></audio>";
@@ -168,7 +166,7 @@ function showButtoncough() {
 <input type = "button" onclick = "showButtoncough()" value = "⏯ Cough">
 <p id="cough"></p>
 
-###### 13 - Just enough
+13 
 <script type="text/javascript">
 function showButtonjustenough() {
   let justenough_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/13 - Just enough.mp3\" type=\"audio/mp3\"></audio>";
@@ -178,7 +176,7 @@ function showButtonjustenough() {
 <input type = "button" onclick = "showButtonjustenough()" value = "⏯ Just enough">
 <p id="justenough"></p>
 
-###### 14 - Song for the deaf
+14 
 <script type="text/javascript">
 function showButtonsongforthedeaf() {
   let songforthedeaf_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/14 - Song for the deaf.mp3\" type=\"audio/mp3\"></audio>";
@@ -188,7 +186,7 @@ function showButtonsongforthedeaf() {
 <input type = "button" onclick = "showButtonsongforthedeaf()" value = "⏯ Song for the deaf">
 <p id="songforthedeaf"></p>
 
-###### 15 - Helo
+15 
 <script type="text/javascript">
 function showButtonhelo() {
   let helo_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/15 - Helo.mp3\" type=\"audio/mp3\"></audio>";
@@ -198,7 +196,7 @@ function showButtonhelo() {
 <input type = "button" onclick = "showButtonhelo()" value = "⏯ Helo">
 <p id="helo"></p>
 
-###### 16 - Back from there
+16 
 <script type="text/javascript">
 function showButtonbackfromthere() {
   let backfromthere_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/16 - Back from there.mp3\" type=\"audio/mp3\"></audio>";
@@ -208,7 +206,7 @@ function showButtonbackfromthere() {
 <input type = "button" onclick = "showButtonbackfromthere()" value = "⏯ Back from there">
 <p id="backfromthere"></p>
 
-###### 17 - Catastrofico
+17 
 <script type="text/javascript">
 function showButtoncatastrofico() {
   let catastrofico_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/17 - Catastrofico.mp3\" type=\"audio/mp3\"></audio>";
@@ -218,7 +216,7 @@ function showButtoncatastrofico() {
 <input type = "button" onclick = "showButtoncatastrofico()" value = "⏯ Catastrofico">
 <p id="catastrofico"></p>
 
-###### 18 - egipto
+18 
 <script type="text/javascript">
 function showButtonegipto() {
   let egipto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/18 - egipto.mp3\" type=\"audio/mp3\"></audio>";
@@ -228,7 +226,7 @@ function showButtonegipto() {
 <input type = "button" onclick = "showButtonegipto()" value = "⏯ egipto">
 <p id="egipto"></p>
 
-###### 19 - take those pills
+19 
 <script type="text/javascript">
 function showButtontakethosepills() {
   let takethosepills_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/19 - take those pills.mp3\" type=\"audio/mp3\"></audio>";
@@ -238,7 +236,7 @@ function showButtontakethosepills() {
 <input type = "button" onclick = "showButtontakethosepills()" value = "⏯ take those pills">
 <p id="takethosepills"></p>
 
-###### 20 - Uh-uh ft. Yellow Button
+20 
 <script type="text/javascript">
 function showButtonuhuhftyellowbutton() {
   let uhuhftyellowbutton_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/20 - Uh-uh ft. Yellow Button.mp3\" type=\"audio/mp3\"></audio>";
@@ -248,7 +246,7 @@ function showButtonuhuhftyellowbutton() {
 <input type = "button" onclick = "showButtonuhuhftyellowbutton()" value = "⏯ Uh-uh ft. Yellow Button">
 <p id="uhuhftyellowbutton"></p>
 
-###### 21 - Waves Not Found
+21 
 <script type="text/javascript">
 function showButtonwavesnotfound() {
   let wavesnotfound_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/21 - Waves Not Found.mp3\" type=\"audio/mp3\"></audio>";
@@ -258,7 +256,7 @@ function showButtonwavesnotfound() {
 <input type = "button" onclick = "showButtonwavesnotfound()" value = "⏯ Waves Not Found">
 <p id="wavesnotfound"></p>
 
-###### 22 - aceptable
+22 
 <script type="text/javascript">
 function showButtonaceptable() {
   let aceptable_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/22 - aceptable.mp3\" type=\"audio/mp3\"></audio>";
@@ -268,7 +266,7 @@ function showButtonaceptable() {
 <input type = "button" onclick = "showButtonaceptable()" value = "⏯ aceptable">
 <p id="aceptable"></p>
 
-###### 23 - Don't remind me
+23 
 <script type="text/javascript">
 function showButtondontremindme() {
   let dontremindme_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/23 - Don't remind me.mp3\" type=\"audio/mp3\"></audio>";
@@ -278,7 +276,7 @@ function showButtondontremindme() {
 <input type = "button" onclick = "showButtondontremindme()" value = "⏯ Don't remind me">
 <p id="dontremindme"></p>
 
-###### 24 - Platform
+24 
 <script type="text/javascript">
 function showButtonplatform() {
   let platform_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/24 - Platform.mp3\" type=\"audio/mp3\"></audio>";
@@ -288,11 +286,11 @@ function showButtonplatform() {
 <input type = "button" onclick = "showButtonplatform()" value = "⏯ Platform">
 <p id="platform"></p>
 
-</div>
+
 2. [Writer](#writer)
 #### 2.- 'Writer' <a name="writer"></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
-###### 1 - Pencil
+1 
 <script type="text/javascript">
 function showButtonpencil() {
   let pencil_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/1 - Pencil.mp3\" type=\"audio/mp3\"></audio>";
@@ -302,7 +300,7 @@ function showButtonpencil() {
 <input type = "button" onclick = "showButtonpencil()" value = "⏯ Pencil">
 <p id="pencil"></p>
 
-###### 2 - No Reason
+2 
 <script type="text/javascript">
 function showButtonnoreason() {
   let noreason_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/2 - No Reason.mp3\" type=\"audio/mp3\"></audio>";
@@ -312,7 +310,7 @@ function showButtonnoreason() {
 <input type = "button" onclick = "showButtonnoreason()" value = "⏯ No Reason">
 <p id="noreason"></p>
 
-###### 3 - Assault
+3 
 <script type="text/javascript">
 function showButtonassault() {
   let assault_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/3 - Assault.mp3\" type=\"audio/mp3\"></audio>";
@@ -322,7 +320,7 @@ function showButtonassault() {
 <input type = "button" onclick = "showButtonassault()" value = "⏯ Assault">
 <p id="assault"></p>
 
-###### 4 - Paint Over the Floor
+4 
 <script type="text/javascript">
 function showButtonpaintoverthefloor() {
   let paintoverthefloor_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/4 - Paint Over the Floor.mp3\" type=\"audio/mp3\"></audio>";
@@ -332,7 +330,7 @@ function showButtonpaintoverthefloor() {
 <input type = "button" onclick = "showButtonpaintoverthefloor()" value = "⏯ Paint Over the Floor">
 <p id="paintoverthefloor"></p>
 
-###### 5 - Phoenix Arising From The Ashes
+5 
 <script type="text/javascript">
 function showButtonphoenixarisingfromtheashes() {
   let phoenixarisingfromtheashes_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/5 - Phoenix Arising From The Ashes.mp3\" type=\"audio/mp3\"></audio>";
@@ -342,7 +340,7 @@ function showButtonphoenixarisingfromtheashes() {
 <input type = "button" onclick = "showButtonphoenixarisingfromtheashes()" value = "⏯ Phoenix Arising From The Ashes">
 <p id="phoenixarisingfromtheashes"></p>
 
-###### 6 - Birthday of Universe
+6 
 <script type="text/javascript">
 function showButtonbirthdayofuniverse() {
   let birthdayofuniverse_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/6 - Birthday of Universe.mp3\" type=\"audio/mp3\"></audio>";
@@ -352,7 +350,7 @@ function showButtonbirthdayofuniverse() {
 <input type = "button" onclick = "showButtonbirthdayofuniverse()" value = "⏯ Birthday of Universe">
 <p id="birthdayofuniverse"></p>
 
-###### 7 - haunted love
+7 
 <script type="text/javascript">
 function showButtonhauntedlove() {
   let hauntedlove_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/7 - haunted love.mp3\" type=\"audio/mp3\"></audio>";
@@ -362,7 +360,7 @@ function showButtonhauntedlove() {
 <input type = "button" onclick = "showButtonhauntedlove()" value = "⏯ haunted love">
 <p id="hauntedlove"></p>
 
-###### 8 - DEPresion
+8 
 <script type="text/javascript">
 function showButtondepresion() {
   let depresion_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/8 - DEPresion.mp3\" type=\"audio/mp3\"></audio>";
@@ -372,7 +370,7 @@ function showButtondepresion() {
 <input type = "button" onclick = "showButtondepresion()" value = "⏯ DEPresion">
 <p id="depresion"></p>
 
-###### 9 - Warm in Winter
+9 
 <script type="text/javascript">
 function showButtonwarminwinter() {
   let warminwinter_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/9 - Warm in Winter.mp3\" type=\"audio/mp3\"></audio>";
@@ -382,7 +380,7 @@ function showButtonwarminwinter() {
 <input type = "button" onclick = "showButtonwarminwinter()" value = "⏯ Warm in Winter">
 <p id="warminwinter"></p>
 
-###### 10 - Time just gone
+10 
 <script type="text/javascript">
 function showButtontimejustgone() {
   let timejustgone_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/10 - Time just gone.mp3\" type=\"audio/mp3\"></audio>";
@@ -392,7 +390,7 @@ function showButtontimejustgone() {
 <input type = "button" onclick = "showButtontimejustgone()" value = "⏯ Time just gone">
 <p id="timejustgone"></p>
 
-###### 11 -Desires
+11 
 <script type="text/javascript">
 function showButtondesires() {
   let desires_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/11 -Desires.mp3\" type=\"audio/mp3\"></audio>";
@@ -402,7 +400,7 @@ function showButtondesires() {
 <input type = "button" onclick = "showButtondesires()" value = "⏯Desires">
 <p id="desires"></p>
 
-###### 12 -Go  Catch A Flight
+12 
 <script type="text/javascript">
 function showButtongocatchaflight() {
   let gocatchaflight_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/12 -Go & Catch A Flight.mp3\" type=\"audio/mp3\"></audio>";
@@ -412,7 +410,7 @@ function showButtongocatchaflight() {
 <input type = "button" onclick = "showButtongocatchaflight()" value = "⏯Go  Catch A Flight">
 <p id="gocatchaflight"></p>
 
-###### 13 - What did, he gone
+13 
 <script type="text/javascript">
 function showButtonwhatdid,hegone() {
   let whatdid,hegone_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/13 - What did, he gone.mp3\" type=\"audio/mp3\"></audio>";
@@ -422,7 +420,7 @@ function showButtonwhatdid,hegone() {
 <input type = "button" onclick = "showButtonwhatdid,hegone()" value = "⏯ What did, he gone">
 <p id="whatdid,hegone"></p>
 
-###### 14 - too much
+14 
 <script type="text/javascript">
 function showButtontoomuch() {
   let toomuch_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/14 - too much.mp3\" type=\"audio/mp3\"></audio>";
@@ -432,7 +430,7 @@ function showButtontoomuch() {
 <input type = "button" onclick = "showButtontoomuch()" value = "⏯ too much">
 <p id="toomuch"></p>
 
-###### 15 - Christmas again
+15 
 <script type="text/javascript">
 function showButtonchristmasagain() {
   let christmasagain_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/15 - Christmas again.mp3\" type=\"audio/mp3\"></audio>";
@@ -442,7 +440,7 @@ function showButtonchristmasagain() {
 <input type = "button" onclick = "showButtonchristmasagain()" value = "⏯ Christmas again">
 <p id="christmasagain"></p>
 
-###### 16 - back to lack
+16 
 <script type="text/javascript">
 function showButtonbacktolack() {
   let backtolack_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/16 - back to lack.mp3\" type=\"audio/mp3\"></audio>";
@@ -452,7 +450,7 @@ function showButtonbacktolack() {
 <input type = "button" onclick = "showButtonbacktolack()" value = "⏯ back to lack">
 <p id="backtolack"></p>
 
-###### 17 - Dirty clothes
+17 
 <script type="text/javascript">
 function showButtondirtyclothes() {
   let dirtyclothes_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/17 - Dirty clothes.mp3\" type=\"audio/mp3\"></audio>";
@@ -462,7 +460,7 @@ function showButtondirtyclothes() {
 <input type = "button" onclick = "showButtondirtyclothes()" value = "⏯ Dirty clothes">
 <p id="dirtyclothes"></p>
 
-###### 18 - Why so sad
+18 
 <script type="text/javascript">
 function showButtonwhysosad() {
   let whysosad_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/18 - Why so sad.mp3\" type=\"audio/mp3\"></audio>";
@@ -472,7 +470,7 @@ function showButtonwhysosad() {
 <input type = "button" onclick = "showButtonwhysosad()" value = "⏯ Why so sad">
 <p id="whysosad"></p>
 
-###### 19 - sick of it
+19 
 <script type="text/javascript">
 function showButtonsickofit() {
   let sickofit_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/19 - sick of it.mp3\" type=\"audio/mp3\"></audio>";
@@ -482,7 +480,7 @@ function showButtonsickofit() {
 <input type = "button" onclick = "showButtonsickofit()" value = "⏯ sick of it">
 <p id="sickofit"></p>
 
-###### 20 - tears
+20 
 <script type="text/javascript">
 function showButtontears() {
   let tears_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/20 - tears.mp3\" type=\"audio/mp3\"></audio>";
@@ -492,7 +490,7 @@ function showButtontears() {
 <input type = "button" onclick = "showButtontears()" value = "⏯ tears">
 <p id="tears"></p>
 
-###### 21 - BONDAGE
+21 
 <script type="text/javascript">
 function showButtonbondage() {
   let bondage_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/21 - BONDAGE.mp3\" type=\"audio/mp3\"></audio>";
@@ -502,7 +500,7 @@ function showButtonbondage() {
 <input type = "button" onclick = "showButtonbondage()" value = "⏯ BONDAGE">
 <p id="bondage"></p>
 
-###### 22 - Writer
+22 
 <script type="text/javascript">
 function showButtonwriter() {
   let writer_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/22 - Writer.mp3\" type=\"audio/mp3\"></audio>";
@@ -512,7 +510,7 @@ function showButtonwriter() {
 <input type = "button" onclick = "showButtonwriter()" value = "⏯ Writer">
 <p id="writer"></p>
 
-###### 23 - innocent
+23 
 <script type="text/javascript">
 function showButtoninnocent() {
   let innocent_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/23 - innocent.mp3\" type=\"audio/mp3\"></audio>";
@@ -522,7 +520,7 @@ function showButtoninnocent() {
 <input type = "button" onclick = "showButtoninnocent()" value = "⏯ innocent">
 <p id="innocent"></p>
 
-###### 24 - Last Sight
+24 
 <script type="text/javascript">
 function showButtonlastsight() {
   let lastsight_controls = "<audio controls><source src=\"/assets/music/2.- 'Writer'/24 - Last Sight.mp3\" type=\"audio/mp3\"></audio>";
@@ -536,7 +534,7 @@ function showButtonlastsight() {
 3. [Back and Fro](#backandfro)
 #### 3.- 'Back and Fro' <a name="backandfro"></a>
 [![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
-###### 1 - taste
+1 
 <script type="text/javascript">
 function showButtontaste() {
   let taste_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/1 - taste.mp3\" type=\"audio/mp3\"></audio>";
@@ -546,7 +544,7 @@ function showButtontaste() {
 <input type = "button" onclick = "showButtontaste()" value = "⏯ taste">
 <p id="taste"></p>
 
-###### 2 - troop
+2 
 <script type="text/javascript">
 function showButtontroop() {
   let troop_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/2 - troop.mp3\" type=\"audio/mp3\"></audio>";
@@ -556,7 +554,7 @@ function showButtontroop() {
 <input type = "button" onclick = "showButtontroop()" value = "⏯ troop">
 <p id="troop"></p>
 
-###### 3 - teenage drive
+3 
 <script type="text/javascript">
 function showButtonteenagedrive() {
   let teenagedrive_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/3 - teenage drive.mp3\" type=\"audio/mp3\"></audio>";
@@ -566,7 +564,7 @@ function showButtonteenagedrive() {
 <input type = "button" onclick = "showButtonteenagedrive()" value = "⏯ teenage drive">
 <p id="teenagedrive"></p>
 
-###### 4 - day owl
+4 
 <script type="text/javascript">
 function showButtondayowl() {
   let dayowl_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/4 - day owl.mp3\" type=\"audio/mp3\"></audio>";
@@ -576,7 +574,7 @@ function showButtondayowl() {
 <input type = "button" onclick = "showButtondayowl()" value = "⏯ day owl">
 <p id="dayowl"></p>
 
-###### 5 - shout
+5 
 <script type="text/javascript">
 function showButtonshout() {
   let shout_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/5 - shout.mp3\" type=\"audio/mp3\"></audio>";
@@ -586,7 +584,7 @@ function showButtonshout() {
 <input type = "button" onclick = "showButtonshout()" value = "⏯ shout">
 <p id="shout"></p>
 
-###### 6 - War King
+6 
 <script type="text/javascript">
 function showButtonwarking() {
   let warking_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/6 - War King.mp3\" type=\"audio/mp3\"></audio>";
@@ -596,7 +594,7 @@ function showButtonwarking() {
 <input type = "button" onclick = "showButtonwarking()" value = "⏯ War King">
 <p id="warking"></p>
 
-###### 7 - Oclock
+7 
 <script type="text/javascript">
 function showButtonoclock() {
   let oclock_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/7 - Oclock.mp3\" type=\"audio/mp3\"></audio>";
@@ -606,7 +604,7 @@ function showButtonoclock() {
 <input type = "button" onclick = "showButtonoclock()" value = "⏯ Oclock">
 <p id="oclock"></p>
 
-###### 8 - village
+8 
 <script type="text/javascript">
 function showButtonvillage() {
   let village_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/8 - village.mp3\" type=\"audio/mp3\"></audio>";
@@ -616,7 +614,7 @@ function showButtonvillage() {
 <input type = "button" onclick = "showButtonvillage()" value = "⏯ village">
 <p id="village"></p>
 
-###### 9 - storm
+9 
 <script type="text/javascript">
 function showButtonstorm() {
   let storm_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/9 - storm.mp3\" type=\"audio/mp3\"></audio>";
@@ -626,7 +624,7 @@ function showButtonstorm() {
 <input type = "button" onclick = "showButtonstorm()" value = "⏯ storm">
 <p id="storm"></p>
 
-###### 10 - got the music of tonight
+10 
 <script type="text/javascript">
 function showButtongotthemusicoftonight() {
   let gotthemusicoftonight_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/10 - got the music of tonight.mp3\" type=\"audio/mp3\"></audio>";
@@ -636,7 +634,7 @@ function showButtongotthemusicoftonight() {
 <input type = "button" onclick = "showButtongotthemusicoftonight()" value = "⏯ got the music of tonight">
 <p id="gotthemusicoftonight"></p>
 
-###### 11 - sunrise
+11 
 <script type="text/javascript">
 function showButtonsunrise() {
   let sunrise_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/11 - sunrise.mp3\" type=\"audio/mp3\"></audio>";
@@ -646,7 +644,7 @@ function showButtonsunrise() {
 <input type = "button" onclick = "showButtonsunrise()" value = "⏯ sunrise">
 <p id="sunrise"></p>
 
-###### 12 - Landscape
+12 
 <script type="text/javascript">
 function showButtonlandscape() {
   let landscape_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/12 - Landscape.mp3\" type=\"audio/mp3\"></audio>";
@@ -656,7 +654,7 @@ function showButtonlandscape() {
 <input type = "button" onclick = "showButtonlandscape()" value = "⏯ Landscape">
 <p id="landscape"></p>
 
-###### 13 - mirage
+13 
 <script type="text/javascript">
 function showButtonmirage() {
   let mirage_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/13 - mirage.mp3\" type=\"audio/mp3\"></audio>";
@@ -666,7 +664,7 @@ function showButtonmirage() {
 <input type = "button" onclick = "showButtonmirage()" value = "⏯ mirage">
 <p id="mirage"></p>
 
-###### 14 - city lights
+14 
 <script type="text/javascript">
 function showButtoncitylights() {
   let citylights_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/14 - city lights.mp3\" type=\"audio/mp3\"></audio>";
@@ -676,7 +674,7 @@ function showButtoncitylights() {
 <input type = "button" onclick = "showButtoncitylights()" value = "⏯ city lights">
 <p id="citylights"></p>
 
-###### 15 - TUESDAY
+15 
 <script type="text/javascript">
 function showButtontuesday() {
   let tuesday_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/15 - TUESDAY.mp3\" type=\"audio/mp3\"></audio>";
@@ -686,7 +684,7 @@ function showButtontuesday() {
 <input type = "button" onclick = "showButtontuesday()" value = "⏯ TUESDAY">
 <p id="tuesday"></p>
 
-###### 16 - goodbye beach
+16 
 <script type="text/javascript">
 function showButtongoodbyebeach() {
   let goodbyebeach_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/16 - goodbye beach.mp3\" type=\"audio/mp3\"></audio>";
@@ -696,7 +694,7 @@ function showButtongoodbyebeach() {
 <input type = "button" onclick = "showButtongoodbyebeach()" value = "⏯ goodbye beach">
 <p id="goodbyebeach"></p>
 
-###### 17 - explorer
+17 
 <script type="text/javascript">
 function showButtonexplorer() {
   let explorer_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/17 - explorer.mp3\" type=\"audio/mp3\"></audio>";
@@ -706,7 +704,7 @@ function showButtonexplorer() {
 <input type = "button" onclick = "showButtonexplorer()" value = "⏯ explorer">
 <p id="explorer"></p>
 
-###### 18 - Ball
+18 
 <script type="text/javascript">
 function showButtonball() {
   let ball_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/18 - Ball.mp3\" type=\"audio/mp3\"></audio>";
@@ -716,7 +714,7 @@ function showButtonball() {
 <input type = "button" onclick = "showButtonball()" value = "⏯ Ball">
 <p id="ball"></p>
 
-###### 19 - moth
+19 
 <script type="text/javascript">
 function showButtonmoth() {
   let moth_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/19 - moth.mp3\" type=\"audio/mp3\"></audio>";
@@ -726,7 +724,7 @@ function showButtonmoth() {
 <input type = "button" onclick = "showButtonmoth()" value = "⏯ moth">
 <p id="moth"></p>
 
-###### 20 - to and fro
+20 
 <script type="text/javascript">
 function showButtontoandfro() {
   let toandfro_controls = "<audio controls><source src=\"/assets/music/3.- 'Back and Fro'/20 - to and fro.mp3\" type=\"audio/mp3\"></audio>";
@@ -740,7 +738,7 @@ function showButtontoandfro() {
 4. [Planetc](#planetc)
 #### 4.- 'Planetc' <a name="planetc"></a>
 [![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
-###### 1 - Ambrosia
+1 
 <script type="text/javascript">
 function showButtonambrosia() {
   let ambrosia_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/1 - Ambrosia.mp3\" type=\"audio/mp3\"></audio>";
@@ -750,7 +748,7 @@ function showButtonambrosia() {
 <input type = "button" onclick = "showButtonambrosia()" value = "⏯ Ambrosia">
 <p id="ambrosia"></p>
 
-###### 2 - memory
+2 
 <script type="text/javascript">
 function showButtonmemory() {
   let memory_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/2 - memory.mp3\" type=\"audio/mp3\"></audio>";
@@ -760,7 +758,7 @@ function showButtonmemory() {
 <input type = "button" onclick = "showButtonmemory()" value = "⏯ memory">
 <p id="memory"></p>
 
-###### 3 - fast bad
+3 
 <script type="text/javascript">
 function showButtonfastbad() {
   let fastbad_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/3 - fast bad.mp3\" type=\"audio/mp3\"></audio>";
@@ -770,7 +768,7 @@ function showButtonfastbad() {
 <input type = "button" onclick = "showButtonfastbad()" value = "⏯ fast bad">
 <p id="fastbad"></p>
 
-###### 4 - stream
+4 
 <script type="text/javascript">
 function showButtonstream() {
   let stream_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/4 - stream.mp3\" type=\"audio/mp3\"></audio>";
@@ -780,7 +778,7 @@ function showButtonstream() {
 <input type = "button" onclick = "showButtonstream()" value = "⏯ stream">
 <p id="stream"></p>
 
-###### 5 - Need
+5 
 <script type="text/javascript">
 function showButtonneed() {
   let need_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/5 - Need.mp3\" type=\"audio/mp3\"></audio>";
@@ -790,7 +788,7 @@ function showButtonneed() {
 <input type = "button" onclick = "showButtonneed()" value = "⏯ Need">
 <p id="need"></p>
 
-###### 6 - cold space
+6 
 <script type="text/javascript">
 function showButtoncoldspace() {
   let coldspace_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/6 - cold space.mp3\" type=\"audio/mp3\"></audio>";
@@ -800,7 +798,7 @@ function showButtoncoldspace() {
 <input type = "button" onclick = "showButtoncoldspace()" value = "⏯ cold space">
 <p id="coldspace"></p>
 
-###### 7 - kind of weird
+7 
 <script type="text/javascript">
 function showButtonkindofweird() {
   let kindofweird_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/7 - kind of weird.mp3\" type=\"audio/mp3\"></audio>";
@@ -810,7 +808,7 @@ function showButtonkindofweird() {
 <input type = "button" onclick = "showButtonkindofweird()" value = "⏯ kind of weird">
 <p id="kindofweird"></p>
 
-###### 8 - terre
+8 
 <script type="text/javascript">
 function showButtonterre() {
   let terre_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/8 - terre.mp3\" type=\"audio/mp3\"></audio>";
@@ -820,7 +818,7 @@ function showButtonterre() {
 <input type = "button" onclick = "showButtonterre()" value = "⏯ terre">
 <p id="terre"></p>
 
-###### 9 - LUNE
+9 
 <script type="text/javascript">
 function showButtonlune() {
   let lune_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/9 - LUNE.mp3\" type=\"audio/mp3\"></audio>";
@@ -830,7 +828,7 @@ function showButtonlune() {
 <input type = "button" onclick = "showButtonlune()" value = "⏯ LUNE">
 <p id="lune"></p>
 
-###### 10 - MARS
+10 
 <script type="text/javascript">
 function showButtonmars() {
   let mars_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/10 - MARS.mp3\" type=\"audio/mp3\"></audio>";
@@ -840,7 +838,7 @@ function showButtonmars() {
 <input type = "button" onclick = "showButtonmars()" value = "⏯ MARS">
 <p id="mars"></p>
 
-###### 11 - mercury
+11 
 <script type="text/javascript">
 function showButtonmercury() {
   let mercury_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/11 - mercury.mp3\" type=\"audio/mp3\"></audio>";
@@ -850,7 +848,7 @@ function showButtonmercury() {
 <input type = "button" onclick = "showButtonmercury()" value = "⏯ mercury">
 <p id="mercury"></p>
 
-###### 12 - venus
+12 
 <script type="text/javascript">
 function showButtonvenus() {
   let venus_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/12 - venus.mp3\" type=\"audio/mp3\"></audio>";
@@ -860,7 +858,7 @@ function showButtonvenus() {
 <input type = "button" onclick = "showButtonvenus()" value = "⏯ venus">
 <p id="venus"></p>
 
-###### 13 - Retipuj
+13 
 <script type="text/javascript">
 function showButtonretipuj() {
   let retipuj_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/13 - Retipuj.mp3\" type=\"audio/mp3\"></audio>";
@@ -870,7 +868,7 @@ function showButtonretipuj() {
 <input type = "button" onclick = "showButtonretipuj()" value = "⏯ Retipuj">
 <p id="retipuj"></p>
 
-###### 14 - uranio
+14 
 <script type="text/javascript">
 function showButtonuranio() {
   let uranio_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/14 - uranio.mp3\" type=\"audio/mp3\"></audio>";
@@ -880,7 +878,7 @@ function showButtonuranio() {
 <input type = "button" onclick = "showButtonuranio()" value = "⏯ uranio">
 <p id="uranio"></p>
 
-###### 15 - NETPUNO
+15 
 <script type="text/javascript">
 function showButtonnetpuno() {
   let netpuno_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/15 - NETPUNO.mp3\" type=\"audio/mp3\"></audio>";
@@ -890,7 +888,7 @@ function showButtonnetpuno() {
 <input type = "button" onclick = "showButtonnetpuno()" value = "⏯ NETPUNO">
 <p id="netpuno"></p>
 
-###### 16 - soon
+16 
 <script type="text/javascript">
 function showButtonsoon() {
   let soon_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/16 - soon.mp3\" type=\"audio/mp3\"></audio>";
@@ -900,7 +898,7 @@ function showButtonsoon() {
 <input type = "button" onclick = "showButtonsoon()" value = "⏯ soon">
 <p id="soon"></p>
 
-###### 17 - encelato
+17 
 <script type="text/javascript">
 function showButtonencelato() {
   let encelato_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/17 - encelato.mp3\" type=\"audio/mp3\"></audio>";
@@ -910,7 +908,7 @@ function showButtonencelato() {
 <input type = "button" onclick = "showButtonencelato()" value = "⏯ encelato">
 <p id="encelato"></p>
 
-###### 18 - ganimidi
+18 
 <script type="text/javascript">
 function showButtonganimidi() {
   let ganimidi_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/18 - ganimidi.mp3\" type=\"audio/mp3\"></audio>";
@@ -920,7 +918,7 @@ function showButtonganimidi() {
 <input type = "button" onclick = "showButtonganimidi()" value = "⏯ ganimidi">
 <p id="ganimidi"></p>
 
-###### 19 - aphostmere
+19 
 <script type="text/javascript">
 function showButtonaphostmere() {
   let aphostmere_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/19 - aphostmere.mp3\" type=\"audio/mp3\"></audio>";
@@ -930,7 +928,7 @@ function showButtonaphostmere() {
 <input type = "button" onclick = "showButtonaphostmere()" value = "⏯ aphostmere">
 <p id="aphostmere"></p>
 
-###### 20 - yeahr
+20 
 <script type="text/javascript">
 function showButtonyeahr() {
   let yeahr_controls = "<audio controls><source src=\"/assets/music/4.- 'Planetc'/20 - yeahr.mp3\" type=\"audio/mp3\"></audio>";
@@ -944,7 +942,7 @@ function showButtonyeahr() {
 5. [Black](#black)
 #### 5.- 'Black' <a name="black"></a>
 [![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
-###### 1 - screan
+1 
 <script type="text/javascript">
 function showButtonscrean() {
   let screan_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/1 - screan.mp3\" type=\"audio/mp3\"></audio>";
@@ -954,7 +952,7 @@ function showButtonscrean() {
 <input type = "button" onclick = "showButtonscrean()" value = "⏯ screan">
 <p id="screan"></p>
 
-###### 2 - orange
+2 
 <script type="text/javascript">
 function showButtonorange() {
   let orange_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/2 - orange.mp3\" type=\"audio/mp3\"></audio>";
@@ -964,7 +962,7 @@ function showButtonorange() {
 <input type = "button" onclick = "showButtonorange()" value = "⏯ orange">
 <p id="orange"></p>
 
-###### 3 - gallery
+3 
 <script type="text/javascript">
 function showButtongallery() {
   let gallery_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/3 - gallery.mp3\" type=\"audio/mp3\"></audio>";
@@ -974,7 +972,7 @@ function showButtongallery() {
 <input type = "button" onclick = "showButtongallery()" value = "⏯ gallery">
 <p id="gallery"></p>
 
-###### 4 - todya
+4 
 <script type="text/javascript">
 function showButtontodya() {
   let todya_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/4 - todya.mp3\" type=\"audio/mp3\"></audio>";
@@ -984,7 +982,7 @@ function showButtontodya() {
 <input type = "button" onclick = "showButtontodya()" value = "⏯ todya">
 <p id="todya"></p>
 
-###### 5 - Bive
+5 
 <script type="text/javascript">
 function showButtonbive() {
   let bive_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/5 - Bive.mp3\" type=\"audio/mp3\"></audio>";
@@ -994,7 +992,7 @@ function showButtonbive() {
 <input type = "button" onclick = "showButtonbive()" value = "⏯ Bive">
 <p id="bive"></p>
 
-###### 6 - ad's grace
+6 
 <script type="text/javascript">
 function showButtonadsgrace() {
   let adsgrace_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/6 - ad's grace.mp3\" type=\"audio/mp3\"></audio>";
@@ -1004,7 +1002,7 @@ function showButtonadsgrace() {
 <input type = "button" onclick = "showButtonadsgrace()" value = "⏯ ad's grace">
 <p id="adsgrace"></p>
 
-###### 7 - surrend
+7 
 <script type="text/javascript">
 function showButtonsurrend() {
   let surrend_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/7 - surrend.mp3\" type=\"audio/mp3\"></audio>";
@@ -1014,7 +1012,7 @@ function showButtonsurrend() {
 <input type = "button" onclick = "showButtonsurrend()" value = "⏯ surrend">
 <p id="surrend"></p>
 
-###### 8 - andorthe
+8 
 <script type="text/javascript">
 function showButtonandorthe() {
   let andorthe_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/8 - andorthe.mp3\" type=\"audio/mp3\"></audio>";
@@ -1024,7 +1022,7 @@ function showButtonandorthe() {
 <input type = "button" onclick = "showButtonandorthe()" value = "⏯ andorthe">
 <p id="andorthe"></p>
 
-###### 9 - shock
+9 
 <script type="text/javascript">
 function showButtonshock() {
   let shock_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/9 - shock.mp3\" type=\"audio/mp3\"></audio>";
@@ -1034,7 +1032,7 @@ function showButtonshock() {
 <input type = "button" onclick = "showButtonshock()" value = "⏯ shock">
 <p id="shock"></p>
 
-###### 10 - Juggler
+10 
 <script type="text/javascript">
 function showButtonjuggler() {
   let juggler_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/10 - Juggler.mp3\" type=\"audio/mp3\"></audio>";
@@ -1044,7 +1042,7 @@ function showButtonjuggler() {
 <input type = "button" onclick = "showButtonjuggler()" value = "⏯ Juggler">
 <p id="juggler"></p>
 
-###### 11 - Bulb
+11 
 <script type="text/javascript">
 function showButtonbulb() {
   let bulb_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/11 - Bulb.mp3\" type=\"audio/mp3\"></audio>";
@@ -1054,7 +1052,7 @@ function showButtonbulb() {
 <input type = "button" onclick = "showButtonbulb()" value = "⏯ Bulb">
 <p id="bulb"></p>
 
-###### 12 - scratch
+12 
 <script type="text/javascript">
 function showButtonscratch() {
   let scratch_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/12 - scratch.mp3\" type=\"audio/mp3\"></audio>";
@@ -1064,7 +1062,7 @@ function showButtonscratch() {
 <input type = "button" onclick = "showButtonscratch()" value = "⏯ scratch">
 <p id="scratch"></p>
 
-###### 13 - furtherword
+13 
 <script type="text/javascript">
 function showButtonfurtherword() {
   let furtherword_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/13 - furtherword.mp3\" type=\"audio/mp3\"></audio>";
@@ -1074,7 +1072,7 @@ function showButtonfurtherword() {
 <input type = "button" onclick = "showButtonfurtherword()" value = "⏯ furtherword">
 <p id="furtherword"></p>
 
-###### 14 - Sentinel
+14 
 <script type="text/javascript">
 function showButtonsentinel() {
   let sentinel_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/14 - Sentinel.mp3\" type=\"audio/mp3\"></audio>";
@@ -1084,7 +1082,7 @@ function showButtonsentinel() {
 <input type = "button" onclick = "showButtonsentinel()" value = "⏯ Sentinel">
 <p id="sentinel"></p>
 
-###### 15 - COUNTLESS
+15 
 <script type="text/javascript">
 function showButtoncountless() {
   let countless_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/15 - COUNTLESS.mp3\" type=\"audio/mp3\"></audio>";
@@ -1094,7 +1092,7 @@ function showButtoncountless() {
 <input type = "button" onclick = "showButtoncountless()" value = "⏯ COUNTLESS">
 <p id="countless"></p>
 
-###### 16 - derklight
+16 
 <script type="text/javascript">
 function showButtonderklight() {
   let derklight_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/16 - derklight.mp3\" type=\"audio/mp3\"></audio>";
@@ -1104,7 +1102,7 @@ function showButtonderklight() {
 <input type = "button" onclick = "showButtonderklight()" value = "⏯ derklight">
 <p id="derklight"></p>
 
-###### 17 - artrist
+17 
 <script type="text/javascript">
 function showButtonartrist() {
   let artrist_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/17 - artrist.mp3\" type=\"audio/mp3\"></audio>";
@@ -1114,7 +1112,7 @@ function showButtonartrist() {
 <input type = "button" onclick = "showButtonartrist()" value = "⏯ artrist">
 <p id="artrist"></p>
 
-###### 18 - whatdidhappen
+18 
 <script type="text/javascript">
 function showButtonwhatdidhappen() {
   let whatdidhappen_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/18 - whatdidhappen.mp3\" type=\"audio/mp3\"></audio>";
@@ -1124,7 +1122,7 @@ function showButtonwhatdidhappen() {
 <input type = "button" onclick = "showButtonwhatdidhappen()" value = "⏯ whatdidhappen">
 <p id="whatdidhappen"></p>
 
-###### 19 - UNKNOWN
+19 
 <script type="text/javascript">
 function showButtonunknown() {
   let unknown_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/19 - UNKNOWN.mp3\" type=\"audio/mp3\"></audio>";
@@ -1134,7 +1132,7 @@ function showButtonunknown() {
 <input type = "button" onclick = "showButtonunknown()" value = "⏯ UNKNOWN">
 <p id="unknown"></p>
 
-###### 20 - control_plus_s
+20 
 <script type="text/javascript">
 function showButtoncontrol_plus_s() {
   let control_plus_s_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/20 - control_plus_s.mp3\" type=\"audio/mp3\"></audio>";
@@ -1144,7 +1142,7 @@ function showButtoncontrol_plus_s() {
 <input type = "button" onclick = "showButtoncontrol_plus_s()" value = "⏯ control_plus_s">
 <p id="control_plus_s"></p>
 
-###### 21 - BITTERCANDY
+21 
 <script type="text/javascript">
 function showButtonbittercandy() {
   let bittercandy_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/21 - BITTERCANDY.mp3\" type=\"audio/mp3\"></audio>";
@@ -1154,7 +1152,7 @@ function showButtonbittercandy() {
 <input type = "button" onclick = "showButtonbittercandy()" value = "⏯ BITTERCANDY">
 <p id="bittercandy"></p>
 
-###### 22 - water small
+22 
 <script type="text/javascript">
 function showButtonwatersmall() {
   let watersmall_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/22 - water small.mp3\" type=\"audio/mp3\"></audio>";
@@ -1164,7 +1162,7 @@ function showButtonwatersmall() {
 <input type = "button" onclick = "showButtonwatersmall()" value = "⏯ water small">
 <p id="watersmall"></p>
 
-###### 23 - Petri dish
+23 
 <script type="text/javascript">
 function showButtonpetridish() {
   let petridish_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/23 - Petri dish.mp3\" type=\"audio/mp3\"></audio>";
@@ -1174,7 +1172,7 @@ function showButtonpetridish() {
 <input type = "button" onclick = "showButtonpetridish()" value = "⏯ Petri dish">
 <p id="petridish"></p>
 
-###### 24 - late
+24 
 <script type="text/javascript">
 function showButtonlate() {
   let late_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/24 - late.mp3\" type=\"audio/mp3\"></audio>";
@@ -1184,7 +1182,7 @@ function showButtonlate() {
 <input type = "button" onclick = "showButtonlate()" value = "⏯ late">
 <p id="late"></p>
 
-###### 25 - Shipfriend
+25 
 <script type="text/javascript">
 function showButtonshipfriend() {
   let shipfriend_controls = "<audio controls><source src=\"/assets/music/5.- 'Black'/25 - Shipfriend.mp3\" type=\"audio/mp3\"></audio>";
@@ -1198,7 +1196,7 @@ function showButtonshipfriend() {
 6. [list](#list)
 #### 6.- 'list' <a name="list"></a>
 [![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
-###### 1 - ace
+1 
 <script type="text/javascript">
 function showButtonace() {
   let ace_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/1 - ace.mp3\" type=\"audio/mp3\"></audio>";
@@ -1208,7 +1206,7 @@ function showButtonace() {
 <input type = "button" onclick = "showButtonace()" value = "⏯ ace">
 <p id="ace"></p>
 
-###### 2 - start
+2 
 <script type="text/javascript">
 function showButtonstart() {
   let start_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/2 - start.mp3\" type=\"audio/mp3\"></audio>";
@@ -1218,7 +1216,7 @@ function showButtonstart() {
 <input type = "button" onclick = "showButtonstart()" value = "⏯ start">
 <p id="start"></p>
 
-###### 3 - the power of gabber
+3 
 <script type="text/javascript">
 function showButtonthepowerofgabber() {
   let thepowerofgabber_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/3 - the power of gabber.mp3\" type=\"audio/mp3\"></audio>";
@@ -1228,7 +1226,7 @@ function showButtonthepowerofgabber() {
 <input type = "button" onclick = "showButtonthepowerofgabber()" value = "⏯ the power of gabber">
 <p id="thepowerofgabber"></p>
 
-###### 4 - Track lost
+4 
 <script type="text/javascript">
 function showButtontracklost() {
   let tracklost_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/4 - Track lost.mp3\" type=\"audio/mp3\"></audio>";
@@ -1238,7 +1236,7 @@ function showButtontracklost() {
 <input type = "button" onclick = "showButtontracklost()" value = "⏯ Track lost">
 <p id="tracklost"></p>
 
-###### 5 - yawn
+5 
 <script type="text/javascript">
 function showButtonyawn() {
   let yawn_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/5 - yawn.mp3\" type=\"audio/mp3\"></audio>";
@@ -1248,7 +1246,7 @@ function showButtonyawn() {
 <input type = "button" onclick = "showButtonyawn()" value = "⏯ yawn">
 <p id="yawn"></p>
 
-###### 6 - sniks
+6 
 <script type="text/javascript">
 function showButtonsniks() {
   let sniks_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/6 - sniks.mp3\" type=\"audio/mp3\"></audio>";
@@ -1258,7 +1256,7 @@ function showButtonsniks() {
 <input type = "button" onclick = "showButtonsniks()" value = "⏯ sniks">
 <p id="sniks"></p>
 
-###### 7 - Noon
+7 
 <script type="text/javascript">
 function showButtonnoon() {
   let noon_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/7 - Noon.mp3\" type=\"audio/mp3\"></audio>";
@@ -1268,7 +1266,7 @@ function showButtonnoon() {
 <input type = "button" onclick = "showButtonnoon()" value = "⏯ Noon">
 <p id="noon"></p>
 
-###### 8 - clear
+8 
 <script type="text/javascript">
 function showButtonclear() {
   let clear_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/8 - clear.mp3\" type=\"audio/mp3\"></audio>";
@@ -1278,7 +1276,7 @@ function showButtonclear() {
 <input type = "button" onclick = "showButtonclear()" value = "⏯ clear">
 <p id="clear"></p>
 
-###### 9 - clueless
+9 
 <script type="text/javascript">
 function showButtonclueless() {
   let clueless_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/9 - clueless.mp3\" type=\"audio/mp3\"></audio>";
@@ -1288,7 +1286,7 @@ function showButtonclueless() {
 <input type = "button" onclick = "showButtonclueless()" value = "⏯ clueless">
 <p id="clueless"></p>
 
-###### 10 - Gone
+10 
 <script type="text/javascript">
 function showButtongone() {
   let gone_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/10 - Gone.mp3\" type=\"audio/mp3\"></audio>";
@@ -1298,7 +1296,7 @@ function showButtongone() {
 <input type = "button" onclick = "showButtongone()" value = "⏯ Gone">
 <p id="gone"></p>
 
-###### 11 - depart
+11 
 <script type="text/javascript">
 function showButtondepart() {
   let depart_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/11 - depart.mp3\" type=\"audio/mp3\"></audio>";
@@ -1308,7 +1306,7 @@ function showButtondepart() {
 <input type = "button" onclick = "showButtondepart()" value = "⏯ depart">
 <p id="depart"></p>
 
-###### 12 - wait
+12 
 <script type="text/javascript">
 function showButtonwait() {
   let wait_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/12 - wait.mp3\" type=\"audio/mp3\"></audio>";
@@ -1318,7 +1316,7 @@ function showButtonwait() {
 <input type = "button" onclick = "showButtonwait()" value = "⏯ wait">
 <p id="wait"></p>
 
-###### 13 - ease
+13 
 <script type="text/javascript">
 function showButtonease() {
   let ease_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/13 - ease.mp3\" type=\"audio/mp3\"></audio>";
@@ -1328,7 +1326,7 @@ function showButtonease() {
 <input type = "button" onclick = "showButtonease()" value = "⏯ ease">
 <p id="ease"></p>
 
-###### 14 - flash
+14 
 <script type="text/javascript">
 function showButtonflash() {
   let flash_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/14 - flash.mp3\" type=\"audio/mp3\"></audio>";
@@ -1338,7 +1336,7 @@ function showButtonflash() {
 <input type = "button" onclick = "showButtonflash()" value = "⏯ flash">
 <p id="flash"></p>
 
-###### 15 - robots in london
+15 
 <script type="text/javascript">
 function showButtonrobotsinlondon() {
   let robotsinlondon_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/15 - robots in london.mp3\" type=\"audio/mp3\"></audio>";
@@ -1348,7 +1346,7 @@ function showButtonrobotsinlondon() {
 <input type = "button" onclick = "showButtonrobotsinlondon()" value = "⏯ robots in london">
 <p id="robotsinlondon"></p>
 
-###### 16 - escalene
+16 
 <script type="text/javascript">
 function showButtonescalene() {
   let escalene_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/16 - escalene.mp3\" type=\"audio/mp3\"></audio>";
@@ -1358,7 +1356,7 @@ function showButtonescalene() {
 <input type = "button" onclick = "showButtonescalene()" value = "⏯ escalene">
 <p id="escalene"></p>
 
-###### 17 - dancefloor
+17 
 <script type="text/javascript">
 function showButtondancefloor() {
   let dancefloor_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/17 - dancefloor.mp3\" type=\"audio/mp3\"></audio>";
@@ -1368,7 +1366,7 @@ function showButtondancefloor() {
 <input type = "button" onclick = "showButtondancefloor()" value = "⏯ dancefloor">
 <p id="dancefloor"></p>
 
-###### 18 - HitHats
+18 
 <script type="text/javascript">
 function showButtonhithats() {
   let hithats_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/18 - HitHats.mp3\" type=\"audio/mp3\"></audio>";
@@ -1378,7 +1376,7 @@ function showButtonhithats() {
 <input type = "button" onclick = "showButtonhithats()" value = "⏯ HitHats">
 <p id="hithats"></p>
 
-###### 19 - plate
+19 
 <script type="text/javascript">
 function showButtonplate() {
   let plate_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/19 - plate.mp3\" type=\"audio/mp3\"></audio>";
@@ -1388,7 +1386,7 @@ function showButtonplate() {
 <input type = "button" onclick = "showButtonplate()" value = "⏯ plate">
 <p id="plate"></p>
 
-###### 20 - petals
+20 
 <script type="text/javascript">
 function showButtonpetals() {
   let petals_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/20 - petals.mp3\" type=\"audio/mp3\"></audio>";
@@ -1398,7 +1396,7 @@ function showButtonpetals() {
 <input type = "button" onclick = "showButtonpetals()" value = "⏯ petals">
 <p id="petals"></p>
 
-###### 21 - leftovers
+21 
 <script type="text/javascript">
 function showButtonleftovers() {
   let leftovers_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/21 - leftovers.mp3\" type=\"audio/mp3\"></audio>";
@@ -1408,7 +1406,7 @@ function showButtonleftovers() {
 <input type = "button" onclick = "showButtonleftovers()" value = "⏯ leftovers">
 <p id="leftovers"></p>
 
-###### 22 - upward
+22 
 <script type="text/javascript">
 function showButtonupward() {
   let upward_controls = "<audio controls><source src=\"/assets/music/6.- 'list'/22 - upward.mp3\" type=\"audio/mp3\"></audio>";
@@ -1422,7 +1420,7 @@ function showButtonupward() {
 7. [A cool name](#acoolname)
 #### 7.- 'A cool name' <a name="acoolname"></a>
 [![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
-###### 1 - Negativ
+1 
 <script type="text/javascript">
 function showButtonnegativ() {
   let negativ_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/1 - Negativ.mp3\" type=\"audio/mp3\"></audio>";
@@ -1432,7 +1430,7 @@ function showButtonnegativ() {
 <input type = "button" onclick = "showButtonnegativ()" value = "⏯ Negativ">
 <p id="negativ"></p>
 
-###### 2 - unbalanced
+2 
 <script type="text/javascript">
 function showButtonunbalanced() {
   let unbalanced_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/2 - unbalanced.mp3\" type=\"audio/mp3\"></audio>";
@@ -1442,7 +1440,7 @@ function showButtonunbalanced() {
 <input type = "button" onclick = "showButtonunbalanced()" value = "⏯ unbalanced">
 <p id="unbalanced"></p>
 
-###### 3 - Fly
+3 
 <script type="text/javascript">
 function showButtonfly() {
   let fly_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/3 - Fly.mp3\" type=\"audio/mp3\"></audio>";
@@ -1452,7 +1450,7 @@ function showButtonfly() {
 <input type = "button" onclick = "showButtonfly()" value = "⏯ Fly">
 <p id="fly"></p>
 
-###### 4 - Untitled
+4 
 <script type="text/javascript">
 function showButtonuntitled() {
   let untitled_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/4 - Untitled.mp3\" type=\"audio/mp3\"></audio>";
@@ -1462,7 +1460,7 @@ function showButtonuntitled() {
 <input type = "button" onclick = "showButtonuntitled()" value = "⏯ Untitled">
 <p id="untitled"></p>
 
-###### 5 - heartbreak
+5 
 <script type="text/javascript">
 function showButtonheartbreak() {
   let heartbreak_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/5 - heartbreak.mp3\" type=\"audio/mp3\"></audio>";
@@ -1472,7 +1470,7 @@ function showButtonheartbreak() {
 <input type = "button" onclick = "showButtonheartbreak()" value = "⏯ heartbreak">
 <p id="heartbreak"></p>
 
-###### 6 - hustle
+6 
 <script type="text/javascript">
 function showButtonhustle() {
   let hustle_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/6 - hustle.mp3\" type=\"audio/mp3\"></audio>";
@@ -1482,7 +1480,7 @@ function showButtonhustle() {
 <input type = "button" onclick = "showButtonhustle()" value = "⏯ hustle">
 <p id="hustle"></p>
 
-###### 7 - lasers through smoke
+7 
 <script type="text/javascript">
 function showButtonlasersthroughsmoke() {
   let lasersthroughsmoke_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/7 - lasers through smoke.mp3\" type=\"audio/mp3\"></audio>";
@@ -1492,7 +1490,7 @@ function showButtonlasersthroughsmoke() {
 <input type = "button" onclick = "showButtonlasersthroughsmoke()" value = "⏯ lasers through smoke">
 <p id="lasersthroughsmoke"></p>
 
-###### 8 - haul
+8 
 <script type="text/javascript">
 function showButtonhaul() {
   let haul_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/8 - haul.mp3\" type=\"audio/mp3\"></audio>";
@@ -1502,7 +1500,7 @@ function showButtonhaul() {
 <input type = "button" onclick = "showButtonhaul()" value = "⏯ haul">
 <p id="haul"></p>
 
-###### 9 - shining stars
+9 
 <script type="text/javascript">
 function showButtonshiningstars() {
   let shiningstars_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/9 - shining stars.mp3\" type=\"audio/mp3\"></audio>";
@@ -1512,7 +1510,7 @@ function showButtonshiningstars() {
 <input type = "button" onclick = "showButtonshiningstars()" value = "⏯ shining stars">
 <p id="shiningstars"></p>
 
-###### 10 - celebrate
+10 
 <script type="text/javascript">
 function showButtoncelebrate() {
   let celebrate_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/10 - celebrate.mp3\" type=\"audio/mp3\"></audio>";
@@ -1522,7 +1520,7 @@ function showButtoncelebrate() {
 <input type = "button" onclick = "showButtoncelebrate()" value = "⏯ celebrate">
 <p id="celebrate"></p>
 
-###### 11 - step
+11 
 <script type="text/javascript">
 function showButtonstep() {
   let step_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/11 - step.mp3\" type=\"audio/mp3\"></audio>";
@@ -1532,7 +1530,7 @@ function showButtonstep() {
 <input type = "button" onclick = "showButtonstep()" value = "⏯ step">
 <p id="step"></p>
 
-###### 12 - graph
+12 
 <script type="text/javascript">
 function showButtongraph() {
   let graph_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/12 - graph.mp3\" type=\"audio/mp3\"></audio>";
@@ -1542,7 +1540,7 @@ function showButtongraph() {
 <input type = "button" onclick = "showButtongraph()" value = "⏯ graph">
 <p id="graph"></p>
 
-###### 13 - sos
+13 
 <script type="text/javascript">
 function showButtonsos() {
   let sos_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/13 - sos.mp3\" type=\"audio/mp3\"></audio>";
@@ -1552,7 +1550,7 @@ function showButtonsos() {
 <input type = "button" onclick = "showButtonsos()" value = "⏯ sos">
 <p id="sos"></p>
 
-###### 14 - mirror
+14 
 <script type="text/javascript">
 function showButtonmirror() {
   let mirror_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/14 - mirror.mp3\" type=\"audio/mp3\"></audio>";
@@ -1562,7 +1560,7 @@ function showButtonmirror() {
 <input type = "button" onclick = "showButtonmirror()" value = "⏯ mirror">
 <p id="mirror"></p>
 
-###### 15 - vortex attack
+15 
 <script type="text/javascript">
 function showButtonvortexattack() {
   let vortexattack_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/15 - vortex attack.mp3\" type=\"audio/mp3\"></audio>";
@@ -1572,7 +1570,7 @@ function showButtonvortexattack() {
 <input type = "button" onclick = "showButtonvortexattack()" value = "⏯ vortex attack">
 <p id="vortexattack"></p>
 
-###### 16 - resources
+16 
 <script type="text/javascript">
 function showButtonresources() {
   let resources_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/16 - resources.mp3\" type=\"audio/mp3\"></audio>";
@@ -1582,7 +1580,7 @@ function showButtonresources() {
 <input type = "button" onclick = "showButtonresources()" value = "⏯ resources">
 <p id="resources"></p>
 
-###### 17 - r u there
+17 
 <script type="text/javascript">
 function showButtonruthere() {
   let ruthere_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/17 - r u there.mp3\" type=\"audio/mp3\"></audio>";
@@ -1592,7 +1590,7 @@ function showButtonruthere() {
 <input type = "button" onclick = "showButtonruthere()" value = "⏯ r u there">
 <p id="ruthere"></p>
 
-###### 18 - boom!
+18 
 <script type="text/javascript">
 function showButtonboom!() {
   let boom!_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/18 - boom!.mp3\" type=\"audio/mp3\"></audio>";
@@ -1606,7 +1604,7 @@ function showButtonboom!() {
 8. [50%](#50)
 #### 8.- '50%' <a name="50"></a>
 [![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
-###### 1 - no one
+1 
 <script type="text/javascript">
 function showButtonnoone() {
   let noone_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/1 - no one.mp3\" type=\"audio/mp3\"></audio>";
@@ -1616,7 +1614,7 @@ function showButtonnoone() {
 <input type = "button" onclick = "showButtonnoone()" value = "⏯ no one">
 <p id="noone"></p>
 
-###### 2 - jackpot
+2 
 <script type="text/javascript">
 function showButtonjackpot() {
   let jackpot_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/2 - jackpot.mp3\" type=\"audio/mp3\"></audio>";
@@ -1626,7 +1624,7 @@ function showButtonjackpot() {
 <input type = "button" onclick = "showButtonjackpot()" value = "⏯ jackpot">
 <p id="jackpot"></p>
 
-###### 3 - meet
+3 
 <script type="text/javascript">
 function showButtonmeet() {
   let meet_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/3 - meet.mp3\" type=\"audio/mp3\"></audio>";
@@ -1636,7 +1634,7 @@ function showButtonmeet() {
 <input type = "button" onclick = "showButtonmeet()" value = "⏯ meet">
 <p id="meet"></p>
 
-###### 4 - roundabout
+4 
 <script type="text/javascript">
 function showButtonroundabout() {
   let roundabout_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/4 - roundabout.mp3\" type=\"audio/mp3\"></audio>";
@@ -1646,7 +1644,7 @@ function showButtonroundabout() {
 <input type = "button" onclick = "showButtonroundabout()" value = "⏯ roundabout">
 <p id="roundabout"></p>
 
-###### 5 - branch
+5 
 <script type="text/javascript">
 function showButtonbranch() {
   let branch_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/5 - branch.mp3\" type=\"audio/mp3\"></audio>";
@@ -1656,7 +1654,7 @@ function showButtonbranch() {
 <input type = "button" onclick = "showButtonbranch()" value = "⏯ branch">
 <p id="branch"></p>
 
-###### 6 - skid
+6 
 <script type="text/javascript">
 function showButtonskid() {
   let skid_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/6 - skid.mp3\" type=\"audio/mp3\"></audio>";
@@ -1666,7 +1664,7 @@ function showButtonskid() {
 <input type = "button" onclick = "showButtonskid()" value = "⏯ skid">
 <p id="skid"></p>
 
-###### 7 - stop
+7 
 <script type="text/javascript">
 function showButtonstop() {
   let stop_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/7 - stop.mp3\" type=\"audio/mp3\"></audio>";
@@ -1676,7 +1674,7 @@ function showButtonstop() {
 <input type = "button" onclick = "showButtonstop()" value = "⏯ stop">
 <p id="stop"></p>
 
-###### 8 - gap
+8 
 <script type="text/javascript">
 function showButtongap() {
   let gap_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/8 - gap.mp3\" type=\"audio/mp3\"></audio>";
@@ -1686,7 +1684,7 @@ function showButtongap() {
 <input type = "button" onclick = "showButtongap()" value = "⏯ gap">
 <p id="gap"></p>
 
-###### 9 - Prince
+9 
 <script type="text/javascript">
 function showButtonprince() {
   let prince_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/9 - Prince.mp3\" type=\"audio/mp3\"></audio>";
@@ -1696,7 +1694,7 @@ function showButtonprince() {
 <input type = "button" onclick = "showButtonprince()" value = "⏯ Prince">
 <p id="prince"></p>
 
-###### 10 - missing
+10 
 <script type="text/javascript">
 function showButtonmissing() {
   let missing_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/10 - missing.mp3\" type=\"audio/mp3\"></audio>";
@@ -1706,7 +1704,7 @@ function showButtonmissing() {
 <input type = "button" onclick = "showButtonmissing()" value = "⏯ missing">
 <p id="missing"></p>
 
-###### 11 - sticky heat
+11 
 <script type="text/javascript">
 function showButtonstickyheat() {
   let stickyheat_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/11 - sticky heat.mp3\" type=\"audio/mp3\"></audio>";
@@ -1716,7 +1714,7 @@ function showButtonstickyheat() {
 <input type = "button" onclick = "showButtonstickyheat()" value = "⏯ sticky heat">
 <p id="stickyheat"></p>
 
-###### 12 - surcease
+12 
 <script type="text/javascript">
 function showButtonsurcease() {
   let surcease_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/12 - surcease.mp3\" type=\"audio/mp3\"></audio>";
@@ -1726,7 +1724,7 @@ function showButtonsurcease() {
 <input type = "button" onclick = "showButtonsurcease()" value = "⏯ surcease">
 <p id="surcease"></p>
 
-###### 13 - Weissbier
+13 
 <script type="text/javascript">
 function showButtonweissbier() {
   let weissbier_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/13 - Weissbier.mp3\" type=\"audio/mp3\"></audio>";
@@ -1736,7 +1734,7 @@ function showButtonweissbier() {
 <input type = "button" onclick = "showButtonweissbier()" value = "⏯ Weissbier">
 <p id="weissbier"></p>
 
-###### 14 - sirens
+14 
 <script type="text/javascript">
 function showButtonsirens() {
   let sirens_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/14 - sirens.mp3\" type=\"audio/mp3\"></audio>";
@@ -1746,7 +1744,7 @@ function showButtonsirens() {
 <input type = "button" onclick = "showButtonsirens()" value = "⏯ sirens">
 <p id="sirens"></p>
 
-###### 15 - new titles
+15 
 <script type="text/javascript">
 function showButtonnewtitles() {
   let newtitles_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/15 - new titles.mp3\" type=\"audio/mp3\"></audio>";
@@ -1756,7 +1754,7 @@ function showButtonnewtitles() {
 <input type = "button" onclick = "showButtonnewtitles()" value = "⏯ new titles">
 <p id="newtitles"></p>
 
-###### 16 - loco motion
+16 
 <script type="text/javascript">
 function showButtonlocomotion() {
   let locomotion_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/16 - loco motion.mp3\" type=\"audio/mp3\"></audio>";
@@ -1766,7 +1764,7 @@ function showButtonlocomotion() {
 <input type = "button" onclick = "showButtonlocomotion()" value = "⏯ loco motion">
 <p id="locomotion"></p>
 
-###### 17 - best beast
+17 
 <script type="text/javascript">
 function showButtonbestbeast() {
   let bestbeast_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/17 - best beast.mp3\" type=\"audio/mp3\"></audio>";
@@ -1776,7 +1774,7 @@ function showButtonbestbeast() {
 <input type = "button" onclick = "showButtonbestbeast()" value = "⏯ best beast">
 <p id="bestbeast"></p>
 
-###### 18 - Cute As Hell
+18 
 <script type="text/javascript">
 function showButtoncuteashell() {
   let cuteashell_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/18 - Cute As Hell.mp3\" type=\"audio/mp3\"></audio>";
@@ -1786,7 +1784,7 @@ function showButtoncuteashell() {
 <input type = "button" onclick = "showButtoncuteashell()" value = "⏯ Cute As Hell">
 <p id="cuteashell"></p>
 
-###### 19 - regreat
+19 
 <script type="text/javascript">
 function showButtonregreat() {
   let regreat_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/19 - regreat.mp3\" type=\"audio/mp3\"></audio>";
@@ -1796,7 +1794,7 @@ function showButtonregreat() {
 <input type = "button" onclick = "showButtonregreat()" value = "⏯ regreat">
 <p id="regreat"></p>
 
-###### 20 - edge
+20 
 <script type="text/javascript">
 function showButtonedge() {
   let edge_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/20 - edge.mp3\" type=\"audio/mp3\"></audio>";
@@ -1806,7 +1804,7 @@ function showButtonedge() {
 <input type = "button" onclick = "showButtonedge()" value = "⏯ edge">
 <p id="edge"></p>
 
-###### 21 - 50%
+21 
 <script type="text/javascript">
 function showButton50() {
   let 50_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/21 - 50%.mp3\" type=\"audio/mp3\"></audio>";
@@ -1816,7 +1814,7 @@ function showButton50() {
 <input type = "button" onclick = "showButton50()" value = "⏯ 50%">
 <p id="50"></p>
 
-###### 22 - hot pockets
+22 
 <script type="text/javascript">
 function showButtonhotpockets() {
   let hotpockets_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/22 - hot pockets.mp3\" type=\"audio/mp3\"></audio>";
@@ -1830,7 +1828,7 @@ function showButtonhotpockets() {
 9. [advisory content](#advisorycontent)
 #### 9.- 'advisory content' <a name="advisorycontent"></a>
 [![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
-###### 1 - cigarret advertisement
+1 
 <script type="text/javascript">
 function showButtoncigarretadvertisement() {
   let cigarretadvertisement_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/1 - cigarret advertisement.mp3\" type=\"audio/mp3\"></audio>";
@@ -1840,7 +1838,7 @@ function showButtoncigarretadvertisement() {
 <input type = "button" onclick = "showButtoncigarretadvertisement()" value = "⏯ cigarret advertisement">
 <p id="cigarretadvertisement"></p>
 
-###### 2 - seawatch
+2 
 <script type="text/javascript">
 function showButtonseawatch() {
   let seawatch_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/2 - seawatch.mp3\" type=\"audio/mp3\"></audio>";
@@ -1850,7 +1848,7 @@ function showButtonseawatch() {
 <input type = "button" onclick = "showButtonseawatch()" value = "⏯ seawatch">
 <p id="seawatch"></p>
 
-###### 3 - nostalgia
+3 
 <script type="text/javascript">
 function showButtonnostalgia() {
   let nostalgia_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/3 - nostalgia.mp3\" type=\"audio/mp3\"></audio>";
@@ -1860,7 +1858,7 @@ function showButtonnostalgia() {
 <input type = "button" onclick = "showButtonnostalgia()" value = "⏯ nostalgia">
 <p id="nostalgia"></p>
 
-###### 4 - ray-v
+4 
 <script type="text/javascript">
 function showButtonrayv() {
   let rayv_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/4 - ray-v.mp3\" type=\"audio/mp3\"></audio>";
@@ -1870,7 +1868,7 @@ function showButtonrayv() {
 <input type = "button" onclick = "showButtonrayv()" value = "⏯ ray-v">
 <p id="rayv"></p>
 
-###### 5 - lab
+5 
 <script type="text/javascript">
 function showButtonlab() {
   let lab_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/5 - lab.mp3\" type=\"audio/mp3\"></audio>";
@@ -1880,7 +1878,7 @@ function showButtonlab() {
 <input type = "button" onclick = "showButtonlab()" value = "⏯ lab">
 <p id="lab"></p>
 
-###### 6 - lit
+6 
 <script type="text/javascript">
 function showButtonlit() {
   let lit_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/6 - lit.mp3\" type=\"audio/mp3\"></audio>";
@@ -1890,7 +1888,7 @@ function showButtonlit() {
 <input type = "button" onclick = "showButtonlit()" value = "⏯ lit">
 <p id="lit"></p>
 
-###### 7 - dessert
+7 
 <script type="text/javascript">
 function showButtondessert() {
   let dessert_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/7 - dessert.mp3\" type=\"audio/mp3\"></audio>";
@@ -1900,7 +1898,7 @@ function showButtondessert() {
 <input type = "button" onclick = "showButtondessert()" value = "⏯ dessert">
 <p id="dessert"></p>
 
-###### 8 - tahw
+8 
 <script type="text/javascript">
 function showButtontahw() {
   let tahw_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/8 - tahw.mp3\" type=\"audio/mp3\"></audio>";
@@ -1910,7 +1908,7 @@ function showButtontahw() {
 <input type = "button" onclick = "showButtontahw()" value = "⏯ tahw">
 <p id="tahw"></p>
 
-###### 9 - coolture
+9 
 <script type="text/javascript">
 function showButtoncoolture() {
   let coolture_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/9 - coolture.mp3\" type=\"audio/mp3\"></audio>";
@@ -1920,7 +1918,7 @@ function showButtoncoolture() {
 <input type = "button" onclick = "showButtoncoolture()" value = "⏯ coolture">
 <p id="coolture"></p>
 
-###### 10 - freemium
+10 
 <script type="text/javascript">
 function showButtonfreemium() {
   let freemium_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/10 - freemium.mp3\" type=\"audio/mp3\"></audio>";
@@ -1930,7 +1928,7 @@ function showButtonfreemium() {
 <input type = "button" onclick = "showButtonfreemium()" value = "⏯ freemium">
 <p id="freemium"></p>
 
-###### 11 - no more recall
+11 
 <script type="text/javascript">
 function showButtonnomorerecall() {
   let nomorerecall_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/11 - no more recall.mp3\" type=\"audio/mp3\"></audio>";
@@ -1940,7 +1938,7 @@ function showButtonnomorerecall() {
 <input type = "button" onclick = "showButtonnomorerecall()" value = "⏯ no more recall">
 <p id="nomorerecall"></p>
 
-###### 12 - keen
+12 
 <script type="text/javascript">
 function showButtonkeen() {
   let keen_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/12 - keen.mp3\" type=\"audio/mp3\"></audio>";
@@ -1950,7 +1948,7 @@ function showButtonkeen() {
 <input type = "button" onclick = "showButtonkeen()" value = "⏯ keen">
 <p id="keen"></p>
 
-###### 13 - try
+13 
 <script type="text/javascript">
 function showButtontry() {
   let try_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/13 - try.mp3\" type=\"audio/mp3\"></audio>";
@@ -1960,7 +1958,7 @@ function showButtontry() {
 <input type = "button" onclick = "showButtontry()" value = "⏯ try">
 <p id="try"></p>
 
-###### 14 - club the clap
+14 
 <script type="text/javascript">
 function showButtonclubtheclap() {
   let clubtheclap_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/14 - club the clap.mp3\" type=\"audio/mp3\"></audio>";
@@ -1970,7 +1968,7 @@ function showButtonclubtheclap() {
 <input type = "button" onclick = "showButtonclubtheclap()" value = "⏯ club the clap">
 <p id="clubtheclap"></p>
 
-###### 15 - candle
+15 
 <script type="text/javascript">
 function showButtoncandle() {
   let candle_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/15 - candle.mp3\" type=\"audio/mp3\"></audio>";
@@ -1980,7 +1978,7 @@ function showButtoncandle() {
 <input type = "button" onclick = "showButtoncandle()" value = "⏯ candle">
 <p id="candle"></p>
 
-###### 16 - parlor
+16 
 <script type="text/javascript">
 function showButtonparlor() {
   let parlor_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/16 - parlor.mp3\" type=\"audio/mp3\"></audio>";
@@ -1990,7 +1988,7 @@ function showButtonparlor() {
 <input type = "button" onclick = "showButtonparlor()" value = "⏯ parlor">
 <p id="parlor"></p>
 
-###### 17 - lesshome
+17 
 <script type="text/javascript">
 function showButtonlesshome() {
   let lesshome_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/17 - lesshome.mp3\" type=\"audio/mp3\"></audio>";
@@ -2000,7 +1998,7 @@ function showButtonlesshome() {
 <input type = "button" onclick = "showButtonlesshome()" value = "⏯ lesshome">
 <p id="lesshome"></p>
 
-###### 18 - enchanted
+18 
 <script type="text/javascript">
 function showButtonenchanted() {
   let enchanted_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/18 - enchanted.mp3\" type=\"audio/mp3\"></audio>";
@@ -2010,7 +2008,7 @@ function showButtonenchanted() {
 <input type = "button" onclick = "showButtonenchanted()" value = "⏯ enchanted">
 <p id="enchanted"></p>
 
-###### 19 - Chasing papers
+19 
 <script type="text/javascript">
 function showButtonchasingpapers() {
   let chasingpapers_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/19 - Chasing papers.mp3\" type=\"audio/mp3\"></audio>";
@@ -2020,7 +2018,7 @@ function showButtonchasingpapers() {
 <input type = "button" onclick = "showButtonchasingpapers()" value = "⏯ Chasing papers">
 <p id="chasingpapers"></p>
 
-###### 20 - one blink two eyes
+20 
 <script type="text/javascript">
 function showButtononeblinktwoeyes() {
   let oneblinktwoeyes_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/20 - one blink two eyes.mp3\" type=\"audio/mp3\"></audio>";
@@ -2030,7 +2028,7 @@ function showButtononeblinktwoeyes() {
 <input type = "button" onclick = "showButtononeblinktwoeyes()" value = "⏯ one blink two eyes">
 <p id="oneblinktwoeyes"></p>
 
-###### 21 - forbear
+21 
 <script type="text/javascript">
 function showButtonforbear() {
   let forbear_controls = "<audio controls><source src=\"/assets/music/9.- 'advisory content'/21 - forbear.mp3\" type=\"audio/mp3\"></audio>";
@@ -2044,7 +2042,7 @@ function showButtonforbear() {
 10. [BUY NEVER](#buynever)
 #### 10.- 'BUY NEVER' <a name="buynever"></a>
 [![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
-###### 1 .- Entrance
+1 .
 <script type="text/javascript">
 function showButtonentrance() {
   let entrance_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/1 .- Entrance.mp3\" type=\"audio/mp3\"></audio>";
@@ -2054,7 +2052,7 @@ function showButtonentrance() {
 <input type = "button" onclick = "showButtonentrance()" value = "⏯ Entrance">
 <p id="entrance"></p>
 
-###### 2.- Haze
+2.
 <script type="text/javascript">
 function showButtonhaze() {
   let haze_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/2.- Haze.mp3\" type=\"audio/mp3\"></audio>";
@@ -2064,7 +2062,7 @@ function showButtonhaze() {
 <input type = "button" onclick = "showButtonhaze()" value = "⏯ Haze">
 <p id="haze"></p>
 
-###### 3.- Extravaganza
+3.
 <script type="text/javascript">
 function showButtonextravaganza() {
   let extravaganza_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/3.- Extravaganza.mp3\" type=\"audio/mp3\"></audio>";
@@ -2074,7 +2072,7 @@ function showButtonextravaganza() {
 <input type = "button" onclick = "showButtonextravaganza()" value = "⏯ Extravaganza">
 <p id="extravaganza"></p>
 
-###### 4.- Confidant
+4.
 <script type="text/javascript">
 function showButtonconfidant() {
   let confidant_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/4.- Confidant.mp3\" type=\"audio/mp3\"></audio>";
@@ -2084,7 +2082,7 @@ function showButtonconfidant() {
 <input type = "button" onclick = "showButtonconfidant()" value = "⏯ Confidant">
 <p id="confidant"></p>
 
-###### 5.- Field Company
+5.
 <script type="text/javascript">
 function showButtonfieldcompany() {
   let fieldcompany_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/5.- Field Company.mp3\" type=\"audio/mp3\"></audio>";
@@ -2094,7 +2092,7 @@ function showButtonfieldcompany() {
 <input type = "button" onclick = "showButtonfieldcompany()" value = "⏯ Field Company">
 <p id="fieldcompany"></p>
 
-###### 6.- Breath Pause
+6.
 <script type="text/javascript">
 function showButtonbreathpause() {
   let breathpause_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/6.- Breath Pause.mp3\" type=\"audio/mp3\"></audio>";
@@ -2104,7 +2102,7 @@ function showButtonbreathpause() {
 <input type = "button" onclick = "showButtonbreathpause()" value = "⏯ Breath Pause">
 <p id="breathpause"></p>
 
-###### 7.- Violence en l'amour
+7.
 <script type="text/javascript">
 function showButtonviolenceenlamour() {
   let violenceenlamour_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/7.- Violence en l'amour.mp3\" type=\"audio/mp3\"></audio>";
@@ -2114,7 +2112,7 @@ function showButtonviolenceenlamour() {
 <input type = "button" onclick = "showButtonviolenceenlamour()" value = "⏯ Violence en l'amour">
 <p id="violenceenlamour"></p>
 
-###### 8.- Jugular
+8.
 <script type="text/javascript">
 function showButtonjugular() {
   let jugular_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/8.- Jugular.mp3\" type=\"audio/mp3\"></audio>";
@@ -2124,7 +2122,7 @@ function showButtonjugular() {
 <input type = "button" onclick = "showButtonjugular()" value = "⏯ Jugular">
 <p id="jugular"></p>
 
-###### 9.- Aubrey
+9.
 <script type="text/javascript">
 function showButtonaubrey() {
   let aubrey_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/9.- Aubrey.mp3\" type=\"audio/mp3\"></audio>";
@@ -2134,7 +2132,7 @@ function showButtonaubrey() {
 <input type = "button" onclick = "showButtonaubrey()" value = "⏯ Aubrey">
 <p id="aubrey"></p>
 
-###### 10.- Darcy
+10.
 <script type="text/javascript">
 function showButtondarcy() {
   let darcy_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/10.- Darcy.mp3\" type=\"audio/mp3\"></audio>";
@@ -2144,7 +2142,7 @@ function showButtondarcy() {
 <input type = "button" onclick = "showButtondarcy()" value = "⏯ Darcy">
 <p id="darcy"></p>
 
-###### 11.- Ana
+11.
 <script type="text/javascript">
 function showButtonana() {
   let ana_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/11.- Ana.mp3\" type=\"audio/mp3\"></audio>";
@@ -2154,7 +2152,7 @@ function showButtonana() {
 <input type = "button" onclick = "showButtonana()" value = "⏯ Ana">
 <p id="ana"></p>
 
-###### 12.- Julia
+12.
 <script type="text/javascript">
 function showButtonjulia() {
   let julia_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/12.- Julia.mp3\" type=\"audio/mp3\"></audio>";
@@ -2164,7 +2162,7 @@ function showButtonjulia() {
 <input type = "button" onclick = "showButtonjulia()" value = "⏯ Julia">
 <p id="julia"></p>
 
-###### 13.- Pete
+13.
 <script type="text/javascript">
 function showButtonpete() {
   let pete_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/13.- Pete.mp3\" type=\"audio/mp3\"></audio>";
@@ -2174,7 +2172,7 @@ function showButtonpete() {
 <input type = "button" onclick = "showButtonpete()" value = "⏯ Pete">
 <p id="pete"></p>
 
-###### 14.- John
+14.
 <script type="text/javascript">
 function showButtonjohn() {
   let john_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/14.- John.mp3\" type=\"audio/mp3\"></audio>";
@@ -2184,7 +2182,7 @@ function showButtonjohn() {
 <input type = "button" onclick = "showButtonjohn()" value = "⏯ John">
 <p id="john"></p>
 
-###### 15.- Martin
+15.
 <script type="text/javascript">
 function showButtonmartin() {
   let martin_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/15.- Martin.mp3\" type=\"audio/mp3\"></audio>";
@@ -2194,7 +2192,7 @@ function showButtonmartin() {
 <input type = "button" onclick = "showButtonmartin()" value = "⏯ Martin">
 <p id="martin"></p>
 
-###### 16.- Adrian
+16.
 <script type="text/javascript">
 function showButtonadrian() {
   let adrian_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/16.- Adrian.mp3\" type=\"audio/mp3\"></audio>";
@@ -2204,7 +2202,7 @@ function showButtonadrian() {
 <input type = "button" onclick = "showButtonadrian()" value = "⏯ Adrian">
 <p id="adrian"></p>
 
-###### 17.- Land
+17.
 <script type="text/javascript">
 function showButtonland() {
   let land_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/17.- Land.mp3\" type=\"audio/mp3\"></audio>";
@@ -2214,7 +2212,7 @@ function showButtonland() {
 <input type = "button" onclick = "showButtonland()" value = "⏯ Land">
 <p id="land"></p>
 
-###### 18.- Deter
+18.
 <script type="text/javascript">
 function showButtondeter() {
   let deter_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/18.- Deter.mp3\" type=\"audio/mp3\"></audio>";
@@ -2224,7 +2222,7 @@ function showButtondeter() {
 <input type = "button" onclick = "showButtondeter()" value = "⏯ Deter">
 <p id="deter"></p>
 
-###### 19.- Cruiser
+19.
 <script type="text/javascript">
 function showButtoncruiser() {
   let cruiser_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/19.- Cruiser.mp3\" type=\"audio/mp3\"></audio>";
@@ -2234,7 +2232,7 @@ function showButtoncruiser() {
 <input type = "button" onclick = "showButtoncruiser()" value = "⏯ Cruiser">
 <p id="cruiser"></p>
 
-###### 20.- Off Faces
+20.
 <script type="text/javascript">
 function showButtonofffaces() {
   let offfaces_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/20.- Off Faces.mp3\" type=\"audio/mp3\"></audio>";
@@ -2244,7 +2242,7 @@ function showButtonofffaces() {
 <input type = "button" onclick = "showButtonofffaces()" value = "⏯ Off Faces">
 <p id="offfaces"></p>
 
-###### 21.- Roads to Nowhere
+21.
 <script type="text/javascript">
 function showButtonroadstonowhere() {
   let roadstonowhere_controls = "<audio controls><source src=\"/assets/music/10.- 'BUY NEVER'/21.- Roads to Nowhere.mp3\" type=\"audio/mp3\"></audio>";
@@ -2258,7 +2256,7 @@ function showButtonroadstonowhere() {
 11. [Bull's-eye](#bullseye)
 #### 11.- 'Bull's-eye' <a name="bullseye"></a>
 [![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
-###### 1 - Try your worst
+1 
 <script type="text/javascript">
 function showButtontryyourworst() {
   let tryyourworst_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/1 - Try your worst.mp3\" type=\"audio/mp3\"></audio>";
@@ -2268,7 +2266,7 @@ function showButtontryyourworst() {
 <input type = "button" onclick = "showButtontryyourworst()" value = "⏯ Try your worst">
 <p id="tryyourworst"></p>
 
-###### 2 -Nights Alone fake  Bill
+2 
 <script type="text/javascript">
 function showButtonnightsalonefakebill() {
   let nightsalonefakebill_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/2 -Nights Alone (fake $ Bill).mp3\" type=\"audio/mp3\"></audio>";
@@ -2278,7 +2276,7 @@ function showButtonnightsalonefakebill() {
 <input type = "button" onclick = "showButtonnightsalonefakebill()" value = "⏯Nights Alone fake  Bill">
 <p id="nightsalonefakebill"></p>
 
-###### 3 - r-Cycle
+3 
 <script type="text/javascript">
 function showButtonrcycle() {
   let rcycle_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/3 - r-Cycle.mp3\" type=\"audio/mp3\"></audio>";
@@ -2288,7 +2286,7 @@ function showButtonrcycle() {
 <input type = "button" onclick = "showButtonrcycle()" value = "⏯ r-Cycle">
 <p id="rcycle"></p>
 
-###### 4 - Struggles
+4 
 <script type="text/javascript">
 function showButtonstruggles() {
   let struggles_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/4 - Struggles.mp3\" type=\"audio/mp3\"></audio>";
@@ -2298,7 +2296,7 @@ function showButtonstruggles() {
 <input type = "button" onclick = "showButtonstruggles()" value = "⏯ Struggles">
 <p id="struggles"></p>
 
-###### 5 - Heirs
+5 
 <script type="text/javascript">
 function showButtonheirs() {
   let heirs_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/5 - Heirs.mp3\" type=\"audio/mp3\"></audio>";
@@ -2308,7 +2306,7 @@ function showButtonheirs() {
 <input type = "button" onclick = "showButtonheirs()" value = "⏯ Heirs">
 <p id="heirs"></p>
 
-###### 6 - darts
+6 
 <script type="text/javascript">
 function showButtondarts() {
   let darts_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/6 - darts.mp3\" type=\"audio/mp3\"></audio>";
@@ -2318,7 +2316,7 @@ function showButtondarts() {
 <input type = "button" onclick = "showButtondarts()" value = "⏯ darts">
 <p id="darts"></p>
 
-###### 7 - Powder
+7 
 <script type="text/javascript">
 function showButtonpowder() {
   let powder_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/7 - Powder.mp3\" type=\"audio/mp3\"></audio>";
@@ -2328,7 +2326,7 @@ function showButtonpowder() {
 <input type = "button" onclick = "showButtonpowder()" value = "⏯ Powder">
 <p id="powder"></p>
 
-###### 8 -Traeh
+8 
 <script type="text/javascript">
 function showButtontraeh() {
   let traeh_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/8 -Traeh.mp3\" type=\"audio/mp3\"></audio>";
@@ -2338,7 +2336,7 @@ function showButtontraeh() {
 <input type = "button" onclick = "showButtontraeh()" value = "⏯Traeh">
 <p id="traeh"></p>
 
-###### 9 - Heights
+9 
 <script type="text/javascript">
 function showButtonheights() {
   let heights_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/9 - Heights.mp3\" type=\"audio/mp3\"></audio>";
@@ -2348,7 +2346,7 @@ function showButtonheights() {
 <input type = "button" onclick = "showButtonheights()" value = "⏯ Heights">
 <p id="heights"></p>
 
-###### 10 - Bearer
+10 
 <script type="text/javascript">
 function showButtonbearer() {
   let bearer_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/10 - Bearer.mp3\" type=\"audio/mp3\"></audio>";
@@ -2358,7 +2356,7 @@ function showButtonbearer() {
 <input type = "button" onclick = "showButtonbearer()" value = "⏯ Bearer">
 <p id="bearer"></p>
 
-###### 11 - Cap
+11 
 <script type="text/javascript">
 function showButtoncap() {
   let cap_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/11 - Cap.mp3\" type=\"audio/mp3\"></audio>";
@@ -2368,7 +2366,7 @@ function showButtoncap() {
 <input type = "button" onclick = "showButtoncap()" value = "⏯ Cap">
 <p id="cap"></p>
 
-###### 12 - Ashore
+12 
 <script type="text/javascript">
 function showButtonashore() {
   let ashore_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/12 - Ashore.mp3\" type=\"audio/mp3\"></audio>";
@@ -2378,7 +2376,7 @@ function showButtonashore() {
 <input type = "button" onclick = "showButtonashore()" value = "⏯ Ashore">
 <p id="ashore"></p>
 
-###### 13 - Real Heterogeneous Fauna
+13 
 <script type="text/javascript">
 function showButtonrealheterogeneousfauna() {
   let realheterogeneousfauna_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/13 - Real Heterogeneous Fauna.mp3\" type=\"audio/mp3\"></audio>";
@@ -2388,7 +2386,7 @@ function showButtonrealheterogeneousfauna() {
 <input type = "button" onclick = "showButtonrealheterogeneousfauna()" value = "⏯ Real Heterogeneous Fauna">
 <p id="realheterogeneousfauna"></p>
 
-###### 14 - Nightmares
+14 
 <script type="text/javascript">
 function showButtonnightmares() {
   let nightmares_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/14 - Nightmares.mp3\" type=\"audio/mp3\"></audio>";
@@ -2398,7 +2396,7 @@ function showButtonnightmares() {
 <input type = "button" onclick = "showButtonnightmares()" value = "⏯ Nightmares">
 <p id="nightmares"></p>
 
-###### 15 - Presage
+15 
 <script type="text/javascript">
 function showButtonpresage() {
   let presage_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/15 - Presage.mp3\" type=\"audio/mp3\"></audio>";
@@ -2408,7 +2406,7 @@ function showButtonpresage() {
 <input type = "button" onclick = "showButtonpresage()" value = "⏯ Presage">
 <p id="presage"></p>
 
-###### 16 - scrape
+16 
 <script type="text/javascript">
 function showButtonscrape() {
   let scrape_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/16 - scrape.mp3\" type=\"audio/mp3\"></audio>";
@@ -2418,7 +2416,7 @@ function showButtonscrape() {
 <input type = "button" onclick = "showButtonscrape()" value = "⏯ scrape">
 <p id="scrape"></p>
 
-###### 17 - Confine Yourself
+17 
 <script type="text/javascript">
 function showButtonconfineyourself() {
   let confineyourself_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/17 - Confine Yourself.mp3\" type=\"audio/mp3\"></audio>";
@@ -2428,7 +2426,7 @@ function showButtonconfineyourself() {
 <input type = "button" onclick = "showButtonconfineyourself()" value = "⏯ Confine Yourself">
 <p id="confineyourself"></p>
 
-###### 18 - On try
+18 
 <script type="text/javascript">
 function showButtonontry() {
   let ontry_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/18 - On try.mp3\" type=\"audio/mp3\"></audio>";
@@ -2438,7 +2436,7 @@ function showButtonontry() {
 <input type = "button" onclick = "showButtonontry()" value = "⏯ On try">
 <p id="ontry"></p>
 
-###### 19 - Play my mind
+19 
 <script type="text/javascript">
 function showButtonplaymymind() {
   let playmymind_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/19 - Play my mind.mp3\" type=\"audio/mp3\"></audio>";
@@ -2448,7 +2446,7 @@ function showButtonplaymymind() {
 <input type = "button" onclick = "showButtonplaymymind()" value = "⏯ Play my mind">
 <p id="playmymind"></p>
 
-###### 20 - Not's new
+20 
 <script type="text/javascript">
 function showButtonnotsnew() {
   let notsnew_controls = "<audio controls><source src=\"/assets/music/11.- 'Bull's-eye'/20 - Not's new.mp3\" type=\"audio/mp3\"></audio>";
@@ -2462,7 +2460,7 @@ function showButtonnotsnew() {
 12. [Where are my royalties](#wherearemyroyalties)
 #### 12.- 'Where are my royalties' <a name="wherearemyroyalties"></a>
 [![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
-###### 1 - God knows no
+1 
 <script type="text/javascript">
 function showButtongodknowsno() {
   let godknowsno_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/1 - God knows no.mp3\" type=\"audio/mp3\"></audio>";
@@ -2472,7 +2470,7 @@ function showButtongodknowsno() {
 <input type = "button" onclick = "showButtongodknowsno()" value = "⏯ God knows no">
 <p id="godknowsno"></p>
 
-###### 2 - Corsair
+2 
 <script type="text/javascript">
 function showButtoncorsair() {
   let corsair_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/2 - Corsair.mp3\" type=\"audio/mp3\"></audio>";
@@ -2482,7 +2480,7 @@ function showButtoncorsair() {
 <input type = "button" onclick = "showButtoncorsair()" value = "⏯ Corsair">
 <p id="corsair"></p>
 
-###### 3 - Stay Home metamorphosis
+3 
 <script type="text/javascript">
 function showButtonstayhomemetamorphosis() {
   let stayhomemetamorphosis_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/3 - Stay Home (metamorphosis).mp3\" type=\"audio/mp3\"></audio>";
@@ -2492,7 +2490,7 @@ function showButtonstayhomemetamorphosis() {
 <input type = "button" onclick = "showButtonstayhomemetamorphosis()" value = "⏯ Stay Home metamorphosis">
 <p id="stayhomemetamorphosis"></p>
 
-###### 4 - Prevail
+4 
 <script type="text/javascript">
 function showButtonprevail() {
   let prevail_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/4 - Prevail.mp3\" type=\"audio/mp3\"></audio>";
@@ -2502,7 +2500,7 @@ function showButtonprevail() {
 <input type = "button" onclick = "showButtonprevail()" value = "⏯ Prevail">
 <p id="prevail"></p>
 
-###### 5- Shudder
+5
 <script type="text/javascript">
 function showButtonshudder() {
   let shudder_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/5- Shudder.mp3\" type=\"audio/mp3\"></audio>";
@@ -2512,7 +2510,7 @@ function showButtonshudder() {
 <input type = "button" onclick = "showButtonshudder()" value = "⏯ Shudder">
 <p id="shudder"></p>
 
-###### 6 - Sari
+6 
 <script type="text/javascript">
 function showButtonsari() {
   let sari_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/6 - Sari.mp3\" type=\"audio/mp3\"></audio>";
@@ -2522,7 +2520,7 @@ function showButtonsari() {
 <input type = "button" onclick = "showButtonsari()" value = "⏯ Sari">
 <p id="sari"></p>
 
-###### 7 - Subterfuge
+7 
 <script type="text/javascript">
 function showButtonsubterfuge() {
   let subterfuge_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/7 - Subterfuge.mp3\" type=\"audio/mp3\"></audio>";
@@ -2532,7 +2530,7 @@ function showButtonsubterfuge() {
 <input type = "button" onclick = "showButtonsubterfuge()" value = "⏯ Subterfuge">
 <p id="subterfuge"></p>
 
-###### 8- Tú
+8
 <script type="text/javascript">
 function showButtontú() {
   let tú_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/8- Tú.mp3\" type=\"audio/mp3\"></audio>";
@@ -2542,7 +2540,7 @@ function showButtontú() {
 <input type = "button" onclick = "showButtontú()" value = "⏯ Tú">
 <p id="tú"></p>
 
-###### 9 - How
+9 
 <script type="text/javascript">
 function showButtonhow() {
   let how_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/9 - How.mp3\" type=\"audio/mp3\"></audio>";
@@ -2552,7 +2550,7 @@ function showButtonhow() {
 <input type = "button" onclick = "showButtonhow()" value = "⏯ How">
 <p id="how"></p>
 
-###### 10 - Oh yeah hey
+10 
 <script type="text/javascript">
 function showButtonohyeahhey() {
   let ohyeahhey_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/10 - Oh yeah hey.mp3\" type=\"audio/mp3\"></audio>";
@@ -2562,7 +2560,7 @@ function showButtonohyeahhey() {
 <input type = "button" onclick = "showButtonohyeahhey()" value = "⏯ Oh yeah hey">
 <p id="ohyeahhey"></p>
 
-###### 11 - Calmly
+11 
 <script type="text/javascript">
 function showButtoncalmly() {
   let calmly_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/11 - Calmly.mp3\" type=\"audio/mp3\"></audio>";
@@ -2572,7 +2570,7 @@ function showButtoncalmly() {
 <input type = "button" onclick = "showButtoncalmly()" value = "⏯ Calmly">
 <p id="calmly"></p>
 
-###### 12 - migraine
+12 
 <script type="text/javascript">
 function showButtonmigraine() {
   let migraine_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/12 - migraine.mp3\" type=\"audio/mp3\"></audio>";
@@ -2582,7 +2580,7 @@ function showButtonmigraine() {
 <input type = "button" onclick = "showButtonmigraine()" value = "⏯ migraine">
 <p id="migraine"></p>
 
-###### 13 - End
+13 
 <script type="text/javascript">
 function showButtonend() {
   let end_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/13 - End.mp3\" type=\"audio/mp3\"></audio>";
@@ -2592,7 +2590,7 @@ function showButtonend() {
 <input type = "button" onclick = "showButtonend()" value = "⏯ End">
 <p id="end"></p>
 
-###### 14 - abmas
+14 
 <script type="text/javascript">
 function showButtonabmas() {
   let abmas_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/14 - abmas.mp3\" type=\"audio/mp3\"></audio>";
@@ -2602,7 +2600,7 @@ function showButtonabmas() {
 <input type = "button" onclick = "showButtonabmas()" value = "⏯ abmas">
 <p id="abmas"></p>
 
-###### 15 - 26536
+15 
 <script type="text/javascript">
 function showButton26536() {
   let 26536_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/15 - 26536.mp3\" type=\"audio/mp3\"></audio>";
@@ -2612,7 +2610,7 @@ function showButton26536() {
 <input type = "button" onclick = "showButton26536()" value = "⏯ 26536">
 <p id="26536"></p>
 
-###### 16 - shadows
+16 
 <script type="text/javascript">
 function showButtonshadows() {
   let shadows_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/16 - shadows.mp3\" type=\"audio/mp3\"></audio>";
@@ -2622,7 +2620,7 @@ function showButtonshadows() {
 <input type = "button" onclick = "showButtonshadows()" value = "⏯ shadows">
 <p id="shadows"></p>
 
-###### 17 - trial
+17 
 <script type="text/javascript">
 function showButtontrial() {
   let trial_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/17 - trial.mp3\" type=\"audio/mp3\"></audio>";
@@ -2632,7 +2630,7 @@ function showButtontrial() {
 <input type = "button" onclick = "showButtontrial()" value = "⏯ trial">
 <p id="trial"></p>
 
-###### 18 - Mnoalu
+18 
 <script type="text/javascript">
 function showButtonmnoalu() {
   let mnoalu_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/18 - Mnoalu.mp3\" type=\"audio/mp3\"></audio>";
@@ -2646,7 +2644,7 @@ function showButtonmnoalu() {
 13. [Who u tryna' impress](#whoutrynaimpress)
 #### 13.- 'Who u tryna' impress' <a name="whoutrynaimpress"></a>
 [![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
-###### 1 - Over lovely
+1 
 <script type="text/javascript">
 function showButtonoverlovely() {
   let overlovely_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/1 - Over lovely.mp3\" type=\"audio/mp3\"></audio>";
@@ -2656,7 +2654,7 @@ function showButtonoverlovely() {
 <input type = "button" onclick = "showButtonoverlovely()" value = "⏯ Over lovely">
 <p id="overlovely"></p>
 
-###### 2- Sway
+2
 <script type="text/javascript">
 function showButtonsway() {
   let sway_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/2- Sway.mp3\" type=\"audio/mp3\"></audio>";
@@ -2666,7 +2664,7 @@ function showButtonsway() {
 <input type = "button" onclick = "showButtonsway()" value = "⏯ Sway">
 <p id="sway"></p>
 
-###### 3 - funk-o-matic
+3 
 <script type="text/javascript">
 function showButtonfunkomatic() {
   let funkomatic_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/3 - funk-o-matic.mp3\" type=\"audio/mp3\"></audio>";
@@ -2676,7 +2674,7 @@ function showButtonfunkomatic() {
 <input type = "button" onclick = "showButtonfunkomatic()" value = "⏯ funk-o-matic">
 <p id="funkomatic"></p>
 
-###### 4 - you dont want to know anything about me
+4 
 <script type="text/javascript">
 function showButtonyoudontwanttoknowanythingaboutme() {
   let youdontwanttoknowanythingaboutme_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/4 - you dont want to know anything about me.mp3\" type=\"audio/mp3\"></audio>";
@@ -2686,7 +2684,7 @@ function showButtonyoudontwanttoknowanythingaboutme() {
 <input type = "button" onclick = "showButtonyoudontwanttoknowanythingaboutme()" value = "⏯ you dont want to know anything about me">
 <p id="youdontwanttoknowanythingaboutme"></p>
 
-###### 5 - toutlair
+5 
 <script type="text/javascript">
 function showButtontoutlair() {
   let toutlair_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/5 - toutlair.mp3\" type=\"audio/mp3\"></audio>";
@@ -2696,7 +2694,7 @@ function showButtontoutlair() {
 <input type = "button" onclick = "showButtontoutlair()" value = "⏯ toutlair">
 <p id="toutlair"></p>
 
-###### 6 - swarmv
+6 
 <script type="text/javascript">
 function showButtonswarmv() {
   let swarmv_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/6 - swarmv.mp3\" type=\"audio/mp3\"></audio>";
@@ -2706,7 +2704,7 @@ function showButtonswarmv() {
 <input type = "button" onclick = "showButtonswarmv()" value = "⏯ swarmv">
 <p id="swarmv"></p>
 
-###### 7 - pledge
+7 
 <script type="text/javascript">
 function showButtonpledge() {
   let pledge_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/7 - pledge.mp3\" type=\"audio/mp3\"></audio>";
@@ -2716,7 +2714,7 @@ function showButtonpledge() {
 <input type = "button" onclick = "showButtonpledge()" value = "⏯ pledge">
 <p id="pledge"></p>
 
-###### 8 - fletsif
+8 
 <script type="text/javascript">
 function showButtonfletsif() {
   let fletsif_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/8 - fletsif.mp3\" type=\"audio/mp3\"></audio>";
@@ -2726,7 +2724,7 @@ function showButtonfletsif() {
 <input type = "button" onclick = "showButtonfletsif()" value = "⏯ fletsif">
 <p id="fletsif"></p>
 
-###### 9 - State of matters
+9 
 <script type="text/javascript">
 function showButtonstateofmatters() {
   let stateofmatters_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/9 - State of matters.mp3\" type=\"audio/mp3\"></audio>";
@@ -2736,7 +2734,7 @@ function showButtonstateofmatters() {
 <input type = "button" onclick = "showButtonstateofmatters()" value = "⏯ State of matters">
 <p id="stateofmatters"></p>
 
-###### 10 - now what
+10 
 <script type="text/javascript">
 function showButtonnowwhat() {
   let nowwhat_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/10 - now what.mp3\" type=\"audio/mp3\"></audio>";
@@ -2746,7 +2744,7 @@ function showButtonnowwhat() {
 <input type = "button" onclick = "showButtonnowwhat()" value = "⏯ now what">
 <p id="nowwhat"></p>
 
-###### 11 - doll
+11 
 <script type="text/javascript">
 function showButtondoll() {
   let doll_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/11 - doll.mp3\" type=\"audio/mp3\"></audio>";
@@ -2756,7 +2754,7 @@ function showButtondoll() {
 <input type = "button" onclick = "showButtondoll()" value = "⏯ doll">
 <p id="doll"></p>
 
-###### 12 - first
+12 
 <script type="text/javascript">
 function showButtonfirst() {
   let first_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/12 - first.mp3\" type=\"audio/mp3\"></audio>";
@@ -2766,7 +2764,7 @@ function showButtonfirst() {
 <input type = "button" onclick = "showButtonfirst()" value = "⏯ first">
 <p id="first"></p>
 
-###### 13 - though
+13 
 <script type="text/javascript">
 function showButtonthough() {
   let though_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/13 - though.mp3\" type=\"audio/mp3\"></audio>";
@@ -2776,7 +2774,7 @@ function showButtonthough() {
 <input type = "button" onclick = "showButtonthough()" value = "⏯ though">
 <p id="though"></p>
 
-###### 14 - not the last
+14 
 <script type="text/javascript">
 function showButtonnotthelast() {
   let notthelast_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/14 - not the last.mp3\" type=\"audio/mp3\"></audio>";
@@ -2786,7 +2784,7 @@ function showButtonnotthelast() {
 <input type = "button" onclick = "showButtonnotthelast()" value = "⏯ not the last">
 <p id="notthelast"></p>
 
-###### 15 - check it out
+15 
 <script type="text/javascript">
 function showButtoncheckitout() {
   let checkitout_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/15 - check it out.mp3\" type=\"audio/mp3\"></audio>";
@@ -2796,7 +2794,7 @@ function showButtoncheckitout() {
 <input type = "button" onclick = "showButtoncheckitout()" value = "⏯ check it out">
 <p id="checkitout"></p>
 
-###### 16 - numbers
+16 
 <script type="text/javascript">
 function showButtonnumbers() {
   let numbers_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/16 - numbers.mp3\" type=\"audio/mp3\"></audio>";
@@ -2806,7 +2804,7 @@ function showButtonnumbers() {
 <input type = "button" onclick = "showButtonnumbers()" value = "⏯ numbers">
 <p id="numbers"></p>
 
-###### 17 - annexes
+17 
 <script type="text/javascript">
 function showButtonannexes() {
   let annexes_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/17 - annexes.mp3\" type=\"audio/mp3\"></audio>";
@@ -2816,7 +2814,7 @@ function showButtonannexes() {
 <input type = "button" onclick = "showButtonannexes()" value = "⏯ annexes">
 <p id="annexes"></p>
 
-###### 18 - Una luz
+18 
 <script type="text/javascript">
 function showButtonunaluz() {
   let unaluz_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/18 - Una luz.mp3\" type=\"audio/mp3\"></audio>";
@@ -2826,7 +2824,7 @@ function showButtonunaluz() {
 <input type = "button" onclick = "showButtonunaluz()" value = "⏯ Una luz">
 <p id="unaluz"></p>
 
-###### 19 - door
+19 
 <script type="text/javascript">
 function showButtondoor() {
   let door_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/19 - door.mp3\" type=\"audio/mp3\"></audio>";
@@ -2836,7 +2834,7 @@ function showButtondoor() {
 <input type = "button" onclick = "showButtondoor()" value = "⏯ door">
 <p id="door"></p>
 
-###### 20 - Wired
+20 
 <script type="text/javascript">
 function showButtonwired() {
   let wired_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/20 - Wired.mp3\" type=\"audio/mp3\"></audio>";
@@ -2846,7 +2844,7 @@ function showButtonwired() {
 <input type = "button" onclick = "showButtonwired()" value = "⏯ Wired">
 <p id="wired"></p>
 
-###### 21 - together stay
+21 
 <script type="text/javascript">
 function showButtontogetherstay() {
   let togetherstay_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/21 - together stay.mp3\" type=\"audio/mp3\"></audio>";
@@ -2856,7 +2854,7 @@ function showButtontogetherstay() {
 <input type = "button" onclick = "showButtontogetherstay()" value = "⏯ together stay">
 <p id="togetherstay"></p>
 
-###### 22 - yes
+22 
 <script type="text/javascript">
 function showButtonyes() {
   let yes_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/22 - yes.mp3\" type=\"audio/mp3\"></audio>";
@@ -2866,7 +2864,7 @@ function showButtonyes() {
 <input type = "button" onclick = "showButtonyes()" value = "⏯ yes">
 <p id="yes"></p>
 
-###### 23 - zoom
+23 
 <script type="text/javascript">
 function showButtonzoom() {
   let zoom_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/23 - zoom.mp3\" type=\"audio/mp3\"></audio>";
@@ -2876,7 +2874,7 @@ function showButtonzoom() {
 <input type = "button" onclick = "showButtonzoom()" value = "⏯ zoom">
 <p id="zoom"></p>
 
-###### 24 - castle queenside
+24 
 <script type="text/javascript">
 function showButtoncastlequeenside() {
   let castlequeenside_controls = "<audio controls><source src=\"/assets/music/13.- 'Who u tryna' impress'/24 - castle queenside.mp3\" type=\"audio/mp3\"></audio>";
@@ -2890,7 +2888,7 @@ function showButtoncastlequeenside() {
 14. [The bad words](#thebadwords)
 #### 14.- 'The bad words' <a name="thebadwords"></a>
 [![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
-###### 1 - YouThieve
+1 
 <script type="text/javascript">
 function showButtonyouthieve() {
   let youthieve_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/1 - YouThieve.mp3\" type=\"audio/mp3\"></audio>";
@@ -2900,7 +2898,7 @@ function showButtonyouthieve() {
 <input type = "button" onclick = "showButtonyouthieve()" value = "⏯ YouThieve">
 <p id="youthieve"></p>
 
-###### 2 - F the industry
+2 
 <script type="text/javascript">
 function showButtonftheindustry() {
   let ftheindustry_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/2 - F the industry.mp3\" type=\"audio/mp3\"></audio>";
@@ -2910,7 +2908,7 @@ function showButtonftheindustry() {
 <input type = "button" onclick = "showButtonftheindustry()" value = "⏯ F the industry">
 <p id="ftheindustry"></p>
 
-###### 3 - Smoke The Law
+3 
 <script type="text/javascript">
 function showButtonsmokethelaw() {
   let smokethelaw_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/3 - Smoke The Law.mp3\" type=\"audio/mp3\"></audio>";
@@ -2920,7 +2918,7 @@ function showButtonsmokethelaw() {
 <input type = "button" onclick = "showButtonsmokethelaw()" value = "⏯ Smoke The Law">
 <p id="smokethelaw"></p>
 
-###### 4 - Rape my pockets
+4 
 <script type="text/javascript">
 function showButtonrapemypockets() {
   let rapemypockets_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/4 - Rape my pockets.mp3\" type=\"audio/mp3\"></audio>";
@@ -2930,7 +2928,7 @@ function showButtonrapemypockets() {
 <input type = "button" onclick = "showButtonrapemypockets()" value = "⏯ Rape my pockets">
 <p id="rapemypockets"></p>
 
-###### 5 - Freedom slaught
+5 
 <script type="text/javascript">
 function showButtonfreedomslaught() {
   let freedomslaught_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/5 - Freedom slaught.mp3\" type=\"audio/mp3\"></audio>";
@@ -2940,7 +2938,7 @@ function showButtonfreedomslaught() {
 <input type = "button" onclick = "showButtonfreedomslaught()" value = "⏯ Freedom slaught">
 <p id="freedomslaught"></p>
 
-###### 6 - Hijack thoughts
+6 
 <script type="text/javascript">
 function showButtonhijackthoughts() {
   let hijackthoughts_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/6 - Hijack thoughts.mp3\" type=\"audio/mp3\"></audio>";
@@ -2950,7 +2948,7 @@ function showButtonhijackthoughts() {
 <input type = "button" onclick = "showButtonhijackthoughts()" value = "⏯ Hijack thoughts">
 <p id="hijackthoughts"></p>
 
-###### 7 - Emotional terrorism
+7 
 <script type="text/javascript">
 function showButtonemotionalterrorism() {
   let emotionalterrorism_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/7 - Emotional terrorism.mp3\" type=\"audio/mp3\"></audio>";
@@ -2960,7 +2958,7 @@ function showButtonemotionalterrorism() {
 <input type = "button" onclick = "showButtonemotionalterrorism()" value = "⏯ Emotional terrorism">
 <p id="emotionalterrorism"></p>
 
-###### 8 - Traffic under other's influence
+8 
 <script type="text/javascript">
 function showButtontrafficunderothersinfluence() {
   let trafficunderothersinfluence_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/8 - Traffic under other's influence.mp3\" type=\"audio/mp3\"></audio>";
@@ -2970,7 +2968,7 @@ function showButtontrafficunderothersinfluence() {
 <input type = "button" onclick = "showButtontrafficunderothersinfluence()" value = "⏯ Traffic under other's influence">
 <p id="trafficunderothersinfluence"></p>
 
-###### 9 - Denounce your neighbor
+9 
 <script type="text/javascript">
 function showButtondenounceyourneighbor() {
   let denounceyourneighbor_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/9 - Denounce your neighbor.mp3\" type=\"audio/mp3\"></audio>";
@@ -2980,7 +2978,7 @@ function showButtondenounceyourneighbor() {
 <input type = "button" onclick = "showButtondenounceyourneighbor()" value = "⏯ Denounce your neighbor">
 <p id="denounceyourneighbor"></p>
 
-###### 10 - Corruption pillage
+10 
 <script type="text/javascript">
 function showButtoncorruptionpillage() {
   let corruptionpillage_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/10 - Corruption pillage.mp3\" type=\"audio/mp3\"></audio>";
@@ -2990,7 +2988,7 @@ function showButtoncorruptionpillage() {
 <input type = "button" onclick = "showButtoncorruptionpillage()" value = "⏯ Corruption pillage">
 <p id="corruptionpillage"></p>
 
-###### 11 - Sedition from Earth
+11 
 <script type="text/javascript">
 function showButtonseditionfromearth() {
   let seditionfromearth_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/11 - Sedition from Earth.mp3\" type=\"audio/mp3\"></audio>";
@@ -3000,7 +2998,7 @@ function showButtonseditionfromearth() {
 <input type = "button" onclick = "showButtonseditionfromearth()" value = "⏯ Sedition from Earth">
 <p id="seditionfromearth"></p>
 
-###### 12 - Disobey the Children
+12 
 <script type="text/javascript">
 function showButtondisobeythechildren() {
   let disobeythechildren_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/12 - Disobey the Children.mp3\" type=\"audio/mp3\"></audio>";
@@ -3010,7 +3008,7 @@ function showButtondisobeythechildren() {
 <input type = "button" onclick = "showButtondisobeythechildren()" value = "⏯ Disobey the Children">
 <p id="disobeythechildren"></p>
 
-###### 13 - Accomplices of Tyranny
+13 
 <script type="text/javascript">
 function showButtonaccomplicesoftyranny() {
   let accomplicesoftyranny_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/13 - Accomplices of Tyranny.mp3\" type=\"audio/mp3\"></audio>";
@@ -3020,7 +3018,7 @@ function showButtonaccomplicesoftyranny() {
 <input type = "button" onclick = "showButtonaccomplicesoftyranny()" value = "⏯ Accomplices of Tyranny">
 <p id="accomplicesoftyranny"></p>
 
-###### 14 - Suicide Collective
+14 
 <script type="text/javascript">
 function showButtonsuicidecollective() {
   let suicidecollective_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/14 - Suicide Collective.mp3\" type=\"audio/mp3\"></audio>";
@@ -3030,7 +3028,7 @@ function showButtonsuicidecollective() {
 <input type = "button" onclick = "showButtonsuicidecollective()" value = "⏯ Suicide Collective">
 <p id="suicidecollective"></p>
 
-###### 15 - Breakfast at FakeNew's
+15 
 <script type="text/javascript">
 function showButtonbreakfastatfakenews() {
   let breakfastatfakenews_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/15 - Breakfast at FakeNew's.mp3\" type=\"audio/mp3\"></audio>";
@@ -3040,7 +3038,7 @@ function showButtonbreakfastatfakenews() {
 <input type = "button" onclick = "showButtonbreakfastatfakenews()" value = "⏯ Breakfast at FakeNew's">
 <p id="breakfastatfakenews"></p>
 
-###### 16 - Pure uncut drug
+16 
 <script type="text/javascript">
 function showButtonpureuncutdrug() {
   let pureuncutdrug_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/16 - Pure uncut drug.mp3\" type=\"audio/mp3\"></audio>";
@@ -3050,7 +3048,7 @@ function showButtonpureuncutdrug() {
 <input type = "button" onclick = "showButtonpureuncutdrug()" value = "⏯ Pure uncut drug">
 <p id="pureuncutdrug"></p>
 
-###### 17 - Reveal the Lies
+17 
 <script type="text/javascript">
 function showButtonrevealthelies() {
   let revealthelies_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/17 - Reveal the Lies.mp3\" type=\"audio/mp3\"></audio>";
@@ -3060,7 +3058,7 @@ function showButtonrevealthelies() {
 <input type = "button" onclick = "showButtonrevealthelies()" value = "⏯ Reveal the Lies">
 <p id="revealthelies"></p>
 
-###### 18 - Dumb Intellectual Property
+18 
 <script type="text/javascript">
 function showButtondumbintellectualproperty() {
   let dumbintellectualproperty_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/18 - Dumb Intellectual Property.mp3\" type=\"audio/mp3\"></audio>";
@@ -3070,7 +3068,7 @@ function showButtondumbintellectualproperty() {
 <input type = "button" onclick = "showButtondumbintellectualproperty()" value = "⏯ Dumb Intellectual Property">
 <p id="dumbintellectualproperty"></p>
 
-###### 19 - Speech of Fake Freedom
+19 
 <script type="text/javascript">
 function showButtonspeechoffakefreedom() {
   let speechoffakefreedom_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/19 - Speech of Fake Freedom.mp3\" type=\"audio/mp3\"></audio>";
@@ -3080,7 +3078,7 @@ function showButtonspeechoffakefreedom() {
 <input type = "button" onclick = "showButtonspeechoffakefreedom()" value = "⏯ Speech of Fake Freedom">
 <p id="speechoffakefreedom"></p>
 
-###### 20 - Global Alarm
+20 
 <script type="text/javascript">
 function showButtonglobalalarm() {
   let globalalarm_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/20 - Global Alarm.mp3\" type=\"audio/mp3\"></audio>";
@@ -3090,7 +3088,7 @@ function showButtonglobalalarm() {
 <input type = "button" onclick = "showButtonglobalalarm()" value = "⏯ Global Alarm">
 <p id="globalalarm"></p>
 
-###### 21 - Back to a New State of Normality
+21 
 <script type="text/javascript">
 function showButtonbacktoanewstateofnormality() {
   let backtoanewstateofnormality_controls = "<audio controls><source src=\"/assets/music/14.- 'The bad words'/21 - Back to a New State of Normality.mp3\" type=\"audio/mp3\"></audio>";
@@ -3104,7 +3102,7 @@ function showButtonbacktoanewstateofnormality() {
 15. [Journey to Wasted Youth](#journeytowastedyouth)
 #### 15.- 'Journey to Wasted Youth' <a name="journeytowastedyouth"></a>
 [![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
-###### 1 - get you hype
+1 
 <script type="text/javascript">
 function showButtongetyouhype() {
   let getyouhype_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/1 - get you hype.mp3\" type=\"audio/mp3\"></audio>";
@@ -3114,7 +3112,7 @@ function showButtongetyouhype() {
 <input type = "button" onclick = "showButtongetyouhype()" value = "⏯ get you hype">
 <p id="getyouhype"></p>
 
-###### 2 - do your will
+2 
 <script type="text/javascript">
 function showButtondoyourwill() {
   let doyourwill_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/2 - do your will.mp3\" type=\"audio/mp3\"></audio>";
@@ -3124,7 +3122,7 @@ function showButtondoyourwill() {
 <input type = "button" onclick = "showButtondoyourwill()" value = "⏯ do your will">
 <p id="doyourwill"></p>
 
-###### 3 - Weight of Ego
+3 
 <script type="text/javascript">
 function showButtonweightofego() {
   let weightofego_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/3 - Weight of Ego.mp3\" type=\"audio/mp3\"></audio>";
@@ -3134,7 +3132,7 @@ function showButtonweightofego() {
 <input type = "button" onclick = "showButtonweightofego()" value = "⏯ Weight of Ego">
 <p id="weightofego"></p>
 
-###### 4 - I own a computer
+4 
 <script type="text/javascript">
 function showButtoniownacomputer() {
   let iownacomputer_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/4 - I own a computer.mp3\" type=\"audio/mp3\"></audio>";
@@ -3144,7 +3142,7 @@ function showButtoniownacomputer() {
 <input type = "button" onclick = "showButtoniownacomputer()" value = "⏯ I own a computer">
 <p id="iownacomputer"></p>
 
-###### 5 - Soul impulse
+5 
 <script type="text/javascript">
 function showButtonsoulimpulse() {
   let soulimpulse_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/5 - Soul impulse.mp3\" type=\"audio/mp3\"></audio>";
@@ -3154,7 +3152,7 @@ function showButtonsoulimpulse() {
 <input type = "button" onclick = "showButtonsoulimpulse()" value = "⏯ Soul impulse">
 <p id="soulimpulse"></p>
 
-###### 6 - Techne
+6 
 <script type="text/javascript">
 function showButtontechne() {
   let techne_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/6 - Techne.mp3\" type=\"audio/mp3\"></audio>";
@@ -3164,7 +3162,7 @@ function showButtontechne() {
 <input type = "button" onclick = "showButtontechne()" value = "⏯ Techne">
 <p id="techne"></p>
 
-###### 7 - Melalcoholiac
+7 
 <script type="text/javascript">
 function showButtonmelalcoholiac() {
   let melalcoholiac_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/7 - Melalcoholiac.mp3\" type=\"audio/mp3\"></audio>";
@@ -3174,7 +3172,7 @@ function showButtonmelalcoholiac() {
 <input type = "button" onclick = "showButtonmelalcoholiac()" value = "⏯ Melalcoholiac">
 <p id="melalcoholiac"></p>
 
-###### 8 - Peevish
+8 
 <script type="text/javascript">
 function showButtonpeevish() {
   let peevish_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/8 - Peevish.mp3\" type=\"audio/mp3\"></audio>";
@@ -3184,7 +3182,7 @@ function showButtonpeevish() {
 <input type = "button" onclick = "showButtonpeevish()" value = "⏯ Peevish">
 <p id="peevish"></p>
 
-###### 9 - Bloody Valhalla
+9 
 <script type="text/javascript">
 function showButtonbloodyvalhalla() {
   let bloodyvalhalla_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/9 - Bloody Valhalla.mp3\" type=\"audio/mp3\"></audio>";
@@ -3194,7 +3192,7 @@ function showButtonbloodyvalhalla() {
 <input type = "button" onclick = "showButtonbloodyvalhalla()" value = "⏯ Bloody Valhalla">
 <p id="bloodyvalhalla"></p>
 
-###### 10 - Afflatus
+10 
 <script type="text/javascript">
 function showButtonafflatus() {
   let afflatus_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/10 - Afflatus.mp3\" type=\"audio/mp3\"></audio>";
@@ -3204,7 +3202,7 @@ function showButtonafflatus() {
 <input type = "button" onclick = "showButtonafflatus()" value = "⏯ Afflatus">
 <p id="afflatus"></p>
 
-###### 11 - Way to Death
+11 
 <script type="text/javascript">
 function showButtonwaytodeath() {
   let waytodeath_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/11 - Way to Death.mp3\" type=\"audio/mp3\"></audio>";
@@ -3214,7 +3212,7 @@ function showButtonwaytodeath() {
 <input type = "button" onclick = "showButtonwaytodeath()" value = "⏯ Way to Death">
 <p id="waytodeath"></p>
 
-###### 12 - crossed looks
+12 
 <script type="text/javascript">
 function showButtoncrossedlooks() {
   let crossedlooks_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/12 - crossed looks.mp3\" type=\"audio/mp3\"></audio>";
@@ -3224,7 +3222,7 @@ function showButtoncrossedlooks() {
 <input type = "button" onclick = "showButtoncrossedlooks()" value = "⏯ crossed looks">
 <p id="crossedlooks"></p>
 
-###### 13 - Conquer
+13 
 <script type="text/javascript">
 function showButtonconquer() {
   let conquer_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/13 - Conquer.mp3\" type=\"audio/mp3\"></audio>";
@@ -3234,7 +3232,7 @@ function showButtonconquer() {
 <input type = "button" onclick = "showButtonconquer()" value = "⏯ Conquer">
 <p id="conquer"></p>
 
-###### 14 - Not me to talk
+14 
 <script type="text/javascript">
 function showButtonnotmetotalk() {
   let notmetotalk_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/14 - Not me to talk.mp3\" type=\"audio/mp3\"></audio>";
@@ -3244,7 +3242,7 @@ function showButtonnotmetotalk() {
 <input type = "button" onclick = "showButtonnotmetotalk()" value = "⏯ Not me to talk">
 <p id="notmetotalk"></p>
 
-###### 15 - For what do
+15 
 <script type="text/javascript">
 function showButtonforwhatdo() {
   let forwhatdo_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/15 - For what do.mp3\" type=\"audio/mp3\"></audio>";
@@ -3254,7 +3252,7 @@ function showButtonforwhatdo() {
 <input type = "button" onclick = "showButtonforwhatdo()" value = "⏯ For what do">
 <p id="forwhatdo"></p>
 
-###### 16 - lewej
+16 
 <script type="text/javascript">
 function showButtonlewej() {
   let lewej_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/16 - lewej.mp3\" type=\"audio/mp3\"></audio>";
@@ -3264,7 +3262,7 @@ function showButtonlewej() {
 <input type = "button" onclick = "showButtonlewej()" value = "⏯ lewej">
 <p id="lewej"></p>
 
-###### 17 - Wicked
+17 
 <script type="text/javascript">
 function showButtonwicked() {
   let wicked_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/17 - Wicked.mp3\" type=\"audio/mp3\"></audio>";
@@ -3274,7 +3272,7 @@ function showButtonwicked() {
 <input type = "button" onclick = "showButtonwicked()" value = "⏯ Wicked">
 <p id="wicked"></p>
 
-###### 18 - Desolate
+18 
 <script type="text/javascript">
 function showButtondesolate() {
   let desolate_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/18 - Desolate.mp3\" type=\"audio/mp3\"></audio>";
@@ -3284,7 +3282,7 @@ function showButtondesolate() {
 <input type = "button" onclick = "showButtondesolate()" value = "⏯ Desolate">
 <p id="desolate"></p>
 
-###### 19 - deal
+19 
 <script type="text/javascript">
 function showButtondeal() {
   let deal_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/19 - deal.mp3\" type=\"audio/mp3\"></audio>";
@@ -3294,7 +3292,7 @@ function showButtondeal() {
 <input type = "button" onclick = "showButtondeal()" value = "⏯ deal">
 <p id="deal"></p>
 
-###### 20 - elope
+20 
 <script type="text/javascript">
 function showButtonelope() {
   let elope_controls = "<audio controls><source src=\"/assets/music/15.- 'Journey to Wasted Youth'/20 - elope.mp3\" type=\"audio/mp3\"></audio>";
@@ -3308,7 +3306,7 @@ function showButtonelope() {
 16. [Lyricless Miracles](#lyriclessmiracles)
 #### 16.- 'Lyricless Miracles' <a name="lyriclessmiracles"></a>
 [![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
-###### 1 - Place
+1 
 <script type="text/javascript">
 function showButtonplace() {
   let place_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/1 - Place.mp3\" type=\"audio/mp3\"></audio>";
@@ -3318,7 +3316,7 @@ function showButtonplace() {
 <input type = "button" onclick = "showButtonplace()" value = "⏯ Place">
 <p id="place"></p>
 
-###### 2 - Headway
+2 
 <script type="text/javascript">
 function showButtonheadway() {
   let headway_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/2 - Headway.mp3\" type=\"audio/mp3\"></audio>";
@@ -3328,7 +3326,7 @@ function showButtonheadway() {
 <input type = "button" onclick = "showButtonheadway()" value = "⏯ Headway">
 <p id="headway"></p>
 
-###### 3 - Paramount echoes
+3 
 <script type="text/javascript">
 function showButtonparamountechoes() {
   let paramountechoes_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/3 - Paramount echoes.mp3\" type=\"audio/mp3\"></audio>";
@@ -3338,7 +3336,7 @@ function showButtonparamountechoes() {
 <input type = "button" onclick = "showButtonparamountechoes()" value = "⏯ Paramount echoes">
 <p id="paramountechoes"></p>
 
-###### 4 - Drifted
+4 
 <script type="text/javascript">
 function showButtondrifted() {
   let drifted_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/4 - Drifted.mp3\" type=\"audio/mp3\"></audio>";
@@ -3348,7 +3346,7 @@ function showButtondrifted() {
 <input type = "button" onclick = "showButtondrifted()" value = "⏯ Drifted">
 <p id="drifted"></p>
 
-###### 5 - Amalgam
+5 
 <script type="text/javascript">
 function showButtonamalgam() {
   let amalgam_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/5 - Amalgam.mp3\" type=\"audio/mp3\"></audio>";
@@ -3358,7 +3356,7 @@ function showButtonamalgam() {
 <input type = "button" onclick = "showButtonamalgam()" value = "⏯ Amalgam">
 <p id="amalgam"></p>
 
-###### 6 - Soulmates
+6 
 <script type="text/javascript">
 function showButtonsoulmates() {
   let soulmates_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/6 - Soulmates.mp3\" type=\"audio/mp3\"></audio>";
@@ -3368,7 +3366,7 @@ function showButtonsoulmates() {
 <input type = "button" onclick = "showButtonsoulmates()" value = "⏯ Soulmates">
 <p id="soulmates"></p>
 
-###### 7 - Blue
+7 
 <script type="text/javascript">
 function showButtonblue() {
   let blue_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/7 - Blue.mp3\" type=\"audio/mp3\"></audio>";
@@ -3378,7 +3376,7 @@ function showButtonblue() {
 <input type = "button" onclick = "showButtonblue()" value = "⏯ Blue">
 <p id="blue"></p>
 
-###### 8 - Forgotten kisses
+8 
 <script type="text/javascript">
 function showButtonforgottenkisses() {
   let forgottenkisses_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/8 - Forgotten kisses.mp3\" type=\"audio/mp3\"></audio>";
@@ -3388,7 +3386,7 @@ function showButtonforgottenkisses() {
 <input type = "button" onclick = "showButtonforgottenkisses()" value = "⏯ Forgotten kisses">
 <p id="forgottenkisses"></p>
 
-###### 9 - Nitwit
+9 
 <script type="text/javascript">
 function showButtonnitwit() {
   let nitwit_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/9 - Nitwit.mp3\" type=\"audio/mp3\"></audio>";
@@ -3398,7 +3396,7 @@ function showButtonnitwit() {
 <input type = "button" onclick = "showButtonnitwit()" value = "⏯ Nitwit">
 <p id="nitwit"></p>
 
-###### 10 - Wait me for
+10 
 <script type="text/javascript">
 function showButtonwaitmefor() {
   let waitmefor_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/10 - Wait me for.mp3\" type=\"audio/mp3\"></audio>";
@@ -3408,7 +3406,7 @@ function showButtonwaitmefor() {
 <input type = "button" onclick = "showButtonwaitmefor()" value = "⏯ Wait me for">
 <p id="waitmefor"></p>
 
-###### 11 - Back your watch
+11 
 <script type="text/javascript">
 function showButtonbackyourwatch() {
   let backyourwatch_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/11 - Back your watch.mp3\" type=\"audio/mp3\"></audio>";
@@ -3418,7 +3416,7 @@ function showButtonbackyourwatch() {
 <input type = "button" onclick = "showButtonbackyourwatch()" value = "⏯ Back your watch">
 <p id="backyourwatch"></p>
 
-###### 12 - all almost
+12 
 <script type="text/javascript">
 function showButtonallalmost() {
   let allalmost_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/12 - all almost.mp3\" type=\"audio/mp3\"></audio>";
@@ -3428,7 +3426,7 @@ function showButtonallalmost() {
 <input type = "button" onclick = "showButtonallalmost()" value = "⏯ all almost">
 <p id="allalmost"></p>
 
-###### 13 - skyline
+13 
 <script type="text/javascript">
 function showButtonskyline() {
   let skyline_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/13 - skyline.mp3\" type=\"audio/mp3\"></audio>";
@@ -3438,7 +3436,7 @@ function showButtonskyline() {
 <input type = "button" onclick = "showButtonskyline()" value = "⏯ skyline">
 <p id="skyline"></p>
 
-###### 14 - It Seems That The Clouds Left With You
+14 
 <script type="text/javascript">
 function showButtonitseemsthatthecloudsleftwithyou() {
   let itseemsthatthecloudsleftwithyou_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/14 - It Seems That The Clouds Left With You.mp3\" type=\"audio/mp3\"></audio>";
@@ -3448,7 +3446,7 @@ function showButtonitseemsthatthecloudsleftwithyou() {
 <input type = "button" onclick = "showButtonitseemsthatthecloudsleftwithyou()" value = "⏯ It Seems That The Clouds Left With You">
 <p id="itseemsthatthecloudsleftwithyou"></p>
 
-###### 15 - might
+15 
 <script type="text/javascript">
 function showButtonmight() {
   let might_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/15 - might.mp3\" type=\"audio/mp3\"></audio>";
@@ -3458,7 +3456,7 @@ function showButtonmight() {
 <input type = "button" onclick = "showButtonmight()" value = "⏯ might">
 <p id="might"></p>
 
-###### 16 - casual
+16 
 <script type="text/javascript">
 function showButtoncasual() {
   let casual_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/16 - casual.mp3\" type=\"audio/mp3\"></audio>";
@@ -3468,7 +3466,7 @@ function showButtoncasual() {
 <input type = "button" onclick = "showButtoncasual()" value = "⏯ casual">
 <p id="casual"></p>
 
-###### 17 - Untangled
+17 
 <script type="text/javascript">
 function showButtonuntangled() {
   let untangled_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/17 - Untangled.mp3\" type=\"audio/mp3\"></audio>";
@@ -3478,7 +3476,7 @@ function showButtonuntangled() {
 <input type = "button" onclick = "showButtonuntangled()" value = "⏯ Untangled">
 <p id="untangled"></p>
 
-###### 18 - regrowth
+18 
 <script type="text/javascript">
 function showButtonregrowth() {
   let regrowth_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/18 - regrowth.mp3\" type=\"audio/mp3\"></audio>";
@@ -3488,7 +3486,7 @@ function showButtonregrowth() {
 <input type = "button" onclick = "showButtonregrowth()" value = "⏯ regrowth">
 <p id="regrowth"></p>
 
-###### 19 - Burn it
+19 
 <script type="text/javascript">
 function showButtonburnit() {
   let burnit_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/19 - Burn it.mp3\" type=\"audio/mp3\"></audio>";
@@ -3498,7 +3496,7 @@ function showButtonburnit() {
 <input type = "button" onclick = "showButtonburnit()" value = "⏯ Burn it">
 <p id="burnit"></p>
 
-###### 20 - concealed
+20 
 <script type="text/javascript">
 function showButtonconcealed() {
   let concealed_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/20 - concealed.mp3\" type=\"audio/mp3\"></audio>";
@@ -3508,7 +3506,7 @@ function showButtonconcealed() {
 <input type = "button" onclick = "showButtonconcealed()" value = "⏯ concealed">
 <p id="concealed"></p>
 
-###### 21 - Lightning
+21 
 <script type="text/javascript">
 function showButtonlightning() {
   let lightning_controls = "<audio controls><source src=\"/assets/music/16.- 'Lyricless Miracles'/21 - Lightning.mp3\" type=\"audio/mp3\"></audio>";
@@ -3522,7 +3520,7 @@ function showButtonlightning() {
 17. [irl](#irl)
 #### 17.- 'irl' <a name="irl"></a>
 [![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
-###### 1.- Misery
+1.
 <script type="text/javascript">
 function showButtonmisery() {
   let misery_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/1.- Misery.mp3\" type=\"audio/mp3\"></audio>";
@@ -3532,7 +3530,7 @@ function showButtonmisery() {
 <input type = "button" onclick = "showButtonmisery()" value = "⏯ Misery">
 <p id="misery"></p>
 
-###### 2 - Wonder
+2 
 <script type="text/javascript">
 function showButtonwonder() {
   let wonder_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/2 - Wonder.mp3\" type=\"audio/mp3\"></audio>";
@@ -3542,7 +3540,7 @@ function showButtonwonder() {
 <input type = "button" onclick = "showButtonwonder()" value = "⏯ Wonder">
 <p id="wonder"></p>
 
-###### 3 - 3
+3 
 <script type="text/javascript">
 function showButton3() {
   let 3_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/3 - 3.mp3\" type=\"audio/mp3\"></audio>";
@@ -3552,7 +3550,7 @@ function showButton3() {
 <input type = "button" onclick = "showButton3()" value = "⏯ 3">
 <p id="3"></p>
 
-###### 4 - 4444
+4 
 <script type="text/javascript">
 function showButton4444() {
   let 4444_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/4 - 4444.mp3\" type=\"audio/mp3\"></audio>";
@@ -3562,7 +3560,7 @@ function showButton4444() {
 <input type = "button" onclick = "showButton4444()" value = "⏯ 4444">
 <p id="4444"></p>
 
-###### 5 - The music you skip
+5 
 <script type="text/javascript">
 function showButtonthemusicyouskip() {
   let themusicyouskip_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/5 - The music you skip.mp3\" type=\"audio/mp3\"></audio>";
@@ -3572,7 +3570,7 @@ function showButtonthemusicyouskip() {
 <input type = "button" onclick = "showButtonthemusicyouskip()" value = "⏯ The music you skip">
 <p id="themusicyouskip"></p>
 
-###### 6 - Have to have
+6 
 <script type="text/javascript">
 function showButtonhavetohave() {
   let havetohave_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/6 - Have to have.mp3\" type=\"audio/mp3\"></audio>";
@@ -3582,7 +3580,7 @@ function showButtonhavetohave() {
 <input type = "button" onclick = "showButtonhavetohave()" value = "⏯ Have to have">
 <p id="havetohave"></p>
 
-###### 7 - Last Summer
+7 
 <script type="text/javascript">
 function showButtonlastsummer() {
   let lastsummer_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/7 - Last Summer.mp3\" type=\"audio/mp3\"></audio>";
@@ -3592,7 +3590,7 @@ function showButtonlastsummer() {
 <input type = "button" onclick = "showButtonlastsummer()" value = "⏯ Last Summer">
 <p id="lastsummer"></p>
 
-###### 8 - Downstairs
+8 
 <script type="text/javascript">
 function showButtondownstairs() {
   let downstairs_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/8 - Downstairs.mp3\" type=\"audio/mp3\"></audio>";
@@ -3602,7 +3600,7 @@ function showButtondownstairs() {
 <input type = "button" onclick = "showButtondownstairs()" value = "⏯ Downstairs">
 <p id="downstairs"></p>
 
-###### 9 - Flummox
+9 
 <script type="text/javascript">
 function showButtonflummox() {
   let flummox_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/9 - Flummox.mp3\" type=\"audio/mp3\"></audio>";
@@ -3612,7 +3610,7 @@ function showButtonflummox() {
 <input type = "button" onclick = "showButtonflummox()" value = "⏯ Flummox">
 <p id="flummox"></p>
 
-###### 10 - Outcast
+10 
 <script type="text/javascript">
 function showButtonoutcast() {
   let outcast_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/10 - Outcast.mp3\" type=\"audio/mp3\"></audio>";
@@ -3622,7 +3620,7 @@ function showButtonoutcast() {
 <input type = "button" onclick = "showButtonoutcast()" value = "⏯ Outcast">
 <p id="outcast"></p>
 
-###### 11 - Bitter Goodbyes
+11 
 <script type="text/javascript">
 function showButtonbittergoodbyes() {
   let bittergoodbyes_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/11 - Bitter Goodbyes.mp3\" type=\"audio/mp3\"></audio>";
@@ -3632,7 +3630,7 @@ function showButtonbittergoodbyes() {
 <input type = "button" onclick = "showButtonbittergoodbyes()" value = "⏯ Bitter Goodbyes">
 <p id="bittergoodbyes"></p>
 
-###### 12 - Sand
+12 
 <script type="text/javascript">
 function showButtonsand() {
   let sand_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/12 - Sand.mp3\" type=\"audio/mp3\"></audio>";
@@ -3642,7 +3640,7 @@ function showButtonsand() {
 <input type = "button" onclick = "showButtonsand()" value = "⏯ Sand">
 <p id="sand"></p>
 
-###### 13 - Sunshine eyes
+13 
 <script type="text/javascript">
 function showButtonsunshineeyes() {
   let sunshineeyes_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/13 - Sunshine eyes.mp3\" type=\"audio/mp3\"></audio>";
@@ -3652,7 +3650,7 @@ function showButtonsunshineeyes() {
 <input type = "button" onclick = "showButtonsunshineeyes()" value = "⏯ Sunshine eyes">
 <p id="sunshineeyes"></p>
 
-###### 14 - Old Hat
+14 
 <script type="text/javascript">
 function showButtonoldhat() {
   let oldhat_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/14 - Old Hat.mp3\" type=\"audio/mp3\"></audio>";
@@ -3662,7 +3660,7 @@ function showButtonoldhat() {
 <input type = "button" onclick = "showButtonoldhat()" value = "⏯ Old Hat">
 <p id="oldhat"></p>
 
-###### 15 - Poor aching heart
+15 
 <script type="text/javascript">
 function showButtonpoorachingheart() {
   let poorachingheart_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/15 - Poor aching heart.mp3\" type=\"audio/mp3\"></audio>";
@@ -3672,7 +3670,7 @@ function showButtonpoorachingheart() {
 <input type = "button" onclick = "showButtonpoorachingheart()" value = "⏯ Poor aching heart">
 <p id="poorachingheart"></p>
 
-###### 16 - Handhold
+16 
 <script type="text/javascript">
 function showButtonhandhold() {
   let handhold_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/16 - Handhold.mp3\" type=\"audio/mp3\"></audio>";
@@ -3682,7 +3680,7 @@ function showButtonhandhold() {
 <input type = "button" onclick = "showButtonhandhold()" value = "⏯ Handhold">
 <p id="handhold"></p>
 
-###### 17 - Bad DJ
+17 
 <script type="text/javascript">
 function showButtonbaddj() {
   let baddj_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/17 - Bad DJ.mp3\" type=\"audio/mp3\"></audio>";
@@ -3692,7 +3690,7 @@ function showButtonbaddj() {
 <input type = "button" onclick = "showButtonbaddj()" value = "⏯ Bad DJ">
 <p id="baddj"></p>
 
-###### 18 - Pay day
+18 
 <script type="text/javascript">
 function showButtonpayday() {
   let payday_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/18 - Pay day.mp3\" type=\"audio/mp3\"></audio>";
@@ -3706,7 +3704,7 @@ function showButtonpayday() {
 18. [before senescence](#beforesenescence)
 #### 18.- 'before senescence' <a name="beforesenescence"></a>
 [![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
-###### Lonely - Bella Thorne - Afaces remix
+Lonely 
 <script type="text/javascript">
 function showButtonbellathorneafacesremix() {
   let bellathorneafacesremix_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/Lonely - Bella Thorne - Afaces remix.mp3\" type=\"audio/mp3\"></audio>";
@@ -3716,7 +3714,7 @@ function showButtonbellathorneafacesremix() {
 <input type = "button" onclick = "showButtonbellathorneafacesremix()" value = "⏯ Bella Thorne - Afaces remix">
 <p id="bellathorneafacesremix"></p>
 
-###### 1 - Preshrunk
+1 
 <script type="text/javascript">
 function showButtonpreshrunk() {
   let preshrunk_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/1 - Preshrunk.mp3\" type=\"audio/mp3\"></audio>";
@@ -3726,7 +3724,7 @@ function showButtonpreshrunk() {
 <input type = "button" onclick = "showButtonpreshrunk()" value = "⏯ Preshrunk">
 <p id="preshrunk"></p>
 
-###### 2 - Bottle
+2 
 <script type="text/javascript">
 function showButtonbottle() {
   let bottle_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/2 - Bottle.mp3\" type=\"audio/mp3\"></audio>";
@@ -3736,7 +3734,7 @@ function showButtonbottle() {
 <input type = "button" onclick = "showButtonbottle()" value = "⏯ Bottle">
 <p id="bottle"></p>
 
-###### 3 - That epoch you existed
+3 
 <script type="text/javascript">
 function showButtonthatepochyouexisted() {
   let thatepochyouexisted_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/3 - That epoch you existed.mp3\" type=\"audio/mp3\"></audio>";
@@ -3746,7 +3744,7 @@ function showButtonthatepochyouexisted() {
 <input type = "button" onclick = "showButtonthatepochyouexisted()" value = "⏯ That epoch you existed">
 <p id="thatepochyouexisted"></p>
 
-###### 4 - Unplaylisted
+4 
 <script type="text/javascript">
 function showButtonunplaylisted() {
   let unplaylisted_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/4 - Unplaylisted.mp3\" type=\"audio/mp3\"></audio>";
@@ -3756,7 +3754,7 @@ function showButtonunplaylisted() {
 <input type = "button" onclick = "showButtonunplaylisted()" value = "⏯ Unplaylisted">
 <p id="unplaylisted"></p>
 
-###### 5 - Hang up
+5 
 <script type="text/javascript">
 function showButtonhangup() {
   let hangup_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/5 - Hang up.mp3\" type=\"audio/mp3\"></audio>";
@@ -3766,7 +3764,7 @@ function showButtonhangup() {
 <input type = "button" onclick = "showButtonhangup()" value = "⏯ Hang up">
 <p id="hangup"></p>
 
-###### 6 - Infraencer
+6 
 <script type="text/javascript">
 function showButtoninfraencer() {
   let infraencer_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/6 - Infraencer.mp3\" type=\"audio/mp3\"></audio>";
@@ -3776,7 +3774,7 @@ function showButtoninfraencer() {
 <input type = "button" onclick = "showButtoninfraencer()" value = "⏯ Infraencer">
 <p id="infraencer"></p>
 
-###### 7 - Awry astrays
+7 
 <script type="text/javascript">
 function showButtonawryastrays() {
   let awryastrays_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/7 - Awry astrays.mp3\" type=\"audio/mp3\"></audio>";
@@ -3786,7 +3784,7 @@ function showButtonawryastrays() {
 <input type = "button" onclick = "showButtonawryastrays()" value = "⏯ Awry astrays">
 <p id="awryastrays"></p>
 
-###### 8 - Large dresses
+8 
 <script type="text/javascript">
 function showButtonlargedresses() {
   let largedresses_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/8 - Large dresses.mp3\" type=\"audio/mp3\"></audio>";
@@ -3796,7 +3794,7 @@ function showButtonlargedresses() {
 <input type = "button" onclick = "showButtonlargedresses()" value = "⏯ Large dresses">
 <p id="largedresses"></p>
 
-###### 9 - Greedings
+9 
 <script type="text/javascript">
 function showButtongreedings() {
   let greedings_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/9 - Greedings.mp3\" type=\"audio/mp3\"></audio>";
@@ -3806,7 +3804,7 @@ function showButtongreedings() {
 <input type = "button" onclick = "showButtongreedings()" value = "⏯ Greedings">
 <p id="greedings"></p>
 
-###### 10 - Whim
+10 
 <script type="text/javascript">
 function showButtonwhim() {
   let whim_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/10 - Whim.mp3\" type=\"audio/mp3\"></audio>";
@@ -3816,7 +3814,7 @@ function showButtonwhim() {
 <input type = "button" onclick = "showButtonwhim()" value = "⏯ Whim">
 <p id="whim"></p>
 
-###### 11 - Flail
+11 
 <script type="text/javascript">
 function showButtonflail() {
   let flail_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/11 - Flail.mp3\" type=\"audio/mp3\"></audio>";
@@ -3826,7 +3824,7 @@ function showButtonflail() {
 <input type = "button" onclick = "showButtonflail()" value = "⏯ Flail">
 <p id="flail"></p>
 
-###### 12 - Questions
+12 
 <script type="text/javascript">
 function showButtonquestions() {
   let questions_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/12 - Questions.mp3\" type=\"audio/mp3\"></audio>";
@@ -3836,7 +3834,7 @@ function showButtonquestions() {
 <input type = "button" onclick = "showButtonquestions()" value = "⏯ Questions">
 <p id="questions"></p>
 
-###### 13 - 14 - New Titles[1]
+13 
 <script type="text/javascript">
 function showButton14newtitles[1]() {
   let 14newtitles[1]_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/13 - 14 - New Titles[1].mp3\" type=\"audio/mp3\"></audio>";
@@ -3846,7 +3844,7 @@ function showButton14newtitles[1]() {
 <input type = "button" onclick = "showButton14newtitles[1]()" value = "⏯ 14 - New Titles[1]">
 <p id="14newtitles[1]"></p>
 
-###### 14 - External thoughts
+14 
 <script type="text/javascript">
 function showButtonexternalthoughts() {
   let externalthoughts_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/14 - External thoughts.mp3\" type=\"audio/mp3\"></audio>";
@@ -3856,7 +3854,7 @@ function showButtonexternalthoughts() {
 <input type = "button" onclick = "showButtonexternalthoughts()" value = "⏯ External thoughts">
 <p id="externalthoughts"></p>
 
-###### 15 -Chiripitiflauticus
+15 
 <script type="text/javascript">
 function showButtonchiripitiflauticus() {
   let chiripitiflauticus_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/15 -Chiripitiflauticus.mp3\" type=\"audio/mp3\"></audio>";
@@ -3866,7 +3864,7 @@ function showButtonchiripitiflauticus() {
 <input type = "button" onclick = "showButtonchiripitiflauticus()" value = "⏯Chiripitiflauticus">
 <p id="chiripitiflauticus"></p>
 
-###### 16 - Cat
+16 
 <script type="text/javascript">
 function showButtoncat() {
   let cat_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/16 - Cat.mp3\" type=\"audio/mp3\"></audio>";
@@ -3876,7 +3874,7 @@ function showButtoncat() {
 <input type = "button" onclick = "showButtoncat()" value = "⏯ Cat">
 <p id="cat"></p>
 
-###### 17 - Hi there
+17 
 <script type="text/javascript">
 function showButtonhithere() {
   let hithere_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/17 - Hi there.mp3\" type=\"audio/mp3\"></audio>";
@@ -3886,7 +3884,7 @@ function showButtonhithere() {
 <input type = "button" onclick = "showButtonhithere()" value = "⏯ Hi there">
 <p id="hithere"></p>
 
-###### 18 - Soundtest3
+18 
 <script type="text/javascript">
 function showButtonsoundtest3() {
   let soundtest3_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/18 - Soundtest3.mp3\" type=\"audio/mp3\"></audio>";
@@ -3900,7 +3898,7 @@ function showButtonsoundtest3() {
 19. [back to the origins](#backtotheorigins)
 #### 19.- 'back to the origins' <a name="backtotheorigins"></a>
 [![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
-###### 1.- This song has no video
+1.
 <script type="text/javascript">
 function showButtonthissonghasnovideo() {
   let thissonghasnovideo_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/1.- This song has no video.mp3\" type=\"audio/mp3\"></audio>";
@@ -3910,7 +3908,7 @@ function showButtonthissonghasnovideo() {
 <input type = "button" onclick = "showButtonthissonghasnovideo()" value = "⏯ This song has no video">
 <p id="thissonghasnovideo"></p>
 
-###### 2.- Tarnish
+2.
 <script type="text/javascript">
 function showButtontarnish() {
   let tarnish_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/2.- Tarnish.mp3\" type=\"audio/mp3\"></audio>";
@@ -3920,7 +3918,7 @@ function showButtontarnish() {
 <input type = "button" onclick = "showButtontarnish()" value = "⏯ Tarnish">
 <p id="tarnish"></p>
 
-###### 3.- liek
+3.
 <script type="text/javascript">
 function showButtonliek() {
   let liek_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/3.- liek.mp3\" type=\"audio/mp3\"></audio>";
@@ -3930,7 +3928,7 @@ function showButtonliek() {
 <input type = "button" onclick = "showButtonliek()" value = "⏯ liek">
 <p id="liek"></p>
 
-###### 4.- Making me crazy
+4.
 <script type="text/javascript">
 function showButtonmakingmecrazy() {
   let makingmecrazy_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/4.- Making me crazy.mp3\" type=\"audio/mp3\"></audio>";
@@ -3940,7 +3938,7 @@ function showButtonmakingmecrazy() {
 <input type = "button" onclick = "showButtonmakingmecrazy()" value = "⏯ Making me crazy">
 <p id="makingmecrazy"></p>
 
-###### 5.- Stick to the tree
+5.
 <script type="text/javascript">
 function showButtonsticktothetree() {
   let sticktothetree_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/5.- Stick to the tree.mp3\" type=\"audio/mp3\"></audio>";
@@ -3950,7 +3948,7 @@ function showButtonsticktothetree() {
 <input type = "button" onclick = "showButtonsticktothetree()" value = "⏯ Stick to the tree">
 <p id="sticktothetree"></p>
 
-###### 6.- vitriolic
+6.
 <script type="text/javascript">
 function showButtonvitriolic() {
   let vitriolic_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/6.- vitriolic.mp3\" type=\"audio/mp3\"></audio>";
@@ -3960,7 +3958,7 @@ function showButtonvitriolic() {
 <input type = "button" onclick = "showButtonvitriolic()" value = "⏯ vitriolic">
 <p id="vitriolic"></p>
 
-###### 7.- mixptakes
+7.
 <script type="text/javascript">
 function showButtonmixptakes() {
   let mixptakes_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/7.- mixptakes.mp3\" type=\"audio/mp3\"></audio>";
@@ -3970,7 +3968,7 @@ function showButtonmixptakes() {
 <input type = "button" onclick = "showButtonmixptakes()" value = "⏯ mixptakes">
 <p id="mixptakes"></p>
 
-###### 8.- Old times
+8.
 <script type="text/javascript">
 function showButtonoldtimes() {
   let oldtimes_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/8.- Old times.mp3\" type=\"audio/mp3\"></audio>";
@@ -3980,7 +3978,7 @@ function showButtonoldtimes() {
 <input type = "button" onclick = "showButtonoldtimes()" value = "⏯ Old times">
 <p id="oldtimes"></p>
 
-###### 9.- Long time no see
+9.
 <script type="text/javascript">
 function showButtonlongtimenosee() {
   let longtimenosee_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/9.- Long time no see.mp3\" type=\"audio/mp3\"></audio>";
@@ -3990,7 +3988,7 @@ function showButtonlongtimenosee() {
 <input type = "button" onclick = "showButtonlongtimenosee()" value = "⏯ Long time no see">
 <p id="longtimenosee"></p>
 
-###### 10.- trap'd by u
+10.
 <script type="text/javascript">
 function showButtontrapdbyu() {
   let trapdbyu_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/10.- trap'd by u.mp3\" type=\"audio/mp3\"></audio>";
@@ -4000,7 +3998,7 @@ function showButtontrapdbyu() {
 <input type = "button" onclick = "showButtontrapdbyu()" value = "⏯ trap'd by u">
 <p id="trapdbyu"></p>
 
-###### 11.- Flying neon tires
+11.
 <script type="text/javascript">
 function showButtonflyingneontires() {
   let flyingneontires_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/11.- Flying neon tires.mp3\" type=\"audio/mp3\"></audio>";
@@ -4010,7 +4008,7 @@ function showButtonflyingneontires() {
 <input type = "button" onclick = "showButtonflyingneontires()" value = "⏯ Flying neon tires">
 <p id="flyingneontires"></p>
 
-###### 12.- Soundtest2
+12.
 <script type="text/javascript">
 function showButtonsoundtest2() {
   let soundtest2_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/12.- Soundtest2.mp3\" type=\"audio/mp3\"></audio>";
@@ -4020,7 +4018,7 @@ function showButtonsoundtest2() {
 <input type = "button" onclick = "showButtonsoundtest2()" value = "⏯ Soundtest2">
 <p id="soundtest2"></p>
 
-###### 13.- Destiny repeats
+13.
 <script type="text/javascript">
 function showButtondestinyrepeats() {
   let destinyrepeats_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/13.- Destiny repeats.mp3\" type=\"audio/mp3\"></audio>";
@@ -4030,7 +4028,7 @@ function showButtondestinyrepeats() {
 <input type = "button" onclick = "showButtondestinyrepeats()" value = "⏯ Destiny repeats">
 <p id="destinyrepeats"></p>
 
-###### 14.- My mother's softener
+14.
 <script type="text/javascript">
 function showButtonmymotherssoftener() {
   let mymotherssoftener_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/14.- My mother's softener.mp3\" type=\"audio/mp3\"></audio>";
@@ -4040,7 +4038,7 @@ function showButtonmymotherssoftener() {
 <input type = "button" onclick = "showButtonmymotherssoftener()" value = "⏯ My mother's softener">
 <p id="mymotherssoftener"></p>
 
-###### 15.- dial
+15.
 <script type="text/javascript">
 function showButtondial() {
   let dial_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/15.- dial.mp3\" type=\"audio/mp3\"></audio>";
@@ -4050,7 +4048,7 @@ function showButtondial() {
 <input type = "button" onclick = "showButtondial()" value = "⏯ dial">
 <p id="dial"></p>
 
-###### 16.- La hija de Franco
+16.
 <script type="text/javascript">
 function showButtonlahijadefranco() {
   let lahijadefranco_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/16.- La hija de Franco.mp3\" type=\"audio/mp3\"></audio>";
@@ -4060,7 +4058,7 @@ function showButtonlahijadefranco() {
 <input type = "button" onclick = "showButtonlahijadefranco()" value = "⏯ La hija de Franco">
 <p id="lahijadefranco"></p>
 
-###### 17.- Sintonize
+17.
 <script type="text/javascript">
 function showButtonsintonize() {
   let sintonize_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/17.- Sintonize.mp3\" type=\"audio/mp3\"></audio>";
@@ -4070,7 +4068,7 @@ function showButtonsintonize() {
 <input type = "button" onclick = "showButtonsintonize()" value = "⏯ Sintonize">
 <p id="sintonize"></p>
 
-###### 18.- Astronauta
+18.
 <script type="text/javascript">
 function showButtonastronauta() {
   let astronauta_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/18.- Astronauta.mp3\" type=\"audio/mp3\"></audio>";
@@ -4080,7 +4078,7 @@ function showButtonastronauta() {
 <input type = "button" onclick = "showButtonastronauta()" value = "⏯ Astronauta">
 <p id="astronauta"></p>
 
-###### 19.- Schedules
+19.
 <script type="text/javascript">
 function showButtonschedules() {
   let schedules_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/19.- Schedules.mp3\" type=\"audio/mp3\"></audio>";
@@ -4090,7 +4088,7 @@ function showButtonschedules() {
 <input type = "button" onclick = "showButtonschedules()" value = "⏯ Schedules">
 <p id="schedules"></p>
 
-###### 20.- blue lighted rain
+20.
 <script type="text/javascript">
 function showButtonbluelightedrain() {
   let bluelightedrain_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/20.- blue lighted rain.mp3\" type=\"audio/mp3\"></audio>";
@@ -4100,7 +4098,7 @@ function showButtonbluelightedrain() {
 <input type = "button" onclick = "showButtonbluelightedrain()" value = "⏯ blue lighted rain">
 <p id="bluelightedrain"></p>
 
-###### 21.- good night
+21.
 <script type="text/javascript">
 function showButtongoodnight() {
   let goodnight_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/21.- good night.mp3\" type=\"audio/mp3\"></audio>";
@@ -4114,7 +4112,7 @@ function showButtongoodnight() {
 20. [conversation conservation](#conversationconservation)
 #### 20.- 'conversation conservation' <a name="conversationconservation"></a>
 [![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
-###### 1.- Messy streak
+1.
 <script type="text/javascript">
 function showButtonmessystreak() {
   let messystreak_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/1.- Messy streak.mp3\" type=\"audio/mp3\"></audio>";
@@ -4124,7 +4122,7 @@ function showButtonmessystreak() {
 <input type = "button" onclick = "showButtonmessystreak()" value = "⏯ Messy streak">
 <p id="messystreak"></p>
 
-###### 2.- things removed
+2.
 <script type="text/javascript">
 function showButtonthingsremoved() {
   let thingsremoved_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/2.- things removed.mp3\" type=\"audio/mp3\"></audio>";
@@ -4134,7 +4132,7 @@ function showButtonthingsremoved() {
 <input type = "button" onclick = "showButtonthingsremoved()" value = "⏯ things removed">
 <p id="thingsremoved"></p>
 
-###### 3.- man's compliments
+3.
 <script type="text/javascript">
 function showButtonmanscompliments() {
   let manscompliments_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/3.- man's compliments.mp3\" type=\"audio/mp3\"></audio>";
@@ -4144,7 +4142,7 @@ function showButtonmanscompliments() {
 <input type = "button" onclick = "showButtonmanscompliments()" value = "⏯ man's compliments">
 <p id="manscompliments"></p>
 
-###### 4.- mami call you later
+4.
 <script type="text/javascript">
 function showButtonmamicallyoulater() {
   let mamicallyoulater_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/4.- mami call you later.mp3\" type=\"audio/mp3\"></audio>";
@@ -4154,7 +4152,7 @@ function showButtonmamicallyoulater() {
 <input type = "button" onclick = "showButtonmamicallyoulater()" value = "⏯ mami call you later">
 <p id="mamicallyoulater"></p>
 
-###### 5.- so cheap
+5.
 <script type="text/javascript">
 function showButtonsocheap() {
   let socheap_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/5.- so cheap.mp3\" type=\"audio/mp3\"></audio>";
@@ -4164,7 +4162,7 @@ function showButtonsocheap() {
 <input type = "button" onclick = "showButtonsocheap()" value = "⏯ so cheap">
 <p id="socheap"></p>
 
-###### 6.- aftermath
+6.
 <script type="text/javascript">
 function showButtonaftermath() {
   let aftermath_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/6.- aftermath.mp3\" type=\"audio/mp3\"></audio>";
@@ -4174,7 +4172,7 @@ function showButtonaftermath() {
 <input type = "button" onclick = "showButtonaftermath()" value = "⏯ aftermath">
 <p id="aftermath"></p>
 
-###### 7.- last day's morning bedroom trash
+7.
 <script type="text/javascript">
 function showButtonlastdaysmorningbedroomtrash() {
   let lastdaysmorningbedroomtrash_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/7.- last day's morning bedroom trash.mp3\" type=\"audio/mp3\"></audio>";
@@ -4184,7 +4182,7 @@ function showButtonlastdaysmorningbedroomtrash() {
 <input type = "button" onclick = "showButtonlastdaysmorningbedroomtrash()" value = "⏯ last day's morning bedroom trash">
 <p id="lastdaysmorningbedroomtrash"></p>
 
-###### 8.- first day's afternoon dormer junk
+8.
 <script type="text/javascript">
 function showButtonfirstdaysafternoondormerjunk() {
   let firstdaysafternoondormerjunk_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/8.- first day's afternoon dormer junk.mp3\" type=\"audio/mp3\"></audio>";
@@ -4194,7 +4192,7 @@ function showButtonfirstdaysafternoondormerjunk() {
 <input type = "button" onclick = "showButtonfirstdaysafternoondormerjunk()" value = "⏯ first day's afternoon dormer junk">
 <p id="firstdaysafternoondormerjunk"></p>
 
-###### 9.- tired
+9.
 <script type="text/javascript">
 function showButtontired() {
   let tired_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/9.- tired.mp3\" type=\"audio/mp3\"></audio>";
@@ -4204,7 +4202,7 @@ function showButtontired() {
 <input type = "button" onclick = "showButtontired()" value = "⏯ tired">
 <p id="tired"></p>
 
-###### 10.- words of choice
+10.
 <script type="text/javascript">
 function showButtonwordsofchoice() {
   let wordsofchoice_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/10.- words of choice.mp3\" type=\"audio/mp3\"></audio>";
@@ -4214,7 +4212,7 @@ function showButtonwordsofchoice() {
 <input type = "button" onclick = "showButtonwordsofchoice()" value = "⏯ words of choice">
 <p id="wordsofchoice"></p>
 
-###### 11.- gators
+11.
 <script type="text/javascript">
 function showButtongators() {
   let gators_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/11.- gators.mp3\" type=\"audio/mp3\"></audio>";
@@ -4224,7 +4222,7 @@ function showButtongators() {
 <input type = "button" onclick = "showButtongators()" value = "⏯ gators">
 <p id="gators"></p>
 
-###### 12.- improvise over
+12.
 <script type="text/javascript">
 function showButtonimproviseover() {
   let improviseover_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/12.- improvise over.mp3\" type=\"audio/mp3\"></audio>";
@@ -4234,7 +4232,7 @@ function showButtonimproviseover() {
 <input type = "button" onclick = "showButtonimproviseover()" value = "⏯ improvise over">
 <p id="improviseover"></p>
 
-###### 13.- change of view
+13.
 <script type="text/javascript">
 function showButtonchangeofview() {
   let changeofview_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/13.- change of view.mp3\" type=\"audio/mp3\"></audio>";
@@ -4244,7 +4242,7 @@ function showButtonchangeofview() {
 <input type = "button" onclick = "showButtonchangeofview()" value = "⏯ change of view">
 <p id="changeofview"></p>
 
-###### 14.- the ether
+14.
 <script type="text/javascript">
 function showButtontheether() {
   let theether_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/14.- the ether.mp3\" type=\"audio/mp3\"></audio>";
@@ -4254,7 +4252,7 @@ function showButtontheether() {
 <input type = "button" onclick = "showButtontheether()" value = "⏯ the ether">
 <p id="theether"></p>
 
-###### 15.- Unbidden
+15.
 <script type="text/javascript">
 function showButtonunbidden() {
   let unbidden_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/15.- Unbidden.mp3\" type=\"audio/mp3\"></audio>";
@@ -4264,7 +4262,7 @@ function showButtonunbidden() {
 <input type = "button" onclick = "showButtonunbidden()" value = "⏯ Unbidden">
 <p id="unbidden"></p>
 
-###### 16.- taboo
+16.
 <script type="text/javascript">
 function showButtontaboo() {
   let taboo_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/16.- taboo.mp3\" type=\"audio/mp3\"></audio>";
@@ -4274,7 +4272,7 @@ function showButtontaboo() {
 <input type = "button" onclick = "showButtontaboo()" value = "⏯ taboo">
 <p id="taboo"></p>
 
-###### 17.- where do I weirdo I
+17.
 <script type="text/javascript">
 function showButtonwheredoiweirdoi() {
   let wheredoiweirdoi_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/17.- where do I (weirdo I).mp3\" type=\"audio/mp3\"></audio>";
@@ -4284,7 +4282,7 @@ function showButtonwheredoiweirdoi() {
 <input type = "button" onclick = "showButtonwheredoiweirdoi()" value = "⏯ where do I weirdo I">
 <p id="wheredoiweirdoi"></p>
 
-###### 18.- more work
+18.
 <script type="text/javascript">
 function showButtonmorework() {
   let morework_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/18.- more work.mp3\" type=\"audio/mp3\"></audio>";
@@ -4294,7 +4292,7 @@ function showButtonmorework() {
 <input type = "button" onclick = "showButtonmorework()" value = "⏯ more work">
 <p id="morework"></p>
 
-###### 19.- bday boi
+19.
 <script type="text/javascript">
 function showButtonbdayboi() {
   let bdayboi_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/19.- bday boi.mp3\" type=\"audio/mp3\"></audio>";
@@ -4304,7 +4302,7 @@ function showButtonbdayboi() {
 <input type = "button" onclick = "showButtonbdayboi()" value = "⏯ bday boi">
 <p id="bdayboi"></p>
 
-###### 20.- raw
+20.
 <script type="text/javascript">
 function showButtonraw() {
   let raw_controls = "<audio controls><source src=\"/assets/music/20.- 'conversation conservation'/20.- raw.mp3\" type=\"audio/mp3\"></audio>";
@@ -4318,7 +4316,7 @@ function showButtonraw() {
 21. [Gloomy dances](#gloomydances)
 #### 21.- 'Gloomy dances' <a name="gloomydances"></a>
 [![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
-###### 1.- yeah yeah
+1.
 <script type="text/javascript">
 function showButtonyeahyeah() {
   let yeahyeah_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/1.- yeah yeah.mp3\" type=\"audio/mp3\"></audio>";
@@ -4328,7 +4326,7 @@ function showButtonyeahyeah() {
 <input type = "button" onclick = "showButtonyeahyeah()" value = "⏯ yeah yeah">
 <p id="yeahyeah"></p>
 
-###### 2.- bby
+2.
 <script type="text/javascript">
 function showButtonbby() {
   let bby_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/2.- bby.mp3\" type=\"audio/mp3\"></audio>";
@@ -4338,7 +4336,7 @@ function showButtonbby() {
 <input type = "button" onclick = "showButtonbby()" value = "⏯ bby">
 <p id="bby"></p>
 
-###### 3.- mcguffin
+3.
 <script type="text/javascript">
 function showButtonmcguffin() {
   let mcguffin_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/3.- mcguffin.mp3\" type=\"audio/mp3\"></audio>";
@@ -4348,7 +4346,7 @@ function showButtonmcguffin() {
 <input type = "button" onclick = "showButtonmcguffin()" value = "⏯ mcguffin">
 <p id="mcguffin"></p>
 
-###### 4.- almsgiving
+4.
 <script type="text/javascript">
 function showButtonalmsgiving() {
   let almsgiving_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/4.- almsgiving.mp3\" type=\"audio/mp3\"></audio>";
@@ -4358,7 +4356,7 @@ function showButtonalmsgiving() {
 <input type = "button" onclick = "showButtonalmsgiving()" value = "⏯ almsgiving">
 <p id="almsgiving"></p>
 
-###### 5.- product project
+5.
 <script type="text/javascript">
 function showButtonproductproject() {
   let productproject_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/5.- product project.mp3\" type=\"audio/mp3\"></audio>";
@@ -4368,7 +4366,7 @@ function showButtonproductproject() {
 <input type = "button" onclick = "showButtonproductproject()" value = "⏯ product project">
 <p id="productproject"></p>
 
-###### 6.- distractions
+6.
 <script type="text/javascript">
 function showButtondistractions() {
   let distractions_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/6.- distractions.mp3\" type=\"audio/mp3\"></audio>";
@@ -4378,7 +4376,7 @@ function showButtondistractions() {
 <input type = "button" onclick = "showButtondistractions()" value = "⏯ distractions">
 <p id="distractions"></p>
 
-###### 7.- secrets
+7.
 <script type="text/javascript">
 function showButtonsecrets() {
   let secrets_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/7.- secrets.mp3\" type=\"audio/mp3\"></audio>";
@@ -4388,7 +4386,7 @@ function showButtonsecrets() {
 <input type = "button" onclick = "showButtonsecrets()" value = "⏯ secrets">
 <p id="secrets"></p>
 
-###### 8.- cascade
+8.
 <script type="text/javascript">
 function showButtoncascade() {
   let cascade_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/8.- cascade.mp3\" type=\"audio/mp3\"></audio>";
@@ -4398,7 +4396,7 @@ function showButtoncascade() {
 <input type = "button" onclick = "showButtoncascade()" value = "⏯ cascade">
 <p id="cascade"></p>
 
-###### 9.- sunscreen
+9.
 <script type="text/javascript">
 function showButtonsunscreen() {
   let sunscreen_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/9.- sunscreen.mp3\" type=\"audio/mp3\"></audio>";
@@ -4408,7 +4406,7 @@ function showButtonsunscreen() {
 <input type = "button" onclick = "showButtonsunscreen()" value = "⏯ sunscreen">
 <p id="sunscreen"></p>
 
-###### 10.- So far so close your friends will be okay
+10.
 <script type="text/javascript">
 function showButtonsofarsocloseyourfriendswillbeokay() {
   let sofarsocloseyourfriendswillbeokay_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/10.- So far so close (your friends will be okay).mp3\" type=\"audio/mp3\"></audio>";
@@ -4418,7 +4416,7 @@ function showButtonsofarsocloseyourfriendswillbeokay() {
 <input type = "button" onclick = "showButtonsofarsocloseyourfriendswillbeokay()" value = "⏯ So far so close your friends will be okay">
 <p id="sofarsocloseyourfriendswillbeokay"></p>
 
-###### 11.- trip
+11.
 <script type="text/javascript">
 function showButtontrip() {
   let trip_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/11.- trip.mp3\" type=\"audio/mp3\"></audio>";
@@ -4428,7 +4426,7 @@ function showButtontrip() {
 <input type = "button" onclick = "showButtontrip()" value = "⏯ trip">
 <p id="trip"></p>
 
-###### 12.- appear
+12.
 <script type="text/javascript">
 function showButtonappear() {
   let appear_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/12.- appear.mp3\" type=\"audio/mp3\"></audio>";
@@ -4438,7 +4436,7 @@ function showButtonappear() {
 <input type = "button" onclick = "showButtonappear()" value = "⏯ appear">
 <p id="appear"></p>
 
-###### 13.- Unveil
+13.
 <script type="text/javascript">
 function showButtonunveil() {
   let unveil_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/13.- Unveil.mp3\" type=\"audio/mp3\"></audio>";
@@ -4448,7 +4446,7 @@ function showButtonunveil() {
 <input type = "button" onclick = "showButtonunveil()" value = "⏯ Unveil">
 <p id="unveil"></p>
 
-###### 14.- Plans
+14.
 <script type="text/javascript">
 function showButtonplans() {
   let plans_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/14.- Plans.mp3\" type=\"audio/mp3\"></audio>";
@@ -4458,7 +4456,7 @@ function showButtonplans() {
 <input type = "button" onclick = "showButtonplans()" value = "⏯ Plans">
 <p id="plans"></p>
 
-###### 15.- flickering
+15.
 <script type="text/javascript">
 function showButtonflickering() {
   let flickering_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/15.- flickering.mp3\" type=\"audio/mp3\"></audio>";
@@ -4468,7 +4466,7 @@ function showButtonflickering() {
 <input type = "button" onclick = "showButtonflickering()" value = "⏯ flickering">
 <p id="flickering"></p>
 
-###### 16.- La cour de mon grand-père
+16.
 <script type="text/javascript">
 function showButtonlacourdemongrandpère() {
   let lacourdemongrandpère_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/16.- La cour de mon grand-père.mp3\" type=\"audio/mp3\"></audio>";
@@ -4478,7 +4476,7 @@ function showButtonlacourdemongrandpère() {
 <input type = "button" onclick = "showButtonlacourdemongrandpère()" value = "⏯ La cour de mon grand-père">
 <p id="lacourdemongrandpère"></p>
 
-###### 17.- what's poppin'
+17.
 <script type="text/javascript">
 function showButtonwhatspoppin() {
   let whatspoppin_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/17.- what's poppin'.mp3\" type=\"audio/mp3\"></audio>";
@@ -4488,7 +4486,7 @@ function showButtonwhatspoppin() {
 <input type = "button" onclick = "showButtonwhatspoppin()" value = "⏯ what's poppin'">
 <p id="whatspoppin"></p>
 
-###### 18.- promise
+18.
 <script type="text/javascript">
 function showButtonpromise() {
   let promise_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/18.- promise.mp3\" type=\"audio/mp3\"></audio>";
@@ -4498,7 +4496,7 @@ function showButtonpromise() {
 <input type = "button" onclick = "showButtonpromise()" value = "⏯ promise">
 <p id="promise"></p>
 
-###### 19.- unspeak
+19.
 <script type="text/javascript">
 function showButtonunspeak() {
   let unspeak_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/19.- unspeak.mp3\" type=\"audio/mp3\"></audio>";
@@ -4508,7 +4506,7 @@ function showButtonunspeak() {
 <input type = "button" onclick = "showButtonunspeak()" value = "⏯ unspeak">
 <p id="unspeak"></p>
 
-###### 20.- Used to be my friend
+20.
 <script type="text/javascript">
 function showButtonusedtobemyfriend() {
   let usedtobemyfriend_controls = "<audio controls><source src=\"/assets/music/21.- 'Gloomy dances'/20.- Used to be my friend.mp3\" type=\"audio/mp3\"></audio>";
@@ -4522,7 +4520,7 @@ function showButtonusedtobemyfriend() {
 22. [Not Too Bad](#nottoobad)
 #### 22.- 'Not Too Bad' <a name="nottoobad"></a>
 [![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
-###### 1.- Ker al Loch
+1.
 <script type="text/javascript">
 function showButtonkeralloch() {
   let keralloch_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/1.- Ker al Loch.mp3\" type=\"audio/mp3\"></audio>";
@@ -4532,7 +4530,7 @@ function showButtonkeralloch() {
 <input type = "button" onclick = "showButtonkeralloch()" value = "⏯ Ker al Loch">
 <p id="keralloch"></p>
 
-###### 2.- Bleak
+2.
 <script type="text/javascript">
 function showButtonbleak() {
   let bleak_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/2.- Bleak.mp3\" type=\"audio/mp3\"></audio>";
@@ -4542,7 +4540,7 @@ function showButtonbleak() {
 <input type = "button" onclick = "showButtonbleak()" value = "⏯ Bleak">
 <p id="bleak"></p>
 
-###### 3.- seed
+3.
 <script type="text/javascript">
 function showButtonseed() {
   let seed_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/3.- seed.mp3\" type=\"audio/mp3\"></audio>";
@@ -4552,7 +4550,7 @@ function showButtonseed() {
 <input type = "button" onclick = "showButtonseed()" value = "⏯ seed">
 <p id="seed"></p>
 
-###### 4.- grewth
+4.
 <script type="text/javascript">
 function showButtongrewth() {
   let grewth_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/4.- grewth.mp3\" type=\"audio/mp3\"></audio>";
@@ -4562,7 +4560,7 @@ function showButtongrewth() {
 <input type = "button" onclick = "showButtongrewth()" value = "⏯ grewth">
 <p id="grewth"></p>
 
-###### 5.-  Sad kids game
+5.
 <script type="text/javascript">
 function showButtonsadkidsgame() {
   let sadkidsgame_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/5.-  Sad kids game.mp3\" type=\"audio/mp3\"></audio>";
@@ -4572,7 +4570,7 @@ function showButtonsadkidsgame() {
 <input type = "button" onclick = "showButtonsadkidsgame()" value = "⏯  Sad kids game">
 <p id="sadkidsgame"></p>
 
-###### 6.- Worthless
+6.
 <script type="text/javascript">
 function showButtonworthless() {
   let worthless_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/6.- Worthless.mp3\" type=\"audio/mp3\"></audio>";
@@ -4582,7 +4580,7 @@ function showButtonworthless() {
 <input type = "button" onclick = "showButtonworthless()" value = "⏯ Worthless">
 <p id="worthless"></p>
 
-###### 7.- resile
+7.
 <script type="text/javascript">
 function showButtonresile() {
   let resile_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/7.- resile.mp3\" type=\"audio/mp3\"></audio>";
@@ -4592,7 +4590,7 @@ function showButtonresile() {
 <input type = "button" onclick = "showButtonresile()" value = "⏯ resile">
 <p id="resile"></p>
 
-###### 8.- nab
+8.
 <script type="text/javascript">
 function showButtonnab() {
   let nab_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/8.- nab.mp3\" type=\"audio/mp3\"></audio>";
@@ -4602,7 +4600,7 @@ function showButtonnab() {
 <input type = "button" onclick = "showButtonnab()" value = "⏯ nab">
 <p id="nab"></p>
 
-###### 9.- dim bone
+9.
 <script type="text/javascript">
 function showButtondimbone() {
   let dimbone_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/9.- dim bone.mp3\" type=\"audio/mp3\"></audio>";
@@ -4612,7 +4610,7 @@ function showButtondimbone() {
 <input type = "button" onclick = "showButtondimbone()" value = "⏯ dim bone">
 <p id="dimbone"></p>
 
-###### 10.- Distant echoes of lost loves
+10.
 <script type="text/javascript">
 function showButtondistantechoesoflostloves() {
   let distantechoesoflostloves_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/10.- Distant echoes of lost loves.mp3\" type=\"audio/mp3\"></audio>";
@@ -4622,7 +4620,7 @@ function showButtondistantechoesoflostloves() {
 <input type = "button" onclick = "showButtondistantechoesoflostloves()" value = "⏯ Distant echoes of lost loves">
 <p id="distantechoesoflostloves"></p>
 
-###### 11.- Stalwart
+11.
 <script type="text/javascript">
 function showButtonstalwart() {
   let stalwart_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/11.- Stalwart.mp3\" type=\"audio/mp3\"></audio>";
@@ -4632,7 +4630,7 @@ function showButtonstalwart() {
 <input type = "button" onclick = "showButtonstalwart()" value = "⏯ Stalwart">
 <p id="stalwart"></p>
 
-###### 12.- giddy
+12.
 <script type="text/javascript">
 function showButtongiddy() {
   let giddy_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/12.- giddy.mp3\" type=\"audio/mp3\"></audio>";
@@ -4642,7 +4640,7 @@ function showButtongiddy() {
 <input type = "button" onclick = "showButtongiddy()" value = "⏯ giddy">
 <p id="giddy"></p>
 
-###### 13.- wag
+13.
 <script type="text/javascript">
 function showButtonwag() {
   let wag_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/13.- wag.mp3\" type=\"audio/mp3\"></audio>";
@@ -4652,7 +4650,7 @@ function showButtonwag() {
 <input type = "button" onclick = "showButtonwag()" value = "⏯ wag">
 <p id="wag"></p>
 
-###### 14.- dear diary
+14.
 <script type="text/javascript">
 function showButtondeardiary() {
   let deardiary_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/14.- dear diary.mp3\" type=\"audio/mp3\"></audio>";
@@ -4662,7 +4660,7 @@ function showButtondeardiary() {
 <input type = "button" onclick = "showButtondeardiary()" value = "⏯ dear diary">
 <p id="deardiary"></p>
 
-###### 15.- aigre-doux
+15.
 <script type="text/javascript">
 function showButtonaigredoux() {
   let aigredoux_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/15.- aigre-doux.mp3\" type=\"audio/mp3\"></audio>";
@@ -4672,7 +4670,7 @@ function showButtonaigredoux() {
 <input type = "button" onclick = "showButtonaigredoux()" value = "⏯ aigre-doux">
 <p id="aigredoux"></p>
 
-###### 16.- Life without u
+16.
 <script type="text/javascript">
 function showButtonlifewithoutu() {
   let lifewithoutu_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/16.- Life without u.mp3\" type=\"audio/mp3\"></audio>";
@@ -4682,7 +4680,7 @@ function showButtonlifewithoutu() {
 <input type = "button" onclick = "showButtonlifewithoutu()" value = "⏯ Life without u">
 <p id="lifewithoutu"></p>
 
-###### 17.- bane
+17.
 <script type="text/javascript">
 function showButtonbane() {
   let bane_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/17.- bane.mp3\" type=\"audio/mp3\"></audio>";
@@ -4692,7 +4690,7 @@ function showButtonbane() {
 <input type = "button" onclick = "showButtonbane()" value = "⏯ bane">
 <p id="bane"></p>
 
-###### 18.- forlorn
+18.
 <script type="text/javascript">
 function showButtonforlorn() {
   let forlorn_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/18.- forlorn.mp3\" type=\"audio/mp3\"></audio>";
@@ -4702,7 +4700,7 @@ function showButtonforlorn() {
 <input type = "button" onclick = "showButtonforlorn()" value = "⏯ forlorn">
 <p id="forlorn"></p>
 
-###### 19.- cloaks
+19.
 <script type="text/javascript">
 function showButtoncloaks() {
   let cloaks_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/19.- cloaks.mp3\" type=\"audio/mp3\"></audio>";
@@ -4712,7 +4710,7 @@ function showButtoncloaks() {
 <input type = "button" onclick = "showButtoncloaks()" value = "⏯ cloaks">
 <p id="cloaks"></p>
 
-###### 20.- batteries not included
+20.
 <script type="text/javascript">
 function showButtonbatteriesnotincluded() {
   let batteriesnotincluded_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/20.- batteries not included.mp3\" type=\"audio/mp3\"></audio>";
@@ -4722,7 +4720,7 @@ function showButtonbatteriesnotincluded() {
 <input type = "button" onclick = "showButtonbatteriesnotincluded()" value = "⏯ batteries not included">
 <p id="batteriesnotincluded"></p>
 
-###### 21.-  pleasant strangeness
+21.
 <script type="text/javascript">
 function showButtonpleasantstrangeness() {
   let pleasantstrangeness_controls = "<audio controls><source src=\"/assets/music/22.- 'Not Too Bad'/21.-  pleasant strangeness.mp3\" type=\"audio/mp3\"></audio>";
@@ -4736,7 +4734,7 @@ function showButtonpleasantstrangeness() {
 23. [There is Another](#thereisanother)
 #### 23.- 'There is Another' <a name="thereisanother"></a>
 [![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
-###### 1.-  Kept me hanging
+1.
 <script type="text/javascript">
 function showButtonkeptmehanging() {
   let keptmehanging_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/1.-  Kept me hanging.mp3\" type=\"audio/mp3\"></audio>";
@@ -4746,7 +4744,7 @@ function showButtonkeptmehanging() {
 <input type = "button" onclick = "showButtonkeptmehanging()" value = "⏯  Kept me hanging">
 <p id="keptmehanging"></p>
 
-###### 2.- Solution
+2.
 <script type="text/javascript">
 function showButtonsolution() {
   let solution_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/2.- Solution.mp3\" type=\"audio/mp3\"></audio>";
@@ -4756,7 +4754,7 @@ function showButtonsolution() {
 <input type = "button" onclick = "showButtonsolution()" value = "⏯ Solution">
 <p id="solution"></p>
 
-###### 3.- Where were you this friday night
+3.
 <script type="text/javascript">
 function showButtonwherewereyouthisfridaynight() {
   let wherewereyouthisfridaynight_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/3.- Where were you this friday night.mp3\" type=\"audio/mp3\"></audio>";
@@ -4766,7 +4764,7 @@ function showButtonwherewereyouthisfridaynight() {
 <input type = "button" onclick = "showButtonwherewereyouthisfridaynight()" value = "⏯ Where were you this friday night">
 <p id="wherewereyouthisfridaynight"></p>
 
-###### 4.- Leaks
+4.
 <script type="text/javascript">
 function showButtonleaks() {
   let leaks_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/4.- Leaks.mp3\" type=\"audio/mp3\"></audio>";
@@ -4776,7 +4774,7 @@ function showButtonleaks() {
 <input type = "button" onclick = "showButtonleaks()" value = "⏯ Leaks">
 <p id="leaks"></p>
 
-###### 5.- undertow
+5.
 <script type="text/javascript">
 function showButtonundertow() {
   let undertow_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/5.- undertow.mp3\" type=\"audio/mp3\"></audio>";
@@ -4786,7 +4784,7 @@ function showButtonundertow() {
 <input type = "button" onclick = "showButtonundertow()" value = "⏯ undertow">
 <p id="undertow"></p>
 
-###### 6.- cross lines
+6.
 <script type="text/javascript">
 function showButtoncrosslines() {
   let crosslines_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/6.- cross lines.mp3\" type=\"audio/mp3\"></audio>";
@@ -4796,7 +4794,7 @@ function showButtoncrosslines() {
 <input type = "button" onclick = "showButtoncrosslines()" value = "⏯ cross lines">
 <p id="crosslines"></p>
 
-###### 7.- nothing left
+7.
 <script type="text/javascript">
 function showButtonnothingleft() {
   let nothingleft_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/7.- nothing left.mp3\" type=\"audio/mp3\"></audio>";
@@ -4806,7 +4804,7 @@ function showButtonnothingleft() {
 <input type = "button" onclick = "showButtonnothingleft()" value = "⏯ nothing left">
 <p id="nothingleft"></p>
 
-###### 8.- one floor
+8.
 <script type="text/javascript">
 function showButtononefloor() {
   let onefloor_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/8.- one floor.mp3\" type=\"audio/mp3\"></audio>";
@@ -4816,7 +4814,7 @@ function showButtononefloor() {
 <input type = "button" onclick = "showButtononefloor()" value = "⏯ one floor">
 <p id="onefloor"></p>
 
-###### 9.- handle
+9.
 <script type="text/javascript">
 function showButtonhandle() {
   let handle_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/9.- handle.mp3\" type=\"audio/mp3\"></audio>";
@@ -4826,7 +4824,7 @@ function showButtonhandle() {
 <input type = "button" onclick = "showButtonhandle()" value = "⏯ handle">
 <p id="handle"></p>
 
-###### 10.- milling
+10.
 <script type="text/javascript">
 function showButtonmilling() {
   let milling_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/10.- milling.mp3\" type=\"audio/mp3\"></audio>";
@@ -4836,7 +4834,7 @@ function showButtonmilling() {
 <input type = "button" onclick = "showButtonmilling()" value = "⏯ milling">
 <p id="milling"></p>
 
-###### 11.- mayhap
+11.
 <script type="text/javascript">
 function showButtonmayhap() {
   let mayhap_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/11.- mayhap.mp3\" type=\"audio/mp3\"></audio>";
@@ -4846,7 +4844,7 @@ function showButtonmayhap() {
 <input type = "button" onclick = "showButtonmayhap()" value = "⏯ mayhap">
 <p id="mayhap"></p>
 
-###### 12.- diffident age
+12.
 <script type="text/javascript">
 function showButtondiffidentage() {
   let diffidentage_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/12.- diffident age.mp3\" type=\"audio/mp3\"></audio>";
@@ -4856,7 +4854,7 @@ function showButtondiffidentage() {
 <input type = "button" onclick = "showButtondiffidentage()" value = "⏯ diffident age">
 <p id="diffidentage"></p>
 
-###### 13.- dubious
+13.
 <script type="text/javascript">
 function showButtondubious() {
   let dubious_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/13.- dubious.mp3\" type=\"audio/mp3\"></audio>";
@@ -4866,7 +4864,7 @@ function showButtondubious() {
 <input type = "button" onclick = "showButtondubious()" value = "⏯ dubious">
 <p id="dubious"></p>
 
-###### 14.- strike
+14.
 <script type="text/javascript">
 function showButtonstrike() {
   let strike_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/14.- strike.mp3\" type=\"audio/mp3\"></audio>";
@@ -4876,7 +4874,7 @@ function showButtonstrike() {
 <input type = "button" onclick = "showButtonstrike()" value = "⏯ strike">
 <p id="strike"></p>
 
-###### 15.- dissent
+15.
 <script type="text/javascript">
 function showButtondissent() {
   let dissent_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/15.- dissent.mp3\" type=\"audio/mp3\"></audio>";
@@ -4886,7 +4884,7 @@ function showButtondissent() {
 <input type = "button" onclick = "showButtondissent()" value = "⏯ dissent">
 <p id="dissent"></p>
 
-###### 16.- humdrum
+16.
 <script type="text/javascript">
 function showButtonhumdrum() {
   let humdrum_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/16.- humdrum.mp3\" type=\"audio/mp3\"></audio>";
@@ -4896,7 +4894,7 @@ function showButtonhumdrum() {
 <input type = "button" onclick = "showButtonhumdrum()" value = "⏯ humdrum">
 <p id="humdrum"></p>
 
-###### 17.- toss
+17.
 <script type="text/javascript">
 function showButtontoss() {
   let toss_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/17.- toss.mp3\" type=\"audio/mp3\"></audio>";
@@ -4906,7 +4904,7 @@ function showButtontoss() {
 <input type = "button" onclick = "showButtontoss()" value = "⏯ toss">
 <p id="toss"></p>
 
-###### 18.- salver
+18.
 <script type="text/javascript">
 function showButtonsalver() {
   let salver_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/18.- salver.mp3\" type=\"audio/mp3\"></audio>";
@@ -4916,7 +4914,7 @@ function showButtonsalver() {
 <input type = "button" onclick = "showButtonsalver()" value = "⏯ salver">
 <p id="salver"></p>
 
-###### 19.- trite
+19.
 <script type="text/javascript">
 function showButtontrite() {
   let trite_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/19.- trite.mp3\" type=\"audio/mp3\"></audio>";
@@ -4926,7 +4924,7 @@ function showButtontrite() {
 <input type = "button" onclick = "showButtontrite()" value = "⏯ trite">
 <p id="trite"></p>
 
-###### 20.- flowers
+20.
 <script type="text/javascript">
 function showButtonflowers() {
   let flowers_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/20.- flowers.mp3\" type=\"audio/mp3\"></audio>";
@@ -4936,7 +4934,7 @@ function showButtonflowers() {
 <input type = "button" onclick = "showButtonflowers()" value = "⏯ flowers">
 <p id="flowers"></p>
 
-###### 21.- alive verge
+21.
 <script type="text/javascript">
 function showButtonaliveverge() {
   let aliveverge_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/21.- alive verge.mp3\" type=\"audio/mp3\"></audio>";
@@ -4946,7 +4944,7 @@ function showButtonaliveverge() {
 <input type = "button" onclick = "showButtonaliveverge()" value = "⏯ alive verge">
 <p id="aliveverge"></p>
 
-###### 22.- tie your shoes
+22.
 <script type="text/javascript">
 function showButtontieyourshoes() {
   let tieyourshoes_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/22.- tie your shoes.mp3\" type=\"audio/mp3\"></audio>";
@@ -4956,7 +4954,7 @@ function showButtontieyourshoes() {
 <input type = "button" onclick = "showButtontieyourshoes()" value = "⏯ tie your shoes">
 <p id="tieyourshoes"></p>
 
-###### 23.- half below
+23.
 <script type="text/javascript">
 function showButtonhalfbelow() {
   let halfbelow_controls = "<audio controls><source src=\"/assets/music/23.- 'There is Another'/23.- half below.mp3\" type=\"audio/mp3\"></audio>";
@@ -4965,6 +4963,5 @@ function showButtonhalfbelow() {
 </script>
 <input type = "button" onclick = "showButtonhalfbelow()" value = "⏯ half below">
 <p id="halfbelow"></p>
-
 #### Cafés <a name="cafes"></a>
 [![Cafés](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
