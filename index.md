@@ -45,7 +45,7 @@ function showButtonnefasto() {
 <p id="nefasto"></p>
 
 
-2. 
+###### 2. 
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforgottenpast() {
@@ -57,7 +57,7 @@ function showButtonforgottenpast() {
 <p id="forgottenpast"></p>
 
 
-3. 
+###### 3. 
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesgarrador2() {
