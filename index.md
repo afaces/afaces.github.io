@@ -33,9 +33,7 @@ title: Afaces fanpage
 #### 1.- 'Nefasto' <a name=nefasto></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
-###### 1. NEFASTO
-<script type="text/javascript" src="/index.js"></script>
-<script>
+###### 1. <script type="text/javascript" src="/index.js"></script> <script>
 function showButtonnefasto() {
   let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("nefasto").innerHTML = nefasto_controls;
