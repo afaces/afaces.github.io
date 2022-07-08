@@ -2,6 +2,7 @@ Known bugs:
 - js
 - buttons died, suddenly now only Nefasto is playing
 - avoid tag duplication
+- Transform numbers in song tags to text (0: zero, 1: one...)
 - New bug hides 4th song
 - menu titles are clicked to show/hide the album songs
 - TABLE OF CONTENTS menu links inside the index.md is broken
@@ -16,6 +17,7 @@ Known bugs:
 - On mouse over without click there different buttons emoji change yet to be stablished
 - Tooltip over emojis tags correctly triggers
 - Try not to pause on refresh
+
 Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 
 and then it hides the music player controls of the song and the emoji, then button turns back to the original one and if it being pressed again and back to normal and it show the correct music player and the buttons...

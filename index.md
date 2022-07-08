@@ -45,7 +45,7 @@ function showButtonnefasto() {
 <p id="nefasto"></p>
 
 
-###### 2. FORGOTTEN PAST
+###### 2 - FORGOTTEN PAST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforgottenpast() {
@@ -57,19 +57,19 @@ function showButtonforgottenpast() {
 <p id="forgottenpast"></p>
 
 
-###### 3. DESGARRADOR2
+###### 3 - DESGARRADOR2
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButtondesgarrador2() {
-  let desgarrador2_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/3 - Desgarrador2.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("desgarrador2").innerHTML = desgarrador2_controls;
+function showButtondesgarradort() {
+  let desgarradort_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/3 - Desgarrador2.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("desgarradort").innerHTML = desgarradort_controls;
 }
 </script>
-<input type = "button" onclick = "showButtondesgarrador2()" value = "⏯ Desgarrador2">
-<p id="desgarrador2"></p>
+<input type = "button" onclick = "showButtondesgarradort()" value = "⏯ Desgarrador2">
+<p id="desgarradort"></p>
 
 
-###### 4. BABY ON FIRE
+###### 4 - BABY ON FIRE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbabyonfire() {
@@ -77,10 +77,11 @@ function showButtonbabyonfire() {
   document.getElementById("babyonfire").innerHTML = babyonfire_controls;
 }
 </script>
+<input type = "button" onclick = "showButtonbabyonfire()" value = "⏯ Baby On Fire">
 <p id="babyonfire"></p>
 
 
-###### 5. FLOATING
+###### 5 - FLOATING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfloating() {
@@ -92,7 +93,7 @@ function showButtonfloating() {
 <p id="floating"></p>
 
 
-###### 6. 
+###### 6 - INCONSCIENCE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoninconscience() {
@@ -104,7 +105,7 @@ function showButtoninconscience() {
 <p id="inconscience"></p>
 
 
-###### 7. 
+###### 7 - HOT & SPICY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhotspicy() {
@@ -116,7 +117,7 @@ function showButtonhotspicy() {
 <p id="hotspicy"></p>
 
 
-###### 8. 
+###### 8 - A TEAM FIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonateamfight() {
@@ -128,7 +129,7 @@ function showButtonateamfight() {
 <p id="ateamfight"></p>
 
 
-###### 9. 
+###### 9 - HA HA HA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhahaha() {
@@ -140,7 +141,7 @@ function showButtonhahaha() {
 <p id="hahaha"></p>
 
 
-###### 10. 
+###### 10 - ABERRANTE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaberrante() {
@@ -152,7 +153,7 @@ function showButtonaberrante() {
 <p id="aberrante"></p>
 
 
-###### 11. 
+###### 11 - HELP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhelp() {
@@ -164,7 +165,7 @@ function showButtonhelp() {
 <p id="help"></p>
 
 
-###### 12. 
+###### 12 - COUGH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncough() {
@@ -176,7 +177,7 @@ function showButtoncough() {
 <p id="cough"></p>
 
 
-###### 13. 
+###### 13 - JUST ENOUGH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjustenough() {
@@ -188,7 +189,7 @@ function showButtonjustenough() {
 <p id="justenough"></p>
 
 
-###### 14. 
+###### 14 - SONG FOR THE DEAF
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsongforthedeaf() {
@@ -200,7 +201,7 @@ function showButtonsongforthedeaf() {
 <p id="songforthedeaf"></p>
 
 
-###### 15. 
+###### 15 - HELO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhelo() {
@@ -212,7 +213,7 @@ function showButtonhelo() {
 <p id="helo"></p>
 
 
-###### 16. 
+###### 16 - BACK FROM THERE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbackfromthere() {
@@ -224,7 +225,7 @@ function showButtonbackfromthere() {
 <p id="backfromthere"></p>
 
 
-###### 17. 
+###### 17 - CATASTROFICO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncatastrofico() {
@@ -236,7 +237,7 @@ function showButtoncatastrofico() {
 <p id="catastrofico"></p>
 
 
-###### 18. 
+###### 18 - EGIPTO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonegipto() {
@@ -248,7 +249,7 @@ function showButtonegipto() {
 <p id="egipto"></p>
 
 
-###### 19. 
+###### 19 - TAKE THOSE PILLS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontakethosepills() {
@@ -260,7 +261,7 @@ function showButtontakethosepills() {
 <p id="takethosepills"></p>
 
 
-###### 20. 
+###### 20 - UH-UH FT. YELLOW BUTTON
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuhuhftyellowbutton() {
@@ -272,7 +273,7 @@ function showButtonuhuhftyellowbutton() {
 <p id="uhuhftyellowbutton"></p>
 
 
-###### 21. 
+###### 21 - WAVES NOT FOUND
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwavesnotfound() {
@@ -284,7 +285,7 @@ function showButtonwavesnotfound() {
 <p id="wavesnotfound"></p>
 
 
-###### 22. 
+###### 22 - ACEPTABLE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaceptable() {
@@ -296,7 +297,7 @@ function showButtonaceptable() {
 <p id="aceptable"></p>
 
 
-###### 23. 
+###### 23 - DON'T REMIND ME
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondontremindme() {
@@ -308,7 +309,7 @@ function showButtondontremindme() {
 <p id="dontremindme"></p>
 
 
-###### 24. 
+###### 24 - PLATFORM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplatform() {
@@ -323,7 +324,7 @@ function showButtonplatform() {
 #### 2.- 'Writer' <a name=writer></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
 
-###### 1. 
+###### 1 - PENCIL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpencil() {
@@ -335,7 +336,7 @@ function showButtonpencil() {
 <p id="pencil"></p>
 
 
-###### 2. 
+###### 2 - NO REASON
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnoreason() {
@@ -347,7 +348,7 @@ function showButtonnoreason() {
 <p id="noreason"></p>
 
 
-###### 3. 
+###### 3 - ASSAULT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonassault() {
@@ -359,7 +360,7 @@ function showButtonassault() {
 <p id="assault"></p>
 
 
-###### 4. 
+###### 4 - PAINT OVER THE FLOOR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpaintoverthefloor() {
@@ -371,7 +372,7 @@ function showButtonpaintoverthefloor() {
 <p id="paintoverthefloor"></p>
 
 
-###### 5. 
+###### 5 - PHOENIX ARISING FROM THE ASHES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonphoenixarisingfromtheashes() {
@@ -383,7 +384,7 @@ function showButtonphoenixarisingfromtheashes() {
 <p id="phoenixarisingfromtheashes"></p>
 
 
-###### 6. 
+###### 6 - BIRTHDAY OF UNIVERSE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbirthdayofuniverse() {
@@ -395,7 +396,7 @@ function showButtonbirthdayofuniverse() {
 <p id="birthdayofuniverse"></p>
 
 
-###### 7. 
+###### 7 - HAUNTED LOVE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhauntedlove() {
@@ -407,7 +408,7 @@ function showButtonhauntedlove() {
 <p id="hauntedlove"></p>
 
 
-###### 8. 
+###### 8 - DEPRESION
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondepresion() {
@@ -419,7 +420,7 @@ function showButtondepresion() {
 <p id="depresion"></p>
 
 
-###### 9. 
+###### 9 - WARM IN WINTER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwarminwinter() {
@@ -431,7 +432,7 @@ function showButtonwarminwinter() {
 <p id="warminwinter"></p>
 
 
-###### 10. 
+###### 10 - TIME JUST GONE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontimejustgone() {
@@ -443,7 +444,7 @@ function showButtontimejustgone() {
 <p id="timejustgone"></p>
 
 
-###### 11. 
+###### 11 -DESIRES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesires() {
@@ -455,7 +456,7 @@ function showButtondesires() {
 <p id="desires"></p>
 
 
-###### 12. 
+###### 12 -GO  CATCH A FLIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongocatchaflight() {
@@ -467,7 +468,7 @@ function showButtongocatchaflight() {
 <p id="gocatchaflight"></p>
 
 
-###### 13. 
+###### 13 - WHAT DID HE GONE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhatdidhegone() {
@@ -479,7 +480,7 @@ function showButtonwhatdidhegone() {
 <p id="whatdidhegone"></p>
 
 
-###### 14. 
+###### 14 - TOO MUCH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoomuch() {
@@ -491,7 +492,7 @@ function showButtontoomuch() {
 <p id="toomuch"></p>
 
 
-###### 15. 
+###### 15 - CHRISTMAS AGAIN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchristmasagain() {
@@ -503,7 +504,7 @@ function showButtonchristmasagain() {
 <p id="christmasagain"></p>
 
 
-###### 16. 
+###### 16 - BACK TO LACK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbacktolack() {
@@ -515,7 +516,7 @@ function showButtonbacktolack() {
 <p id="backtolack"></p>
 
 
-###### 17. 
+###### 17 - DIRTY CLOTHES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondirtyclothes() {
@@ -527,7 +528,7 @@ function showButtondirtyclothes() {
 <p id="dirtyclothes"></p>
 
 
-###### 18. 
+###### 18 - WHY SO SAD
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhysosad() {
@@ -539,7 +540,7 @@ function showButtonwhysosad() {
 <p id="whysosad"></p>
 
 
-###### 19. 
+###### 19 - SICK OF IT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsickofit() {
@@ -551,7 +552,7 @@ function showButtonsickofit() {
 <p id="sickofit"></p>
 
 
-###### 20. 
+###### 20 - TEARS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontears() {
@@ -563,7 +564,7 @@ function showButtontears() {
 <p id="tears"></p>
 
 
-###### 21. 
+###### 21 - BONDAGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbondage() {
@@ -575,7 +576,7 @@ function showButtonbondage() {
 <p id="bondage"></p>
 
 
-###### 22. 
+###### 22 - WRITER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwriter() {
@@ -587,7 +588,7 @@ function showButtonwriter() {
 <p id="writer"></p>
 
 
-###### 23. 
+###### 23 - INNOCENT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoninnocent() {
@@ -599,7 +600,7 @@ function showButtoninnocent() {
 <p id="innocent"></p>
 
 
-###### 24. 
+###### 24 - LAST SIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlastsight() {
@@ -614,7 +615,7 @@ function showButtonlastsight() {
 #### 3.- 'Back and Fro' <a name=backandfro></a>
 [![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
 
-###### 1. 
+###### 1 - TASTE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontaste() {
@@ -626,7 +627,7 @@ function showButtontaste() {
 <p id="taste"></p>
 
 
-###### 2. 
+###### 2 - TROOP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontroop() {
@@ -638,7 +639,7 @@ function showButtontroop() {
 <p id="troop"></p>
 
 
-###### 3. 
+###### 3 - TEENAGE DRIVE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonteenagedrive() {
@@ -650,7 +651,7 @@ function showButtonteenagedrive() {
 <p id="teenagedrive"></p>
 
 
-###### 4. 
+###### 4 - DAY OWL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondayowl() {
@@ -662,7 +663,7 @@ function showButtondayowl() {
 <p id="dayowl"></p>
 
 
-###### 5. 
+###### 5 - SHOUT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshout() {
@@ -674,7 +675,7 @@ function showButtonshout() {
 <p id="shout"></p>
 
 
-###### 6. 
+###### 6 - WAR KING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwarking() {
@@ -686,7 +687,7 @@ function showButtonwarking() {
 <p id="warking"></p>
 
 
-###### 7. 
+###### 7 - OCLOCK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoclock() {
@@ -698,7 +699,7 @@ function showButtonoclock() {
 <p id="oclock"></p>
 
 
-###### 8. 
+###### 8 - VILLAGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvillage() {
@@ -710,7 +711,7 @@ function showButtonvillage() {
 <p id="village"></p>
 
 
-###### 9. 
+###### 9 - STORM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstorm() {
@@ -722,7 +723,7 @@ function showButtonstorm() {
 <p id="storm"></p>
 
 
-###### 10. 
+###### 10 - GOT THE MUSIC OF TONIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongotthemusicoftonight() {
@@ -734,7 +735,7 @@ function showButtongotthemusicoftonight() {
 <p id="gotthemusicoftonight"></p>
 
 
-###### 11. 
+###### 11 - SUNRISE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsunrise() {
@@ -746,7 +747,7 @@ function showButtonsunrise() {
 <p id="sunrise"></p>
 
 
-###### 12. 
+###### 12 - LANDSCAPE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlandscape() {
@@ -758,7 +759,7 @@ function showButtonlandscape() {
 <p id="landscape"></p>
 
 
-###### 13. 
+###### 13 - MIRAGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmirage() {
@@ -770,7 +771,7 @@ function showButtonmirage() {
 <p id="mirage"></p>
 
 
-###### 14. 
+###### 14 - CITY LIGHTS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncitylights() {
@@ -782,7 +783,7 @@ function showButtoncitylights() {
 <p id="citylights"></p>
 
 
-###### 15. 
+###### 15 - TUESDAY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontuesday() {
@@ -794,7 +795,7 @@ function showButtontuesday() {
 <p id="tuesday"></p>
 
 
-###### 16. 
+###### 16 - GOODBYE BEACH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongoodbyebeach() {
@@ -806,7 +807,7 @@ function showButtongoodbyebeach() {
 <p id="goodbyebeach"></p>
 
 
-###### 17. 
+###### 17 - EXPLORER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonexplorer() {
@@ -818,7 +819,7 @@ function showButtonexplorer() {
 <p id="explorer"></p>
 
 
-###### 18. 
+###### 18 - BALL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonball() {
@@ -830,7 +831,7 @@ function showButtonball() {
 <p id="ball"></p>
 
 
-###### 19. 
+###### 19 - MOTH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmoth() {
@@ -842,7 +843,7 @@ function showButtonmoth() {
 <p id="moth"></p>
 
 
-###### 20. 
+###### 20 - TO AND FRO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoandfro() {
@@ -857,7 +858,7 @@ function showButtontoandfro() {
 #### 4.- 'Planetc' <a name=planetc></a>
 [![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
 
-###### 1. 
+###### 1 - AMBROSIA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonambrosia() {
@@ -869,7 +870,7 @@ function showButtonambrosia() {
 <p id="ambrosia"></p>
 
 
-###### 2. 
+###### 2 - MEMORY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmemory() {
@@ -881,7 +882,7 @@ function showButtonmemory() {
 <p id="memory"></p>
 
 
-###### 3. 
+###### 3 - FAST BAD
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfastbad() {
@@ -893,7 +894,7 @@ function showButtonfastbad() {
 <p id="fastbad"></p>
 
 
-###### 4. 
+###### 4 - STREAM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstream() {
@@ -905,7 +906,7 @@ function showButtonstream() {
 <p id="stream"></p>
 
 
-###### 5. 
+###### 5 - NEED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonneed() {
@@ -917,7 +918,7 @@ function showButtonneed() {
 <p id="need"></p>
 
 
-###### 6. 
+###### 6 - COLD SPACE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncoldspace() {
@@ -929,7 +930,7 @@ function showButtoncoldspace() {
 <p id="coldspace"></p>
 
 
-###### 7. 
+###### 7 - KIND OF WEIRD
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkindofweird() {
@@ -941,7 +942,7 @@ function showButtonkindofweird() {
 <p id="kindofweird"></p>
 
 
-###### 8. 
+###### 8 - TERRE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonterre() {
@@ -953,7 +954,7 @@ function showButtonterre() {
 <p id="terre"></p>
 
 
-###### 9. 
+###### 9 - LUNE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlune() {
@@ -965,7 +966,7 @@ function showButtonlune() {
 <p id="lune"></p>
 
 
-###### 10. 
+###### 10 - MARS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmars() {
@@ -977,7 +978,7 @@ function showButtonmars() {
 <p id="mars"></p>
 
 
-###### 11. 
+###### 11 - MERCURY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmercury() {
@@ -989,7 +990,7 @@ function showButtonmercury() {
 <p id="mercury"></p>
 
 
-###### 12. 
+###### 12 - VENUS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvenus() {
@@ -1001,7 +1002,7 @@ function showButtonvenus() {
 <p id="venus"></p>
 
 
-###### 13. 
+###### 13 - RETIPUJ
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonretipuj() {
@@ -1013,7 +1014,7 @@ function showButtonretipuj() {
 <p id="retipuj"></p>
 
 
-###### 14. 
+###### 14 - URANIO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuranio() {
@@ -1025,7 +1026,7 @@ function showButtonuranio() {
 <p id="uranio"></p>
 
 
-###### 15. 
+###### 15 - NETPUNO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnetpuno() {
@@ -1037,7 +1038,7 @@ function showButtonnetpuno() {
 <p id="netpuno"></p>
 
 
-###### 16. 
+###### 16 - SOON
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoon() {
@@ -1049,7 +1050,7 @@ function showButtonsoon() {
 <p id="soon"></p>
 
 
-###### 17. 
+###### 17 - ENCELATO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonencelato() {
@@ -1061,7 +1062,7 @@ function showButtonencelato() {
 <p id="encelato"></p>
 
 
-###### 18. 
+###### 18 - GANIMIDI
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonganimidi() {
@@ -1073,7 +1074,7 @@ function showButtonganimidi() {
 <p id="ganimidi"></p>
 
 
-###### 19. 
+###### 19 - APHOSTMERE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaphostmere() {
@@ -1085,7 +1086,7 @@ function showButtonaphostmere() {
 <p id="aphostmere"></p>
 
 
-###### 20. 
+###### 20 - YEAHR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyeahr() {
@@ -1100,7 +1101,7 @@ function showButtonyeahr() {
 #### 5.- 'Black' <a name=black></a>
 [![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
 
-###### 1. 
+###### 1 - SCREAN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonscrean() {
@@ -1112,7 +1113,7 @@ function showButtonscrean() {
 <p id="screan"></p>
 
 
-###### 2. 
+###### 2 - ORANGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonorange() {
@@ -1124,7 +1125,7 @@ function showButtonorange() {
 <p id="orange"></p>
 
 
-###### 3. 
+###### 3 - GALLERY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongallery() {
@@ -1136,7 +1137,7 @@ function showButtongallery() {
 <p id="gallery"></p>
 
 
-###### 4. 
+###### 4 - TODYA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontodya() {
@@ -1148,7 +1149,7 @@ function showButtontodya() {
 <p id="todya"></p>
 
 
-###### 5. 
+###### 5 - BIVE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbive() {
@@ -1160,7 +1161,7 @@ function showButtonbive() {
 <p id="bive"></p>
 
 
-###### 6. 
+###### 6 - AD'S GRACE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonadsgrace() {
@@ -1172,7 +1173,7 @@ function showButtonadsgrace() {
 <p id="adsgrace"></p>
 
 
-###### 7. 
+###### 7 - SURREND
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsurrend() {
@@ -1184,7 +1185,7 @@ function showButtonsurrend() {
 <p id="surrend"></p>
 
 
-###### 8. 
+###### 8 - ANDORTHE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonandorthe() {
@@ -1196,7 +1197,7 @@ function showButtonandorthe() {
 <p id="andorthe"></p>
 
 
-###### 9. 
+###### 9 - SHOCK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshock() {
@@ -1208,7 +1209,7 @@ function showButtonshock() {
 <p id="shock"></p>
 
 
-###### 10. 
+###### 10 - JUGGLER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjuggler() {
@@ -1220,7 +1221,7 @@ function showButtonjuggler() {
 <p id="juggler"></p>
 
 
-###### 11. 
+###### 11 - BULB
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbulb() {
@@ -1232,7 +1233,7 @@ function showButtonbulb() {
 <p id="bulb"></p>
 
 
-###### 12. 
+###### 12 - SCRATCH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonscratch() {
@@ -1244,7 +1245,7 @@ function showButtonscratch() {
 <p id="scratch"></p>
 
 
-###### 13. 
+###### 13 - FURTHERWORD
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfurtherword() {
@@ -1256,7 +1257,7 @@ function showButtonfurtherword() {
 <p id="furtherword"></p>
 
 
-###### 14. 
+###### 14 - SENTINEL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsentinel() {
@@ -1268,7 +1269,7 @@ function showButtonsentinel() {
 <p id="sentinel"></p>
 
 
-###### 15. 
+###### 15 - COUNTLESS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncountless() {
@@ -1280,7 +1281,7 @@ function showButtoncountless() {
 <p id="countless"></p>
 
 
-###### 16. 
+###### 16 - DERKLIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonderklight() {
@@ -1292,7 +1293,7 @@ function showButtonderklight() {
 <p id="derklight"></p>
 
 
-###### 17. 
+###### 17 - ARTRIST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonartrist() {
@@ -1304,7 +1305,7 @@ function showButtonartrist() {
 <p id="artrist"></p>
 
 
-###### 18. 
+###### 18 - WHATDIDHAPPEN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhatdidhappen() {
@@ -1316,7 +1317,7 @@ function showButtonwhatdidhappen() {
 <p id="whatdidhappen"></p>
 
 
-###### 19. 
+###### 19 - UNKNOWN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunknown() {
@@ -1328,7 +1329,7 @@ function showButtonunknown() {
 <p id="unknown"></p>
 
 
-###### 20. 
+###### 20 - CONTROL_PLUS_S
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncontrol_plus_s() {
@@ -1340,7 +1341,7 @@ function showButtoncontrol_plus_s() {
 <p id="control_plus_s"></p>
 
 
-###### 21. 
+###### 21 - BITTERCANDY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbittercandy() {
@@ -1352,7 +1353,7 @@ function showButtonbittercandy() {
 <p id="bittercandy"></p>
 
 
-###### 22. 
+###### 22 - WATER SMALL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwatersmall() {
@@ -1364,7 +1365,7 @@ function showButtonwatersmall() {
 <p id="watersmall"></p>
 
 
-###### 23. 
+###### 23 - PETRI DISH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpetridish() {
@@ -1376,7 +1377,7 @@ function showButtonpetridish() {
 <p id="petridish"></p>
 
 
-###### 24. 
+###### 24 - LATE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlate() {
@@ -1388,7 +1389,7 @@ function showButtonlate() {
 <p id="late"></p>
 
 
-###### 25. 
+###### 25 - SHIPFRIEND
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshipfriend() {
@@ -1403,7 +1404,7 @@ function showButtonshipfriend() {
 #### 6.- 'list' <a name=list></a>
 [![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
 
-###### 1. 
+###### 1 - ACE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonace() {
@@ -1415,7 +1416,7 @@ function showButtonace() {
 <p id="ace"></p>
 
 
-###### 2. 
+###### 2 - START
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstart() {
@@ -1427,7 +1428,7 @@ function showButtonstart() {
 <p id="start"></p>
 
 
-###### 3. 
+###### 3 - THE POWER OF GABBER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthepowerofgabber() {
@@ -1439,7 +1440,7 @@ function showButtonthepowerofgabber() {
 <p id="thepowerofgabber"></p>
 
 
-###### 4. 
+###### 4 - TRACK LOST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontracklost() {
@@ -1451,7 +1452,7 @@ function showButtontracklost() {
 <p id="tracklost"></p>
 
 
-###### 5. 
+###### 5 - YAWN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyawn() {
@@ -1463,7 +1464,7 @@ function showButtonyawn() {
 <p id="yawn"></p>
 
 
-###### 6. 
+###### 6 - SNIKS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsniks() {
@@ -1475,7 +1476,7 @@ function showButtonsniks() {
 <p id="sniks"></p>
 
 
-###### 7. 
+###### 7 - NOON
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnoon() {
@@ -1487,7 +1488,7 @@ function showButtonnoon() {
 <p id="noon"></p>
 
 
-###### 8. 
+###### 8 - CLEAR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonclear() {
@@ -1499,7 +1500,7 @@ function showButtonclear() {
 <p id="clear"></p>
 
 
-###### 9. 
+###### 9 - CLUELESS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonclueless() {
@@ -1511,7 +1512,7 @@ function showButtonclueless() {
 <p id="clueless"></p>
 
 
-###### 10. 
+###### 10 - GONE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongone() {
@@ -1523,7 +1524,7 @@ function showButtongone() {
 <p id="gone"></p>
 
 
-###### 11. 
+###### 11 - DEPART
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondepart() {
@@ -1535,7 +1536,7 @@ function showButtondepart() {
 <p id="depart"></p>
 
 
-###### 12. 
+###### 12 - WAIT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwait() {
@@ -1547,7 +1548,7 @@ function showButtonwait() {
 <p id="wait"></p>
 
 
-###### 13. 
+###### 13 - EASE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonease() {
@@ -1559,7 +1560,7 @@ function showButtonease() {
 <p id="ease"></p>
 
 
-###### 14. 
+###### 14 - FLASH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflash() {
@@ -1571,7 +1572,7 @@ function showButtonflash() {
 <p id="flash"></p>
 
 
-###### 15. 
+###### 15 - ROBOTS IN LONDON
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrobotsinlondon() {
@@ -1583,7 +1584,7 @@ function showButtonrobotsinlondon() {
 <p id="robotsinlondon"></p>
 
 
-###### 16. 
+###### 16 - ESCALENE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonescalene() {
@@ -1595,7 +1596,7 @@ function showButtonescalene() {
 <p id="escalene"></p>
 
 
-###### 17. 
+###### 17 - DANCEFLOOR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondancefloor() {
@@ -1607,7 +1608,7 @@ function showButtondancefloor() {
 <p id="dancefloor"></p>
 
 
-###### 18. 
+###### 18 - HITHATS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhithats() {
@@ -1619,7 +1620,7 @@ function showButtonhithats() {
 <p id="hithats"></p>
 
 
-###### 19. 
+###### 19 - PLATE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplate() {
@@ -1631,7 +1632,7 @@ function showButtonplate() {
 <p id="plate"></p>
 
 
-###### 20. 
+###### 20 - PETALS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpetals() {
@@ -1643,7 +1644,7 @@ function showButtonpetals() {
 <p id="petals"></p>
 
 
-###### 21. 
+###### 21 - LEFTOVERS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonleftovers() {
@@ -1655,7 +1656,7 @@ function showButtonleftovers() {
 <p id="leftovers"></p>
 
 
-###### 22. 
+###### 22 - UPWARD
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonupward() {
@@ -1670,7 +1671,7 @@ function showButtonupward() {
 #### 7.- 'A cool name' <a name=acoolname></a>
 [![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
 
-###### 1. 
+###### 1 - NEGATIV
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnegativ() {
@@ -1682,7 +1683,7 @@ function showButtonnegativ() {
 <p id="negativ"></p>
 
 
-###### 2. 
+###### 2 - UNBALANCED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunbalanced() {
@@ -1694,7 +1695,7 @@ function showButtonunbalanced() {
 <p id="unbalanced"></p>
 
 
-###### 3. 
+###### 3 - FLY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfly() {
@@ -1706,7 +1707,7 @@ function showButtonfly() {
 <p id="fly"></p>
 
 
-###### 4. 
+###### 4 - UNTITLED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuntitled() {
@@ -1718,7 +1719,7 @@ function showButtonuntitled() {
 <p id="untitled"></p>
 
 
-###### 5. 
+###### 5 - HEARTBREAK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheartbreak() {
@@ -1730,7 +1731,7 @@ function showButtonheartbreak() {
 <p id="heartbreak"></p>
 
 
-###### 6. 
+###### 6 - HUSTLE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhustle() {
@@ -1742,7 +1743,7 @@ function showButtonhustle() {
 <p id="hustle"></p>
 
 
-###### 7. 
+###### 7 - LASERS THROUGH SMOKE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlasersthroughsmoke() {
@@ -1754,7 +1755,7 @@ function showButtonlasersthroughsmoke() {
 <p id="lasersthroughsmoke"></p>
 
 
-###### 8. 
+###### 8 - HAUL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhaul() {
@@ -1766,7 +1767,7 @@ function showButtonhaul() {
 <p id="haul"></p>
 
 
-###### 9. 
+###### 9 - SHINING STARS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshiningstars() {
@@ -1778,7 +1779,7 @@ function showButtonshiningstars() {
 <p id="shiningstars"></p>
 
 
-###### 10. 
+###### 10 - CELEBRATE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncelebrate() {
@@ -1790,7 +1791,7 @@ function showButtoncelebrate() {
 <p id="celebrate"></p>
 
 
-###### 11. 
+###### 11 - STEP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstep() {
@@ -1802,7 +1803,7 @@ function showButtonstep() {
 <p id="step"></p>
 
 
-###### 12. 
+###### 12 - GRAPH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongraph() {
@@ -1814,7 +1815,7 @@ function showButtongraph() {
 <p id="graph"></p>
 
 
-###### 13. 
+###### 13 - SOS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsos() {
@@ -1826,7 +1827,7 @@ function showButtonsos() {
 <p id="sos"></p>
 
 
-###### 14. 
+###### 14 - MIRROR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmirror() {
@@ -1838,7 +1839,7 @@ function showButtonmirror() {
 <p id="mirror"></p>
 
 
-###### 15. 
+###### 15 - VORTEX ATTACK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvortexattack() {
@@ -1850,7 +1851,7 @@ function showButtonvortexattack() {
 <p id="vortexattack"></p>
 
 
-###### 16. 
+###### 16 - RESOURCES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonresources() {
@@ -1862,7 +1863,7 @@ function showButtonresources() {
 <p id="resources"></p>
 
 
-###### 17. 
+###### 17 - R U THERE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonruthere() {
@@ -1874,22 +1875,22 @@ function showButtonruthere() {
 <p id="ruthere"></p>
 
 
-###### 18. 
+###### 18 - BOOM!
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButtonboom!() {
-  let boom!_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/18 - boom!.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("boom!").innerHTML = boom!_controls;
+function showButtonboom() {
+  let boom_controls = "<audio controls><source src=\"/assets/music/7.- 'A cool name'/18 - boom!.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("boom").innerHTML = boom_controls;
 }
 </script>
-<input type = "button" onclick = "showButtonboom!()" value = "⏯ boom!">
-<p id="boom!"></p>
+<input type = "button" onclick = "showButtonboom()" value = "⏯ boom!">
+<p id="boom"></p>
 
 
 #### 8.- '50%' <a name=50></a>
 [![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
 
-###### 1. 
+###### 1 - NO ONE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnoone() {
@@ -1901,7 +1902,7 @@ function showButtonnoone() {
 <p id="noone"></p>
 
 
-###### 2. 
+###### 2 - JACKPOT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjackpot() {
@@ -1913,7 +1914,7 @@ function showButtonjackpot() {
 <p id="jackpot"></p>
 
 
-###### 3. 
+###### 3 - MEET
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmeet() {
@@ -1925,7 +1926,7 @@ function showButtonmeet() {
 <p id="meet"></p>
 
 
-###### 4. 
+###### 4 - ROUNDABOUT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonroundabout() {
@@ -1937,7 +1938,7 @@ function showButtonroundabout() {
 <p id="roundabout"></p>
 
 
-###### 5. 
+###### 5 - BRANCH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbranch() {
@@ -1949,7 +1950,7 @@ function showButtonbranch() {
 <p id="branch"></p>
 
 
-###### 6. 
+###### 6 - SKID
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonskid() {
@@ -1961,7 +1962,7 @@ function showButtonskid() {
 <p id="skid"></p>
 
 
-###### 7. 
+###### 7 - STOP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstop() {
@@ -1973,7 +1974,7 @@ function showButtonstop() {
 <p id="stop"></p>
 
 
-###### 8. 
+###### 8 - GAP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongap() {
@@ -1985,7 +1986,7 @@ function showButtongap() {
 <p id="gap"></p>
 
 
-###### 9. 
+###### 9 - PRINCE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonprince() {
@@ -1997,7 +1998,7 @@ function showButtonprince() {
 <p id="prince"></p>
 
 
-###### 10. 
+###### 10 - MISSING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmissing() {
@@ -2009,7 +2010,7 @@ function showButtonmissing() {
 <p id="missing"></p>
 
 
-###### 11. 
+###### 11 - STICKY HEAT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstickyheat() {
@@ -2021,7 +2022,7 @@ function showButtonstickyheat() {
 <p id="stickyheat"></p>
 
 
-###### 12. 
+###### 12 - SURCEASE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsurcease() {
@@ -2033,7 +2034,7 @@ function showButtonsurcease() {
 <p id="surcease"></p>
 
 
-###### 13. 
+###### 13 - WEISSBIER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonweissbier() {
@@ -2045,7 +2046,7 @@ function showButtonweissbier() {
 <p id="weissbier"></p>
 
 
-###### 14. 
+###### 14 - SIRENS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsirens() {
@@ -2057,7 +2058,7 @@ function showButtonsirens() {
 <p id="sirens"></p>
 
 
-###### 15. 
+###### 15 - NEW TITLES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnewtitles() {
@@ -2069,7 +2070,7 @@ function showButtonnewtitles() {
 <p id="newtitles"></p>
 
 
-###### 16. 
+###### 16 - LOCO MOTION
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlocomotion() {
@@ -2081,7 +2082,7 @@ function showButtonlocomotion() {
 <p id="locomotion"></p>
 
 
-###### 17. 
+###### 17 - BEST BEAST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbestbeast() {
@@ -2093,7 +2094,7 @@ function showButtonbestbeast() {
 <p id="bestbeast"></p>
 
 
-###### 18. 
+###### 18 - CUTE AS HELL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncuteashell() {
@@ -2105,7 +2106,7 @@ function showButtoncuteashell() {
 <p id="cuteashell"></p>
 
 
-###### 19. 
+###### 19 - REGREAT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonregreat() {
@@ -2117,7 +2118,7 @@ function showButtonregreat() {
 <p id="regreat"></p>
 
 
-###### 20. 
+###### 20 - EDGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonedge() {
@@ -2129,19 +2130,19 @@ function showButtonedge() {
 <p id="edge"></p>
 
 
-###### 21. 
+###### 21 - 50%
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButton50() {
-  let 50_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/21 - 50%.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("50").innerHTML = 50_controls;
+function showButtonfz() {
+  let fz_controls = "<audio controls><source src=\"/assets/music/8.- '50%'/21 - 50%.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("fz").innerHTML = fz_controls;
 }
 </script>
-<input type = "button" onclick = "showButton50()" value = "⏯ 50%">
-<p id="50"></p>
+<input type = "button" onclick = "showButtonfz()" value = "⏯ 50%">
+<p id="fz"></p>
 
 
-###### 22. 
+###### 22 - HOT POCKETS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhotpockets() {
@@ -2156,7 +2157,7 @@ function showButtonhotpockets() {
 #### 9.- 'advisory content' <a name=advisorycontent></a>
 [![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
 
-###### 1. 
+###### 1 - CIGARRET ADVERTISEMENT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncigarretadvertisement() {
@@ -2168,7 +2169,7 @@ function showButtoncigarretadvertisement() {
 <p id="cigarretadvertisement"></p>
 
 
-###### 2. 
+###### 2 - SEAWATCH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonseawatch() {
@@ -2180,7 +2181,7 @@ function showButtonseawatch() {
 <p id="seawatch"></p>
 
 
-###### 3. 
+###### 3 - NOSTALGIA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnostalgia() {
@@ -2192,7 +2193,7 @@ function showButtonnostalgia() {
 <p id="nostalgia"></p>
 
 
-###### 4. 
+###### 4 - RAY-V
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrayv() {
@@ -2204,7 +2205,7 @@ function showButtonrayv() {
 <p id="rayv"></p>
 
 
-###### 5. 
+###### 5 - LAB
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlab() {
@@ -2216,7 +2217,7 @@ function showButtonlab() {
 <p id="lab"></p>
 
 
-###### 6. 
+###### 6 - LIT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlit() {
@@ -2228,7 +2229,7 @@ function showButtonlit() {
 <p id="lit"></p>
 
 
-###### 7. 
+###### 7 - DESSERT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondessert() {
@@ -2240,7 +2241,7 @@ function showButtondessert() {
 <p id="dessert"></p>
 
 
-###### 8. 
+###### 8 - TAHW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontahw() {
@@ -2252,7 +2253,7 @@ function showButtontahw() {
 <p id="tahw"></p>
 
 
-###### 9. 
+###### 9 - COOLTURE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncoolture() {
@@ -2264,7 +2265,7 @@ function showButtoncoolture() {
 <p id="coolture"></p>
 
 
-###### 10. 
+###### 10 - FREEMIUM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfreemium() {
@@ -2276,7 +2277,7 @@ function showButtonfreemium() {
 <p id="freemium"></p>
 
 
-###### 11. 
+###### 11 - NO MORE RECALL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnomorerecall() {
@@ -2288,7 +2289,7 @@ function showButtonnomorerecall() {
 <p id="nomorerecall"></p>
 
 
-###### 12. 
+###### 12 - KEEN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkeen() {
@@ -2300,7 +2301,7 @@ function showButtonkeen() {
 <p id="keen"></p>
 
 
-###### 13. 
+###### 13 - TRY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontry() {
@@ -2312,7 +2313,7 @@ function showButtontry() {
 <p id="try"></p>
 
 
-###### 14. 
+###### 14 - CLUB THE CLAP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonclubtheclap() {
@@ -2324,7 +2325,7 @@ function showButtonclubtheclap() {
 <p id="clubtheclap"></p>
 
 
-###### 15. 
+###### 15 - CANDLE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncandle() {
@@ -2336,7 +2337,7 @@ function showButtoncandle() {
 <p id="candle"></p>
 
 
-###### 16. 
+###### 16 - PARLOR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonparlor() {
@@ -2348,7 +2349,7 @@ function showButtonparlor() {
 <p id="parlor"></p>
 
 
-###### 17. 
+###### 17 - LESSHOME
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlesshome() {
@@ -2360,7 +2361,7 @@ function showButtonlesshome() {
 <p id="lesshome"></p>
 
 
-###### 18. 
+###### 18 - ENCHANTED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonenchanted() {
@@ -2372,7 +2373,7 @@ function showButtonenchanted() {
 <p id="enchanted"></p>
 
 
-###### 19. 
+###### 19 - CHASING PAPERS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchasingpapers() {
@@ -2384,7 +2385,7 @@ function showButtonchasingpapers() {
 <p id="chasingpapers"></p>
 
 
-###### 20. 
+###### 20 - ONE BLINK TWO EYES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtononeblinktwoeyes() {
@@ -2396,7 +2397,7 @@ function showButtononeblinktwoeyes() {
 <p id="oneblinktwoeyes"></p>
 
 
-###### 21. 
+###### 21 - FORBEAR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforbear() {
@@ -2411,7 +2412,7 @@ function showButtonforbear() {
 #### 10.- 'BUY NEVER' <a name=buynever></a>
 [![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
 
-###### 1. 
+###### 1 .- ENTRANCE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonentrance() {
@@ -2423,7 +2424,7 @@ function showButtonentrance() {
 <p id="entrance"></p>
 
 
-###### 2. 
+###### 2.- HAZE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhaze() {
@@ -2435,7 +2436,7 @@ function showButtonhaze() {
 <p id="haze"></p>
 
 
-###### 3. 
+###### 3.- EXTRAVAGANZA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonextravaganza() {
@@ -2447,7 +2448,7 @@ function showButtonextravaganza() {
 <p id="extravaganza"></p>
 
 
-###### 4. 
+###### 4.- CONFIDANT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconfidant() {
@@ -2459,7 +2460,7 @@ function showButtonconfidant() {
 <p id="confidant"></p>
 
 
-###### 5. 
+###### 5.- FIELD COMPANY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfieldcompany() {
@@ -2471,7 +2472,7 @@ function showButtonfieldcompany() {
 <p id="fieldcompany"></p>
 
 
-###### 6. 
+###### 6.- BREATH PAUSE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbreathpause() {
@@ -2483,7 +2484,7 @@ function showButtonbreathpause() {
 <p id="breathpause"></p>
 
 
-###### 7. 
+###### 7.- VIOLENCE EN L'AMOUR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonviolenceenlamour() {
@@ -2495,7 +2496,7 @@ function showButtonviolenceenlamour() {
 <p id="violenceenlamour"></p>
 
 
-###### 8. 
+###### 8.- JUGULAR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjugular() {
@@ -2507,7 +2508,7 @@ function showButtonjugular() {
 <p id="jugular"></p>
 
 
-###### 9. 
+###### 9.- AUBREY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaubrey() {
@@ -2519,7 +2520,7 @@ function showButtonaubrey() {
 <p id="aubrey"></p>
 
 
-###### 10. 
+###### 10.- DARCY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondarcy() {
@@ -2531,7 +2532,7 @@ function showButtondarcy() {
 <p id="darcy"></p>
 
 
-###### 11. 
+###### 11.- ANA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonana() {
@@ -2543,7 +2544,7 @@ function showButtonana() {
 <p id="ana"></p>
 
 
-###### 12. 
+###### 12.- JULIA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjulia() {
@@ -2555,7 +2556,7 @@ function showButtonjulia() {
 <p id="julia"></p>
 
 
-###### 13. 
+###### 13.- PETE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpete() {
@@ -2567,7 +2568,7 @@ function showButtonpete() {
 <p id="pete"></p>
 
 
-###### 14. 
+###### 14.- JOHN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjohn() {
@@ -2579,7 +2580,7 @@ function showButtonjohn() {
 <p id="john"></p>
 
 
-###### 15. 
+###### 15.- MARTIN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmartin() {
@@ -2591,7 +2592,7 @@ function showButtonmartin() {
 <p id="martin"></p>
 
 
-###### 16. 
+###### 16.- ADRIAN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonadrian() {
@@ -2603,7 +2604,7 @@ function showButtonadrian() {
 <p id="adrian"></p>
 
 
-###### 17. 
+###### 17.- LAND
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonland() {
@@ -2615,7 +2616,7 @@ function showButtonland() {
 <p id="land"></p>
 
 
-###### 18. 
+###### 18.- DETER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondeter() {
@@ -2627,7 +2628,7 @@ function showButtondeter() {
 <p id="deter"></p>
 
 
-###### 19. 
+###### 19.- CRUISER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncruiser() {
@@ -2639,7 +2640,7 @@ function showButtoncruiser() {
 <p id="cruiser"></p>
 
 
-###### 20. 
+###### 20.- OFF FACES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonofffaces() {
@@ -2651,7 +2652,7 @@ function showButtonofffaces() {
 <p id="offfaces"></p>
 
 
-###### 21. 
+###### 21.- ROADS TO NOWHERE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonroadstonowhere() {
@@ -2666,7 +2667,7 @@ function showButtonroadstonowhere() {
 #### 11.- 'Bull's-eye' <a name=bullseye></a>
 [![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
 
-###### 1. 
+###### 1 - TRY YOUR WORST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontryyourworst() {
@@ -2678,7 +2679,7 @@ function showButtontryyourworst() {
 <p id="tryyourworst"></p>
 
 
-###### 2. 
+###### 2 -NIGHTS ALONE FAKE  BILL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnightsalonefakebill() {
@@ -2690,7 +2691,7 @@ function showButtonnightsalonefakebill() {
 <p id="nightsalonefakebill"></p>
 
 
-###### 3. 
+###### 3 - R-CYCLE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrcycle() {
@@ -2702,7 +2703,7 @@ function showButtonrcycle() {
 <p id="rcycle"></p>
 
 
-###### 4. 
+###### 4 - STRUGGLES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstruggles() {
@@ -2714,7 +2715,7 @@ function showButtonstruggles() {
 <p id="struggles"></p>
 
 
-###### 5. 
+###### 5 - HEIRS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheirs() {
@@ -2726,7 +2727,7 @@ function showButtonheirs() {
 <p id="heirs"></p>
 
 
-###### 6. 
+###### 6 - DARTS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondarts() {
@@ -2738,7 +2739,7 @@ function showButtondarts() {
 <p id="darts"></p>
 
 
-###### 7. 
+###### 7 - POWDER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpowder() {
@@ -2750,7 +2751,7 @@ function showButtonpowder() {
 <p id="powder"></p>
 
 
-###### 8. 
+###### 8 -TRAEH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontraeh() {
@@ -2762,7 +2763,7 @@ function showButtontraeh() {
 <p id="traeh"></p>
 
 
-###### 9. 
+###### 9 - HEIGHTS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheights() {
@@ -2774,7 +2775,7 @@ function showButtonheights() {
 <p id="heights"></p>
 
 
-###### 10. 
+###### 10 - BEARER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbearer() {
@@ -2786,7 +2787,7 @@ function showButtonbearer() {
 <p id="bearer"></p>
 
 
-###### 11. 
+###### 11 - CAP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncap() {
@@ -2798,7 +2799,7 @@ function showButtoncap() {
 <p id="cap"></p>
 
 
-###### 12. 
+###### 12 - ASHORE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonashore() {
@@ -2810,7 +2811,7 @@ function showButtonashore() {
 <p id="ashore"></p>
 
 
-###### 13. 
+###### 13 - REAL HETEROGENEOUS FAUNA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrealheterogeneousfauna() {
@@ -2822,7 +2823,7 @@ function showButtonrealheterogeneousfauna() {
 <p id="realheterogeneousfauna"></p>
 
 
-###### 14. 
+###### 14 - NIGHTMARES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnightmares() {
@@ -2834,7 +2835,7 @@ function showButtonnightmares() {
 <p id="nightmares"></p>
 
 
-###### 15. 
+###### 15 - PRESAGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpresage() {
@@ -2846,7 +2847,7 @@ function showButtonpresage() {
 <p id="presage"></p>
 
 
-###### 16. 
+###### 16 - SCRAPE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonscrape() {
@@ -2858,7 +2859,7 @@ function showButtonscrape() {
 <p id="scrape"></p>
 
 
-###### 17. 
+###### 17 - CONFINE YOURSELF
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconfineyourself() {
@@ -2870,7 +2871,7 @@ function showButtonconfineyourself() {
 <p id="confineyourself"></p>
 
 
-###### 18. 
+###### 18 - ON TRY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonontry() {
@@ -2882,7 +2883,7 @@ function showButtonontry() {
 <p id="ontry"></p>
 
 
-###### 19. 
+###### 19 - PLAY MY MIND
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplaymymind() {
@@ -2894,7 +2895,7 @@ function showButtonplaymymind() {
 <p id="playmymind"></p>
 
 
-###### 20. 
+###### 20 - NOT'S NEW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnotsnew() {
@@ -2909,7 +2910,7 @@ function showButtonnotsnew() {
 #### 12.- 'Where are my royalties' <a name=wherearemyroyalties></a>
 [![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
 
-###### 1. 
+###### 1 - GOD KNOWS NO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongodknowsno() {
@@ -2921,7 +2922,7 @@ function showButtongodknowsno() {
 <p id="godknowsno"></p>
 
 
-###### 2. 
+###### 2 - CORSAIR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncorsair() {
@@ -2933,7 +2934,7 @@ function showButtoncorsair() {
 <p id="corsair"></p>
 
 
-###### 3. 
+###### 3 - STAY HOME METAMORPHOSIS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstayhomemetamorphosis() {
@@ -2945,7 +2946,7 @@ function showButtonstayhomemetamorphosis() {
 <p id="stayhomemetamorphosis"></p>
 
 
-###### 4. 
+###### 4 - PREVAIL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonprevail() {
@@ -2957,7 +2958,7 @@ function showButtonprevail() {
 <p id="prevail"></p>
 
 
-###### 5. 
+###### 5- SHUDDER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshudder() {
@@ -2969,7 +2970,7 @@ function showButtonshudder() {
 <p id="shudder"></p>
 
 
-###### 6. 
+###### 6 - SARI
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsari() {
@@ -2981,7 +2982,7 @@ function showButtonsari() {
 <p id="sari"></p>
 
 
-###### 7. 
+###### 7 - SUBTERFUGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsubterfuge() {
@@ -2993,7 +2994,7 @@ function showButtonsubterfuge() {
 <p id="subterfuge"></p>
 
 
-###### 8. 
+###### 8- Tú
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontú() {
@@ -3005,7 +3006,7 @@ function showButtontú() {
 <p id="tú"></p>
 
 
-###### 9. 
+###### 9 - HOW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhow() {
@@ -3017,7 +3018,7 @@ function showButtonhow() {
 <p id="how"></p>
 
 
-###### 10. 
+###### 10 - OH YEAH HEY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonohyeahhey() {
@@ -3029,7 +3030,7 @@ function showButtonohyeahhey() {
 <p id="ohyeahhey"></p>
 
 
-###### 11. 
+###### 11 - CALMLY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncalmly() {
@@ -3041,7 +3042,7 @@ function showButtoncalmly() {
 <p id="calmly"></p>
 
 
-###### 12. 
+###### 12 - MIGRAINE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmigraine() {
@@ -3053,7 +3054,7 @@ function showButtonmigraine() {
 <p id="migraine"></p>
 
 
-###### 13. 
+###### 13 - END
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonend() {
@@ -3065,7 +3066,7 @@ function showButtonend() {
 <p id="end"></p>
 
 
-###### 14. 
+###### 14 - ABMAS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonabmas() {
@@ -3077,19 +3078,19 @@ function showButtonabmas() {
 <p id="abmas"></p>
 
 
-###### 15. 
+###### 15 - 26536
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButton26536() {
-  let 26536_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/15 - 26536.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("26536").innerHTML = 26536_controls;
+function showButtontsfts() {
+  let tsfts_controls = "<audio controls><source src=\"/assets/music/12.- 'Where are my royalties'/15 - 26536.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("tsfts").innerHTML = tsfts_controls;
 }
 </script>
-<input type = "button" onclick = "showButton26536()" value = "⏯ 26536">
-<p id="26536"></p>
+<input type = "button" onclick = "showButtontsfts()" value = "⏯ 26536">
+<p id="tsfts"></p>
 
 
-###### 16. 
+###### 16 - SHADOWS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshadows() {
@@ -3101,7 +3102,7 @@ function showButtonshadows() {
 <p id="shadows"></p>
 
 
-###### 17. 
+###### 17 - TRIAL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrial() {
@@ -3113,7 +3114,7 @@ function showButtontrial() {
 <p id="trial"></p>
 
 
-###### 18. 
+###### 18 - MNOALU
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmnoalu() {
@@ -3128,7 +3129,7 @@ function showButtonmnoalu() {
 #### 13.- 'Who u tryna' impress' <a name=whoutrynaimpress></a>
 [![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
 
-###### 1. 
+###### 1 - OVER LOVELY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoverlovely() {
@@ -3140,7 +3141,7 @@ function showButtonoverlovely() {
 <p id="overlovely"></p>
 
 
-###### 2. 
+###### 2- SWAY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsway() {
@@ -3152,7 +3153,7 @@ function showButtonsway() {
 <p id="sway"></p>
 
 
-###### 3. 
+###### 3 - FUNK-O-MATIC
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfunkomatic() {
@@ -3164,7 +3165,7 @@ function showButtonfunkomatic() {
 <p id="funkomatic"></p>
 
 
-###### 4. 
+###### 4 - YOU DONT WANT TO KNOW ANYTHING ABOUT ME
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyoudontwanttoknowanythingaboutme() {
@@ -3176,7 +3177,7 @@ function showButtonyoudontwanttoknowanythingaboutme() {
 <p id="youdontwanttoknowanythingaboutme"></p>
 
 
-###### 5. 
+###### 5 - TOUTLAIR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoutlair() {
@@ -3188,7 +3189,7 @@ function showButtontoutlair() {
 <p id="toutlair"></p>
 
 
-###### 6. 
+###### 6 - SWARMV
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonswarmv() {
@@ -3200,7 +3201,7 @@ function showButtonswarmv() {
 <p id="swarmv"></p>
 
 
-###### 7. 
+###### 7 - PLEDGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpledge() {
@@ -3212,7 +3213,7 @@ function showButtonpledge() {
 <p id="pledge"></p>
 
 
-###### 8. 
+###### 8 - FLETSIF
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfletsif() {
@@ -3224,7 +3225,7 @@ function showButtonfletsif() {
 <p id="fletsif"></p>
 
 
-###### 9. 
+###### 9 - STATE OF MATTERS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstateofmatters() {
@@ -3236,7 +3237,7 @@ function showButtonstateofmatters() {
 <p id="stateofmatters"></p>
 
 
-###### 10. 
+###### 10 - NOW WHAT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnowwhat() {
@@ -3248,7 +3249,7 @@ function showButtonnowwhat() {
 <p id="nowwhat"></p>
 
 
-###### 11. 
+###### 11 - DOLL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondoll() {
@@ -3260,7 +3261,7 @@ function showButtondoll() {
 <p id="doll"></p>
 
 
-###### 12. 
+###### 12 - FIRST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfirst() {
@@ -3272,7 +3273,7 @@ function showButtonfirst() {
 <p id="first"></p>
 
 
-###### 13. 
+###### 13 - THOUGH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthough() {
@@ -3284,7 +3285,7 @@ function showButtonthough() {
 <p id="though"></p>
 
 
-###### 14. 
+###### 14 - NOT THE LAST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnotthelast() {
@@ -3296,7 +3297,7 @@ function showButtonnotthelast() {
 <p id="notthelast"></p>
 
 
-###### 15. 
+###### 15 - CHECK IT OUT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncheckitout() {
@@ -3308,7 +3309,7 @@ function showButtoncheckitout() {
 <p id="checkitout"></p>
 
 
-###### 16. 
+###### 16 - NUMBERS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnumbers() {
@@ -3320,7 +3321,7 @@ function showButtonnumbers() {
 <p id="numbers"></p>
 
 
-###### 17. 
+###### 17 - ANNEXES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonannexes() {
@@ -3332,7 +3333,7 @@ function showButtonannexes() {
 <p id="annexes"></p>
 
 
-###### 18. 
+###### 18 - UNA LUZ
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunaluz() {
@@ -3344,7 +3345,7 @@ function showButtonunaluz() {
 <p id="unaluz"></p>
 
 
-###### 19. 
+###### 19 - DOOR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondoor() {
@@ -3356,7 +3357,7 @@ function showButtondoor() {
 <p id="door"></p>
 
 
-###### 20. 
+###### 20 - WIRED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwired() {
@@ -3368,7 +3369,7 @@ function showButtonwired() {
 <p id="wired"></p>
 
 
-###### 21. 
+###### 21 - TOGETHER STAY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontogetherstay() {
@@ -3380,7 +3381,7 @@ function showButtontogetherstay() {
 <p id="togetherstay"></p>
 
 
-###### 22. 
+###### 22 - YES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyes() {
@@ -3392,7 +3393,7 @@ function showButtonyes() {
 <p id="yes"></p>
 
 
-###### 23. 
+###### 23 - ZOOM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonzoom() {
@@ -3404,7 +3405,7 @@ function showButtonzoom() {
 <p id="zoom"></p>
 
 
-###### 24. 
+###### 24 - CASTLE QUEENSIDE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncastlequeenside() {
@@ -3419,7 +3420,7 @@ function showButtoncastlequeenside() {
 #### 14.- 'The bad words' <a name=thebadwords></a>
 [![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
 
-###### 1. 
+###### 1 - YOUTHIEVE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyouthieve() {
@@ -3431,7 +3432,7 @@ function showButtonyouthieve() {
 <p id="youthieve"></p>
 
 
-###### 2. 
+###### 2 - F THE INDUSTRY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonftheindustry() {
@@ -3443,7 +3444,7 @@ function showButtonftheindustry() {
 <p id="ftheindustry"></p>
 
 
-###### 3. 
+###### 3 - SMOKE THE LAW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsmokethelaw() {
@@ -3455,7 +3456,7 @@ function showButtonsmokethelaw() {
 <p id="smokethelaw"></p>
 
 
-###### 4. 
+###### 4 - RAPE MY POCKETS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrapemypockets() {
@@ -3467,7 +3468,7 @@ function showButtonrapemypockets() {
 <p id="rapemypockets"></p>
 
 
-###### 5. 
+###### 5 - FREEDOM SLAUGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfreedomslaught() {
@@ -3479,7 +3480,7 @@ function showButtonfreedomslaught() {
 <p id="freedomslaught"></p>
 
 
-###### 6. 
+###### 6 - HIJACK THOUGHTS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhijackthoughts() {
@@ -3491,7 +3492,7 @@ function showButtonhijackthoughts() {
 <p id="hijackthoughts"></p>
 
 
-###### 7. 
+###### 7 - EMOTIONAL TERRORISM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonemotionalterrorism() {
@@ -3503,7 +3504,7 @@ function showButtonemotionalterrorism() {
 <p id="emotionalterrorism"></p>
 
 
-###### 8. 
+###### 8 - TRAFFIC UNDER OTHER'S INFLUENCE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrafficunderothersinfluence() {
@@ -3515,7 +3516,7 @@ function showButtontrafficunderothersinfluence() {
 <p id="trafficunderothersinfluence"></p>
 
 
-###### 9. 
+###### 9 - DENOUNCE YOUR NEIGHBOR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondenounceyourneighbor() {
@@ -3527,7 +3528,7 @@ function showButtondenounceyourneighbor() {
 <p id="denounceyourneighbor"></p>
 
 
-###### 10. 
+###### 10 - CORRUPTION PILLAGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncorruptionpillage() {
@@ -3539,7 +3540,7 @@ function showButtoncorruptionpillage() {
 <p id="corruptionpillage"></p>
 
 
-###### 11. 
+###### 11 - SEDITION FROM EARTH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonseditionfromearth() {
@@ -3551,7 +3552,7 @@ function showButtonseditionfromearth() {
 <p id="seditionfromearth"></p>
 
 
-###### 12. 
+###### 12 - DISOBEY THE CHILDREN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondisobeythechildren() {
@@ -3563,7 +3564,7 @@ function showButtondisobeythechildren() {
 <p id="disobeythechildren"></p>
 
 
-###### 13. 
+###### 13 - ACCOMPLICES OF TYRANNY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaccomplicesoftyranny() {
@@ -3575,7 +3576,7 @@ function showButtonaccomplicesoftyranny() {
 <p id="accomplicesoftyranny"></p>
 
 
-###### 14. 
+###### 14 - SUICIDE COLLECTIVE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsuicidecollective() {
@@ -3587,7 +3588,7 @@ function showButtonsuicidecollective() {
 <p id="suicidecollective"></p>
 
 
-###### 15. 
+###### 15 - BREAKFAST AT FAKENEW'S
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbreakfastatfakenews() {
@@ -3599,7 +3600,7 @@ function showButtonbreakfastatfakenews() {
 <p id="breakfastatfakenews"></p>
 
 
-###### 16. 
+###### 16 - PURE UNCUT DRUG
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpureuncutdrug() {
@@ -3611,7 +3612,7 @@ function showButtonpureuncutdrug() {
 <p id="pureuncutdrug"></p>
 
 
-###### 17. 
+###### 17 - REVEAL THE LIES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrevealthelies() {
@@ -3623,7 +3624,7 @@ function showButtonrevealthelies() {
 <p id="revealthelies"></p>
 
 
-###### 18. 
+###### 18 - DUMB INTELLECTUAL PROPERTY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondumbintellectualproperty() {
@@ -3635,7 +3636,7 @@ function showButtondumbintellectualproperty() {
 <p id="dumbintellectualproperty"></p>
 
 
-###### 19. 
+###### 19 - SPEECH OF FAKE FREEDOM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonspeechoffakefreedom() {
@@ -3647,7 +3648,7 @@ function showButtonspeechoffakefreedom() {
 <p id="speechoffakefreedom"></p>
 
 
-###### 20. 
+###### 20 - GLOBAL ALARM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonglobalalarm() {
@@ -3659,7 +3660,7 @@ function showButtonglobalalarm() {
 <p id="globalalarm"></p>
 
 
-###### 21. 
+###### 21 - BACK TO A NEW STATE OF NORMALITY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbacktoanewstateofnormality() {
@@ -3674,7 +3675,7 @@ function showButtonbacktoanewstateofnormality() {
 #### 15.- 'Journey to Wasted Youth' <a name=journeytowastedyouth></a>
 [![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
 
-###### 1. 
+###### 1 - GET YOU HYPE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongetyouhype() {
@@ -3686,7 +3687,7 @@ function showButtongetyouhype() {
 <p id="getyouhype"></p>
 
 
-###### 2. 
+###### 2 - DO YOUR WILL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondoyourwill() {
@@ -3698,7 +3699,7 @@ function showButtondoyourwill() {
 <p id="doyourwill"></p>
 
 
-###### 3. 
+###### 3 - WEIGHT OF EGO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonweightofego() {
@@ -3710,7 +3711,7 @@ function showButtonweightofego() {
 <p id="weightofego"></p>
 
 
-###### 4. 
+###### 4 - I OWN A COMPUTER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoniownacomputer() {
@@ -3722,7 +3723,7 @@ function showButtoniownacomputer() {
 <p id="iownacomputer"></p>
 
 
-###### 5. 
+###### 5 - SOUL IMPULSE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoulimpulse() {
@@ -3734,7 +3735,7 @@ function showButtonsoulimpulse() {
 <p id="soulimpulse"></p>
 
 
-###### 6. 
+###### 6 - TECHNE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontechne() {
@@ -3746,7 +3747,7 @@ function showButtontechne() {
 <p id="techne"></p>
 
 
-###### 7. 
+###### 7 - MELALCOHOLIAC
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmelalcoholiac() {
@@ -3758,7 +3759,7 @@ function showButtonmelalcoholiac() {
 <p id="melalcoholiac"></p>
 
 
-###### 8. 
+###### 8 - PEEVISH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpeevish() {
@@ -3770,7 +3771,7 @@ function showButtonpeevish() {
 <p id="peevish"></p>
 
 
-###### 9. 
+###### 9 - BLOODY VALHALLA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbloodyvalhalla() {
@@ -3782,7 +3783,7 @@ function showButtonbloodyvalhalla() {
 <p id="bloodyvalhalla"></p>
 
 
-###### 10. 
+###### 10 - AFFLATUS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonafflatus() {
@@ -3794,7 +3795,7 @@ function showButtonafflatus() {
 <p id="afflatus"></p>
 
 
-###### 11. 
+###### 11 - WAY TO DEATH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwaytodeath() {
@@ -3806,7 +3807,7 @@ function showButtonwaytodeath() {
 <p id="waytodeath"></p>
 
 
-###### 12. 
+###### 12 - CROSSED LOOKS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncrossedlooks() {
@@ -3818,7 +3819,7 @@ function showButtoncrossedlooks() {
 <p id="crossedlooks"></p>
 
 
-###### 13. 
+###### 13 - CONQUER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconquer() {
@@ -3830,7 +3831,7 @@ function showButtonconquer() {
 <p id="conquer"></p>
 
 
-###### 14. 
+###### 14 - NOT ME TO TALK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnotmetotalk() {
@@ -3842,7 +3843,7 @@ function showButtonnotmetotalk() {
 <p id="notmetotalk"></p>
 
 
-###### 15. 
+###### 15 - FOR WHAT DO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforwhatdo() {
@@ -3854,7 +3855,7 @@ function showButtonforwhatdo() {
 <p id="forwhatdo"></p>
 
 
-###### 16. 
+###### 16 - LEWEJ
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlewej() {
@@ -3866,7 +3867,7 @@ function showButtonlewej() {
 <p id="lewej"></p>
 
 
-###### 17. 
+###### 17 - WICKED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwicked() {
@@ -3878,7 +3879,7 @@ function showButtonwicked() {
 <p id="wicked"></p>
 
 
-###### 18. 
+###### 18 - DESOLATE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesolate() {
@@ -3890,7 +3891,7 @@ function showButtondesolate() {
 <p id="desolate"></p>
 
 
-###### 19. 
+###### 19 - DEAL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondeal() {
@@ -3902,7 +3903,7 @@ function showButtondeal() {
 <p id="deal"></p>
 
 
-###### 20. 
+###### 20 - ELOPE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonelope() {
@@ -3917,7 +3918,7 @@ function showButtonelope() {
 #### 16.- 'Lyricless Miracles' <a name=lyriclessmiracles></a>
 [![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
 
-###### 1. 
+###### 1 - PLACE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplace() {
@@ -3929,7 +3930,7 @@ function showButtonplace() {
 <p id="place"></p>
 
 
-###### 2. 
+###### 2 - HEADWAY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheadway() {
@@ -3941,7 +3942,7 @@ function showButtonheadway() {
 <p id="headway"></p>
 
 
-###### 3. 
+###### 3 - PARAMOUNT ECHOES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonparamountechoes() {
@@ -3953,7 +3954,7 @@ function showButtonparamountechoes() {
 <p id="paramountechoes"></p>
 
 
-###### 4. 
+###### 4 - DRIFTED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondrifted() {
@@ -3965,7 +3966,7 @@ function showButtondrifted() {
 <p id="drifted"></p>
 
 
-###### 5. 
+###### 5 - AMALGAM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonamalgam() {
@@ -3977,7 +3978,7 @@ function showButtonamalgam() {
 <p id="amalgam"></p>
 
 
-###### 6. 
+###### 6 - SOULMATES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoulmates() {
@@ -3989,7 +3990,7 @@ function showButtonsoulmates() {
 <p id="soulmates"></p>
 
 
-###### 7. 
+###### 7 - BLUE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonblue() {
@@ -4001,7 +4002,7 @@ function showButtonblue() {
 <p id="blue"></p>
 
 
-###### 8. 
+###### 8 - FORGOTTEN KISSES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforgottenkisses() {
@@ -4013,7 +4014,7 @@ function showButtonforgottenkisses() {
 <p id="forgottenkisses"></p>
 
 
-###### 9. 
+###### 9 - NITWIT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnitwit() {
@@ -4025,7 +4026,7 @@ function showButtonnitwit() {
 <p id="nitwit"></p>
 
 
-###### 10. 
+###### 10 - WAIT ME FOR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwaitmefor() {
@@ -4037,7 +4038,7 @@ function showButtonwaitmefor() {
 <p id="waitmefor"></p>
 
 
-###### 11. 
+###### 11 - BACK YOUR WATCH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbackyourwatch() {
@@ -4049,7 +4050,7 @@ function showButtonbackyourwatch() {
 <p id="backyourwatch"></p>
 
 
-###### 12. 
+###### 12 - ALL ALMOST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonallalmost() {
@@ -4061,7 +4062,7 @@ function showButtonallalmost() {
 <p id="allalmost"></p>
 
 
-###### 13. 
+###### 13 - SKYLINE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonskyline() {
@@ -4073,7 +4074,7 @@ function showButtonskyline() {
 <p id="skyline"></p>
 
 
-###### 14. 
+###### 14 - IT SEEMS THAT THE CLOUDS LEFT WITH YOU
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonitseemsthatthecloudsleftwithyou() {
@@ -4085,7 +4086,7 @@ function showButtonitseemsthatthecloudsleftwithyou() {
 <p id="itseemsthatthecloudsleftwithyou"></p>
 
 
-###### 15. 
+###### 15 - MIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmight() {
@@ -4097,7 +4098,7 @@ function showButtonmight() {
 <p id="might"></p>
 
 
-###### 16. 
+###### 16 - CASUAL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncasual() {
@@ -4109,7 +4110,7 @@ function showButtoncasual() {
 <p id="casual"></p>
 
 
-###### 17. 
+###### 17 - UNTANGLED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuntangled() {
@@ -4121,7 +4122,7 @@ function showButtonuntangled() {
 <p id="untangled"></p>
 
 
-###### 18. 
+###### 18 - REGROWTH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonregrowth() {
@@ -4133,7 +4134,7 @@ function showButtonregrowth() {
 <p id="regrowth"></p>
 
 
-###### 19. 
+###### 19 - BURN IT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonburnit() {
@@ -4145,7 +4146,7 @@ function showButtonburnit() {
 <p id="burnit"></p>
 
 
-###### 20. 
+###### 20 - CONCEALED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconcealed() {
@@ -4157,7 +4158,7 @@ function showButtonconcealed() {
 <p id="concealed"></p>
 
 
-###### 21. 
+###### 21 - LIGHTNING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlightning() {
@@ -4172,7 +4173,7 @@ function showButtonlightning() {
 #### 17.- 'irl' <a name=irl></a>
 [![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
 
-###### 1. 
+###### 1.- MISERY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmisery() {
@@ -4184,7 +4185,7 @@ function showButtonmisery() {
 <p id="misery"></p>
 
 
-###### 2. 
+###### 2 - WONDER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwonder() {
@@ -4196,31 +4197,31 @@ function showButtonwonder() {
 <p id="wonder"></p>
 
 
-###### 3. 
+###### 3 - 3
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButton3() {
-  let 3_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/3 - 3.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("3").innerHTML = 3_controls;
+function showButtont() {
+  let t_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/3 - 3.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("t").innerHTML = t_controls;
 }
 </script>
-<input type = "button" onclick = "showButton3()" value = "⏯ 3">
-<p id="3"></p>
+<input type = "button" onclick = "showButtont()" value = "⏯ 3">
+<p id="t"></p>
 
 
-###### 4. 
+###### 4 - 4444
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButton4444() {
-  let 4444_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/4 - 4444.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("4444").innerHTML = 4444_controls;
+function showButtonffff() {
+  let ffff_controls = "<audio controls><source src=\"/assets/music/17.- 'irl'/4 - 4444.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("ffff").innerHTML = ffff_controls;
 }
 </script>
-<input type = "button" onclick = "showButton4444()" value = "⏯ 4444">
-<p id="4444"></p>
+<input type = "button" onclick = "showButtonffff()" value = "⏯ 4444">
+<p id="ffff"></p>
 
 
-###### 5. 
+###### 5 - THE MUSIC YOU SKIP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthemusicyouskip() {
@@ -4232,7 +4233,7 @@ function showButtonthemusicyouskip() {
 <p id="themusicyouskip"></p>
 
 
-###### 6. 
+###### 6 - HAVE TO HAVE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhavetohave() {
@@ -4244,7 +4245,7 @@ function showButtonhavetohave() {
 <p id="havetohave"></p>
 
 
-###### 7. 
+###### 7 - LAST SUMMER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlastsummer() {
@@ -4256,7 +4257,7 @@ function showButtonlastsummer() {
 <p id="lastsummer"></p>
 
 
-###### 8. 
+###### 8 - DOWNSTAIRS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondownstairs() {
@@ -4268,7 +4269,7 @@ function showButtondownstairs() {
 <p id="downstairs"></p>
 
 
-###### 9. 
+###### 9 - FLUMMOX
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflummox() {
@@ -4280,7 +4281,7 @@ function showButtonflummox() {
 <p id="flummox"></p>
 
 
-###### 10. 
+###### 10 - OUTCAST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoutcast() {
@@ -4292,7 +4293,7 @@ function showButtonoutcast() {
 <p id="outcast"></p>
 
 
-###### 11. 
+###### 11 - BITTER GOODBYES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbittergoodbyes() {
@@ -4304,7 +4305,7 @@ function showButtonbittergoodbyes() {
 <p id="bittergoodbyes"></p>
 
 
-###### 12. 
+###### 12 - SAND
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsand() {
@@ -4316,7 +4317,7 @@ function showButtonsand() {
 <p id="sand"></p>
 
 
-###### 13. 
+###### 13 - SUNSHINE EYES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsunshineeyes() {
@@ -4328,7 +4329,7 @@ function showButtonsunshineeyes() {
 <p id="sunshineeyes"></p>
 
 
-###### 14. 
+###### 14 - OLD HAT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoldhat() {
@@ -4340,7 +4341,7 @@ function showButtonoldhat() {
 <p id="oldhat"></p>
 
 
-###### 15. 
+###### 15 - POOR ACHING HEART
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpoorachingheart() {
@@ -4352,7 +4353,7 @@ function showButtonpoorachingheart() {
 <p id="poorachingheart"></p>
 
 
-###### 16. 
+###### 16 - HANDHOLD
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhandhold() {
@@ -4364,7 +4365,7 @@ function showButtonhandhold() {
 <p id="handhold"></p>
 
 
-###### 17. 
+###### 17 - BAD DJ
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbaddj() {
@@ -4376,7 +4377,7 @@ function showButtonbaddj() {
 <p id="baddj"></p>
 
 
-###### 18. 
+###### 18 - PAY DAY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpayday() {
@@ -4391,7 +4392,7 @@ function showButtonpayday() {
 #### 18.- 'before senescence' <a name=beforesenescence></a>
 [![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
 
-###### Lonely. 
+###### LONELY - BELLA THORNE - AFACES REMIX
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbellathorneafacesremix() {
@@ -4403,7 +4404,7 @@ function showButtonbellathorneafacesremix() {
 <p id="bellathorneafacesremix"></p>
 
 
-###### 1. 
+###### 1 - PRESHRUNK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpreshrunk() {
@@ -4415,7 +4416,7 @@ function showButtonpreshrunk() {
 <p id="preshrunk"></p>
 
 
-###### 2. 
+###### 2 - BOTTLE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbottle() {
@@ -4427,7 +4428,7 @@ function showButtonbottle() {
 <p id="bottle"></p>
 
 
-###### 3. 
+###### 3 - THAT EPOCH YOU EXISTED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthatepochyouexisted() {
@@ -4439,7 +4440,7 @@ function showButtonthatepochyouexisted() {
 <p id="thatepochyouexisted"></p>
 
 
-###### 4. 
+###### 4 - UNPLAYLISTED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunplaylisted() {
@@ -4451,7 +4452,7 @@ function showButtonunplaylisted() {
 <p id="unplaylisted"></p>
 
 
-###### 5. 
+###### 5 - HANG UP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhangup() {
@@ -4463,7 +4464,7 @@ function showButtonhangup() {
 <p id="hangup"></p>
 
 
-###### 6. 
+###### 6 - INFRAENCER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoninfraencer() {
@@ -4475,7 +4476,7 @@ function showButtoninfraencer() {
 <p id="infraencer"></p>
 
 
-###### 7. 
+###### 7 - AWRY ASTRAYS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonawryastrays() {
@@ -4487,7 +4488,7 @@ function showButtonawryastrays() {
 <p id="awryastrays"></p>
 
 
-###### 8. 
+###### 8 - LARGE DRESSES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlargedresses() {
@@ -4499,7 +4500,7 @@ function showButtonlargedresses() {
 <p id="largedresses"></p>
 
 
-###### 9. 
+###### 9 - GREEDINGS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongreedings() {
@@ -4511,7 +4512,7 @@ function showButtongreedings() {
 <p id="greedings"></p>
 
 
-###### 10. 
+###### 10 - WHIM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhim() {
@@ -4523,7 +4524,7 @@ function showButtonwhim() {
 <p id="whim"></p>
 
 
-###### 11. 
+###### 11 - FLAIL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflail() {
@@ -4535,7 +4536,7 @@ function showButtonflail() {
 <p id="flail"></p>
 
 
-###### 12. 
+###### 12 - QUESTIONS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonquestions() {
@@ -4547,19 +4548,19 @@ function showButtonquestions() {
 <p id="questions"></p>
 
 
-###### 13. 
+###### 13 - 14 - NEW TITLES1
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButton14newtitles1() {
-  let 14newtitles1_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/13 - 14 - New Titles[1].mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("14newtitles1").innerHTML = 14newtitles1_controls;
+function showButtonofnewtitleso() {
+  let ofnewtitleso_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/13 - 14 - New Titles[1].mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("ofnewtitleso").innerHTML = ofnewtitleso_controls;
 }
 </script>
-<input type = "button" onclick = "showButton14newtitles1()" value = "⏯ 14 - New Titles1">
-<p id="14newtitles1"></p>
+<input type = "button" onclick = "showButtonofnewtitleso()" value = "⏯ 14 - New Titles1">
+<p id="ofnewtitleso"></p>
 
 
-###### 14. 
+###### 14 - EXTERNAL THOUGHTS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonexternalthoughts() {
@@ -4571,7 +4572,7 @@ function showButtonexternalthoughts() {
 <p id="externalthoughts"></p>
 
 
-###### 15. 
+###### 15 -CHIRIPITIFLAUTICUS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchiripitiflauticus() {
@@ -4583,7 +4584,7 @@ function showButtonchiripitiflauticus() {
 <p id="chiripitiflauticus"></p>
 
 
-###### 16. 
+###### 16 - CAT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncat() {
@@ -4595,7 +4596,7 @@ function showButtoncat() {
 <p id="cat"></p>
 
 
-###### 17. 
+###### 17 - HI THERE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhithere() {
@@ -4607,22 +4608,22 @@ function showButtonhithere() {
 <p id="hithere"></p>
 
 
-###### 18. 
+###### 18 - SOUNDTEST3
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButtonsoundtest3() {
-  let soundtest3_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/18 - Soundtest3.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("soundtest3").innerHTML = soundtest3_controls;
+function showButtonsoundtestt() {
+  let soundtestt_controls = "<audio controls><source src=\"/assets/music/18.- 'before senescence'/18 - Soundtest3.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("soundtestt").innerHTML = soundtestt_controls;
 }
 </script>
-<input type = "button" onclick = "showButtonsoundtest3()" value = "⏯ Soundtest3">
-<p id="soundtest3"></p>
+<input type = "button" onclick = "showButtonsoundtestt()" value = "⏯ Soundtest3">
+<p id="soundtestt"></p>
 
 
 #### 19.- 'back to the origins' <a name=backtotheorigins></a>
 [![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
 
-###### 1. 
+###### 1.- THIS SONG HAS NO VIDEO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthissonghasnovideo() {
@@ -4634,7 +4635,7 @@ function showButtonthissonghasnovideo() {
 <p id="thissonghasnovideo"></p>
 
 
-###### 2. 
+###### 2.- TARNISH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontarnish() {
@@ -4646,7 +4647,7 @@ function showButtontarnish() {
 <p id="tarnish"></p>
 
 
-###### 3. 
+###### 3.- LIEK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonliek() {
@@ -4658,7 +4659,7 @@ function showButtonliek() {
 <p id="liek"></p>
 
 
-###### 4. 
+###### 4.- MAKING ME CRAZY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmakingmecrazy() {
@@ -4670,7 +4671,7 @@ function showButtonmakingmecrazy() {
 <p id="makingmecrazy"></p>
 
 
-###### 5. 
+###### 5.- STICK TO THE TREE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsticktothetree() {
@@ -4682,7 +4683,7 @@ function showButtonsticktothetree() {
 <p id="sticktothetree"></p>
 
 
-###### 6. 
+###### 6.- VITRIOLIC
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvitriolic() {
@@ -4694,7 +4695,7 @@ function showButtonvitriolic() {
 <p id="vitriolic"></p>
 
 
-###### 7. 
+###### 7.- MIXPTAKES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmixptakes() {
@@ -4706,7 +4707,7 @@ function showButtonmixptakes() {
 <p id="mixptakes"></p>
 
 
-###### 8. 
+###### 8.- OLD TIMES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoldtimes() {
@@ -4718,7 +4719,7 @@ function showButtonoldtimes() {
 <p id="oldtimes"></p>
 
 
-###### 9. 
+###### 9.- LONG TIME NO SEE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlongtimenosee() {
@@ -4730,7 +4731,7 @@ function showButtonlongtimenosee() {
 <p id="longtimenosee"></p>
 
 
-###### 10. 
+###### 10.- TRAP'D BY U
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrapdbyu() {
@@ -4742,7 +4743,7 @@ function showButtontrapdbyu() {
 <p id="trapdbyu"></p>
 
 
-###### 11. 
+###### 11.- FLYING NEON TIRES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflyingneontires() {
@@ -4754,19 +4755,19 @@ function showButtonflyingneontires() {
 <p id="flyingneontires"></p>
 
 
-###### 12. 
+###### 12.- SOUNDTEST2
 <script type="text/javascript" src="/index.js"></script>
 <script>
-function showButtonsoundtest2() {
-  let soundtest2_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/12.- Soundtest2.mp3\" type=\"audio/mp3\"></audio>";
-  document.getElementById("soundtest2").innerHTML = soundtest2_controls;
+function showButtonsoundtestt() {
+  let soundtestt_controls = "<audio controls><source src=\"/assets/music/19.- 'back to the origins'/12.- Soundtest2.mp3\" type=\"audio/mp3\"></audio>";
+  document.getElementById("soundtestt").innerHTML = soundtestt_controls;
 }
 </script>
-<input type = "button" onclick = "showButtonsoundtest2()" value = "⏯ Soundtest2">
-<p id="soundtest2"></p>
+<input type = "button" onclick = "showButtonsoundtestt()" value = "⏯ Soundtest2">
+<p id="soundtestt"></p>
 
 
-###### 13. 
+###### 13.- DESTINY REPEATS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondestinyrepeats() {
@@ -4778,7 +4779,7 @@ function showButtondestinyrepeats() {
 <p id="destinyrepeats"></p>
 
 
-###### 14. 
+###### 14.- MY MOTHER'S SOFTENER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmymotherssoftener() {
@@ -4790,7 +4791,7 @@ function showButtonmymotherssoftener() {
 <p id="mymotherssoftener"></p>
 
 
-###### 15. 
+###### 15.- DIAL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondial() {
@@ -4802,7 +4803,7 @@ function showButtondial() {
 <p id="dial"></p>
 
 
-###### 16. 
+###### 16.- LA HIJA DE FRANCO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlahijadefranco() {
@@ -4814,7 +4815,7 @@ function showButtonlahijadefranco() {
 <p id="lahijadefranco"></p>
 
 
-###### 17. 
+###### 17.- SINTONIZE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsintonize() {
@@ -4826,7 +4827,7 @@ function showButtonsintonize() {
 <p id="sintonize"></p>
 
 
-###### 18. 
+###### 18.- ASTRONAUTA
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonastronauta() {
@@ -4838,7 +4839,7 @@ function showButtonastronauta() {
 <p id="astronauta"></p>
 
 
-###### 19. 
+###### 19.- SCHEDULES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonschedules() {
@@ -4850,7 +4851,7 @@ function showButtonschedules() {
 <p id="schedules"></p>
 
 
-###### 20. 
+###### 20.- BLUE LIGHTED RAIN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbluelightedrain() {
@@ -4862,7 +4863,7 @@ function showButtonbluelightedrain() {
 <p id="bluelightedrain"></p>
 
 
-###### 21. 
+###### 21.- GOOD NIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongoodnight() {
@@ -4877,7 +4878,7 @@ function showButtongoodnight() {
 #### 20.- 'conversation conservation' <a name=conversationconservation></a>
 [![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
 
-###### 1. 
+###### 1.- MESSY STREAK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmessystreak() {
@@ -4889,7 +4890,7 @@ function showButtonmessystreak() {
 <p id="messystreak"></p>
 
 
-###### 2. 
+###### 2.- THINGS REMOVED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthingsremoved() {
@@ -4901,7 +4902,7 @@ function showButtonthingsremoved() {
 <p id="thingsremoved"></p>
 
 
-###### 3. 
+###### 3.- MAN'S COMPLIMENTS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmanscompliments() {
@@ -4913,7 +4914,7 @@ function showButtonmanscompliments() {
 <p id="manscompliments"></p>
 
 
-###### 4. 
+###### 4.- MAMI CALL YOU LATER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmamicallyoulater() {
@@ -4925,7 +4926,7 @@ function showButtonmamicallyoulater() {
 <p id="mamicallyoulater"></p>
 
 
-###### 5. 
+###### 5.- SO CHEAP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsocheap() {
@@ -4937,7 +4938,7 @@ function showButtonsocheap() {
 <p id="socheap"></p>
 
 
-###### 6. 
+###### 6.- AFTERMATH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaftermath() {
@@ -4949,7 +4950,7 @@ function showButtonaftermath() {
 <p id="aftermath"></p>
 
 
-###### 7. 
+###### 7.- LAST DAY'S MORNING BEDROOM TRASH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlastdaysmorningbedroomtrash() {
@@ -4961,7 +4962,7 @@ function showButtonlastdaysmorningbedroomtrash() {
 <p id="lastdaysmorningbedroomtrash"></p>
 
 
-###### 8. 
+###### 8.- FIRST DAY'S AFTERNOON DORMER JUNK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfirstdaysafternoondormerjunk() {
@@ -4973,7 +4974,7 @@ function showButtonfirstdaysafternoondormerjunk() {
 <p id="firstdaysafternoondormerjunk"></p>
 
 
-###### 9. 
+###### 9.- TIRED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontired() {
@@ -4985,7 +4986,7 @@ function showButtontired() {
 <p id="tired"></p>
 
 
-###### 10. 
+###### 10.- WORDS OF CHOICE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwordsofchoice() {
@@ -4997,7 +4998,7 @@ function showButtonwordsofchoice() {
 <p id="wordsofchoice"></p>
 
 
-###### 11. 
+###### 11.- GATORS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongators() {
@@ -5009,7 +5010,7 @@ function showButtongators() {
 <p id="gators"></p>
 
 
-###### 12. 
+###### 12.- IMPROVISE OVER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonimproviseover() {
@@ -5021,7 +5022,7 @@ function showButtonimproviseover() {
 <p id="improviseover"></p>
 
 
-###### 13. 
+###### 13.- CHANGE OF VIEW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchangeofview() {
@@ -5033,7 +5034,7 @@ function showButtonchangeofview() {
 <p id="changeofview"></p>
 
 
-###### 14. 
+###### 14.- THE ETHER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontheether() {
@@ -5045,7 +5046,7 @@ function showButtontheether() {
 <p id="theether"></p>
 
 
-###### 15. 
+###### 15.- UNBIDDEN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunbidden() {
@@ -5057,7 +5058,7 @@ function showButtonunbidden() {
 <p id="unbidden"></p>
 
 
-###### 16. 
+###### 16.- TABOO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontaboo() {
@@ -5069,7 +5070,7 @@ function showButtontaboo() {
 <p id="taboo"></p>
 
 
-###### 17. 
+###### 17.- WHERE DO I WEIRDO I
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwheredoiweirdoi() {
@@ -5081,7 +5082,7 @@ function showButtonwheredoiweirdoi() {
 <p id="wheredoiweirdoi"></p>
 
 
-###### 18. 
+###### 18.- MORE WORK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmorework() {
@@ -5093,7 +5094,7 @@ function showButtonmorework() {
 <p id="morework"></p>
 
 
-###### 19. 
+###### 19.- BDAY BOI
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbdayboi() {
@@ -5105,7 +5106,7 @@ function showButtonbdayboi() {
 <p id="bdayboi"></p>
 
 
-###### 20. 
+###### 20.- RAW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonraw() {
@@ -5120,7 +5121,7 @@ function showButtonraw() {
 #### 21.- 'Gloomy dances' <a name=gloomydances></a>
 [![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
 
-###### 1. 
+###### 1.- YEAH YEAH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyeahyeah() {
@@ -5132,7 +5133,7 @@ function showButtonyeahyeah() {
 <p id="yeahyeah"></p>
 
 
-###### 2. 
+###### 2.- BBY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbby() {
@@ -5144,7 +5145,7 @@ function showButtonbby() {
 <p id="bby"></p>
 
 
-###### 3. 
+###### 3.- MCGUFFIN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmcguffin() {
@@ -5156,7 +5157,7 @@ function showButtonmcguffin() {
 <p id="mcguffin"></p>
 
 
-###### 4. 
+###### 4.- ALMSGIVING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonalmsgiving() {
@@ -5168,7 +5169,7 @@ function showButtonalmsgiving() {
 <p id="almsgiving"></p>
 
 
-###### 5. 
+###### 5.- PRODUCT PROJECT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonproductproject() {
@@ -5180,7 +5181,7 @@ function showButtonproductproject() {
 <p id="productproject"></p>
 
 
-###### 6. 
+###### 6.- DISTRACTIONS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondistractions() {
@@ -5192,7 +5193,7 @@ function showButtondistractions() {
 <p id="distractions"></p>
 
 
-###### 7. 
+###### 7.- SECRETS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsecrets() {
@@ -5204,7 +5205,7 @@ function showButtonsecrets() {
 <p id="secrets"></p>
 
 
-###### 8. 
+###### 8.- CASCADE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncascade() {
@@ -5216,7 +5217,7 @@ function showButtoncascade() {
 <p id="cascade"></p>
 
 
-###### 9. 
+###### 9.- SUNSCREEN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsunscreen() {
@@ -5228,7 +5229,7 @@ function showButtonsunscreen() {
 <p id="sunscreen"></p>
 
 
-###### 10. 
+###### 10.- SO FAR SO CLOSE YOUR FRIENDS WILL BE OKAY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsofarsocloseyourfriendswillbeokay() {
@@ -5240,7 +5241,7 @@ function showButtonsofarsocloseyourfriendswillbeokay() {
 <p id="sofarsocloseyourfriendswillbeokay"></p>
 
 
-###### 11. 
+###### 11.- TRIP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrip() {
@@ -5252,7 +5253,7 @@ function showButtontrip() {
 <p id="trip"></p>
 
 
-###### 12. 
+###### 12.- APPEAR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonappear() {
@@ -5264,7 +5265,7 @@ function showButtonappear() {
 <p id="appear"></p>
 
 
-###### 13. 
+###### 13.- UNVEIL
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunveil() {
@@ -5276,7 +5277,7 @@ function showButtonunveil() {
 <p id="unveil"></p>
 
 
-###### 14. 
+###### 14.- PLANS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplans() {
@@ -5288,7 +5289,7 @@ function showButtonplans() {
 <p id="plans"></p>
 
 
-###### 15. 
+###### 15.- FLICKERING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflickering() {
@@ -5300,7 +5301,7 @@ function showButtonflickering() {
 <p id="flickering"></p>
 
 
-###### 16. 
+###### 16.- LA COUR DE MON GRAND-PèRE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlacourdemongrandpère() {
@@ -5312,7 +5313,7 @@ function showButtonlacourdemongrandpère() {
 <p id="lacourdemongrandpère"></p>
 
 
-###### 17. 
+###### 17.- WHAT'S POPPIN'
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhatspoppin() {
@@ -5324,7 +5325,7 @@ function showButtonwhatspoppin() {
 <p id="whatspoppin"></p>
 
 
-###### 18. 
+###### 18.- PROMISE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpromise() {
@@ -5336,7 +5337,7 @@ function showButtonpromise() {
 <p id="promise"></p>
 
 
-###### 19. 
+###### 19.- UNSPEAK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunspeak() {
@@ -5348,7 +5349,7 @@ function showButtonunspeak() {
 <p id="unspeak"></p>
 
 
-###### 20. 
+###### 20.- USED TO BE MY FRIEND
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonusedtobemyfriend() {
@@ -5363,7 +5364,7 @@ function showButtonusedtobemyfriend() {
 #### 22.- 'Not Too Bad' <a name=nottoobad></a>
 [![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
 
-###### 1. 
+###### 1.- KER AL LOCH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkeralloch() {
@@ -5375,7 +5376,7 @@ function showButtonkeralloch() {
 <p id="keralloch"></p>
 
 
-###### 2. 
+###### 2.- BLEAK
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbleak() {
@@ -5387,7 +5388,7 @@ function showButtonbleak() {
 <p id="bleak"></p>
 
 
-###### 3. 
+###### 3.- SEED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonseed() {
@@ -5399,7 +5400,7 @@ function showButtonseed() {
 <p id="seed"></p>
 
 
-###### 4. 
+###### 4.- GREWTH
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongrewth() {
@@ -5411,7 +5412,7 @@ function showButtongrewth() {
 <p id="grewth"></p>
 
 
-###### 5. 
+###### 5.-  SAD KIDS GAME
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsadkidsgame() {
@@ -5423,7 +5424,7 @@ function showButtonsadkidsgame() {
 <p id="sadkidsgame"></p>
 
 
-###### 6. 
+###### 6.- WORTHLESS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonworthless() {
@@ -5435,7 +5436,7 @@ function showButtonworthless() {
 <p id="worthless"></p>
 
 
-###### 7. 
+###### 7.- RESILE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonresile() {
@@ -5447,7 +5448,7 @@ function showButtonresile() {
 <p id="resile"></p>
 
 
-###### 8. 
+###### 8.- NAB
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnab() {
@@ -5459,7 +5460,7 @@ function showButtonnab() {
 <p id="nab"></p>
 
 
-###### 9. 
+###### 9.- DIM BONE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondimbone() {
@@ -5471,7 +5472,7 @@ function showButtondimbone() {
 <p id="dimbone"></p>
 
 
-###### 10. 
+###### 10.- DISTANT ECHOES OF LOST LOVES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondistantechoesoflostloves() {
@@ -5483,7 +5484,7 @@ function showButtondistantechoesoflostloves() {
 <p id="distantechoesoflostloves"></p>
 
 
-###### 11. 
+###### 11.- STALWART
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstalwart() {
@@ -5495,7 +5496,7 @@ function showButtonstalwart() {
 <p id="stalwart"></p>
 
 
-###### 12. 
+###### 12.- GIDDY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongiddy() {
@@ -5507,7 +5508,7 @@ function showButtongiddy() {
 <p id="giddy"></p>
 
 
-###### 13. 
+###### 13.- WAG
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwag() {
@@ -5519,7 +5520,7 @@ function showButtonwag() {
 <p id="wag"></p>
 
 
-###### 14. 
+###### 14.- DEAR DIARY
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondeardiary() {
@@ -5531,7 +5532,7 @@ function showButtondeardiary() {
 <p id="deardiary"></p>
 
 
-###### 15. 
+###### 15.- AIGRE-DOUX
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaigredoux() {
@@ -5543,7 +5544,7 @@ function showButtonaigredoux() {
 <p id="aigredoux"></p>
 
 
-###### 16. 
+###### 16.- LIFE WITHOUT U
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlifewithoutu() {
@@ -5555,7 +5556,7 @@ function showButtonlifewithoutu() {
 <p id="lifewithoutu"></p>
 
 
-###### 17. 
+###### 17.- BANE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbane() {
@@ -5567,7 +5568,7 @@ function showButtonbane() {
 <p id="bane"></p>
 
 
-###### 18. 
+###### 18.- FORLORN
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforlorn() {
@@ -5579,7 +5580,7 @@ function showButtonforlorn() {
 <p id="forlorn"></p>
 
 
-###### 19. 
+###### 19.- CLOAKS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncloaks() {
@@ -5591,7 +5592,7 @@ function showButtoncloaks() {
 <p id="cloaks"></p>
 
 
-###### 20. 
+###### 20.- BATTERIES NOT INCLUDED
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbatteriesnotincluded() {
@@ -5603,7 +5604,7 @@ function showButtonbatteriesnotincluded() {
 <p id="batteriesnotincluded"></p>
 
 
-###### 21. 
+###### 21.-  PLEASANT STRANGENESS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpleasantstrangeness() {
@@ -5618,7 +5619,7 @@ function showButtonpleasantstrangeness() {
 #### 23.- 'There is Another' <a name=thereisanother></a>
 [![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
 
-###### 1. 
+###### 1.-  KEPT ME HANGING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkeptmehanging() {
@@ -5630,7 +5631,7 @@ function showButtonkeptmehanging() {
 <p id="keptmehanging"></p>
 
 
-###### 2. 
+###### 2.- SOLUTION
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsolution() {
@@ -5642,7 +5643,7 @@ function showButtonsolution() {
 <p id="solution"></p>
 
 
-###### 3. 
+###### 3.- WHERE WERE YOU THIS FRIDAY NIGHT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwherewereyouthisfridaynight() {
@@ -5654,7 +5655,7 @@ function showButtonwherewereyouthisfridaynight() {
 <p id="wherewereyouthisfridaynight"></p>
 
 
-###### 4. 
+###### 4.- LEAKS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonleaks() {
@@ -5666,7 +5667,7 @@ function showButtonleaks() {
 <p id="leaks"></p>
 
 
-###### 5. 
+###### 5.- UNDERTOW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonundertow() {
@@ -5678,7 +5679,7 @@ function showButtonundertow() {
 <p id="undertow"></p>
 
 
-###### 6. 
+###### 6.- CROSS LINES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncrosslines() {
@@ -5690,7 +5691,7 @@ function showButtoncrosslines() {
 <p id="crosslines"></p>
 
 
-###### 7. 
+###### 7.- NOTHING LEFT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnothingleft() {
@@ -5702,7 +5703,7 @@ function showButtonnothingleft() {
 <p id="nothingleft"></p>
 
 
-###### 8. 
+###### 8.- ONE FLOOR
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtononefloor() {
@@ -5714,7 +5715,7 @@ function showButtononefloor() {
 <p id="onefloor"></p>
 
 
-###### 9. 
+###### 9.- HANDLE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhandle() {
@@ -5726,7 +5727,7 @@ function showButtonhandle() {
 <p id="handle"></p>
 
 
-###### 10. 
+###### 10.- MILLING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmilling() {
@@ -5738,7 +5739,7 @@ function showButtonmilling() {
 <p id="milling"></p>
 
 
-###### 11. 
+###### 11.- MAYHAP
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmayhap() {
@@ -5750,7 +5751,7 @@ function showButtonmayhap() {
 <p id="mayhap"></p>
 
 
-###### 12. 
+###### 12.- DIFFIDENT AGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondiffidentage() {
@@ -5762,7 +5763,7 @@ function showButtondiffidentage() {
 <p id="diffidentage"></p>
 
 
-###### 13. 
+###### 13.- DUBIOUS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondubious() {
@@ -5774,7 +5775,7 @@ function showButtondubious() {
 <p id="dubious"></p>
 
 
-###### 14. 
+###### 14.- STRIKE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstrike() {
@@ -5786,7 +5787,7 @@ function showButtonstrike() {
 <p id="strike"></p>
 
 
-###### 15. 
+###### 15.- DISSENT
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondissent() {
@@ -5798,7 +5799,7 @@ function showButtondissent() {
 <p id="dissent"></p>
 
 
-###### 16. 
+###### 16.- HUMDRUM
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhumdrum() {
@@ -5810,7 +5811,7 @@ function showButtonhumdrum() {
 <p id="humdrum"></p>
 
 
-###### 17. 
+###### 17.- TOSS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoss() {
@@ -5822,7 +5823,7 @@ function showButtontoss() {
 <p id="toss"></p>
 
 
-###### 18. 
+###### 18.- SALVER
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsalver() {
@@ -5834,7 +5835,7 @@ function showButtonsalver() {
 <p id="salver"></p>
 
 
-###### 19. 
+###### 19.- TRITE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrite() {
@@ -5846,7 +5847,7 @@ function showButtontrite() {
 <p id="trite"></p>
 
 
-###### 20. 
+###### 20.- FLOWERS
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflowers() {
@@ -5858,7 +5859,7 @@ function showButtonflowers() {
 <p id="flowers"></p>
 
 
-###### 21. 
+###### 21.- ALIVE VERGE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaliveverge() {
@@ -5870,7 +5871,7 @@ function showButtonaliveverge() {
 <p id="aliveverge"></p>
 
 
-###### 22. 
+###### 22.- TIE YOUR SHOES
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontieyourshoes() {
@@ -5882,7 +5883,7 @@ function showButtontieyourshoes() {
 <p id="tieyourshoes"></p>
 
 
-###### 23. 
+###### 23.- HALF BELOW
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhalfbelow() {
