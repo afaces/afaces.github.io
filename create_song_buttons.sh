@@ -67,7 +67,7 @@ for album in $(ls | sort -h); do
     song_tag="$(echo "${song_title}" | cut -d " " -f2- | tr -d " " | tr -d "-" | tr -d "'" | tr -d "%" | tr -d  "#" | tr -d "." | tr -d "!" | tr -d "?" | tr "0" "zero" | tr "1" "one" | tr "2" "two" | tr "3" "three" | tr "4" "four" | tr "5" "five" | tr "6" "six" | tr "7" "seven" | tr "8" "eight" | tr "9" "nine" | tr "[:upper:]" "[:lower:]")"
     #echo "The actual tag of the song is ${song_tag}"
     echo "
-###### $(echo ${song_title} | tr "[:lower:]" "[:upper:]")" >> "${buttons_file}"
+###### <input type = \"button\" onclick = \"showButton${song_tag}()\" value = \"⏯$(echo ${song_title} | tr "[:lower:]" "[:upper:]")\">" >> "${buttons_file}"
     # Embedd function button in index.js and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
     echo "<script type=\"text/javascript\" src=\"/index.js\"></script>
@@ -77,7 +77,6 @@ function showButton${song_tag}() {
   document.getElementById(\"${song_tag}\").innerHTML = ${song_tag}_controls;
 }
 </script>
-<input type = \"button\" onclick = \"showButton${song_tag}()\" value = \"⏯${title}\">
 <p id=\"${song_tag}\"></p>
 " >> "${buttons_file}"
   done
