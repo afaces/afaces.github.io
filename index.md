@@ -45,7 +45,8 @@ function showButtonnefasto() {
 <p id="nefasto"></p>
 
 
-###### 2 - FORGOTTEN PAST
+###### 2.<input type = "button" onclick = "showButtonforgottenpast()" value = "⏯ Forgotten past">
+
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforgottenpast() {
@@ -53,11 +54,11 @@ function showButtonforgottenpast() {
   document.getElementById("forgottenpast").innerHTML = forgottenpast_controls;
 }
 </script>
-<input type = "button" onclick = "showButtonforgottenpast()" value = "⏯ Forgotten past">
 <p id="forgottenpast"></p>
 
 
-###### 3 - DESGARRADOR2
+###### 3. <input type = "button" onclick = "showButtondesgarradort()" value = "⏯ Desgarrador2">
+
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesgarradort() {
@@ -65,11 +66,11 @@ function showButtondesgarradort() {
   document.getElementById("desgarradort").innerHTML = desgarradort_controls;
 }
 </script>
-<input type = "button" onclick = "showButtondesgarradort()" value = "⏯ Desgarrador2">
 <p id="desgarradort"></p>
 
 
-###### 4 - BABY ON FIRE
+###### 4. <input type = "button" onclick = "showButtonbabyonfire()" value = "⏯ Baby On Fire">
+
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbabyonfire() {
@@ -77,7 +78,6 @@ function showButtonbabyonfire() {
   document.getElementById("babyonfire").innerHTML = babyonfire_controls;
 }
 </script>
-<input type = "button" onclick = "showButtonbabyonfire()" value = "⏯ Baby On Fire">
 <p id="babyonfire"></p>
 
 
