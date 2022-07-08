@@ -33,7 +33,7 @@ title: Afaces fanpage
 #### 1.- 'Nefasto' <a name=nefasto></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
-###### 1.
+###### 1. NEFASTO
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnefasto() {
@@ -45,7 +45,7 @@ function showButtonnefasto() {
 <p id="nefasto"></p>
 
 
-###### 2.
+###### 2. FORGOTTEN PAST
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforgottenpast() {
@@ -57,7 +57,7 @@ function showButtonforgottenpast() {
 <p id="forgottenpast"></p>
 
 
-###### 3.
+###### 3. DESGARRADOR2
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesgarrador2() {
@@ -69,7 +69,7 @@ function showButtondesgarrador2() {
 <p id="desgarrador2"></p>
 
 
-###### 4.
+###### 4. BABY ON FIRE
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbabyonfire() {
@@ -80,7 +80,7 @@ function showButtonbabyonfire() {
 <p id="babyonfire"></p>
 
 
-###### 5. 
+###### 5. FLOATING
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfloating() {
