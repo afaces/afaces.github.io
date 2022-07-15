@@ -2,14 +2,16 @@
 
 - Register a new domain name (https://www.freenom.com as example for '.tk' or https://www.000webhost.com for free domain registering)
 - Redirect YOUR_DOMAIN_NAME.tk URL to YOUR_DOMAIN_NAME.github.io free https://redirect.pizza
-- Set up inside GitHub the domain the correspondant URL in the domain
+- Set up inside GitHub's repository YOUR_DOMAIN_NAME.github.io set the domain the correspondant URL.
 
 p. Ex: [afaces.tk](https://afaces.tk)
 
-# Made with Boostrap 4 for Github Pages
+# Web Generated with Boostrap 4 for Github Pages
 
 ## Contribution
 
 [See the contribution guide.](./CONTRIBUTING.md)
 
 ## Theme from bootswatch
+
+#### Afaces
