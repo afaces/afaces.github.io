@@ -1,6 +1,6 @@
 # Link domain to github for pages to have custom web domain:
 
-- Register a new domain name (**freenom** as example for '.tk' free domain registering)
+- Register a new domain name (**freenom** as example for '.tk' or https://www.000webhost.com for free domain registering)
 
 p. Ex: [afaces.tk](https://afaces.tk)
 
