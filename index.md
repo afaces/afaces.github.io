@@ -3,10 +3,9 @@ layout: page
 title: Afaces fanpage
 ---
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafaces.tk&count_bg=%2379C83D&title_bg=%23555555&icon=applemusic.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Alt text](assets/images/icon/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![Alt text](assets/images/icon/bandcamp.svg)](https://afaces.bandcamp.com) [![Alt text](assets/images/icon/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Alt text](assets/images/icon/facebook.svg)](https://www.facebook.com/afaces/) [![Alt text](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/) [![Alt text](assets/images/icon/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Alt text](assets/images/icon/napster.svg)](https://us.napster.com/artist/afaces) [![Alt text](assets/images/icon/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![Alt text](assets/images/icon/soundcloud.svg)](https://soundcloud.com/afaces) [![Alt text](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Alt text](assets/images/icon/tidal.svg)](https://tidal.com/browse/artist/10889435) [![Alt text](assets/images/icon/tiktok.svg)](https://www.tiktok.com/@afaces) [![Alt text](assets/images/icon/twitter.svg)](https://twitter.com/afaces2) [![Alt text](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
-
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafaces.tk&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ## Table of contents
 1. [Nefasto](#nefasto)
