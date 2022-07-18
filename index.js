@@ -20,7 +20,7 @@ function stickyFunction() {
   }
 }
 
-console.log(song_name)
+console.log(JSON.stringify(song_name))
 
 
 // Method to pause global song
