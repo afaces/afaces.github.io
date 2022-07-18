@@ -11,11 +11,6 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 
 // Navbar
 
-#navbar {
-  overflow: hidden;
-  background-color: #333;
-}
-
 /* Style the navbar */
 
 /* Page content */
@@ -43,7 +38,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   display: block;
   float: left;
   color: #f2f2f2;
-  text-align: center;
+  text-align: right;
   padding: 14px;
   text-decoration: none;
 
