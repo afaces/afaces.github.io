@@ -238,9 +238,9 @@ th {
 }
 
 .track-art {
-  margin: 25px;
-  height: 250px;
-  width: 250px;
+  margin: 2px;
+  height: 50px;
+  width: 50px;
   background-image: URL(
      "https://f4.bcbits.com/img/a1713379479_2.jpg");
   background-size: cover;
@@ -254,11 +254,11 @@ th {
 }
 
 .track-name {
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 .track-artist {
-  font-size: 1.5rem;
+  font-size: 0.5rem;
 }
 
 /* Using flex with the row direction to
