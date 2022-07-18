@@ -1,11 +1,8 @@
 Known bugs: 
 - js
-- buttons died, suddenly now only Nefasto is playing
 - avoid tag duplication
 - Transform numbers in song tags to text (0: zero, 1: one...)
-- New bug hides 4th song
 - menu titles are clicked to show/hide the album songs
-- TABLE OF CONTENTS menu links inside the index.md is broken
 - Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
 - Starting one song ends the previous EVENT 
 - button ❇️ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
