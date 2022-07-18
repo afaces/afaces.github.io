@@ -36,6 +36,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   font-size: $font-size-sm;
   text-transform: uppercase;
   font-weight: 600;
+  display: inline;
 
   &-nav {
     .nav-link {
