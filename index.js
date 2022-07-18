@@ -20,7 +20,7 @@ function stickyFunction() {
 }
 
 // TODO OUTPUT CURRENT SONG IN CONSOLE
-console.log(JSON.stringify(song_name))
+console.log(JSON.stringify("song name: " += song_name))
 
 
 // Method to pause global song
