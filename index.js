@@ -21,3 +21,7 @@ function stickyFunction() {
 }
 
 console.log(song_name)
+
+
+// Method to pause global song
+
