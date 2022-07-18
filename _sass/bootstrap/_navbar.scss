@@ -15,6 +15,12 @@
 // Provide a static navbar from which we expand to create full-width, fixed, and
 // other navbar variations.
 
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
 /* Page content */
 .content {
   padding: 16px;
