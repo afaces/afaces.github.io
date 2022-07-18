@@ -1,4 +1,3 @@
-console.log("Hello world!");
 console.log("This is a test!");
 console.log("Hello world!");
 
@@ -46,7 +45,7 @@ let track_index = 0;
 let isPlaying = false;
 let updateTimer;
 
-// Create the audio element for the player
+// TODO: Create function to parse the audio tag elements for the player to be ready to work
 let curr_track = document.createElement('audio');
 
 let nefasto_URL = "https://m.media-amazon.com/images/I/81djy5jwQ2L._SS500_.jpg"

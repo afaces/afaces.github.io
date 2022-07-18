@@ -1,6 +1,8 @@
 Known bugs: 
 - js
 - avoid tag duplication
+- Consistely test simple css in webpage
+- A Button/text href for each album to show hidden track buttons for each correspondant album
 - Transform numbers in song tags to text (0: zero, 1: one...)
 - menu titles are clicked to show/hide the album songs
 - Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
