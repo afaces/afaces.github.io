@@ -19,3 +19,5 @@ function stickyFunction() {
     navbar.classList.remove("sticky");
   }
 }
+
+console.log(song_name)

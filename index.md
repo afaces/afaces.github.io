@@ -44,6 +44,7 @@ function showButtonnefasto() {
   let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("nefasto").innerHTML = nefasto_controls;
 }
+let song_name = "Nefasto"
 </script>
 <p id="nefasto"></p>
 
