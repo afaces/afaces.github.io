@@ -15,14 +15,13 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 
 /* Page content */
 .content {
-  padding: 16px;
-  height: 300px;
+  padding: 2px;
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
 .sticky {
-  position: sticky;
-  top: 25px;
+  position: fixed;
+  top: 0%;
   width: 100%;
 }
 
