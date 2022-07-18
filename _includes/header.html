@@ -1,7 +1,7 @@
 <div class="navbar">
 <nav class="navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ "aa" += <div class="player">
+    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ <div class="player">
 
     <!-- Define the section for displaying details -->
     <div class="details">
@@ -39,7 +39,7 @@
         value="99" class="volume_slider" onchange="setVolume()">
       <i class="fa fa-volume-up"></i>
     </div>
-  </div> += "ee" | escape }}</a>
+  </div> | escape }}</a>
 
     {%- assign page_paths = site.header_pages -%}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
