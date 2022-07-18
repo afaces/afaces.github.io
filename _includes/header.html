@@ -1,67 +1,29 @@
 <div class="navbar">
-<nav class="navbar-expand-lg navbar-dark bg-primary">
-  <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ <div class="box sticky>"><div class="player">
+  <nav class="navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ "Listen here" | escape }}</a>
 
-    <!-- Define the section for displaying details -->
-    <div class="details">
-      <div class="now-playing">PLAYING x OF y</div>
-      <div class="track-art"></div>
-      <div class="track-name">Track Name</div>
-      <div class="track-artist">Track Artist</div>
-    </div>
-
-    <!-- Define the section for displaying track buttons -->
-    <div class="buttons">
-      <div class="prev-track" onclick="prevTrack()">
-        <i class="fa fa-step-backward fa-2x"></i>
-      </div>
-      <div class="playpause-track" onclick="playpauseTrack()">
-        <i class="fa fa-play-circle fa-5x"></i>
-      </div>
-      <div class="next-track" onclick="nextTrack()">
-        <i class="fa fa-step-forward fa-2x"></i>
-      </div>
-    </div>
-
-    <!-- Define the section for displaying the seek slider-->
-    <div class="slider_container">
-      <div class="current-time">00:00</div>
-      <input type="range" min="1" max="100"
-        value="0" class="seek_slider" onchange="seekTo()">
-      <div class="total-duration">00:00</div>
-    </div>
-
-    <!-- Define the section for displaying the volume slider-->
-    <div class="slider_container">
-      <i class="fa fa-volume-down"></i>
-      <input type="range" min="1" max="100"
-        value="99" class="volume_slider" onchange="setVolume()">
-      <i class="fa fa-volume-up"></i>
-    </div>
-  </div> | escape }}</div></a>
-
-    {%- assign page_paths = site.header_pages -%}
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ml-auto">
-        {%- for path in page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
+      {%- assign page_paths = site.header_pages -%}
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            </li>
+            {%- endif -%}
+          {% endfor -%}
           <li class="nav-item">
-            <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <!-- TODO: Show playlist widget here -->
+            <a class="nav-link" href="https://afaces.bandcamp.com">Buy on BandCamp</a>
           </li>
-          {%- endif -%}
-        {% endfor -%}
-        <li class="nav-item">
-          <!-- TODO: Show playlist widget here -->
-          <a class="nav-link" href="https://afaces.bandcamp.com">Buy on BandCamp</a>
-        </li>
-      </ul>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
 </div>
