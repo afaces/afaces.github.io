@@ -43,3 +43,5 @@ exclude:
   - update_boostrap.sh
 
 theme: jekyll-theme-minimal
+
+# paginate: 5
