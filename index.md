@@ -4,18 +4,7 @@ title: Afaces fanpage
 ---
 
 <script type="text/javascript" src="/index.js">
-window.onscroll = function() {stickyFunction()};
 
-var navbar = document.getElementById("navbar");
-var sticky = navbar.offsetTop;
-
-function stickyFunction() {
-  if (window.pageYOffset >= sticky) {
-    navbar.classList.add("sticky")
-  } else {
-    navbar.classList.remove("sticky");
-  }
-}
 </script>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafaces.tk&count_bg=%2379C83D&title_bg=%23555555&icon=applemusic.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
