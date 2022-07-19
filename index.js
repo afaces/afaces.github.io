@@ -32,19 +32,19 @@ let track_list = [
   {
     name: "Nefasto",
     artist: "Afaces",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
     path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/1%20-%20Nefasto.mp3"
   },
   {
     name: "Forgotten Past",
     artist: "Afaces",
-    image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
     path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/2%20-%20Forgotten%20past.mp3"
   },
   {
     name: "Desgarrador#2",
     artist: "Afaces",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
     path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/3%20-%20Desgarrador2.mp3",
   },
 ];
