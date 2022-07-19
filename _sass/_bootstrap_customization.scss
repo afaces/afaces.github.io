@@ -28,30 +28,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
 .sticky + .content {
   padding-top: 60px;
-}
 
-
-.navbar {
-  font-size: $font-size-sm;
-  text-transform: uppercase;
-  font-weight: 600;
-  display: block;
-  float: center;
-  color: #f2f2f2;
-  text-align: right;
-  padding: 4px;
-  text-decoration: none;
-
-  &-nav {
-    .nav-link {
-      padding-top: .715rem;
-      padding-bottom: .715rem;
-    }
-  }
-
-  &-brand {
-    margin-right: 2rem;
-  }
 }
 
 .bg-primary {
@@ -72,16 +49,6 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 
 .nav-item {
   margin-right: 2rem;
-}
-
-
-.box {
-  width: 300px;
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 2em;
 }
 
 // Buttons
