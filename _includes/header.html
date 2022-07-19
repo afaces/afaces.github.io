@@ -1,19 +1,4 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-primary">
-  <div class="container">
-  <div class="player">
-    <div class="details">
-      <div class="now-playing">PLAYING x OF y</div>
-      <div class="track-art"></div>
-      <div class="track-name">Track Name</div>
-      <div class="track-artist">Track Artist</div>
-    </div>
-    <div class="buttons">
-      <div class="prev-track" onclick="prevTrack()"><i class="fa fa-step-backward fa-2x">⏮</i></div>
-      <div class="playpause-track" onclick="playpauseTrack()"><i class="fa fa-play-circle fa-5x"></i></div>
-      <div class="next-track" onclick="nextTrack()"><i class="fa fa-step-forward fa-2x">⏭</i></div>
-    </div>
-  </div>
-
   <!-- Main script for the player -->
   <script>
     let now_playing = document.querySelector(".now-playing");
@@ -178,6 +163,21 @@
     // Load the first track in the tracklist
     loadTrack(track_index);
   </script>
+
+  <div class="container">
+  <div class="player">
+    <div class="details">
+      <div class="now-playing">PLAYING x OF y</div>
+      <div class="track-art"></div>
+      <div class="track-name">Track Name</div>
+      <div class="track-artist">Track Artist</div>
+    </div>
+    <div class="buttons">
+      <div class="prev-track" onclick="prevTrack()"><i class="fa fa-step-backward fa-2x">⏮</i></div>
+      <div class="playpause-track" onclick="playpauseTrack()"><i class="fa fa-play-circle fa-5x"></i></div>
+      <div class="next-track" onclick="nextTrack()"><i class="fa fa-step-forward fa-2x">⏭</i></div>
+    </div>
+  </div>
 </div>
 
 
