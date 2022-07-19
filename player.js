@@ -38,16 +38,16 @@ let track_list = [
     path: "assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3"
   },
   {
+    name: "Desgarrador #2",
+    artist: "Afaces",
+    image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
+    path: "assets/music/1.- 'Nefasto'/3 - Desgarrador2.mp3"
+  },
+  {
     name: "Baby on Fire",
     artist: "Afaces",
     image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
-    path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/4%20-%20Baby%20On%20Fire.mp3",
-  },
-  {
-    name: "Forgotten Past",
-    artist: "Afaces",
-    image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
-    path: "assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3"
+    path: "assets/music/1.- 'Nefasto'/4 - Baby On Fire.mp3",
   },
 ];
 
