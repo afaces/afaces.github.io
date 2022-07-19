@@ -68,7 +68,7 @@ for album in $(ls | sort -h); do
     #echo "The actual tag of the song is ${song_tag}"
     echo "
 ###### <input type = \"button\" onclick = \"showButton${song_tag}()\" value = \"▶️$(echo ${song_title} | tr "[:lower:]" "[:upper:]")\">" >> "${buttons_file}"
-    # Embedd function button in index.js and use button to display song player
+    # Embedd function button in player.md and use button to display song player
     title="$(echo ${song_title} | cut -d '-' -f2-)"
     echo "<script type=\"text/javascript\" src=\"/index.js\"></script>
 <script>
