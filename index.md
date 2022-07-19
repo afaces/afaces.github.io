@@ -5421,4 +5421,4 @@ function showButtonhalfbelow() {
 <p id="halfbelow"></p>
 
 #### Cafés <a name="cafes"></a>
-[![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")30% progress - 28/06/2022
+[![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")40% ````progress - 19/07/2022

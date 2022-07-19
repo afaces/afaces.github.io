@@ -187,15 +187,15 @@ th {
 }
 
 .player {
-  display: flex;
+  display: block;
   align-items: center;
-  flex-direction: column;
+  /*flex-direction: column;*/
 }
 
 .details {
   display: flex;
   align-items: center;
-  flex-direction: column;
+  /*flex-direction: column;*/
   justify-content: center;
   margin-top: 25px;
 }
