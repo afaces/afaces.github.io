@@ -29,19 +29,25 @@ let track_list = [
     name: "Nefasto",
     artist: "Afaces",
     image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
-    path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/1%20-%20Nefasto.mp3"
+    path: "/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3"
   },
   {
     name: "Forgotten Past",
     artist: "Afaces",
     image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
-    path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/2%20-%20Forgotten%20past.mp3"
+    path: "assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3"
   },
   {
-    name: "Desgarrador#2",
+    name: "Baby on Fire",
     artist: "Afaces",
     image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
-    path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/3%20-%20Desgarrador2.mp3",
+    path: "https://afaces.tk/assets/music/1.-%20'Nefasto'/4%20-%20Baby%20On%20Fire.mp3",
+  },
+  {
+    name: "Forgotten Past",
+    artist: "Afaces",
+    image: "https://i.scdn.co/image/ab67616d0000b273918d8d0900cf961190aa289c",
+    path: "assets/music/1.- 'Nefasto'/2 - Forgotten past.mp3"
   },
 ];
 
@@ -66,11 +72,11 @@ function loadTrack(track_index) {
   curr_track.addEventListener("ended", nextTrack);
 
   // Apply a random background color
-  random_bg_color();
+  // random_bg_color();
 }
 
 function random_bg_color() {
-
+  // Generate from custom color palette
   // Get a random number between 64 to 256 (for getting lighter colors)
   let red = Math.floor(Math.random() * 256) + 64;
   let green = Math.floor(Math.random() * 256) + 64;
