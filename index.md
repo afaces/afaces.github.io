@@ -41,19 +41,18 @@ title: Afaces fanpage
 #### 1.- 'Nefasto' <a name=nefasto></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
-###### <input type = "button" onclick = "showButtonnefasto()" value = "⏯1 - NEFASTO">
+###### <input type = "button" onclick = "showButtonnefasto()" value = "▶️1 - NEFASTO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnefasto() {
   let nefasto_controls = "<audio controls><source src=\"/assets/music/1.- 'Nefasto'/1 - Nefasto.mp3\" type=\"audio/mp3\"></audio>";
   document.getElementById("nefasto").innerHTML = nefasto_controls;
 }
-let song_name = "nefasto"
 </script>
 <p id="nefasto"></p>
 
 
-###### <input type = "button" onclick = "showButtonforgottenpast()" value = "⏯2 - FORGOTTEN PAST">
+###### <input type = "button" onclick = "showButtonforgottenpast()" value = "▶️2 - FORGOTTEN PAST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforgottenpast() {
@@ -64,7 +63,7 @@ function showButtonforgottenpast() {
 <p id="forgottenpast"></p>
 
 
-###### <input type = "button" onclick = "showButtondesgarradort()" value = "⏯3 - DESGARRADOR2">
+###### <input type = "button" onclick = "showButtondesgarradort()" value = "▶️3 - DESGARRADOR2">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesgarradort() {
@@ -75,7 +74,7 @@ function showButtondesgarradort() {
 <p id="desgarradort"></p>
 
 
-###### <input type = "button" onclick = "showButtonbabyonfire()" value = "⏯4 - BABY ON FIRE">
+###### <input type = "button" onclick = "showButtonbabyonfire()" value = "▶️4 - BABY ON FIRE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbabyonfire() {
@@ -86,7 +85,7 @@ function showButtonbabyonfire() {
 <p id="babyonfire"></p>
 
 
-###### <input type = "button" onclick = "showButtonfloating()" value = "⏯5 - FLOATING">
+###### <input type = "button" onclick = "showButtonfloating()" value = "▶️5 - FLOATING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfloating() {
@@ -97,7 +96,7 @@ function showButtonfloating() {
 <p id="floating"></p>
 
 
-###### <input type = "button" onclick = "showButtoninconscience()" value = "⏯6 - INCONSCIENCE">
+###### <input type = "button" onclick = "showButtoninconscience()" value = "▶️6 - INCONSCIENCE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoninconscience() {
@@ -108,7 +107,7 @@ function showButtoninconscience() {
 <p id="inconscience"></p>
 
 
-###### <input type = "button" onclick = "showButtonhotspicy()" value = "⏯7 - HOT  SPICY">
+###### <input type = "button" onclick = "showButtonhotspicy()" value = "▶️7 - HOT  SPICY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhotspicy() {
@@ -119,7 +118,7 @@ function showButtonhotspicy() {
 <p id="hotspicy"></p>
 
 
-###### <input type = "button" onclick = "showButtonateamfight()" value = "⏯8 - A TEAM FIGHT">
+###### <input type = "button" onclick = "showButtonateamfight()" value = "▶️8 - A TEAM FIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonateamfight() {
@@ -130,7 +129,7 @@ function showButtonateamfight() {
 <p id="ateamfight"></p>
 
 
-###### <input type = "button" onclick = "showButtonhahaha()" value = "⏯9 - HA HA HA">
+###### <input type = "button" onclick = "showButtonhahaha()" value = "▶️9 - HA HA HA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhahaha() {
@@ -141,7 +140,7 @@ function showButtonhahaha() {
 <p id="hahaha"></p>
 
 
-###### <input type = "button" onclick = "showButtonaberrante()" value = "⏯10 - ABERRANTE">
+###### <input type = "button" onclick = "showButtonaberrante()" value = "▶️10 - ABERRANTE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaberrante() {
@@ -152,7 +151,7 @@ function showButtonaberrante() {
 <p id="aberrante"></p>
 
 
-###### <input type = "button" onclick = "showButtonhelp()" value = "⏯11 - HELP">
+###### <input type = "button" onclick = "showButtonhelp()" value = "▶️11 - HELP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhelp() {
@@ -163,7 +162,7 @@ function showButtonhelp() {
 <p id="help"></p>
 
 
-###### <input type = "button" onclick = "showButtoncough()" value = "⏯12 - COUGH">
+###### <input type = "button" onclick = "showButtoncough()" value = "▶️12 - COUGH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncough() {
@@ -174,7 +173,7 @@ function showButtoncough() {
 <p id="cough"></p>
 
 
-###### <input type = "button" onclick = "showButtonjustenough()" value = "⏯13 - JUST ENOUGH">
+###### <input type = "button" onclick = "showButtonjustenough()" value = "▶️13 - JUST ENOUGH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjustenough() {
@@ -185,7 +184,7 @@ function showButtonjustenough() {
 <p id="justenough"></p>
 
 
-###### <input type = "button" onclick = "showButtonsongforthedeaf()" value = "⏯14 - SONG FOR THE DEAF">
+###### <input type = "button" onclick = "showButtonsongforthedeaf()" value = "▶️14 - SONG FOR THE DEAF">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsongforthedeaf() {
@@ -196,7 +195,7 @@ function showButtonsongforthedeaf() {
 <p id="songforthedeaf"></p>
 
 
-###### <input type = "button" onclick = "showButtonhelo()" value = "⏯15 - HELO">
+###### <input type = "button" onclick = "showButtonhelo()" value = "▶️15 - HELO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhelo() {
@@ -207,7 +206,7 @@ function showButtonhelo() {
 <p id="helo"></p>
 
 
-###### <input type = "button" onclick = "showButtonbackfromthere()" value = "⏯16 - BACK FROM THERE">
+###### <input type = "button" onclick = "showButtonbackfromthere()" value = "▶️16 - BACK FROM THERE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbackfromthere() {
@@ -218,7 +217,7 @@ function showButtonbackfromthere() {
 <p id="backfromthere"></p>
 
 
-###### <input type = "button" onclick = "showButtoncatastrofico()" value = "⏯17 - CATASTROFICO">
+###### <input type = "button" onclick = "showButtoncatastrofico()" value = "▶️17 - CATASTROFICO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncatastrofico() {
@@ -229,7 +228,7 @@ function showButtoncatastrofico() {
 <p id="catastrofico"></p>
 
 
-###### <input type = "button" onclick = "showButtonegipto()" value = "⏯18 - EGIPTO">
+###### <input type = "button" onclick = "showButtonegipto()" value = "▶️18 - EGIPTO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonegipto() {
@@ -240,7 +239,7 @@ function showButtonegipto() {
 <p id="egipto"></p>
 
 
-###### <input type = "button" onclick = "showButtontakethosepills()" value = "⏯19 - TAKE THOSE PILLS">
+###### <input type = "button" onclick = "showButtontakethosepills()" value = "▶️19 - TAKE THOSE PILLS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontakethosepills() {
@@ -251,7 +250,7 @@ function showButtontakethosepills() {
 <p id="takethosepills"></p>
 
 
-###### <input type = "button" onclick = "showButtonuhuhftyellowbutton()" value = "⏯20 - UH-UH FT. YELLOW BUTTON">
+###### <input type = "button" onclick = "showButtonuhuhftyellowbutton()" value = "▶️20 - UH-UH FT. YELLOW BUTTON">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuhuhftyellowbutton() {
@@ -262,7 +261,7 @@ function showButtonuhuhftyellowbutton() {
 <p id="uhuhftyellowbutton"></p>
 
 
-###### <input type = "button" onclick = "showButtonwavesnotfound()" value = "⏯21 - WAVES NOT FOUND">
+###### <input type = "button" onclick = "showButtonwavesnotfound()" value = "▶️21 - WAVES NOT FOUND">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwavesnotfound() {
@@ -273,7 +272,7 @@ function showButtonwavesnotfound() {
 <p id="wavesnotfound"></p>
 
 
-###### <input type = "button" onclick = "showButtonaceptable()" value = "⏯22 - ACEPTABLE">
+###### <input type = "button" onclick = "showButtonaceptable()" value = "▶️22 - ACEPTABLE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaceptable() {
@@ -284,7 +283,7 @@ function showButtonaceptable() {
 <p id="aceptable"></p>
 
 
-###### <input type = "button" onclick = "showButtondontremindme()" value = "⏯23 - DON'T REMIND ME">
+###### <input type = "button" onclick = "showButtondontremindme()" value = "▶️23 - DON'T REMIND ME">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondontremindme() {
@@ -295,7 +294,7 @@ function showButtondontremindme() {
 <p id="dontremindme"></p>
 
 
-###### <input type = "button" onclick = "showButtonplatform()" value = "⏯24 - PLATFORM">
+###### <input type = "button" onclick = "showButtonplatform()" value = "▶️24 - PLATFORM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplatform() {
@@ -309,7 +308,7 @@ function showButtonplatform() {
 #### 2.- 'Writer' <a name=writer></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
 
-###### <input type = "button" onclick = "showButtonpencil()" value = "⏯1 - PENCIL">
+###### <input type = "button" onclick = "showButtonpencil()" value = "▶️1 - PENCIL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpencil() {
@@ -320,7 +319,7 @@ function showButtonpencil() {
 <p id="pencil"></p>
 
 
-###### <input type = "button" onclick = "showButtonnoreason()" value = "⏯2 - NO REASON">
+###### <input type = "button" onclick = "showButtonnoreason()" value = "▶️2 - NO REASON">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnoreason() {
@@ -331,7 +330,7 @@ function showButtonnoreason() {
 <p id="noreason"></p>
 
 
-###### <input type = "button" onclick = "showButtonassault()" value = "⏯3 - ASSAULT">
+###### <input type = "button" onclick = "showButtonassault()" value = "▶️3 - ASSAULT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonassault() {
@@ -342,7 +341,7 @@ function showButtonassault() {
 <p id="assault"></p>
 
 
-###### <input type = "button" onclick = "showButtonpaintoverthefloor()" value = "⏯4 - PAINT OVER THE FLOOR">
+###### <input type = "button" onclick = "showButtonpaintoverthefloor()" value = "▶️4 - PAINT OVER THE FLOOR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpaintoverthefloor() {
@@ -353,7 +352,7 @@ function showButtonpaintoverthefloor() {
 <p id="paintoverthefloor"></p>
 
 
-###### <input type = "button" onclick = "showButtonphoenixarisingfromtheashes()" value = "⏯5 - PHOENIX ARISING FROM THE ASHES">
+###### <input type = "button" onclick = "showButtonphoenixarisingfromtheashes()" value = "▶️5 - PHOENIX ARISING FROM THE ASHES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonphoenixarisingfromtheashes() {
@@ -364,7 +363,7 @@ function showButtonphoenixarisingfromtheashes() {
 <p id="phoenixarisingfromtheashes"></p>
 
 
-###### <input type = "button" onclick = "showButtonbirthdayofuniverse()" value = "⏯6 - BIRTHDAY OF UNIVERSE">
+###### <input type = "button" onclick = "showButtonbirthdayofuniverse()" value = "▶️6 - BIRTHDAY OF UNIVERSE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbirthdayofuniverse() {
@@ -375,7 +374,7 @@ function showButtonbirthdayofuniverse() {
 <p id="birthdayofuniverse"></p>
 
 
-###### <input type = "button" onclick = "showButtonhauntedlove()" value = "⏯7 - HAUNTED LOVE">
+###### <input type = "button" onclick = "showButtonhauntedlove()" value = "▶️7 - HAUNTED LOVE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhauntedlove() {
@@ -386,7 +385,7 @@ function showButtonhauntedlove() {
 <p id="hauntedlove"></p>
 
 
-###### <input type = "button" onclick = "showButtondepresion()" value = "⏯8 - DEPRESION">
+###### <input type = "button" onclick = "showButtondepresion()" value = "▶️8 - DEPRESION">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondepresion() {
@@ -397,7 +396,7 @@ function showButtondepresion() {
 <p id="depresion"></p>
 
 
-###### <input type = "button" onclick = "showButtonwarminwinter()" value = "⏯9 - WARM IN WINTER">
+###### <input type = "button" onclick = "showButtonwarminwinter()" value = "▶️9 - WARM IN WINTER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwarminwinter() {
@@ -408,7 +407,7 @@ function showButtonwarminwinter() {
 <p id="warminwinter"></p>
 
 
-###### <input type = "button" onclick = "showButtontimejustgone()" value = "⏯10 - TIME JUST GONE">
+###### <input type = "button" onclick = "showButtontimejustgone()" value = "▶️10 - TIME JUST GONE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontimejustgone() {
@@ -419,7 +418,7 @@ function showButtontimejustgone() {
 <p id="timejustgone"></p>
 
 
-###### <input type = "button" onclick = "showButtondesires()" value = "⏯11 -DESIRES">
+###### <input type = "button" onclick = "showButtondesires()" value = "▶️11 -DESIRES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesires() {
@@ -430,7 +429,7 @@ function showButtondesires() {
 <p id="desires"></p>
 
 
-###### <input type = "button" onclick = "showButtongocatchaflight()" value = "⏯12 -GO  CATCH A FLIGHT">
+###### <input type = "button" onclick = "showButtongocatchaflight()" value = "▶️12 -GO  CATCH A FLIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongocatchaflight() {
@@ -441,7 +440,7 @@ function showButtongocatchaflight() {
 <p id="gocatchaflight"></p>
 
 
-###### <input type = "button" onclick = "showButtonwhatdidhegone()" value = "⏯13 - WHAT DID HE GONE">
+###### <input type = "button" onclick = "showButtonwhatdidhegone()" value = "▶️13 - WHAT DID HE GONE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhatdidhegone() {
@@ -452,7 +451,7 @@ function showButtonwhatdidhegone() {
 <p id="whatdidhegone"></p>
 
 
-###### <input type = "button" onclick = "showButtontoomuch()" value = "⏯14 - TOO MUCH">
+###### <input type = "button" onclick = "showButtontoomuch()" value = "▶️14 - TOO MUCH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoomuch() {
@@ -463,7 +462,7 @@ function showButtontoomuch() {
 <p id="toomuch"></p>
 
 
-###### <input type = "button" onclick = "showButtonchristmasagain()" value = "⏯15 - CHRISTMAS AGAIN">
+###### <input type = "button" onclick = "showButtonchristmasagain()" value = "▶️15 - CHRISTMAS AGAIN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchristmasagain() {
@@ -474,7 +473,7 @@ function showButtonchristmasagain() {
 <p id="christmasagain"></p>
 
 
-###### <input type = "button" onclick = "showButtonbacktolack()" value = "⏯16 - BACK TO LACK">
+###### <input type = "button" onclick = "showButtonbacktolack()" value = "▶️16 - BACK TO LACK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbacktolack() {
@@ -485,7 +484,7 @@ function showButtonbacktolack() {
 <p id="backtolack"></p>
 
 
-###### <input type = "button" onclick = "showButtondirtyclothes()" value = "⏯17 - DIRTY CLOTHES">
+###### <input type = "button" onclick = "showButtondirtyclothes()" value = "▶️17 - DIRTY CLOTHES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondirtyclothes() {
@@ -496,7 +495,7 @@ function showButtondirtyclothes() {
 <p id="dirtyclothes"></p>
 
 
-###### <input type = "button" onclick = "showButtonwhysosad()" value = "⏯18 - WHY SO SAD">
+###### <input type = "button" onclick = "showButtonwhysosad()" value = "▶️18 - WHY SO SAD">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhysosad() {
@@ -507,7 +506,7 @@ function showButtonwhysosad() {
 <p id="whysosad"></p>
 
 
-###### <input type = "button" onclick = "showButtonsickofit()" value = "⏯19 - SICK OF IT">
+###### <input type = "button" onclick = "showButtonsickofit()" value = "▶️19 - SICK OF IT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsickofit() {
@@ -518,7 +517,7 @@ function showButtonsickofit() {
 <p id="sickofit"></p>
 
 
-###### <input type = "button" onclick = "showButtontears()" value = "⏯20 - TEARS">
+###### <input type = "button" onclick = "showButtontears()" value = "▶️20 - TEARS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontears() {
@@ -529,7 +528,7 @@ function showButtontears() {
 <p id="tears"></p>
 
 
-###### <input type = "button" onclick = "showButtonbondage()" value = "⏯21 - BONDAGE">
+###### <input type = "button" onclick = "showButtonbondage()" value = "▶️21 - BONDAGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbondage() {
@@ -540,7 +539,7 @@ function showButtonbondage() {
 <p id="bondage"></p>
 
 
-###### <input type = "button" onclick = "showButtonwriter()" value = "⏯22 - WRITER">
+###### <input type = "button" onclick = "showButtonwriter()" value = "▶️22 - WRITER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwriter() {
@@ -551,7 +550,7 @@ function showButtonwriter() {
 <p id="writer"></p>
 
 
-###### <input type = "button" onclick = "showButtoninnocent()" value = "⏯23 - INNOCENT">
+###### <input type = "button" onclick = "showButtoninnocent()" value = "▶️23 - INNOCENT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoninnocent() {
@@ -562,7 +561,7 @@ function showButtoninnocent() {
 <p id="innocent"></p>
 
 
-###### <input type = "button" onclick = "showButtonlastsight()" value = "⏯24 - LAST SIGHT">
+###### <input type = "button" onclick = "showButtonlastsight()" value = "▶️24 - LAST SIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlastsight() {
@@ -576,7 +575,7 @@ function showButtonlastsight() {
 #### 3.- 'Back and Fro' <a name=backandfro></a>
 [![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
 
-###### <input type = "button" onclick = "showButtontaste()" value = "⏯1 - TASTE">
+###### <input type = "button" onclick = "showButtontaste()" value = "▶️1 - TASTE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontaste() {
@@ -587,7 +586,7 @@ function showButtontaste() {
 <p id="taste"></p>
 
 
-###### <input type = "button" onclick = "showButtontroop()" value = "⏯2 - TROOP">
+###### <input type = "button" onclick = "showButtontroop()" value = "▶️2 - TROOP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontroop() {
@@ -598,7 +597,7 @@ function showButtontroop() {
 <p id="troop"></p>
 
 
-###### <input type = "button" onclick = "showButtonteenagedrive()" value = "⏯3 - TEENAGE DRIVE">
+###### <input type = "button" onclick = "showButtonteenagedrive()" value = "▶️3 - TEENAGE DRIVE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonteenagedrive() {
@@ -609,7 +608,7 @@ function showButtonteenagedrive() {
 <p id="teenagedrive"></p>
 
 
-###### <input type = "button" onclick = "showButtondayowl()" value = "⏯4 - DAY OWL">
+###### <input type = "button" onclick = "showButtondayowl()" value = "▶️4 - DAY OWL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondayowl() {
@@ -620,7 +619,7 @@ function showButtondayowl() {
 <p id="dayowl"></p>
 
 
-###### <input type = "button" onclick = "showButtonshout()" value = "⏯5 - SHOUT">
+###### <input type = "button" onclick = "showButtonshout()" value = "▶️5 - SHOUT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshout() {
@@ -631,7 +630,7 @@ function showButtonshout() {
 <p id="shout"></p>
 
 
-###### <input type = "button" onclick = "showButtonwarking()" value = "⏯6 - WAR KING">
+###### <input type = "button" onclick = "showButtonwarking()" value = "▶️6 - WAR KING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwarking() {
@@ -642,7 +641,7 @@ function showButtonwarking() {
 <p id="warking"></p>
 
 
-###### <input type = "button" onclick = "showButtonoclock()" value = "⏯7 - OCLOCK">
+###### <input type = "button" onclick = "showButtonoclock()" value = "▶️7 - OCLOCK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoclock() {
@@ -653,7 +652,7 @@ function showButtonoclock() {
 <p id="oclock"></p>
 
 
-###### <input type = "button" onclick = "showButtonvillage()" value = "⏯8 - VILLAGE">
+###### <input type = "button" onclick = "showButtonvillage()" value = "▶️8 - VILLAGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvillage() {
@@ -664,7 +663,7 @@ function showButtonvillage() {
 <p id="village"></p>
 
 
-###### <input type = "button" onclick = "showButtonstorm()" value = "⏯9 - STORM">
+###### <input type = "button" onclick = "showButtonstorm()" value = "▶️9 - STORM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstorm() {
@@ -675,7 +674,7 @@ function showButtonstorm() {
 <p id="storm"></p>
 
 
-###### <input type = "button" onclick = "showButtongotthemusicoftonight()" value = "⏯10 - GOT THE MUSIC OF TONIGHT">
+###### <input type = "button" onclick = "showButtongotthemusicoftonight()" value = "▶️10 - GOT THE MUSIC OF TONIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongotthemusicoftonight() {
@@ -686,7 +685,7 @@ function showButtongotthemusicoftonight() {
 <p id="gotthemusicoftonight"></p>
 
 
-###### <input type = "button" onclick = "showButtonsunrise()" value = "⏯11 - SUNRISE">
+###### <input type = "button" onclick = "showButtonsunrise()" value = "▶️11 - SUNRISE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsunrise() {
@@ -697,7 +696,7 @@ function showButtonsunrise() {
 <p id="sunrise"></p>
 
 
-###### <input type = "button" onclick = "showButtonlandscape()" value = "⏯12 - LANDSCAPE">
+###### <input type = "button" onclick = "showButtonlandscape()" value = "▶️12 - LANDSCAPE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlandscape() {
@@ -708,7 +707,7 @@ function showButtonlandscape() {
 <p id="landscape"></p>
 
 
-###### <input type = "button" onclick = "showButtonmirage()" value = "⏯13 - MIRAGE">
+###### <input type = "button" onclick = "showButtonmirage()" value = "▶️13 - MIRAGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmirage() {
@@ -719,7 +718,7 @@ function showButtonmirage() {
 <p id="mirage"></p>
 
 
-###### <input type = "button" onclick = "showButtoncitylights()" value = "⏯14 - CITY LIGHTS">
+###### <input type = "button" onclick = "showButtoncitylights()" value = "▶️14 - CITY LIGHTS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncitylights() {
@@ -730,7 +729,7 @@ function showButtoncitylights() {
 <p id="citylights"></p>
 
 
-###### <input type = "button" onclick = "showButtontuesday()" value = "⏯15 - TUESDAY">
+###### <input type = "button" onclick = "showButtontuesday()" value = "▶️15 - TUESDAY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontuesday() {
@@ -741,7 +740,7 @@ function showButtontuesday() {
 <p id="tuesday"></p>
 
 
-###### <input type = "button" onclick = "showButtongoodbyebeach()" value = "⏯16 - GOODBYE BEACH">
+###### <input type = "button" onclick = "showButtongoodbyebeach()" value = "▶️16 - GOODBYE BEACH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongoodbyebeach() {
@@ -752,7 +751,7 @@ function showButtongoodbyebeach() {
 <p id="goodbyebeach"></p>
 
 
-###### <input type = "button" onclick = "showButtonexplorer()" value = "⏯17 - EXPLORER">
+###### <input type = "button" onclick = "showButtonexplorer()" value = "▶️17 - EXPLORER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonexplorer() {
@@ -763,7 +762,7 @@ function showButtonexplorer() {
 <p id="explorer"></p>
 
 
-###### <input type = "button" onclick = "showButtonball()" value = "⏯18 - BALL">
+###### <input type = "button" onclick = "showButtonball()" value = "▶️18 - BALL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonball() {
@@ -774,7 +773,7 @@ function showButtonball() {
 <p id="ball"></p>
 
 
-###### <input type = "button" onclick = "showButtonmoth()" value = "⏯19 - MOTH">
+###### <input type = "button" onclick = "showButtonmoth()" value = "▶️19 - MOTH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmoth() {
@@ -785,7 +784,7 @@ function showButtonmoth() {
 <p id="moth"></p>
 
 
-###### <input type = "button" onclick = "showButtontoandfro()" value = "⏯20 - TO AND FRO">
+###### <input type = "button" onclick = "showButtontoandfro()" value = "▶️20 - TO AND FRO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoandfro() {
@@ -799,7 +798,7 @@ function showButtontoandfro() {
 #### 4.- 'Planetc' <a name=planetc></a>
 [![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
 
-###### <input type = "button" onclick = "showButtonambrosia()" value = "⏯1 - AMBROSIA">
+###### <input type = "button" onclick = "showButtonambrosia()" value = "▶️1 - AMBROSIA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonambrosia() {
@@ -810,7 +809,7 @@ function showButtonambrosia() {
 <p id="ambrosia"></p>
 
 
-###### <input type = "button" onclick = "showButtonmemory()" value = "⏯2 - MEMORY">
+###### <input type = "button" onclick = "showButtonmemory()" value = "▶️2 - MEMORY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmemory() {
@@ -821,7 +820,7 @@ function showButtonmemory() {
 <p id="memory"></p>
 
 
-###### <input type = "button" onclick = "showButtonfastbad()" value = "⏯3 - FAST BAD">
+###### <input type = "button" onclick = "showButtonfastbad()" value = "▶️3 - FAST BAD">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfastbad() {
@@ -832,7 +831,7 @@ function showButtonfastbad() {
 <p id="fastbad"></p>
 
 
-###### <input type = "button" onclick = "showButtonstream()" value = "⏯4 - STREAM">
+###### <input type = "button" onclick = "showButtonstream()" value = "▶️4 - STREAM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstream() {
@@ -843,7 +842,7 @@ function showButtonstream() {
 <p id="stream"></p>
 
 
-###### <input type = "button" onclick = "showButtonneed()" value = "⏯5 - NEED">
+###### <input type = "button" onclick = "showButtonneed()" value = "▶️5 - NEED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonneed() {
@@ -854,7 +853,7 @@ function showButtonneed() {
 <p id="need"></p>
 
 
-###### <input type = "button" onclick = "showButtoncoldspace()" value = "⏯6 - COLD SPACE">
+###### <input type = "button" onclick = "showButtoncoldspace()" value = "▶️6 - COLD SPACE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncoldspace() {
@@ -865,7 +864,7 @@ function showButtoncoldspace() {
 <p id="coldspace"></p>
 
 
-###### <input type = "button" onclick = "showButtonkindofweird()" value = "⏯7 - KIND OF WEIRD">
+###### <input type = "button" onclick = "showButtonkindofweird()" value = "▶️7 - KIND OF WEIRD">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkindofweird() {
@@ -876,7 +875,7 @@ function showButtonkindofweird() {
 <p id="kindofweird"></p>
 
 
-###### <input type = "button" onclick = "showButtonterre()" value = "⏯8 - TERRE">
+###### <input type = "button" onclick = "showButtonterre()" value = "▶️8 - TERRE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonterre() {
@@ -887,7 +886,7 @@ function showButtonterre() {
 <p id="terre"></p>
 
 
-###### <input type = "button" onclick = "showButtonlune()" value = "⏯9 - LUNE">
+###### <input type = "button" onclick = "showButtonlune()" value = "▶️9 - LUNE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlune() {
@@ -898,7 +897,7 @@ function showButtonlune() {
 <p id="lune"></p>
 
 
-###### <input type = "button" onclick = "showButtonmars()" value = "⏯10 - MARS">
+###### <input type = "button" onclick = "showButtonmars()" value = "▶️10 - MARS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmars() {
@@ -909,7 +908,7 @@ function showButtonmars() {
 <p id="mars"></p>
 
 
-###### <input type = "button" onclick = "showButtonmercury()" value = "⏯11 - MERCURY">
+###### <input type = "button" onclick = "showButtonmercury()" value = "▶️11 - MERCURY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmercury() {
@@ -920,7 +919,7 @@ function showButtonmercury() {
 <p id="mercury"></p>
 
 
-###### <input type = "button" onclick = "showButtonvenus()" value = "⏯12 - VENUS">
+###### <input type = "button" onclick = "showButtonvenus()" value = "▶️12 - VENUS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvenus() {
@@ -931,7 +930,7 @@ function showButtonvenus() {
 <p id="venus"></p>
 
 
-###### <input type = "button" onclick = "showButtonretipuj()" value = "⏯13 - RETIPUJ">
+###### <input type = "button" onclick = "showButtonretipuj()" value = "▶️13 - RETIPUJ">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonretipuj() {
@@ -942,7 +941,7 @@ function showButtonretipuj() {
 <p id="retipuj"></p>
 
 
-###### <input type = "button" onclick = "showButtonuranio()" value = "⏯14 - URANIO">
+###### <input type = "button" onclick = "showButtonuranio()" value = "▶️14 - URANIO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuranio() {
@@ -953,7 +952,7 @@ function showButtonuranio() {
 <p id="uranio"></p>
 
 
-###### <input type = "button" onclick = "showButtonnetpuno()" value = "⏯15 - NETPUNO">
+###### <input type = "button" onclick = "showButtonnetpuno()" value = "▶️15 - NETPUNO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnetpuno() {
@@ -964,7 +963,7 @@ function showButtonnetpuno() {
 <p id="netpuno"></p>
 
 
-###### <input type = "button" onclick = "showButtonsoon()" value = "⏯16 - SOON">
+###### <input type = "button" onclick = "showButtonsoon()" value = "▶️16 - SOON">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoon() {
@@ -975,7 +974,7 @@ function showButtonsoon() {
 <p id="soon"></p>
 
 
-###### <input type = "button" onclick = "showButtonencelato()" value = "⏯17 - ENCELATO">
+###### <input type = "button" onclick = "showButtonencelato()" value = "▶️17 - ENCELATO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonencelato() {
@@ -986,7 +985,7 @@ function showButtonencelato() {
 <p id="encelato"></p>
 
 
-###### <input type = "button" onclick = "showButtonganimidi()" value = "⏯18 - GANIMIDI">
+###### <input type = "button" onclick = "showButtonganimidi()" value = "▶️18 - GANIMIDI">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonganimidi() {
@@ -997,7 +996,7 @@ function showButtonganimidi() {
 <p id="ganimidi"></p>
 
 
-###### <input type = "button" onclick = "showButtonaphostmere()" value = "⏯19 - APHOSTMERE">
+###### <input type = "button" onclick = "showButtonaphostmere()" value = "▶️19 - APHOSTMERE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaphostmere() {
@@ -1008,7 +1007,7 @@ function showButtonaphostmere() {
 <p id="aphostmere"></p>
 
 
-###### <input type = "button" onclick = "showButtonyeahr()" value = "⏯20 - YEAHR">
+###### <input type = "button" onclick = "showButtonyeahr()" value = "▶️20 - YEAHR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyeahr() {
@@ -1022,7 +1021,7 @@ function showButtonyeahr() {
 #### 5.- 'Black' <a name=black></a>
 [![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
 
-###### <input type = "button" onclick = "showButtonscrean()" value = "⏯1 - SCREAN">
+###### <input type = "button" onclick = "showButtonscrean()" value = "▶️1 - SCREAN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonscrean() {
@@ -1033,7 +1032,7 @@ function showButtonscrean() {
 <p id="screan"></p>
 
 
-###### <input type = "button" onclick = "showButtonorange()" value = "⏯2 - ORANGE">
+###### <input type = "button" onclick = "showButtonorange()" value = "▶️2 - ORANGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonorange() {
@@ -1044,7 +1043,7 @@ function showButtonorange() {
 <p id="orange"></p>
 
 
-###### <input type = "button" onclick = "showButtongallery()" value = "⏯3 - GALLERY">
+###### <input type = "button" onclick = "showButtongallery()" value = "▶️3 - GALLERY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongallery() {
@@ -1055,7 +1054,7 @@ function showButtongallery() {
 <p id="gallery"></p>
 
 
-###### <input type = "button" onclick = "showButtontodya()" value = "⏯4 - TODYA">
+###### <input type = "button" onclick = "showButtontodya()" value = "▶️4 - TODYA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontodya() {
@@ -1066,7 +1065,7 @@ function showButtontodya() {
 <p id="todya"></p>
 
 
-###### <input type = "button" onclick = "showButtonbive()" value = "⏯5 - BIVE">
+###### <input type = "button" onclick = "showButtonbive()" value = "▶️5 - BIVE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbive() {
@@ -1077,7 +1076,7 @@ function showButtonbive() {
 <p id="bive"></p>
 
 
-###### <input type = "button" onclick = "showButtonadsgrace()" value = "⏯6 - AD'S GRACE">
+###### <input type = "button" onclick = "showButtonadsgrace()" value = "▶️6 - AD'S GRACE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonadsgrace() {
@@ -1088,7 +1087,7 @@ function showButtonadsgrace() {
 <p id="adsgrace"></p>
 
 
-###### <input type = "button" onclick = "showButtonsurrend()" value = "⏯7 - SURREND">
+###### <input type = "button" onclick = "showButtonsurrend()" value = "▶️7 - SURREND">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsurrend() {
@@ -1099,7 +1098,7 @@ function showButtonsurrend() {
 <p id="surrend"></p>
 
 
-###### <input type = "button" onclick = "showButtonandorthe()" value = "⏯8 - ANDORTHE">
+###### <input type = "button" onclick = "showButtonandorthe()" value = "▶️8 - ANDORTHE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonandorthe() {
@@ -1110,7 +1109,7 @@ function showButtonandorthe() {
 <p id="andorthe"></p>
 
 
-###### <input type = "button" onclick = "showButtonshock()" value = "⏯9 - SHOCK">
+###### <input type = "button" onclick = "showButtonshock()" value = "▶️9 - SHOCK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshock() {
@@ -1121,7 +1120,7 @@ function showButtonshock() {
 <p id="shock"></p>
 
 
-###### <input type = "button" onclick = "showButtonjuggler()" value = "⏯10 - JUGGLER">
+###### <input type = "button" onclick = "showButtonjuggler()" value = "▶️10 - JUGGLER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjuggler() {
@@ -1132,7 +1131,7 @@ function showButtonjuggler() {
 <p id="juggler"></p>
 
 
-###### <input type = "button" onclick = "showButtonbulb()" value = "⏯11 - BULB">
+###### <input type = "button" onclick = "showButtonbulb()" value = "▶️11 - BULB">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbulb() {
@@ -1143,7 +1142,7 @@ function showButtonbulb() {
 <p id="bulb"></p>
 
 
-###### <input type = "button" onclick = "showButtonscratch()" value = "⏯12 - SCRATCH">
+###### <input type = "button" onclick = "showButtonscratch()" value = "▶️12 - SCRATCH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonscratch() {
@@ -1154,7 +1153,7 @@ function showButtonscratch() {
 <p id="scratch"></p>
 
 
-###### <input type = "button" onclick = "showButtonfurtherword()" value = "⏯13 - FURTHERWORD">
+###### <input type = "button" onclick = "showButtonfurtherword()" value = "▶️13 - FURTHERWORD">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfurtherword() {
@@ -1165,7 +1164,7 @@ function showButtonfurtherword() {
 <p id="furtherword"></p>
 
 
-###### <input type = "button" onclick = "showButtonsentinel()" value = "⏯14 - SENTINEL">
+###### <input type = "button" onclick = "showButtonsentinel()" value = "▶️14 - SENTINEL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsentinel() {
@@ -1176,7 +1175,7 @@ function showButtonsentinel() {
 <p id="sentinel"></p>
 
 
-###### <input type = "button" onclick = "showButtoncountless()" value = "⏯15 - COUNTLESS">
+###### <input type = "button" onclick = "showButtoncountless()" value = "▶️15 - COUNTLESS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncountless() {
@@ -1187,7 +1186,7 @@ function showButtoncountless() {
 <p id="countless"></p>
 
 
-###### <input type = "button" onclick = "showButtonderklight()" value = "⏯16 - DERKLIGHT">
+###### <input type = "button" onclick = "showButtonderklight()" value = "▶️16 - DERKLIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonderklight() {
@@ -1198,7 +1197,7 @@ function showButtonderklight() {
 <p id="derklight"></p>
 
 
-###### <input type = "button" onclick = "showButtonartrist()" value = "⏯17 - ARTRIST">
+###### <input type = "button" onclick = "showButtonartrist()" value = "▶️17 - ARTRIST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonartrist() {
@@ -1209,7 +1208,7 @@ function showButtonartrist() {
 <p id="artrist"></p>
 
 
-###### <input type = "button" onclick = "showButtonwhatdidhappen()" value = "⏯18 - WHATDIDHAPPEN">
+###### <input type = "button" onclick = "showButtonwhatdidhappen()" value = "▶️18 - WHATDIDHAPPEN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhatdidhappen() {
@@ -1220,7 +1219,7 @@ function showButtonwhatdidhappen() {
 <p id="whatdidhappen"></p>
 
 
-###### <input type = "button" onclick = "showButtonunknown()" value = "⏯19 - UNKNOWN">
+###### <input type = "button" onclick = "showButtonunknown()" value = "▶️19 - UNKNOWN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunknown() {
@@ -1231,7 +1230,7 @@ function showButtonunknown() {
 <p id="unknown"></p>
 
 
-###### <input type = "button" onclick = "showButtoncontrol_plus_s()" value = "⏯20 - CONTROL_PLUS_S">
+###### <input type = "button" onclick = "showButtoncontrol_plus_s()" value = "▶️20 - CONTROL_PLUS_S">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncontrol_plus_s() {
@@ -1242,7 +1241,7 @@ function showButtoncontrol_plus_s() {
 <p id="control_plus_s"></p>
 
 
-###### <input type = "button" onclick = "showButtonbittercandy()" value = "⏯21 - BITTERCANDY">
+###### <input type = "button" onclick = "showButtonbittercandy()" value = "▶️21 - BITTERCANDY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbittercandy() {
@@ -1253,7 +1252,7 @@ function showButtonbittercandy() {
 <p id="bittercandy"></p>
 
 
-###### <input type = "button" onclick = "showButtonwatersmall()" value = "⏯22 - WATER SMALL">
+###### <input type = "button" onclick = "showButtonwatersmall()" value = "▶️22 - WATER SMALL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwatersmall() {
@@ -1264,7 +1263,7 @@ function showButtonwatersmall() {
 <p id="watersmall"></p>
 
 
-###### <input type = "button" onclick = "showButtonpetridish()" value = "⏯23 - PETRI DISH">
+###### <input type = "button" onclick = "showButtonpetridish()" value = "▶️23 - PETRI DISH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpetridish() {
@@ -1275,7 +1274,7 @@ function showButtonpetridish() {
 <p id="petridish"></p>
 
 
-###### <input type = "button" onclick = "showButtonlate()" value = "⏯24 - LATE">
+###### <input type = "button" onclick = "showButtonlate()" value = "▶️24 - LATE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlate() {
@@ -1286,7 +1285,7 @@ function showButtonlate() {
 <p id="late"></p>
 
 
-###### <input type = "button" onclick = "showButtonshipfriend()" value = "⏯25 - SHIPFRIEND">
+###### <input type = "button" onclick = "showButtonshipfriend()" value = "▶️25 - SHIPFRIEND">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshipfriend() {
@@ -1300,7 +1299,7 @@ function showButtonshipfriend() {
 #### 6.- 'list' <a name=list></a>
 [![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
 
-###### <input type = "button" onclick = "showButtonace()" value = "⏯1 - ACE">
+###### <input type = "button" onclick = "showButtonace()" value = "▶️1 - ACE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonace() {
@@ -1311,7 +1310,7 @@ function showButtonace() {
 <p id="ace"></p>
 
 
-###### <input type = "button" onclick = "showButtonstart()" value = "⏯2 - START">
+###### <input type = "button" onclick = "showButtonstart()" value = "▶️2 - START">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstart() {
@@ -1322,7 +1321,7 @@ function showButtonstart() {
 <p id="start"></p>
 
 
-###### <input type = "button" onclick = "showButtonthepowerofgabber()" value = "⏯3 - THE POWER OF GABBER">
+###### <input type = "button" onclick = "showButtonthepowerofgabber()" value = "▶️3 - THE POWER OF GABBER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthepowerofgabber() {
@@ -1333,7 +1332,7 @@ function showButtonthepowerofgabber() {
 <p id="thepowerofgabber"></p>
 
 
-###### <input type = "button" onclick = "showButtontracklost()" value = "⏯4 - TRACK LOST">
+###### <input type = "button" onclick = "showButtontracklost()" value = "▶️4 - TRACK LOST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontracklost() {
@@ -1344,7 +1343,7 @@ function showButtontracklost() {
 <p id="tracklost"></p>
 
 
-###### <input type = "button" onclick = "showButtonyawn()" value = "⏯5 - YAWN">
+###### <input type = "button" onclick = "showButtonyawn()" value = "▶️5 - YAWN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyawn() {
@@ -1355,7 +1354,7 @@ function showButtonyawn() {
 <p id="yawn"></p>
 
 
-###### <input type = "button" onclick = "showButtonsniks()" value = "⏯6 - SNIKS">
+###### <input type = "button" onclick = "showButtonsniks()" value = "▶️6 - SNIKS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsniks() {
@@ -1366,7 +1365,7 @@ function showButtonsniks() {
 <p id="sniks"></p>
 
 
-###### <input type = "button" onclick = "showButtonnoon()" value = "⏯7 - NOON">
+###### <input type = "button" onclick = "showButtonnoon()" value = "▶️7 - NOON">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnoon() {
@@ -1377,7 +1376,7 @@ function showButtonnoon() {
 <p id="noon"></p>
 
 
-###### <input type = "button" onclick = "showButtonclear()" value = "⏯8 - CLEAR">
+###### <input type = "button" onclick = "showButtonclear()" value = "▶️8 - CLEAR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonclear() {
@@ -1388,7 +1387,7 @@ function showButtonclear() {
 <p id="clear"></p>
 
 
-###### <input type = "button" onclick = "showButtonclueless()" value = "⏯9 - CLUELESS">
+###### <input type = "button" onclick = "showButtonclueless()" value = "▶️9 - CLUELESS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonclueless() {
@@ -1399,7 +1398,7 @@ function showButtonclueless() {
 <p id="clueless"></p>
 
 
-###### <input type = "button" onclick = "showButtongone()" value = "⏯10 - GONE">
+###### <input type = "button" onclick = "showButtongone()" value = "▶️10 - GONE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongone() {
@@ -1410,7 +1409,7 @@ function showButtongone() {
 <p id="gone"></p>
 
 
-###### <input type = "button" onclick = "showButtondepart()" value = "⏯11 - DEPART">
+###### <input type = "button" onclick = "showButtondepart()" value = "▶️11 - DEPART">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondepart() {
@@ -1421,7 +1420,7 @@ function showButtondepart() {
 <p id="depart"></p>
 
 
-###### <input type = "button" onclick = "showButtonwait()" value = "⏯12 - WAIT">
+###### <input type = "button" onclick = "showButtonwait()" value = "▶️12 - WAIT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwait() {
@@ -1432,7 +1431,7 @@ function showButtonwait() {
 <p id="wait"></p>
 
 
-###### <input type = "button" onclick = "showButtonease()" value = "⏯13 - EASE">
+###### <input type = "button" onclick = "showButtonease()" value = "▶️13 - EASE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonease() {
@@ -1443,7 +1442,7 @@ function showButtonease() {
 <p id="ease"></p>
 
 
-###### <input type = "button" onclick = "showButtonflash()" value = "⏯14 - FLASH">
+###### <input type = "button" onclick = "showButtonflash()" value = "▶️14 - FLASH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflash() {
@@ -1454,7 +1453,7 @@ function showButtonflash() {
 <p id="flash"></p>
 
 
-###### <input type = "button" onclick = "showButtonrobotsinlondon()" value = "⏯15 - ROBOTS IN LONDON">
+###### <input type = "button" onclick = "showButtonrobotsinlondon()" value = "▶️15 - ROBOTS IN LONDON">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrobotsinlondon() {
@@ -1465,7 +1464,7 @@ function showButtonrobotsinlondon() {
 <p id="robotsinlondon"></p>
 
 
-###### <input type = "button" onclick = "showButtonescalene()" value = "⏯16 - ESCALENE">
+###### <input type = "button" onclick = "showButtonescalene()" value = "▶️16 - ESCALENE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonescalene() {
@@ -1476,7 +1475,7 @@ function showButtonescalene() {
 <p id="escalene"></p>
 
 
-###### <input type = "button" onclick = "showButtondancefloor()" value = "⏯17 - DANCEFLOOR">
+###### <input type = "button" onclick = "showButtondancefloor()" value = "▶️17 - DANCEFLOOR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondancefloor() {
@@ -1487,7 +1486,7 @@ function showButtondancefloor() {
 <p id="dancefloor"></p>
 
 
-###### <input type = "button" onclick = "showButtonhithats()" value = "⏯18 - HITHATS">
+###### <input type = "button" onclick = "showButtonhithats()" value = "▶️18 - HITHATS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhithats() {
@@ -1498,7 +1497,7 @@ function showButtonhithats() {
 <p id="hithats"></p>
 
 
-###### <input type = "button" onclick = "showButtonplate()" value = "⏯19 - PLATE">
+###### <input type = "button" onclick = "showButtonplate()" value = "▶️19 - PLATE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplate() {
@@ -1509,7 +1508,7 @@ function showButtonplate() {
 <p id="plate"></p>
 
 
-###### <input type = "button" onclick = "showButtonpetals()" value = "⏯20 - PETALS">
+###### <input type = "button" onclick = "showButtonpetals()" value = "▶️20 - PETALS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpetals() {
@@ -1520,7 +1519,7 @@ function showButtonpetals() {
 <p id="petals"></p>
 
 
-###### <input type = "button" onclick = "showButtonleftovers()" value = "⏯21 - LEFTOVERS">
+###### <input type = "button" onclick = "showButtonleftovers()" value = "▶️21 - LEFTOVERS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonleftovers() {
@@ -1531,7 +1530,7 @@ function showButtonleftovers() {
 <p id="leftovers"></p>
 
 
-###### <input type = "button" onclick = "showButtonupward()" value = "⏯22 - UPWARD">
+###### <input type = "button" onclick = "showButtonupward()" value = "▶️22 - UPWARD">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonupward() {
@@ -1545,7 +1544,7 @@ function showButtonupward() {
 #### 7.- 'A cool name' <a name=acoolname></a>
 [![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
 
-###### <input type = "button" onclick = "showButtonnegativ()" value = "⏯1 - NEGATIV">
+###### <input type = "button" onclick = "showButtonnegativ()" value = "▶️1 - NEGATIV">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnegativ() {
@@ -1556,7 +1555,7 @@ function showButtonnegativ() {
 <p id="negativ"></p>
 
 
-###### <input type = "button" onclick = "showButtonunbalanced()" value = "⏯2 - UNBALANCED">
+###### <input type = "button" onclick = "showButtonunbalanced()" value = "▶️2 - UNBALANCED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunbalanced() {
@@ -1567,7 +1566,7 @@ function showButtonunbalanced() {
 <p id="unbalanced"></p>
 
 
-###### <input type = "button" onclick = "showButtonfly()" value = "⏯3 - FLY">
+###### <input type = "button" onclick = "showButtonfly()" value = "▶️3 - FLY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfly() {
@@ -1578,7 +1577,7 @@ function showButtonfly() {
 <p id="fly"></p>
 
 
-###### <input type = "button" onclick = "showButtonuntitled()" value = "⏯4 - UNTITLED">
+###### <input type = "button" onclick = "showButtonuntitled()" value = "▶️4 - UNTITLED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuntitled() {
@@ -1589,7 +1588,7 @@ function showButtonuntitled() {
 <p id="untitled"></p>
 
 
-###### <input type = "button" onclick = "showButtonheartbreak()" value = "⏯5 - HEARTBREAK">
+###### <input type = "button" onclick = "showButtonheartbreak()" value = "▶️5 - HEARTBREAK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheartbreak() {
@@ -1600,7 +1599,7 @@ function showButtonheartbreak() {
 <p id="heartbreak"></p>
 
 
-###### <input type = "button" onclick = "showButtonhustle()" value = "⏯6 - HUSTLE">
+###### <input type = "button" onclick = "showButtonhustle()" value = "▶️6 - HUSTLE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhustle() {
@@ -1611,7 +1610,7 @@ function showButtonhustle() {
 <p id="hustle"></p>
 
 
-###### <input type = "button" onclick = "showButtonlasersthroughsmoke()" value = "⏯7 - LASERS THROUGH SMOKE">
+###### <input type = "button" onclick = "showButtonlasersthroughsmoke()" value = "▶️7 - LASERS THROUGH SMOKE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlasersthroughsmoke() {
@@ -1622,7 +1621,7 @@ function showButtonlasersthroughsmoke() {
 <p id="lasersthroughsmoke"></p>
 
 
-###### <input type = "button" onclick = "showButtonhaul()" value = "⏯8 - HAUL">
+###### <input type = "button" onclick = "showButtonhaul()" value = "▶️8 - HAUL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhaul() {
@@ -1633,7 +1632,7 @@ function showButtonhaul() {
 <p id="haul"></p>
 
 
-###### <input type = "button" onclick = "showButtonshiningstars()" value = "⏯9 - SHINING STARS">
+###### <input type = "button" onclick = "showButtonshiningstars()" value = "▶️9 - SHINING STARS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshiningstars() {
@@ -1644,7 +1643,7 @@ function showButtonshiningstars() {
 <p id="shiningstars"></p>
 
 
-###### <input type = "button" onclick = "showButtoncelebrate()" value = "⏯10 - CELEBRATE">
+###### <input type = "button" onclick = "showButtoncelebrate()" value = "▶️10 - CELEBRATE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncelebrate() {
@@ -1655,7 +1654,7 @@ function showButtoncelebrate() {
 <p id="celebrate"></p>
 
 
-###### <input type = "button" onclick = "showButtonstep()" value = "⏯11 - STEP">
+###### <input type = "button" onclick = "showButtonstep()" value = "▶️11 - STEP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstep() {
@@ -1666,7 +1665,7 @@ function showButtonstep() {
 <p id="step"></p>
 
 
-###### <input type = "button" onclick = "showButtongraph()" value = "⏯12 - GRAPH">
+###### <input type = "button" onclick = "showButtongraph()" value = "▶️12 - GRAPH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongraph() {
@@ -1677,7 +1676,7 @@ function showButtongraph() {
 <p id="graph"></p>
 
 
-###### <input type = "button" onclick = "showButtonsos()" value = "⏯13 - SOS">
+###### <input type = "button" onclick = "showButtonsos()" value = "▶️13 - SOS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsos() {
@@ -1688,7 +1687,7 @@ function showButtonsos() {
 <p id="sos"></p>
 
 
-###### <input type = "button" onclick = "showButtonmirror()" value = "⏯14 - MIRROR">
+###### <input type = "button" onclick = "showButtonmirror()" value = "▶️14 - MIRROR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmirror() {
@@ -1699,7 +1698,7 @@ function showButtonmirror() {
 <p id="mirror"></p>
 
 
-###### <input type = "button" onclick = "showButtonvortexattack()" value = "⏯15 - VORTEX ATTACK">
+###### <input type = "button" onclick = "showButtonvortexattack()" value = "▶️15 - VORTEX ATTACK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvortexattack() {
@@ -1710,7 +1709,7 @@ function showButtonvortexattack() {
 <p id="vortexattack"></p>
 
 
-###### <input type = "button" onclick = "showButtonresources()" value = "⏯16 - RESOURCES">
+###### <input type = "button" onclick = "showButtonresources()" value = "▶️16 - RESOURCES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonresources() {
@@ -1721,7 +1720,7 @@ function showButtonresources() {
 <p id="resources"></p>
 
 
-###### <input type = "button" onclick = "showButtonruthere()" value = "⏯17 - R U THERE">
+###### <input type = "button" onclick = "showButtonruthere()" value = "▶️17 - R U THERE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonruthere() {
@@ -1732,7 +1731,7 @@ function showButtonruthere() {
 <p id="ruthere"></p>
 
 
-###### <input type = "button" onclick = "showButtonboom()" value = "⏯18 - BOOM!">
+###### <input type = "button" onclick = "showButtonboom()" value = "▶️18 - BOOM!">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonboom() {
@@ -1746,7 +1745,7 @@ function showButtonboom() {
 #### 8.- '50%' <a name=50></a>
 [![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
 
-###### <input type = "button" onclick = "showButtonnoone()" value = "⏯1 - NO ONE">
+###### <input type = "button" onclick = "showButtonnoone()" value = "▶️1 - NO ONE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnoone() {
@@ -1757,7 +1756,7 @@ function showButtonnoone() {
 <p id="noone"></p>
 
 
-###### <input type = "button" onclick = "showButtonjackpot()" value = "⏯2 - JACKPOT">
+###### <input type = "button" onclick = "showButtonjackpot()" value = "▶️2 - JACKPOT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjackpot() {
@@ -1768,7 +1767,7 @@ function showButtonjackpot() {
 <p id="jackpot"></p>
 
 
-###### <input type = "button" onclick = "showButtonmeet()" value = "⏯3 - MEET">
+###### <input type = "button" onclick = "showButtonmeet()" value = "▶️3 - MEET">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmeet() {
@@ -1779,7 +1778,7 @@ function showButtonmeet() {
 <p id="meet"></p>
 
 
-###### <input type = "button" onclick = "showButtonroundabout()" value = "⏯4 - ROUNDABOUT">
+###### <input type = "button" onclick = "showButtonroundabout()" value = "▶️4 - ROUNDABOUT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonroundabout() {
@@ -1790,7 +1789,7 @@ function showButtonroundabout() {
 <p id="roundabout"></p>
 
 
-###### <input type = "button" onclick = "showButtonbranch()" value = "⏯5 - BRANCH">
+###### <input type = "button" onclick = "showButtonbranch()" value = "▶️5 - BRANCH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbranch() {
@@ -1801,7 +1800,7 @@ function showButtonbranch() {
 <p id="branch"></p>
 
 
-###### <input type = "button" onclick = "showButtonskid()" value = "⏯6 - SKID">
+###### <input type = "button" onclick = "showButtonskid()" value = "▶️6 - SKID">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonskid() {
@@ -1812,7 +1811,7 @@ function showButtonskid() {
 <p id="skid"></p>
 
 
-###### <input type = "button" onclick = "showButtonstop()" value = "⏯7 - STOP">
+###### <input type = "button" onclick = "showButtonstop()" value = "▶️7 - STOP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstop() {
@@ -1823,7 +1822,7 @@ function showButtonstop() {
 <p id="stop"></p>
 
 
-###### <input type = "button" onclick = "showButtongap()" value = "⏯8 - GAP">
+###### <input type = "button" onclick = "showButtongap()" value = "▶️8 - GAP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongap() {
@@ -1834,7 +1833,7 @@ function showButtongap() {
 <p id="gap"></p>
 
 
-###### <input type = "button" onclick = "showButtonprince()" value = "⏯9 - PRINCE">
+###### <input type = "button" onclick = "showButtonprince()" value = "▶️9 - PRINCE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonprince() {
@@ -1845,7 +1844,7 @@ function showButtonprince() {
 <p id="prince"></p>
 
 
-###### <input type = "button" onclick = "showButtonmissing()" value = "⏯10 - MISSING">
+###### <input type = "button" onclick = "showButtonmissing()" value = "▶️10 - MISSING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmissing() {
@@ -1856,7 +1855,7 @@ function showButtonmissing() {
 <p id="missing"></p>
 
 
-###### <input type = "button" onclick = "showButtonstickyheat()" value = "⏯11 - STICKY HEAT">
+###### <input type = "button" onclick = "showButtonstickyheat()" value = "▶️11 - STICKY HEAT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstickyheat() {
@@ -1867,7 +1866,7 @@ function showButtonstickyheat() {
 <p id="stickyheat"></p>
 
 
-###### <input type = "button" onclick = "showButtonsurcease()" value = "⏯12 - SURCEASE">
+###### <input type = "button" onclick = "showButtonsurcease()" value = "▶️12 - SURCEASE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsurcease() {
@@ -1878,7 +1877,7 @@ function showButtonsurcease() {
 <p id="surcease"></p>
 
 
-###### <input type = "button" onclick = "showButtonweissbier()" value = "⏯13 - WEISSBIER">
+###### <input type = "button" onclick = "showButtonweissbier()" value = "▶️13 - WEISSBIER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonweissbier() {
@@ -1889,7 +1888,7 @@ function showButtonweissbier() {
 <p id="weissbier"></p>
 
 
-###### <input type = "button" onclick = "showButtonsirens()" value = "⏯14 - SIRENS">
+###### <input type = "button" onclick = "showButtonsirens()" value = "▶️14 - SIRENS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsirens() {
@@ -1900,7 +1899,7 @@ function showButtonsirens() {
 <p id="sirens"></p>
 
 
-###### <input type = "button" onclick = "showButtonnewtitles()" value = "⏯15 - NEW TITLES">
+###### <input type = "button" onclick = "showButtonnewtitles()" value = "▶️15 - NEW TITLES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnewtitles() {
@@ -1911,7 +1910,7 @@ function showButtonnewtitles() {
 <p id="newtitles"></p>
 
 
-###### <input type = "button" onclick = "showButtonlocomotion()" value = "⏯16 - LOCO MOTION">
+###### <input type = "button" onclick = "showButtonlocomotion()" value = "▶️16 - LOCO MOTION">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlocomotion() {
@@ -1922,7 +1921,7 @@ function showButtonlocomotion() {
 <p id="locomotion"></p>
 
 
-###### <input type = "button" onclick = "showButtonbestbeast()" value = "⏯17 - BEST BEAST">
+###### <input type = "button" onclick = "showButtonbestbeast()" value = "▶️17 - BEST BEAST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbestbeast() {
@@ -1933,7 +1932,7 @@ function showButtonbestbeast() {
 <p id="bestbeast"></p>
 
 
-###### <input type = "button" onclick = "showButtoncuteashell()" value = "⏯18 - CUTE AS HELL">
+###### <input type = "button" onclick = "showButtoncuteashell()" value = "▶️18 - CUTE AS HELL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncuteashell() {
@@ -1944,7 +1943,7 @@ function showButtoncuteashell() {
 <p id="cuteashell"></p>
 
 
-###### <input type = "button" onclick = "showButtonregreat()" value = "⏯19 - REGREAT">
+###### <input type = "button" onclick = "showButtonregreat()" value = "▶️19 - REGREAT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonregreat() {
@@ -1955,7 +1954,7 @@ function showButtonregreat() {
 <p id="regreat"></p>
 
 
-###### <input type = "button" onclick = "showButtonedge()" value = "⏯20 - EDGE">
+###### <input type = "button" onclick = "showButtonedge()" value = "▶️20 - EDGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonedge() {
@@ -1966,7 +1965,7 @@ function showButtonedge() {
 <p id="edge"></p>
 
 
-###### <input type = "button" onclick = "showButtonfz()" value = "⏯21 - 50%">
+###### <input type = "button" onclick = "showButtonfz()" value = "▶️21 - 50%">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfz() {
@@ -1977,7 +1976,7 @@ function showButtonfz() {
 <p id="fz"></p>
 
 
-###### <input type = "button" onclick = "showButtonhotpockets()" value = "⏯22 - HOT POCKETS">
+###### <input type = "button" onclick = "showButtonhotpockets()" value = "▶️22 - HOT POCKETS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhotpockets() {
@@ -1991,7 +1990,7 @@ function showButtonhotpockets() {
 #### 9.- 'advisory content' <a name=advisorycontent></a>
 [![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
 
-###### <input type = "button" onclick = "showButtoncigarretadvertisement()" value = "⏯1 - CIGARRET ADVERTISEMENT">
+###### <input type = "button" onclick = "showButtoncigarretadvertisement()" value = "▶️1 - CIGARRET ADVERTISEMENT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncigarretadvertisement() {
@@ -2002,7 +2001,7 @@ function showButtoncigarretadvertisement() {
 <p id="cigarretadvertisement"></p>
 
 
-###### <input type = "button" onclick = "showButtonseawatch()" value = "⏯2 - SEAWATCH">
+###### <input type = "button" onclick = "showButtonseawatch()" value = "▶️2 - SEAWATCH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonseawatch() {
@@ -2013,7 +2012,7 @@ function showButtonseawatch() {
 <p id="seawatch"></p>
 
 
-###### <input type = "button" onclick = "showButtonnostalgia()" value = "⏯3 - NOSTALGIA">
+###### <input type = "button" onclick = "showButtonnostalgia()" value = "▶️3 - NOSTALGIA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnostalgia() {
@@ -2024,7 +2023,7 @@ function showButtonnostalgia() {
 <p id="nostalgia"></p>
 
 
-###### <input type = "button" onclick = "showButtonrayv()" value = "⏯4 - RAY-V">
+###### <input type = "button" onclick = "showButtonrayv()" value = "▶️4 - RAY-V">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrayv() {
@@ -2035,7 +2034,7 @@ function showButtonrayv() {
 <p id="rayv"></p>
 
 
-###### <input type = "button" onclick = "showButtonlab()" value = "⏯5 - LAB">
+###### <input type = "button" onclick = "showButtonlab()" value = "▶️5 - LAB">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlab() {
@@ -2046,7 +2045,7 @@ function showButtonlab() {
 <p id="lab"></p>
 
 
-###### <input type = "button" onclick = "showButtonlit()" value = "⏯6 - LIT">
+###### <input type = "button" onclick = "showButtonlit()" value = "▶️6 - LIT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlit() {
@@ -2057,7 +2056,7 @@ function showButtonlit() {
 <p id="lit"></p>
 
 
-###### <input type = "button" onclick = "showButtondessert()" value = "⏯7 - DESSERT">
+###### <input type = "button" onclick = "showButtondessert()" value = "▶️7 - DESSERT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondessert() {
@@ -2068,7 +2067,7 @@ function showButtondessert() {
 <p id="dessert"></p>
 
 
-###### <input type = "button" onclick = "showButtontahw()" value = "⏯8 - TAHW">
+###### <input type = "button" onclick = "showButtontahw()" value = "▶️8 - TAHW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontahw() {
@@ -2079,7 +2078,7 @@ function showButtontahw() {
 <p id="tahw"></p>
 
 
-###### <input type = "button" onclick = "showButtoncoolture()" value = "⏯9 - COOLTURE">
+###### <input type = "button" onclick = "showButtoncoolture()" value = "▶️9 - COOLTURE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncoolture() {
@@ -2090,7 +2089,7 @@ function showButtoncoolture() {
 <p id="coolture"></p>
 
 
-###### <input type = "button" onclick = "showButtonfreemium()" value = "⏯10 - FREEMIUM">
+###### <input type = "button" onclick = "showButtonfreemium()" value = "▶️10 - FREEMIUM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfreemium() {
@@ -2101,7 +2100,7 @@ function showButtonfreemium() {
 <p id="freemium"></p>
 
 
-###### <input type = "button" onclick = "showButtonnomorerecall()" value = "⏯11 - NO MORE RECALL">
+###### <input type = "button" onclick = "showButtonnomorerecall()" value = "▶️11 - NO MORE RECALL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnomorerecall() {
@@ -2112,7 +2111,7 @@ function showButtonnomorerecall() {
 <p id="nomorerecall"></p>
 
 
-###### <input type = "button" onclick = "showButtonkeen()" value = "⏯12 - KEEN">
+###### <input type = "button" onclick = "showButtonkeen()" value = "▶️12 - KEEN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkeen() {
@@ -2123,7 +2122,7 @@ function showButtonkeen() {
 <p id="keen"></p>
 
 
-###### <input type = "button" onclick = "showButtontry()" value = "⏯13 - TRY">
+###### <input type = "button" onclick = "showButtontry()" value = "▶️13 - TRY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontry() {
@@ -2134,7 +2133,7 @@ function showButtontry() {
 <p id="try"></p>
 
 
-###### <input type = "button" onclick = "showButtonclubtheclap()" value = "⏯14 - CLUB THE CLAP">
+###### <input type = "button" onclick = "showButtonclubtheclap()" value = "▶️14 - CLUB THE CLAP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonclubtheclap() {
@@ -2145,7 +2144,7 @@ function showButtonclubtheclap() {
 <p id="clubtheclap"></p>
 
 
-###### <input type = "button" onclick = "showButtoncandle()" value = "⏯15 - CANDLE">
+###### <input type = "button" onclick = "showButtoncandle()" value = "▶️15 - CANDLE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncandle() {
@@ -2156,7 +2155,7 @@ function showButtoncandle() {
 <p id="candle"></p>
 
 
-###### <input type = "button" onclick = "showButtonparlor()" value = "⏯16 - PARLOR">
+###### <input type = "button" onclick = "showButtonparlor()" value = "▶️16 - PARLOR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonparlor() {
@@ -2167,7 +2166,7 @@ function showButtonparlor() {
 <p id="parlor"></p>
 
 
-###### <input type = "button" onclick = "showButtonlesshome()" value = "⏯17 - LESSHOME">
+###### <input type = "button" onclick = "showButtonlesshome()" value = "▶️17 - LESSHOME">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlesshome() {
@@ -2178,7 +2177,7 @@ function showButtonlesshome() {
 <p id="lesshome"></p>
 
 
-###### <input type = "button" onclick = "showButtonenchanted()" value = "⏯18 - ENCHANTED">
+###### <input type = "button" onclick = "showButtonenchanted()" value = "▶️18 - ENCHANTED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonenchanted() {
@@ -2189,7 +2188,7 @@ function showButtonenchanted() {
 <p id="enchanted"></p>
 
 
-###### <input type = "button" onclick = "showButtonchasingpapers()" value = "⏯19 - CHASING PAPERS">
+###### <input type = "button" onclick = "showButtonchasingpapers()" value = "▶️19 - CHASING PAPERS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchasingpapers() {
@@ -2200,7 +2199,7 @@ function showButtonchasingpapers() {
 <p id="chasingpapers"></p>
 
 
-###### <input type = "button" onclick = "showButtononeblinktwoeyes()" value = "⏯20 - ONE BLINK TWO EYES">
+###### <input type = "button" onclick = "showButtononeblinktwoeyes()" value = "▶️20 - ONE BLINK TWO EYES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtononeblinktwoeyes() {
@@ -2211,7 +2210,7 @@ function showButtononeblinktwoeyes() {
 <p id="oneblinktwoeyes"></p>
 
 
-###### <input type = "button" onclick = "showButtonforbear()" value = "⏯21 - FORBEAR">
+###### <input type = "button" onclick = "showButtonforbear()" value = "▶️21 - FORBEAR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforbear() {
@@ -2225,7 +2224,7 @@ function showButtonforbear() {
 #### 10.- 'BUY NEVER' <a name=buynever></a>
 [![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
 
-###### <input type = "button" onclick = "showButtonentrance()" value = "⏯1 .- ENTRANCE">
+###### <input type = "button" onclick = "showButtonentrance()" value = "▶️1 .- ENTRANCE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonentrance() {
@@ -2236,7 +2235,7 @@ function showButtonentrance() {
 <p id="entrance"></p>
 
 
-###### <input type = "button" onclick = "showButtonhaze()" value = "⏯2.- HAZE">
+###### <input type = "button" onclick = "showButtonhaze()" value = "▶️2.- HAZE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhaze() {
@@ -2247,7 +2246,7 @@ function showButtonhaze() {
 <p id="haze"></p>
 
 
-###### <input type = "button" onclick = "showButtonextravaganza()" value = "⏯3.- EXTRAVAGANZA">
+###### <input type = "button" onclick = "showButtonextravaganza()" value = "▶️3.- EXTRAVAGANZA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonextravaganza() {
@@ -2258,7 +2257,7 @@ function showButtonextravaganza() {
 <p id="extravaganza"></p>
 
 
-###### <input type = "button" onclick = "showButtonconfidant()" value = "⏯4.- CONFIDANT">
+###### <input type = "button" onclick = "showButtonconfidant()" value = "▶️4.- CONFIDANT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconfidant() {
@@ -2269,7 +2268,7 @@ function showButtonconfidant() {
 <p id="confidant"></p>
 
 
-###### <input type = "button" onclick = "showButtonfieldcompany()" value = "⏯5.- FIELD COMPANY">
+###### <input type = "button" onclick = "showButtonfieldcompany()" value = "▶️5.- FIELD COMPANY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfieldcompany() {
@@ -2280,7 +2279,7 @@ function showButtonfieldcompany() {
 <p id="fieldcompany"></p>
 
 
-###### <input type = "button" onclick = "showButtonbreathpause()" value = "⏯6.- BREATH PAUSE">
+###### <input type = "button" onclick = "showButtonbreathpause()" value = "▶️6.- BREATH PAUSE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbreathpause() {
@@ -2291,7 +2290,7 @@ function showButtonbreathpause() {
 <p id="breathpause"></p>
 
 
-###### <input type = "button" onclick = "showButtonviolenceenlamour()" value = "⏯7.- VIOLENCE EN L'AMOUR">
+###### <input type = "button" onclick = "showButtonviolenceenlamour()" value = "▶️7.- VIOLENCE EN L'AMOUR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonviolenceenlamour() {
@@ -2302,7 +2301,7 @@ function showButtonviolenceenlamour() {
 <p id="violenceenlamour"></p>
 
 
-###### <input type = "button" onclick = "showButtonjugular()" value = "⏯8.- JUGULAR">
+###### <input type = "button" onclick = "showButtonjugular()" value = "▶️8.- JUGULAR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjugular() {
@@ -2313,7 +2312,7 @@ function showButtonjugular() {
 <p id="jugular"></p>
 
 
-###### <input type = "button" onclick = "showButtonaubrey()" value = "⏯9.- AUBREY">
+###### <input type = "button" onclick = "showButtonaubrey()" value = "▶️9.- AUBREY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaubrey() {
@@ -2324,7 +2323,7 @@ function showButtonaubrey() {
 <p id="aubrey"></p>
 
 
-###### <input type = "button" onclick = "showButtondarcy()" value = "⏯10.- DARCY">
+###### <input type = "button" onclick = "showButtondarcy()" value = "▶️10.- DARCY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondarcy() {
@@ -2335,7 +2334,7 @@ function showButtondarcy() {
 <p id="darcy"></p>
 
 
-###### <input type = "button" onclick = "showButtonana()" value = "⏯11.- ANA">
+###### <input type = "button" onclick = "showButtonana()" value = "▶️11.- ANA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonana() {
@@ -2346,7 +2345,7 @@ function showButtonana() {
 <p id="ana"></p>
 
 
-###### <input type = "button" onclick = "showButtonjulia()" value = "⏯12.- JULIA">
+###### <input type = "button" onclick = "showButtonjulia()" value = "▶️12.- JULIA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjulia() {
@@ -2357,7 +2356,7 @@ function showButtonjulia() {
 <p id="julia"></p>
 
 
-###### <input type = "button" onclick = "showButtonpete()" value = "⏯13.- PETE">
+###### <input type = "button" onclick = "showButtonpete()" value = "▶️13.- PETE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpete() {
@@ -2368,7 +2367,7 @@ function showButtonpete() {
 <p id="pete"></p>
 
 
-###### <input type = "button" onclick = "showButtonjohn()" value = "⏯14.- JOHN">
+###### <input type = "button" onclick = "showButtonjohn()" value = "▶️14.- JOHN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonjohn() {
@@ -2379,7 +2378,7 @@ function showButtonjohn() {
 <p id="john"></p>
 
 
-###### <input type = "button" onclick = "showButtonmartin()" value = "⏯15.- MARTIN">
+###### <input type = "button" onclick = "showButtonmartin()" value = "▶️15.- MARTIN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmartin() {
@@ -2390,7 +2389,7 @@ function showButtonmartin() {
 <p id="martin"></p>
 
 
-###### <input type = "button" onclick = "showButtonadrian()" value = "⏯16.- ADRIAN">
+###### <input type = "button" onclick = "showButtonadrian()" value = "▶️16.- ADRIAN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonadrian() {
@@ -2401,7 +2400,7 @@ function showButtonadrian() {
 <p id="adrian"></p>
 
 
-###### <input type = "button" onclick = "showButtonland()" value = "⏯17.- LAND">
+###### <input type = "button" onclick = "showButtonland()" value = "▶️17.- LAND">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonland() {
@@ -2412,7 +2411,7 @@ function showButtonland() {
 <p id="land"></p>
 
 
-###### <input type = "button" onclick = "showButtondeter()" value = "⏯18.- DETER">
+###### <input type = "button" onclick = "showButtondeter()" value = "▶️18.- DETER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondeter() {
@@ -2423,7 +2422,7 @@ function showButtondeter() {
 <p id="deter"></p>
 
 
-###### <input type = "button" onclick = "showButtoncruiser()" value = "⏯19.- CRUISER">
+###### <input type = "button" onclick = "showButtoncruiser()" value = "▶️19.- CRUISER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncruiser() {
@@ -2434,7 +2433,7 @@ function showButtoncruiser() {
 <p id="cruiser"></p>
 
 
-###### <input type = "button" onclick = "showButtonofffaces()" value = "⏯20.- OFF FACES">
+###### <input type = "button" onclick = "showButtonofffaces()" value = "▶️20.- OFF FACES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonofffaces() {
@@ -2445,7 +2444,7 @@ function showButtonofffaces() {
 <p id="offfaces"></p>
 
 
-###### <input type = "button" onclick = "showButtonroadstonowhere()" value = "⏯21.- ROADS TO NOWHERE">
+###### <input type = "button" onclick = "showButtonroadstonowhere()" value = "▶️21.- ROADS TO NOWHERE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonroadstonowhere() {
@@ -2459,7 +2458,7 @@ function showButtonroadstonowhere() {
 #### 11.- 'Bull's-eye' <a name=bullseye></a>
 [![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
 
-###### <input type = "button" onclick = "showButtontryyourworst()" value = "⏯1 - TRY YOUR WORST">
+###### <input type = "button" onclick = "showButtontryyourworst()" value = "▶️1 - TRY YOUR WORST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontryyourworst() {
@@ -2470,7 +2469,7 @@ function showButtontryyourworst() {
 <p id="tryyourworst"></p>
 
 
-###### <input type = "button" onclick = "showButtonnightsalonefakebill()" value = "⏯2 -NIGHTS ALONE FAKE  BILL">
+###### <input type = "button" onclick = "showButtonnightsalonefakebill()" value = "▶️2 -NIGHTS ALONE FAKE  BILL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnightsalonefakebill() {
@@ -2481,7 +2480,7 @@ function showButtonnightsalonefakebill() {
 <p id="nightsalonefakebill"></p>
 
 
-###### <input type = "button" onclick = "showButtonrcycle()" value = "⏯3 - R-CYCLE">
+###### <input type = "button" onclick = "showButtonrcycle()" value = "▶️3 - R-CYCLE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrcycle() {
@@ -2492,7 +2491,7 @@ function showButtonrcycle() {
 <p id="rcycle"></p>
 
 
-###### <input type = "button" onclick = "showButtonstruggles()" value = "⏯4 - STRUGGLES">
+###### <input type = "button" onclick = "showButtonstruggles()" value = "▶️4 - STRUGGLES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstruggles() {
@@ -2503,7 +2502,7 @@ function showButtonstruggles() {
 <p id="struggles"></p>
 
 
-###### <input type = "button" onclick = "showButtonheirs()" value = "⏯5 - HEIRS">
+###### <input type = "button" onclick = "showButtonheirs()" value = "▶️5 - HEIRS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheirs() {
@@ -2514,7 +2513,7 @@ function showButtonheirs() {
 <p id="heirs"></p>
 
 
-###### <input type = "button" onclick = "showButtondarts()" value = "⏯6 - DARTS">
+###### <input type = "button" onclick = "showButtondarts()" value = "▶️6 - DARTS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondarts() {
@@ -2525,7 +2524,7 @@ function showButtondarts() {
 <p id="darts"></p>
 
 
-###### <input type = "button" onclick = "showButtonpowder()" value = "⏯7 - POWDER">
+###### <input type = "button" onclick = "showButtonpowder()" value = "▶️7 - POWDER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpowder() {
@@ -2536,7 +2535,7 @@ function showButtonpowder() {
 <p id="powder"></p>
 
 
-###### <input type = "button" onclick = "showButtontraeh()" value = "⏯8 -TRAEH">
+###### <input type = "button" onclick = "showButtontraeh()" value = "▶️8 -TRAEH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontraeh() {
@@ -2547,7 +2546,7 @@ function showButtontraeh() {
 <p id="traeh"></p>
 
 
-###### <input type = "button" onclick = "showButtonheights()" value = "⏯9 - HEIGHTS">
+###### <input type = "button" onclick = "showButtonheights()" value = "▶️9 - HEIGHTS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheights() {
@@ -2558,7 +2557,7 @@ function showButtonheights() {
 <p id="heights"></p>
 
 
-###### <input type = "button" onclick = "showButtonbearer()" value = "⏯10 - BEARER">
+###### <input type = "button" onclick = "showButtonbearer()" value = "▶️10 - BEARER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbearer() {
@@ -2569,7 +2568,7 @@ function showButtonbearer() {
 <p id="bearer"></p>
 
 
-###### <input type = "button" onclick = "showButtoncap()" value = "⏯11 - CAP">
+###### <input type = "button" onclick = "showButtoncap()" value = "▶️11 - CAP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncap() {
@@ -2580,7 +2579,7 @@ function showButtoncap() {
 <p id="cap"></p>
 
 
-###### <input type = "button" onclick = "showButtonashore()" value = "⏯12 - ASHORE">
+###### <input type = "button" onclick = "showButtonashore()" value = "▶️12 - ASHORE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonashore() {
@@ -2591,7 +2590,7 @@ function showButtonashore() {
 <p id="ashore"></p>
 
 
-###### <input type = "button" onclick = "showButtonrealheterogeneousfauna()" value = "⏯13 - REAL HETEROGENEOUS FAUNA">
+###### <input type = "button" onclick = "showButtonrealheterogeneousfauna()" value = "▶️13 - REAL HETEROGENEOUS FAUNA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrealheterogeneousfauna() {
@@ -2602,7 +2601,7 @@ function showButtonrealheterogeneousfauna() {
 <p id="realheterogeneousfauna"></p>
 
 
-###### <input type = "button" onclick = "showButtonnightmares()" value = "⏯14 - NIGHTMARES">
+###### <input type = "button" onclick = "showButtonnightmares()" value = "▶️14 - NIGHTMARES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnightmares() {
@@ -2613,7 +2612,7 @@ function showButtonnightmares() {
 <p id="nightmares"></p>
 
 
-###### <input type = "button" onclick = "showButtonpresage()" value = "⏯15 - PRESAGE">
+###### <input type = "button" onclick = "showButtonpresage()" value = "▶️15 - PRESAGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpresage() {
@@ -2624,7 +2623,7 @@ function showButtonpresage() {
 <p id="presage"></p>
 
 
-###### <input type = "button" onclick = "showButtonscrape()" value = "⏯16 - SCRAPE">
+###### <input type = "button" onclick = "showButtonscrape()" value = "▶️16 - SCRAPE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonscrape() {
@@ -2635,7 +2634,7 @@ function showButtonscrape() {
 <p id="scrape"></p>
 
 
-###### <input type = "button" onclick = "showButtonconfineyourself()" value = "⏯17 - CONFINE YOURSELF">
+###### <input type = "button" onclick = "showButtonconfineyourself()" value = "▶️17 - CONFINE YOURSELF">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconfineyourself() {
@@ -2646,7 +2645,7 @@ function showButtonconfineyourself() {
 <p id="confineyourself"></p>
 
 
-###### <input type = "button" onclick = "showButtonontry()" value = "⏯18 - ON TRY">
+###### <input type = "button" onclick = "showButtonontry()" value = "▶️18 - ON TRY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonontry() {
@@ -2657,7 +2656,7 @@ function showButtonontry() {
 <p id="ontry"></p>
 
 
-###### <input type = "button" onclick = "showButtonplaymymind()" value = "⏯19 - PLAY MY MIND">
+###### <input type = "button" onclick = "showButtonplaymymind()" value = "▶️19 - PLAY MY MIND">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplaymymind() {
@@ -2668,7 +2667,7 @@ function showButtonplaymymind() {
 <p id="playmymind"></p>
 
 
-###### <input type = "button" onclick = "showButtonnotsnew()" value = "⏯20 - NOT'S NEW">
+###### <input type = "button" onclick = "showButtonnotsnew()" value = "▶️20 - NOT'S NEW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnotsnew() {
@@ -2682,7 +2681,7 @@ function showButtonnotsnew() {
 #### 12.- 'Where are my royalties' <a name=wherearemyroyalties></a>
 [![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
 
-###### <input type = "button" onclick = "showButtongodknowsno()" value = "⏯1 - GOD KNOWS NO">
+###### <input type = "button" onclick = "showButtongodknowsno()" value = "▶️1 - GOD KNOWS NO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongodknowsno() {
@@ -2693,7 +2692,7 @@ function showButtongodknowsno() {
 <p id="godknowsno"></p>
 
 
-###### <input type = "button" onclick = "showButtoncorsair()" value = "⏯2 - CORSAIR">
+###### <input type = "button" onclick = "showButtoncorsair()" value = "▶️2 - CORSAIR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncorsair() {
@@ -2704,7 +2703,7 @@ function showButtoncorsair() {
 <p id="corsair"></p>
 
 
-###### <input type = "button" onclick = "showButtonstayhomemetamorphosis()" value = "⏯3 - STAY HOME METAMORPHOSIS">
+###### <input type = "button" onclick = "showButtonstayhomemetamorphosis()" value = "▶️3 - STAY HOME METAMORPHOSIS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstayhomemetamorphosis() {
@@ -2715,7 +2714,7 @@ function showButtonstayhomemetamorphosis() {
 <p id="stayhomemetamorphosis"></p>
 
 
-###### <input type = "button" onclick = "showButtonprevail()" value = "⏯4 - PREVAIL">
+###### <input type = "button" onclick = "showButtonprevail()" value = "▶️4 - PREVAIL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonprevail() {
@@ -2726,7 +2725,7 @@ function showButtonprevail() {
 <p id="prevail"></p>
 
 
-###### <input type = "button" onclick = "showButtonshudder()" value = "⏯5- SHUDDER">
+###### <input type = "button" onclick = "showButtonshudder()" value = "▶️5- SHUDDER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshudder() {
@@ -2737,7 +2736,7 @@ function showButtonshudder() {
 <p id="shudder"></p>
 
 
-###### <input type = "button" onclick = "showButtonsari()" value = "⏯6 - SARI">
+###### <input type = "button" onclick = "showButtonsari()" value = "▶️6 - SARI">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsari() {
@@ -2748,7 +2747,7 @@ function showButtonsari() {
 <p id="sari"></p>
 
 
-###### <input type = "button" onclick = "showButtonsubterfuge()" value = "⏯7 - SUBTERFUGE">
+###### <input type = "button" onclick = "showButtonsubterfuge()" value = "▶️7 - SUBTERFUGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsubterfuge() {
@@ -2759,7 +2758,7 @@ function showButtonsubterfuge() {
 <p id="subterfuge"></p>
 
 
-###### <input type = "button" onclick = "showButtontú()" value = "⏯8- Tú">
+###### <input type = "button" onclick = "showButtontú()" value = "▶️8- Tú">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontú() {
@@ -2770,7 +2769,7 @@ function showButtontú() {
 <p id="tú"></p>
 
 
-###### <input type = "button" onclick = "showButtonhow()" value = "⏯9 - HOW">
+###### <input type = "button" onclick = "showButtonhow()" value = "▶️9 - HOW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhow() {
@@ -2781,7 +2780,7 @@ function showButtonhow() {
 <p id="how"></p>
 
 
-###### <input type = "button" onclick = "showButtonohyeahhey()" value = "⏯10 - OH YEAH HEY">
+###### <input type = "button" onclick = "showButtonohyeahhey()" value = "▶️10 - OH YEAH HEY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonohyeahhey() {
@@ -2792,7 +2791,7 @@ function showButtonohyeahhey() {
 <p id="ohyeahhey"></p>
 
 
-###### <input type = "button" onclick = "showButtoncalmly()" value = "⏯11 - CALMLY">
+###### <input type = "button" onclick = "showButtoncalmly()" value = "▶️11 - CALMLY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncalmly() {
@@ -2803,7 +2802,7 @@ function showButtoncalmly() {
 <p id="calmly"></p>
 
 
-###### <input type = "button" onclick = "showButtonmigraine()" value = "⏯12 - MIGRAINE">
+###### <input type = "button" onclick = "showButtonmigraine()" value = "▶️12 - MIGRAINE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmigraine() {
@@ -2814,7 +2813,7 @@ function showButtonmigraine() {
 <p id="migraine"></p>
 
 
-###### <input type = "button" onclick = "showButtonend()" value = "⏯13 - END">
+###### <input type = "button" onclick = "showButtonend()" value = "▶️13 - END">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonend() {
@@ -2825,7 +2824,7 @@ function showButtonend() {
 <p id="end"></p>
 
 
-###### <input type = "button" onclick = "showButtonabmas()" value = "⏯14 - ABMAS">
+###### <input type = "button" onclick = "showButtonabmas()" value = "▶️14 - ABMAS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonabmas() {
@@ -2836,7 +2835,7 @@ function showButtonabmas() {
 <p id="abmas"></p>
 
 
-###### <input type = "button" onclick = "showButtontsfts()" value = "⏯15 - 26536">
+###### <input type = "button" onclick = "showButtontsfts()" value = "▶️15 - 26536">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontsfts() {
@@ -2847,7 +2846,7 @@ function showButtontsfts() {
 <p id="tsfts"></p>
 
 
-###### <input type = "button" onclick = "showButtonshadows()" value = "⏯16 - SHADOWS">
+###### <input type = "button" onclick = "showButtonshadows()" value = "▶️16 - SHADOWS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonshadows() {
@@ -2858,7 +2857,7 @@ function showButtonshadows() {
 <p id="shadows"></p>
 
 
-###### <input type = "button" onclick = "showButtontrial()" value = "⏯17 - TRIAL">
+###### <input type = "button" onclick = "showButtontrial()" value = "▶️17 - TRIAL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrial() {
@@ -2869,7 +2868,7 @@ function showButtontrial() {
 <p id="trial"></p>
 
 
-###### <input type = "button" onclick = "showButtonmnoalu()" value = "⏯18 - MNOALU">
+###### <input type = "button" onclick = "showButtonmnoalu()" value = "▶️18 - MNOALU">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmnoalu() {
@@ -2883,7 +2882,7 @@ function showButtonmnoalu() {
 #### 13.- 'Who u tryna' impress' <a name=whoutrynaimpress></a>
 [![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
 
-###### <input type = "button" onclick = "showButtonoverlovely()" value = "⏯1 - OVER LOVELY">
+###### <input type = "button" onclick = "showButtonoverlovely()" value = "▶️1 - OVER LOVELY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoverlovely() {
@@ -2894,7 +2893,7 @@ function showButtonoverlovely() {
 <p id="overlovely"></p>
 
 
-###### <input type = "button" onclick = "showButtonsway()" value = "⏯2- SWAY">
+###### <input type = "button" onclick = "showButtonsway()" value = "▶️2- SWAY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsway() {
@@ -2905,7 +2904,7 @@ function showButtonsway() {
 <p id="sway"></p>
 
 
-###### <input type = "button" onclick = "showButtonfunkomatic()" value = "⏯3 - FUNK-O-MATIC">
+###### <input type = "button" onclick = "showButtonfunkomatic()" value = "▶️3 - FUNK-O-MATIC">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfunkomatic() {
@@ -2916,7 +2915,7 @@ function showButtonfunkomatic() {
 <p id="funkomatic"></p>
 
 
-###### <input type = "button" onclick = "showButtonyoudontwanttoknowanythingaboutme()" value = "⏯4 - YOU DONT WANT TO KNOW ANYTHING ABOUT ME">
+###### <input type = "button" onclick = "showButtonyoudontwanttoknowanythingaboutme()" value = "▶️4 - YOU DONT WANT TO KNOW ANYTHING ABOUT ME">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyoudontwanttoknowanythingaboutme() {
@@ -2927,7 +2926,7 @@ function showButtonyoudontwanttoknowanythingaboutme() {
 <p id="youdontwanttoknowanythingaboutme"></p>
 
 
-###### <input type = "button" onclick = "showButtontoutlair()" value = "⏯5 - TOUTLAIR">
+###### <input type = "button" onclick = "showButtontoutlair()" value = "▶️5 - TOUTLAIR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoutlair() {
@@ -2938,7 +2937,7 @@ function showButtontoutlair() {
 <p id="toutlair"></p>
 
 
-###### <input type = "button" onclick = "showButtonswarmv()" value = "⏯6 - SWARMV">
+###### <input type = "button" onclick = "showButtonswarmv()" value = "▶️6 - SWARMV">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonswarmv() {
@@ -2949,7 +2948,7 @@ function showButtonswarmv() {
 <p id="swarmv"></p>
 
 
-###### <input type = "button" onclick = "showButtonpledge()" value = "⏯7 - PLEDGE">
+###### <input type = "button" onclick = "showButtonpledge()" value = "▶️7 - PLEDGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpledge() {
@@ -2960,7 +2959,7 @@ function showButtonpledge() {
 <p id="pledge"></p>
 
 
-###### <input type = "button" onclick = "showButtonfletsif()" value = "⏯8 - FLETSIF">
+###### <input type = "button" onclick = "showButtonfletsif()" value = "▶️8 - FLETSIF">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfletsif() {
@@ -2971,7 +2970,7 @@ function showButtonfletsif() {
 <p id="fletsif"></p>
 
 
-###### <input type = "button" onclick = "showButtonstateofmatters()" value = "⏯9 - STATE OF MATTERS">
+###### <input type = "button" onclick = "showButtonstateofmatters()" value = "▶️9 - STATE OF MATTERS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstateofmatters() {
@@ -2982,7 +2981,7 @@ function showButtonstateofmatters() {
 <p id="stateofmatters"></p>
 
 
-###### <input type = "button" onclick = "showButtonnowwhat()" value = "⏯10 - NOW WHAT">
+###### <input type = "button" onclick = "showButtonnowwhat()" value = "▶️10 - NOW WHAT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnowwhat() {
@@ -2993,7 +2992,7 @@ function showButtonnowwhat() {
 <p id="nowwhat"></p>
 
 
-###### <input type = "button" onclick = "showButtondoll()" value = "⏯11 - DOLL">
+###### <input type = "button" onclick = "showButtondoll()" value = "▶️11 - DOLL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondoll() {
@@ -3004,7 +3003,7 @@ function showButtondoll() {
 <p id="doll"></p>
 
 
-###### <input type = "button" onclick = "showButtonfirst()" value = "⏯12 - FIRST">
+###### <input type = "button" onclick = "showButtonfirst()" value = "▶️12 - FIRST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfirst() {
@@ -3015,7 +3014,7 @@ function showButtonfirst() {
 <p id="first"></p>
 
 
-###### <input type = "button" onclick = "showButtonthough()" value = "⏯13 - THOUGH">
+###### <input type = "button" onclick = "showButtonthough()" value = "▶️13 - THOUGH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthough() {
@@ -3026,7 +3025,7 @@ function showButtonthough() {
 <p id="though"></p>
 
 
-###### <input type = "button" onclick = "showButtonnotthelast()" value = "⏯14 - NOT THE LAST">
+###### <input type = "button" onclick = "showButtonnotthelast()" value = "▶️14 - NOT THE LAST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnotthelast() {
@@ -3037,7 +3036,7 @@ function showButtonnotthelast() {
 <p id="notthelast"></p>
 
 
-###### <input type = "button" onclick = "showButtoncheckitout()" value = "⏯15 - CHECK IT OUT">
+###### <input type = "button" onclick = "showButtoncheckitout()" value = "▶️15 - CHECK IT OUT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncheckitout() {
@@ -3048,7 +3047,7 @@ function showButtoncheckitout() {
 <p id="checkitout"></p>
 
 
-###### <input type = "button" onclick = "showButtonnumbers()" value = "⏯16 - NUMBERS">
+###### <input type = "button" onclick = "showButtonnumbers()" value = "▶️16 - NUMBERS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnumbers() {
@@ -3059,7 +3058,7 @@ function showButtonnumbers() {
 <p id="numbers"></p>
 
 
-###### <input type = "button" onclick = "showButtonannexes()" value = "⏯17 - ANNEXES">
+###### <input type = "button" onclick = "showButtonannexes()" value = "▶️17 - ANNEXES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonannexes() {
@@ -3070,7 +3069,7 @@ function showButtonannexes() {
 <p id="annexes"></p>
 
 
-###### <input type = "button" onclick = "showButtonunaluz()" value = "⏯18 - UNA LUZ">
+###### <input type = "button" onclick = "showButtonunaluz()" value = "▶️18 - UNA LUZ">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunaluz() {
@@ -3081,7 +3080,7 @@ function showButtonunaluz() {
 <p id="unaluz"></p>
 
 
-###### <input type = "button" onclick = "showButtondoor()" value = "⏯19 - DOOR">
+###### <input type = "button" onclick = "showButtondoor()" value = "▶️19 - DOOR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondoor() {
@@ -3092,7 +3091,7 @@ function showButtondoor() {
 <p id="door"></p>
 
 
-###### <input type = "button" onclick = "showButtonwired()" value = "⏯20 - WIRED">
+###### <input type = "button" onclick = "showButtonwired()" value = "▶️20 - WIRED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwired() {
@@ -3103,7 +3102,7 @@ function showButtonwired() {
 <p id="wired"></p>
 
 
-###### <input type = "button" onclick = "showButtontogetherstay()" value = "⏯21 - TOGETHER STAY">
+###### <input type = "button" onclick = "showButtontogetherstay()" value = "▶️21 - TOGETHER STAY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontogetherstay() {
@@ -3114,7 +3113,7 @@ function showButtontogetherstay() {
 <p id="togetherstay"></p>
 
 
-###### <input type = "button" onclick = "showButtonyes()" value = "⏯22 - YES">
+###### <input type = "button" onclick = "showButtonyes()" value = "▶️22 - YES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyes() {
@@ -3125,7 +3124,7 @@ function showButtonyes() {
 <p id="yes"></p>
 
 
-###### <input type = "button" onclick = "showButtonzoom()" value = "⏯23 - ZOOM">
+###### <input type = "button" onclick = "showButtonzoom()" value = "▶️23 - ZOOM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonzoom() {
@@ -3136,7 +3135,7 @@ function showButtonzoom() {
 <p id="zoom"></p>
 
 
-###### <input type = "button" onclick = "showButtoncastlequeenside()" value = "⏯24 - CASTLE QUEENSIDE">
+###### <input type = "button" onclick = "showButtoncastlequeenside()" value = "▶️24 - CASTLE QUEENSIDE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncastlequeenside() {
@@ -3150,7 +3149,7 @@ function showButtoncastlequeenside() {
 #### 14.- 'The bad words' <a name=thebadwords></a>
 [![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
 
-###### <input type = "button" onclick = "showButtonyouthieve()" value = "⏯1 - YOUTHIEVE">
+###### <input type = "button" onclick = "showButtonyouthieve()" value = "▶️1 - YOUTHIEVE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyouthieve() {
@@ -3161,7 +3160,7 @@ function showButtonyouthieve() {
 <p id="youthieve"></p>
 
 
-###### <input type = "button" onclick = "showButtonftheindustry()" value = "⏯2 - F THE INDUSTRY">
+###### <input type = "button" onclick = "showButtonftheindustry()" value = "▶️2 - F THE INDUSTRY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonftheindustry() {
@@ -3172,7 +3171,7 @@ function showButtonftheindustry() {
 <p id="ftheindustry"></p>
 
 
-###### <input type = "button" onclick = "showButtonsmokethelaw()" value = "⏯3 - SMOKE THE LAW">
+###### <input type = "button" onclick = "showButtonsmokethelaw()" value = "▶️3 - SMOKE THE LAW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsmokethelaw() {
@@ -3183,7 +3182,7 @@ function showButtonsmokethelaw() {
 <p id="smokethelaw"></p>
 
 
-###### <input type = "button" onclick = "showButtonrapemypockets()" value = "⏯4 - RAPE MY POCKETS">
+###### <input type = "button" onclick = "showButtonrapemypockets()" value = "▶️4 - RAPE MY POCKETS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrapemypockets() {
@@ -3194,7 +3193,7 @@ function showButtonrapemypockets() {
 <p id="rapemypockets"></p>
 
 
-###### <input type = "button" onclick = "showButtonfreedomslaught()" value = "⏯5 - FREEDOM SLAUGHT">
+###### <input type = "button" onclick = "showButtonfreedomslaught()" value = "▶️5 - FREEDOM SLAUGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfreedomslaught() {
@@ -3205,7 +3204,7 @@ function showButtonfreedomslaught() {
 <p id="freedomslaught"></p>
 
 
-###### <input type = "button" onclick = "showButtonhijackthoughts()" value = "⏯6 - HIJACK THOUGHTS">
+###### <input type = "button" onclick = "showButtonhijackthoughts()" value = "▶️6 - HIJACK THOUGHTS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhijackthoughts() {
@@ -3216,7 +3215,7 @@ function showButtonhijackthoughts() {
 <p id="hijackthoughts"></p>
 
 
-###### <input type = "button" onclick = "showButtonemotionalterrorism()" value = "⏯7 - EMOTIONAL TERRORISM">
+###### <input type = "button" onclick = "showButtonemotionalterrorism()" value = "▶️7 - EMOTIONAL TERRORISM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonemotionalterrorism() {
@@ -3227,7 +3226,7 @@ function showButtonemotionalterrorism() {
 <p id="emotionalterrorism"></p>
 
 
-###### <input type = "button" onclick = "showButtontrafficunderothersinfluence()" value = "⏯8 - TRAFFIC UNDER OTHER'S INFLUENCE">
+###### <input type = "button" onclick = "showButtontrafficunderothersinfluence()" value = "▶️8 - TRAFFIC UNDER OTHER'S INFLUENCE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrafficunderothersinfluence() {
@@ -3238,7 +3237,7 @@ function showButtontrafficunderothersinfluence() {
 <p id="trafficunderothersinfluence"></p>
 
 
-###### <input type = "button" onclick = "showButtondenounceyourneighbor()" value = "⏯9 - DENOUNCE YOUR NEIGHBOR">
+###### <input type = "button" onclick = "showButtondenounceyourneighbor()" value = "▶️9 - DENOUNCE YOUR NEIGHBOR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondenounceyourneighbor() {
@@ -3249,7 +3248,7 @@ function showButtondenounceyourneighbor() {
 <p id="denounceyourneighbor"></p>
 
 
-###### <input type = "button" onclick = "showButtoncorruptionpillage()" value = "⏯10 - CORRUPTION PILLAGE">
+###### <input type = "button" onclick = "showButtoncorruptionpillage()" value = "▶️10 - CORRUPTION PILLAGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncorruptionpillage() {
@@ -3260,7 +3259,7 @@ function showButtoncorruptionpillage() {
 <p id="corruptionpillage"></p>
 
 
-###### <input type = "button" onclick = "showButtonseditionfromearth()" value = "⏯11 - SEDITION FROM EARTH">
+###### <input type = "button" onclick = "showButtonseditionfromearth()" value = "▶️11 - SEDITION FROM EARTH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonseditionfromearth() {
@@ -3271,7 +3270,7 @@ function showButtonseditionfromearth() {
 <p id="seditionfromearth"></p>
 
 
-###### <input type = "button" onclick = "showButtondisobeythechildren()" value = "⏯12 - DISOBEY THE CHILDREN">
+###### <input type = "button" onclick = "showButtondisobeythechildren()" value = "▶️12 - DISOBEY THE CHILDREN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondisobeythechildren() {
@@ -3282,7 +3281,7 @@ function showButtondisobeythechildren() {
 <p id="disobeythechildren"></p>
 
 
-###### <input type = "button" onclick = "showButtonaccomplicesoftyranny()" value = "⏯13 - ACCOMPLICES OF TYRANNY">
+###### <input type = "button" onclick = "showButtonaccomplicesoftyranny()" value = "▶️13 - ACCOMPLICES OF TYRANNY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaccomplicesoftyranny() {
@@ -3293,7 +3292,7 @@ function showButtonaccomplicesoftyranny() {
 <p id="accomplicesoftyranny"></p>
 
 
-###### <input type = "button" onclick = "showButtonsuicidecollective()" value = "⏯14 - SUICIDE COLLECTIVE">
+###### <input type = "button" onclick = "showButtonsuicidecollective()" value = "▶️14 - SUICIDE COLLECTIVE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsuicidecollective() {
@@ -3304,7 +3303,7 @@ function showButtonsuicidecollective() {
 <p id="suicidecollective"></p>
 
 
-###### <input type = "button" onclick = "showButtonbreakfastatfakenews()" value = "⏯15 - BREAKFAST AT FAKENEW'S">
+###### <input type = "button" onclick = "showButtonbreakfastatfakenews()" value = "▶️15 - BREAKFAST AT FAKENEW'S">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbreakfastatfakenews() {
@@ -3315,7 +3314,7 @@ function showButtonbreakfastatfakenews() {
 <p id="breakfastatfakenews"></p>
 
 
-###### <input type = "button" onclick = "showButtonpureuncutdrug()" value = "⏯16 - PURE UNCUT DRUG">
+###### <input type = "button" onclick = "showButtonpureuncutdrug()" value = "▶️16 - PURE UNCUT DRUG">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpureuncutdrug() {
@@ -3326,7 +3325,7 @@ function showButtonpureuncutdrug() {
 <p id="pureuncutdrug"></p>
 
 
-###### <input type = "button" onclick = "showButtonrevealthelies()" value = "⏯17 - REVEAL THE LIES">
+###### <input type = "button" onclick = "showButtonrevealthelies()" value = "▶️17 - REVEAL THE LIES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonrevealthelies() {
@@ -3337,7 +3336,7 @@ function showButtonrevealthelies() {
 <p id="revealthelies"></p>
 
 
-###### <input type = "button" onclick = "showButtondumbintellectualproperty()" value = "⏯18 - DUMB INTELLECTUAL PROPERTY">
+###### <input type = "button" onclick = "showButtondumbintellectualproperty()" value = "▶️18 - DUMB INTELLECTUAL PROPERTY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondumbintellectualproperty() {
@@ -3348,7 +3347,7 @@ function showButtondumbintellectualproperty() {
 <p id="dumbintellectualproperty"></p>
 
 
-###### <input type = "button" onclick = "showButtonspeechoffakefreedom()" value = "⏯19 - SPEECH OF FAKE FREEDOM">
+###### <input type = "button" onclick = "showButtonspeechoffakefreedom()" value = "▶️19 - SPEECH OF FAKE FREEDOM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonspeechoffakefreedom() {
@@ -3359,7 +3358,7 @@ function showButtonspeechoffakefreedom() {
 <p id="speechoffakefreedom"></p>
 
 
-###### <input type = "button" onclick = "showButtonglobalalarm()" value = "⏯20 - GLOBAL ALARM">
+###### <input type = "button" onclick = "showButtonglobalalarm()" value = "▶️20 - GLOBAL ALARM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonglobalalarm() {
@@ -3370,7 +3369,7 @@ function showButtonglobalalarm() {
 <p id="globalalarm"></p>
 
 
-###### <input type = "button" onclick = "showButtonbacktoanewstateofnormality()" value = "⏯21 - BACK TO A NEW STATE OF NORMALITY">
+###### <input type = "button" onclick = "showButtonbacktoanewstateofnormality()" value = "▶️21 - BACK TO A NEW STATE OF NORMALITY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbacktoanewstateofnormality() {
@@ -3384,7 +3383,7 @@ function showButtonbacktoanewstateofnormality() {
 #### 15.- 'Journey to Wasted Youth' <a name=journeytowastedyouth></a>
 [![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
 
-###### <input type = "button" onclick = "showButtongetyouhype()" value = "⏯1 - GET YOU HYPE">
+###### <input type = "button" onclick = "showButtongetyouhype()" value = "▶️1 - GET YOU HYPE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongetyouhype() {
@@ -3395,7 +3394,7 @@ function showButtongetyouhype() {
 <p id="getyouhype"></p>
 
 
-###### <input type = "button" onclick = "showButtondoyourwill()" value = "⏯2 - DO YOUR WILL">
+###### <input type = "button" onclick = "showButtondoyourwill()" value = "▶️2 - DO YOUR WILL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondoyourwill() {
@@ -3406,7 +3405,7 @@ function showButtondoyourwill() {
 <p id="doyourwill"></p>
 
 
-###### <input type = "button" onclick = "showButtonweightofego()" value = "⏯3 - WEIGHT OF EGO">
+###### <input type = "button" onclick = "showButtonweightofego()" value = "▶️3 - WEIGHT OF EGO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonweightofego() {
@@ -3417,7 +3416,7 @@ function showButtonweightofego() {
 <p id="weightofego"></p>
 
 
-###### <input type = "button" onclick = "showButtoniownacomputer()" value = "⏯4 - I OWN A COMPUTER">
+###### <input type = "button" onclick = "showButtoniownacomputer()" value = "▶️4 - I OWN A COMPUTER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoniownacomputer() {
@@ -3428,7 +3427,7 @@ function showButtoniownacomputer() {
 <p id="iownacomputer"></p>
 
 
-###### <input type = "button" onclick = "showButtonsoulimpulse()" value = "⏯5 - SOUL IMPULSE">
+###### <input type = "button" onclick = "showButtonsoulimpulse()" value = "▶️5 - SOUL IMPULSE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoulimpulse() {
@@ -3439,7 +3438,7 @@ function showButtonsoulimpulse() {
 <p id="soulimpulse"></p>
 
 
-###### <input type = "button" onclick = "showButtontechne()" value = "⏯6 - TECHNE">
+###### <input type = "button" onclick = "showButtontechne()" value = "▶️6 - TECHNE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontechne() {
@@ -3450,7 +3449,7 @@ function showButtontechne() {
 <p id="techne"></p>
 
 
-###### <input type = "button" onclick = "showButtonmelalcoholiac()" value = "⏯7 - MELALCOHOLIAC">
+###### <input type = "button" onclick = "showButtonmelalcoholiac()" value = "▶️7 - MELALCOHOLIAC">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmelalcoholiac() {
@@ -3461,7 +3460,7 @@ function showButtonmelalcoholiac() {
 <p id="melalcoholiac"></p>
 
 
-###### <input type = "button" onclick = "showButtonpeevish()" value = "⏯8 - PEEVISH">
+###### <input type = "button" onclick = "showButtonpeevish()" value = "▶️8 - PEEVISH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpeevish() {
@@ -3472,7 +3471,7 @@ function showButtonpeevish() {
 <p id="peevish"></p>
 
 
-###### <input type = "button" onclick = "showButtonbloodyvalhalla()" value = "⏯9 - BLOODY VALHALLA">
+###### <input type = "button" onclick = "showButtonbloodyvalhalla()" value = "▶️9 - BLOODY VALHALLA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbloodyvalhalla() {
@@ -3483,7 +3482,7 @@ function showButtonbloodyvalhalla() {
 <p id="bloodyvalhalla"></p>
 
 
-###### <input type = "button" onclick = "showButtonafflatus()" value = "⏯10 - AFFLATUS">
+###### <input type = "button" onclick = "showButtonafflatus()" value = "▶️10 - AFFLATUS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonafflatus() {
@@ -3494,7 +3493,7 @@ function showButtonafflatus() {
 <p id="afflatus"></p>
 
 
-###### <input type = "button" onclick = "showButtonwaytodeath()" value = "⏯11 - WAY TO DEATH">
+###### <input type = "button" onclick = "showButtonwaytodeath()" value = "▶️11 - WAY TO DEATH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwaytodeath() {
@@ -3505,7 +3504,7 @@ function showButtonwaytodeath() {
 <p id="waytodeath"></p>
 
 
-###### <input type = "button" onclick = "showButtoncrossedlooks()" value = "⏯12 - CROSSED LOOKS">
+###### <input type = "button" onclick = "showButtoncrossedlooks()" value = "▶️12 - CROSSED LOOKS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncrossedlooks() {
@@ -3516,7 +3515,7 @@ function showButtoncrossedlooks() {
 <p id="crossedlooks"></p>
 
 
-###### <input type = "button" onclick = "showButtonconquer()" value = "⏯13 - CONQUER">
+###### <input type = "button" onclick = "showButtonconquer()" value = "▶️13 - CONQUER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconquer() {
@@ -3527,7 +3526,7 @@ function showButtonconquer() {
 <p id="conquer"></p>
 
 
-###### <input type = "button" onclick = "showButtonnotmetotalk()" value = "⏯14 - NOT ME TO TALK">
+###### <input type = "button" onclick = "showButtonnotmetotalk()" value = "▶️14 - NOT ME TO TALK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnotmetotalk() {
@@ -3538,7 +3537,7 @@ function showButtonnotmetotalk() {
 <p id="notmetotalk"></p>
 
 
-###### <input type = "button" onclick = "showButtonforwhatdo()" value = "⏯15 - FOR WHAT DO">
+###### <input type = "button" onclick = "showButtonforwhatdo()" value = "▶️15 - FOR WHAT DO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforwhatdo() {
@@ -3549,7 +3548,7 @@ function showButtonforwhatdo() {
 <p id="forwhatdo"></p>
 
 
-###### <input type = "button" onclick = "showButtonlewej()" value = "⏯16 - LEWEJ">
+###### <input type = "button" onclick = "showButtonlewej()" value = "▶️16 - LEWEJ">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlewej() {
@@ -3560,7 +3559,7 @@ function showButtonlewej() {
 <p id="lewej"></p>
 
 
-###### <input type = "button" onclick = "showButtonwicked()" value = "⏯17 - WICKED">
+###### <input type = "button" onclick = "showButtonwicked()" value = "▶️17 - WICKED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwicked() {
@@ -3571,7 +3570,7 @@ function showButtonwicked() {
 <p id="wicked"></p>
 
 
-###### <input type = "button" onclick = "showButtondesolate()" value = "⏯18 - DESOLATE">
+###### <input type = "button" onclick = "showButtondesolate()" value = "▶️18 - DESOLATE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondesolate() {
@@ -3582,7 +3581,7 @@ function showButtondesolate() {
 <p id="desolate"></p>
 
 
-###### <input type = "button" onclick = "showButtondeal()" value = "⏯19 - DEAL">
+###### <input type = "button" onclick = "showButtondeal()" value = "▶️19 - DEAL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondeal() {
@@ -3593,7 +3592,7 @@ function showButtondeal() {
 <p id="deal"></p>
 
 
-###### <input type = "button" onclick = "showButtonelope()" value = "⏯20 - ELOPE">
+###### <input type = "button" onclick = "showButtonelope()" value = "▶️20 - ELOPE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonelope() {
@@ -3607,7 +3606,7 @@ function showButtonelope() {
 #### 16.- 'Lyricless Miracles' <a name=lyriclessmiracles></a>
 [![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
 
-###### <input type = "button" onclick = "showButtonplace()" value = "⏯1 - PLACE">
+###### <input type = "button" onclick = "showButtonplace()" value = "▶️1 - PLACE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplace() {
@@ -3618,7 +3617,7 @@ function showButtonplace() {
 <p id="place"></p>
 
 
-###### <input type = "button" onclick = "showButtonheadway()" value = "⏯2 - HEADWAY">
+###### <input type = "button" onclick = "showButtonheadway()" value = "▶️2 - HEADWAY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonheadway() {
@@ -3629,7 +3628,7 @@ function showButtonheadway() {
 <p id="headway"></p>
 
 
-###### <input type = "button" onclick = "showButtonparamountechoes()" value = "⏯3 - PARAMOUNT ECHOES">
+###### <input type = "button" onclick = "showButtonparamountechoes()" value = "▶️3 - PARAMOUNT ECHOES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonparamountechoes() {
@@ -3640,7 +3639,7 @@ function showButtonparamountechoes() {
 <p id="paramountechoes"></p>
 
 
-###### <input type = "button" onclick = "showButtondrifted()" value = "⏯4 - DRIFTED">
+###### <input type = "button" onclick = "showButtondrifted()" value = "▶️4 - DRIFTED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondrifted() {
@@ -3651,7 +3650,7 @@ function showButtondrifted() {
 <p id="drifted"></p>
 
 
-###### <input type = "button" onclick = "showButtonamalgam()" value = "⏯5 - AMALGAM">
+###### <input type = "button" onclick = "showButtonamalgam()" value = "▶️5 - AMALGAM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonamalgam() {
@@ -3662,7 +3661,7 @@ function showButtonamalgam() {
 <p id="amalgam"></p>
 
 
-###### <input type = "button" onclick = "showButtonsoulmates()" value = "⏯6 - SOULMATES">
+###### <input type = "button" onclick = "showButtonsoulmates()" value = "▶️6 - SOULMATES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoulmates() {
@@ -3673,7 +3672,7 @@ function showButtonsoulmates() {
 <p id="soulmates"></p>
 
 
-###### <input type = "button" onclick = "showButtonblue()" value = "⏯7 - BLUE">
+###### <input type = "button" onclick = "showButtonblue()" value = "▶️7 - BLUE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonblue() {
@@ -3684,7 +3683,7 @@ function showButtonblue() {
 <p id="blue"></p>
 
 
-###### <input type = "button" onclick = "showButtonforgottenkisses()" value = "⏯8 - FORGOTTEN KISSES">
+###### <input type = "button" onclick = "showButtonforgottenkisses()" value = "▶️8 - FORGOTTEN KISSES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforgottenkisses() {
@@ -3695,7 +3694,7 @@ function showButtonforgottenkisses() {
 <p id="forgottenkisses"></p>
 
 
-###### <input type = "button" onclick = "showButtonnitwit()" value = "⏯9 - NITWIT">
+###### <input type = "button" onclick = "showButtonnitwit()" value = "▶️9 - NITWIT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnitwit() {
@@ -3706,7 +3705,7 @@ function showButtonnitwit() {
 <p id="nitwit"></p>
 
 
-###### <input type = "button" onclick = "showButtonwaitmefor()" value = "⏯10 - WAIT ME FOR">
+###### <input type = "button" onclick = "showButtonwaitmefor()" value = "▶️10 - WAIT ME FOR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwaitmefor() {
@@ -3717,7 +3716,7 @@ function showButtonwaitmefor() {
 <p id="waitmefor"></p>
 
 
-###### <input type = "button" onclick = "showButtonbackyourwatch()" value = "⏯11 - BACK YOUR WATCH">
+###### <input type = "button" onclick = "showButtonbackyourwatch()" value = "▶️11 - BACK YOUR WATCH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbackyourwatch() {
@@ -3728,7 +3727,7 @@ function showButtonbackyourwatch() {
 <p id="backyourwatch"></p>
 
 
-###### <input type = "button" onclick = "showButtonallalmost()" value = "⏯12 - ALL ALMOST">
+###### <input type = "button" onclick = "showButtonallalmost()" value = "▶️12 - ALL ALMOST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonallalmost() {
@@ -3739,7 +3738,7 @@ function showButtonallalmost() {
 <p id="allalmost"></p>
 
 
-###### <input type = "button" onclick = "showButtonskyline()" value = "⏯13 - SKYLINE">
+###### <input type = "button" onclick = "showButtonskyline()" value = "▶️13 - SKYLINE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonskyline() {
@@ -3750,7 +3749,7 @@ function showButtonskyline() {
 <p id="skyline"></p>
 
 
-###### <input type = "button" onclick = "showButtonitseemsthatthecloudsleftwithyou()" value = "⏯14 - IT SEEMS THAT THE CLOUDS LEFT WITH YOU">
+###### <input type = "button" onclick = "showButtonitseemsthatthecloudsleftwithyou()" value = "▶️14 - IT SEEMS THAT THE CLOUDS LEFT WITH YOU">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonitseemsthatthecloudsleftwithyou() {
@@ -3761,7 +3760,7 @@ function showButtonitseemsthatthecloudsleftwithyou() {
 <p id="itseemsthatthecloudsleftwithyou"></p>
 
 
-###### <input type = "button" onclick = "showButtonmight()" value = "⏯15 - MIGHT">
+###### <input type = "button" onclick = "showButtonmight()" value = "▶️15 - MIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmight() {
@@ -3772,7 +3771,7 @@ function showButtonmight() {
 <p id="might"></p>
 
 
-###### <input type = "button" onclick = "showButtoncasual()" value = "⏯16 - CASUAL">
+###### <input type = "button" onclick = "showButtoncasual()" value = "▶️16 - CASUAL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncasual() {
@@ -3783,7 +3782,7 @@ function showButtoncasual() {
 <p id="casual"></p>
 
 
-###### <input type = "button" onclick = "showButtonuntangled()" value = "⏯17 - UNTANGLED">
+###### <input type = "button" onclick = "showButtonuntangled()" value = "▶️17 - UNTANGLED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonuntangled() {
@@ -3794,7 +3793,7 @@ function showButtonuntangled() {
 <p id="untangled"></p>
 
 
-###### <input type = "button" onclick = "showButtonregrowth()" value = "⏯18 - REGROWTH">
+###### <input type = "button" onclick = "showButtonregrowth()" value = "▶️18 - REGROWTH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonregrowth() {
@@ -3805,7 +3804,7 @@ function showButtonregrowth() {
 <p id="regrowth"></p>
 
 
-###### <input type = "button" onclick = "showButtonburnit()" value = "⏯19 - BURN IT">
+###### <input type = "button" onclick = "showButtonburnit()" value = "▶️19 - BURN IT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonburnit() {
@@ -3816,7 +3815,7 @@ function showButtonburnit() {
 <p id="burnit"></p>
 
 
-###### <input type = "button" onclick = "showButtonconcealed()" value = "⏯20 - CONCEALED">
+###### <input type = "button" onclick = "showButtonconcealed()" value = "▶️20 - CONCEALED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonconcealed() {
@@ -3827,7 +3826,7 @@ function showButtonconcealed() {
 <p id="concealed"></p>
 
 
-###### <input type = "button" onclick = "showButtonlightning()" value = "⏯21 - LIGHTNING">
+###### <input type = "button" onclick = "showButtonlightning()" value = "▶️21 - LIGHTNING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlightning() {
@@ -3841,7 +3840,7 @@ function showButtonlightning() {
 #### 17.- 'irl' <a name=irl></a>
 [![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
 
-###### <input type = "button" onclick = "showButtonmisery()" value = "⏯1.- MISERY">
+###### <input type = "button" onclick = "showButtonmisery()" value = "▶️1.- MISERY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmisery() {
@@ -3852,7 +3851,7 @@ function showButtonmisery() {
 <p id="misery"></p>
 
 
-###### <input type = "button" onclick = "showButtonwonder()" value = "⏯2 - WONDER">
+###### <input type = "button" onclick = "showButtonwonder()" value = "▶️2 - WONDER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwonder() {
@@ -3863,7 +3862,7 @@ function showButtonwonder() {
 <p id="wonder"></p>
 
 
-###### <input type = "button" onclick = "showButtont()" value = "⏯3 - 3">
+###### <input type = "button" onclick = "showButtont()" value = "▶️3 - 3">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtont() {
@@ -3874,7 +3873,7 @@ function showButtont() {
 <p id="t"></p>
 
 
-###### <input type = "button" onclick = "showButtonffff()" value = "⏯4 - 4444">
+###### <input type = "button" onclick = "showButtonffff()" value = "▶️4 - 4444">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonffff() {
@@ -3885,7 +3884,7 @@ function showButtonffff() {
 <p id="ffff"></p>
 
 
-###### <input type = "button" onclick = "showButtonthemusicyouskip()" value = "⏯5 - THE MUSIC YOU SKIP">
+###### <input type = "button" onclick = "showButtonthemusicyouskip()" value = "▶️5 - THE MUSIC YOU SKIP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthemusicyouskip() {
@@ -3896,7 +3895,7 @@ function showButtonthemusicyouskip() {
 <p id="themusicyouskip"></p>
 
 
-###### <input type = "button" onclick = "showButtonhavetohave()" value = "⏯6 - HAVE TO HAVE">
+###### <input type = "button" onclick = "showButtonhavetohave()" value = "▶️6 - HAVE TO HAVE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhavetohave() {
@@ -3907,7 +3906,7 @@ function showButtonhavetohave() {
 <p id="havetohave"></p>
 
 
-###### <input type = "button" onclick = "showButtonlastsummer()" value = "⏯7 - LAST SUMMER">
+###### <input type = "button" onclick = "showButtonlastsummer()" value = "▶️7 - LAST SUMMER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlastsummer() {
@@ -3918,7 +3917,7 @@ function showButtonlastsummer() {
 <p id="lastsummer"></p>
 
 
-###### <input type = "button" onclick = "showButtondownstairs()" value = "⏯8 - DOWNSTAIRS">
+###### <input type = "button" onclick = "showButtondownstairs()" value = "▶️8 - DOWNSTAIRS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondownstairs() {
@@ -3929,7 +3928,7 @@ function showButtondownstairs() {
 <p id="downstairs"></p>
 
 
-###### <input type = "button" onclick = "showButtonflummox()" value = "⏯9 - FLUMMOX">
+###### <input type = "button" onclick = "showButtonflummox()" value = "▶️9 - FLUMMOX">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflummox() {
@@ -3940,7 +3939,7 @@ function showButtonflummox() {
 <p id="flummox"></p>
 
 
-###### <input type = "button" onclick = "showButtonoutcast()" value = "⏯10 - OUTCAST">
+###### <input type = "button" onclick = "showButtonoutcast()" value = "▶️10 - OUTCAST">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoutcast() {
@@ -3951,7 +3950,7 @@ function showButtonoutcast() {
 <p id="outcast"></p>
 
 
-###### <input type = "button" onclick = "showButtonbittergoodbyes()" value = "⏯11 - BITTER GOODBYES">
+###### <input type = "button" onclick = "showButtonbittergoodbyes()" value = "▶️11 - BITTER GOODBYES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbittergoodbyes() {
@@ -3962,7 +3961,7 @@ function showButtonbittergoodbyes() {
 <p id="bittergoodbyes"></p>
 
 
-###### <input type = "button" onclick = "showButtonsand()" value = "⏯12 - SAND">
+###### <input type = "button" onclick = "showButtonsand()" value = "▶️12 - SAND">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsand() {
@@ -3973,7 +3972,7 @@ function showButtonsand() {
 <p id="sand"></p>
 
 
-###### <input type = "button" onclick = "showButtonsunshineeyes()" value = "⏯13 - SUNSHINE EYES">
+###### <input type = "button" onclick = "showButtonsunshineeyes()" value = "▶️13 - SUNSHINE EYES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsunshineeyes() {
@@ -3984,7 +3983,7 @@ function showButtonsunshineeyes() {
 <p id="sunshineeyes"></p>
 
 
-###### <input type = "button" onclick = "showButtonoldhat()" value = "⏯14 - OLD HAT">
+###### <input type = "button" onclick = "showButtonoldhat()" value = "▶️14 - OLD HAT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoldhat() {
@@ -3995,7 +3994,7 @@ function showButtonoldhat() {
 <p id="oldhat"></p>
 
 
-###### <input type = "button" onclick = "showButtonpoorachingheart()" value = "⏯15 - POOR ACHING HEART">
+###### <input type = "button" onclick = "showButtonpoorachingheart()" value = "▶️15 - POOR ACHING HEART">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpoorachingheart() {
@@ -4006,7 +4005,7 @@ function showButtonpoorachingheart() {
 <p id="poorachingheart"></p>
 
 
-###### <input type = "button" onclick = "showButtonhandhold()" value = "⏯16 - HANDHOLD">
+###### <input type = "button" onclick = "showButtonhandhold()" value = "▶️16 - HANDHOLD">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhandhold() {
@@ -4017,7 +4016,7 @@ function showButtonhandhold() {
 <p id="handhold"></p>
 
 
-###### <input type = "button" onclick = "showButtonbaddj()" value = "⏯17 - BAD DJ">
+###### <input type = "button" onclick = "showButtonbaddj()" value = "▶️17 - BAD DJ">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbaddj() {
@@ -4028,7 +4027,7 @@ function showButtonbaddj() {
 <p id="baddj"></p>
 
 
-###### <input type = "button" onclick = "showButtonpayday()" value = "⏯18 - PAY DAY">
+###### <input type = "button" onclick = "showButtonpayday()" value = "▶️18 - PAY DAY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpayday() {
@@ -4042,7 +4041,7 @@ function showButtonpayday() {
 #### 18.- 'before senescence' <a name=beforesenescence></a>
 [![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
 
-###### <input type = "button" onclick = "showButtonbellathorneafacesremix()" value = "⏯LONELY - BELLA THORNE - AFACES REMIX">
+###### <input type = "button" onclick = "showButtonbellathorneafacesremix()" value = "▶️LONELY - BELLA THORNE - AFACES REMIX">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbellathorneafacesremix() {
@@ -4053,7 +4052,7 @@ function showButtonbellathorneafacesremix() {
 <p id="bellathorneafacesremix"></p>
 
 
-###### <input type = "button" onclick = "showButtonpreshrunk()" value = "⏯1 - PRESHRUNK">
+###### <input type = "button" onclick = "showButtonpreshrunk()" value = "▶️1 - PRESHRUNK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpreshrunk() {
@@ -4064,7 +4063,7 @@ function showButtonpreshrunk() {
 <p id="preshrunk"></p>
 
 
-###### <input type = "button" onclick = "showButtonbottle()" value = "⏯2 - BOTTLE">
+###### <input type = "button" onclick = "showButtonbottle()" value = "▶️2 - BOTTLE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbottle() {
@@ -4075,7 +4074,7 @@ function showButtonbottle() {
 <p id="bottle"></p>
 
 
-###### <input type = "button" onclick = "showButtonthatepochyouexisted()" value = "⏯3 - THAT EPOCH YOU EXISTED">
+###### <input type = "button" onclick = "showButtonthatepochyouexisted()" value = "▶️3 - THAT EPOCH YOU EXISTED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthatepochyouexisted() {
@@ -4086,7 +4085,7 @@ function showButtonthatepochyouexisted() {
 <p id="thatepochyouexisted"></p>
 
 
-###### <input type = "button" onclick = "showButtonunplaylisted()" value = "⏯4 - UNPLAYLISTED">
+###### <input type = "button" onclick = "showButtonunplaylisted()" value = "▶️4 - UNPLAYLISTED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunplaylisted() {
@@ -4097,7 +4096,7 @@ function showButtonunplaylisted() {
 <p id="unplaylisted"></p>
 
 
-###### <input type = "button" onclick = "showButtonhangup()" value = "⏯5 - HANG UP">
+###### <input type = "button" onclick = "showButtonhangup()" value = "▶️5 - HANG UP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhangup() {
@@ -4108,7 +4107,7 @@ function showButtonhangup() {
 <p id="hangup"></p>
 
 
-###### <input type = "button" onclick = "showButtoninfraencer()" value = "⏯6 - INFRAENCER">
+###### <input type = "button" onclick = "showButtoninfraencer()" value = "▶️6 - INFRAENCER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoninfraencer() {
@@ -4119,7 +4118,7 @@ function showButtoninfraencer() {
 <p id="infraencer"></p>
 
 
-###### <input type = "button" onclick = "showButtonawryastrays()" value = "⏯7 - AWRY ASTRAYS">
+###### <input type = "button" onclick = "showButtonawryastrays()" value = "▶️7 - AWRY ASTRAYS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonawryastrays() {
@@ -4130,7 +4129,7 @@ function showButtonawryastrays() {
 <p id="awryastrays"></p>
 
 
-###### <input type = "button" onclick = "showButtonlargedresses()" value = "⏯8 - LARGE DRESSES">
+###### <input type = "button" onclick = "showButtonlargedresses()" value = "▶️8 - LARGE DRESSES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlargedresses() {
@@ -4141,7 +4140,7 @@ function showButtonlargedresses() {
 <p id="largedresses"></p>
 
 
-###### <input type = "button" onclick = "showButtongreedings()" value = "⏯9 - GREEDINGS">
+###### <input type = "button" onclick = "showButtongreedings()" value = "▶️9 - GREEDINGS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongreedings() {
@@ -4152,7 +4151,7 @@ function showButtongreedings() {
 <p id="greedings"></p>
 
 
-###### <input type = "button" onclick = "showButtonwhim()" value = "⏯10 - WHIM">
+###### <input type = "button" onclick = "showButtonwhim()" value = "▶️10 - WHIM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhim() {
@@ -4163,7 +4162,7 @@ function showButtonwhim() {
 <p id="whim"></p>
 
 
-###### <input type = "button" onclick = "showButtonflail()" value = "⏯11 - FLAIL">
+###### <input type = "button" onclick = "showButtonflail()" value = "▶️11 - FLAIL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflail() {
@@ -4174,7 +4173,7 @@ function showButtonflail() {
 <p id="flail"></p>
 
 
-###### <input type = "button" onclick = "showButtonquestions()" value = "⏯12 - QUESTIONS">
+###### <input type = "button" onclick = "showButtonquestions()" value = "▶️12 - QUESTIONS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonquestions() {
@@ -4185,7 +4184,7 @@ function showButtonquestions() {
 <p id="questions"></p>
 
 
-###### <input type = "button" onclick = "showButtonofnewtitleso()" value = "⏯13 - 14 - NEW TITLES1">
+###### <input type = "button" onclick = "showButtonofnewtitleso()" value = "▶️13 - 14 - NEW TITLES1">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonofnewtitleso() {
@@ -4196,7 +4195,7 @@ function showButtonofnewtitleso() {
 <p id="ofnewtitleso"></p>
 
 
-###### <input type = "button" onclick = "showButtonexternalthoughts()" value = "⏯14 - EXTERNAL THOUGHTS">
+###### <input type = "button" onclick = "showButtonexternalthoughts()" value = "▶️14 - EXTERNAL THOUGHTS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonexternalthoughts() {
@@ -4207,7 +4206,7 @@ function showButtonexternalthoughts() {
 <p id="externalthoughts"></p>
 
 
-###### <input type = "button" onclick = "showButtonchiripitiflauticus()" value = "⏯15 -CHIRIPITIFLAUTICUS">
+###### <input type = "button" onclick = "showButtonchiripitiflauticus()" value = "▶️15 -CHIRIPITIFLAUTICUS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchiripitiflauticus() {
@@ -4218,7 +4217,7 @@ function showButtonchiripitiflauticus() {
 <p id="chiripitiflauticus"></p>
 
 
-###### <input type = "button" onclick = "showButtoncat()" value = "⏯16 - CAT">
+###### <input type = "button" onclick = "showButtoncat()" value = "▶️16 - CAT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncat() {
@@ -4229,7 +4228,7 @@ function showButtoncat() {
 <p id="cat"></p>
 
 
-###### <input type = "button" onclick = "showButtonhithere()" value = "⏯17 - HI THERE">
+###### <input type = "button" onclick = "showButtonhithere()" value = "▶️17 - HI THERE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhithere() {
@@ -4240,7 +4239,7 @@ function showButtonhithere() {
 <p id="hithere"></p>
 
 
-###### <input type = "button" onclick = "showButtonsoundtestt()" value = "⏯18 - SOUNDTEST3">
+###### <input type = "button" onclick = "showButtonsoundtestt()" value = "▶️18 - SOUNDTEST3">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoundtestt() {
@@ -4254,7 +4253,7 @@ function showButtonsoundtestt() {
 #### 19.- 'back to the origins' <a name=backtotheorigins></a>
 [![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
 
-###### <input type = "button" onclick = "showButtonthissonghasnovideo()" value = "⏯1.- THIS SONG HAS NO VIDEO">
+###### <input type = "button" onclick = "showButtonthissonghasnovideo()" value = "▶️1.- THIS SONG HAS NO VIDEO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthissonghasnovideo() {
@@ -4265,7 +4264,7 @@ function showButtonthissonghasnovideo() {
 <p id="thissonghasnovideo"></p>
 
 
-###### <input type = "button" onclick = "showButtontarnish()" value = "⏯2.- TARNISH">
+###### <input type = "button" onclick = "showButtontarnish()" value = "▶️2.- TARNISH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontarnish() {
@@ -4276,7 +4275,7 @@ function showButtontarnish() {
 <p id="tarnish"></p>
 
 
-###### <input type = "button" onclick = "showButtonliek()" value = "⏯3.- LIEK">
+###### <input type = "button" onclick = "showButtonliek()" value = "▶️3.- LIEK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonliek() {
@@ -4287,7 +4286,7 @@ function showButtonliek() {
 <p id="liek"></p>
 
 
-###### <input type = "button" onclick = "showButtonmakingmecrazy()" value = "⏯4.- MAKING ME CRAZY">
+###### <input type = "button" onclick = "showButtonmakingmecrazy()" value = "▶️4.- MAKING ME CRAZY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmakingmecrazy() {
@@ -4298,7 +4297,7 @@ function showButtonmakingmecrazy() {
 <p id="makingmecrazy"></p>
 
 
-###### <input type = "button" onclick = "showButtonsticktothetree()" value = "⏯5.- STICK TO THE TREE">
+###### <input type = "button" onclick = "showButtonsticktothetree()" value = "▶️5.- STICK TO THE TREE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsticktothetree() {
@@ -4309,7 +4308,7 @@ function showButtonsticktothetree() {
 <p id="sticktothetree"></p>
 
 
-###### <input type = "button" onclick = "showButtonvitriolic()" value = "⏯6.- VITRIOLIC">
+###### <input type = "button" onclick = "showButtonvitriolic()" value = "▶️6.- VITRIOLIC">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonvitriolic() {
@@ -4320,7 +4319,7 @@ function showButtonvitriolic() {
 <p id="vitriolic"></p>
 
 
-###### <input type = "button" onclick = "showButtonmixptakes()" value = "⏯7.- MIXPTAKES">
+###### <input type = "button" onclick = "showButtonmixptakes()" value = "▶️7.- MIXPTAKES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmixptakes() {
@@ -4331,7 +4330,7 @@ function showButtonmixptakes() {
 <p id="mixptakes"></p>
 
 
-###### <input type = "button" onclick = "showButtonoldtimes()" value = "⏯8.- OLD TIMES">
+###### <input type = "button" onclick = "showButtonoldtimes()" value = "▶️8.- OLD TIMES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonoldtimes() {
@@ -4342,7 +4341,7 @@ function showButtonoldtimes() {
 <p id="oldtimes"></p>
 
 
-###### <input type = "button" onclick = "showButtonlongtimenosee()" value = "⏯9.- LONG TIME NO SEE">
+###### <input type = "button" onclick = "showButtonlongtimenosee()" value = "▶️9.- LONG TIME NO SEE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlongtimenosee() {
@@ -4353,7 +4352,7 @@ function showButtonlongtimenosee() {
 <p id="longtimenosee"></p>
 
 
-###### <input type = "button" onclick = "showButtontrapdbyu()" value = "⏯10.- TRAP'D BY U">
+###### <input type = "button" onclick = "showButtontrapdbyu()" value = "▶️10.- TRAP'D BY U">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrapdbyu() {
@@ -4364,7 +4363,7 @@ function showButtontrapdbyu() {
 <p id="trapdbyu"></p>
 
 
-###### <input type = "button" onclick = "showButtonflyingneontires()" value = "⏯11.- FLYING NEON TIRES">
+###### <input type = "button" onclick = "showButtonflyingneontires()" value = "▶️11.- FLYING NEON TIRES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflyingneontires() {
@@ -4375,7 +4374,7 @@ function showButtonflyingneontires() {
 <p id="flyingneontires"></p>
 
 
-###### <input type = "button" onclick = "showButtonsoundtestt()" value = "⏯12.- SOUNDTEST2">
+###### <input type = "button" onclick = "showButtonsoundtestt()" value = "▶️12.- SOUNDTEST2">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsoundtestt() {
@@ -4386,7 +4385,7 @@ function showButtonsoundtestt() {
 <p id="soundtestt"></p>
 
 
-###### <input type = "button" onclick = "showButtondestinyrepeats()" value = "⏯13.- DESTINY REPEATS">
+###### <input type = "button" onclick = "showButtondestinyrepeats()" value = "▶️13.- DESTINY REPEATS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondestinyrepeats() {
@@ -4397,7 +4396,7 @@ function showButtondestinyrepeats() {
 <p id="destinyrepeats"></p>
 
 
-###### <input type = "button" onclick = "showButtonmymotherssoftener()" value = "⏯14.- MY MOTHER'S SOFTENER">
+###### <input type = "button" onclick = "showButtonmymotherssoftener()" value = "▶️14.- MY MOTHER'S SOFTENER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmymotherssoftener() {
@@ -4408,7 +4407,7 @@ function showButtonmymotherssoftener() {
 <p id="mymotherssoftener"></p>
 
 
-###### <input type = "button" onclick = "showButtondial()" value = "⏯15.- DIAL">
+###### <input type = "button" onclick = "showButtondial()" value = "▶️15.- DIAL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondial() {
@@ -4419,7 +4418,7 @@ function showButtondial() {
 <p id="dial"></p>
 
 
-###### <input type = "button" onclick = "showButtonlahijadefranco()" value = "⏯16.- LA HIJA DE FRANCO">
+###### <input type = "button" onclick = "showButtonlahijadefranco()" value = "▶️16.- LA HIJA DE FRANCO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlahijadefranco() {
@@ -4430,7 +4429,7 @@ function showButtonlahijadefranco() {
 <p id="lahijadefranco"></p>
 
 
-###### <input type = "button" onclick = "showButtonsintonize()" value = "⏯17.- SINTONIZE">
+###### <input type = "button" onclick = "showButtonsintonize()" value = "▶️17.- SINTONIZE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsintonize() {
@@ -4441,7 +4440,7 @@ function showButtonsintonize() {
 <p id="sintonize"></p>
 
 
-###### <input type = "button" onclick = "showButtonastronauta()" value = "⏯18.- ASTRONAUTA">
+###### <input type = "button" onclick = "showButtonastronauta()" value = "▶️18.- ASTRONAUTA">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonastronauta() {
@@ -4452,7 +4451,7 @@ function showButtonastronauta() {
 <p id="astronauta"></p>
 
 
-###### <input type = "button" onclick = "showButtonschedules()" value = "⏯19.- SCHEDULES">
+###### <input type = "button" onclick = "showButtonschedules()" value = "▶️19.- SCHEDULES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonschedules() {
@@ -4463,7 +4462,7 @@ function showButtonschedules() {
 <p id="schedules"></p>
 
 
-###### <input type = "button" onclick = "showButtonbluelightedrain()" value = "⏯20.- BLUE LIGHTED RAIN">
+###### <input type = "button" onclick = "showButtonbluelightedrain()" value = "▶️20.- BLUE LIGHTED RAIN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbluelightedrain() {
@@ -4474,7 +4473,7 @@ function showButtonbluelightedrain() {
 <p id="bluelightedrain"></p>
 
 
-###### <input type = "button" onclick = "showButtongoodnight()" value = "⏯21.- GOOD NIGHT">
+###### <input type = "button" onclick = "showButtongoodnight()" value = "▶️21.- GOOD NIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongoodnight() {
@@ -4488,7 +4487,7 @@ function showButtongoodnight() {
 #### 20.- 'conversation conservation' <a name=conversationconservation></a>
 [![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
 
-###### <input type = "button" onclick = "showButtonmessystreak()" value = "⏯1.- MESSY STREAK">
+###### <input type = "button" onclick = "showButtonmessystreak()" value = "▶️1.- MESSY STREAK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmessystreak() {
@@ -4499,7 +4498,7 @@ function showButtonmessystreak() {
 <p id="messystreak"></p>
 
 
-###### <input type = "button" onclick = "showButtonthingsremoved()" value = "⏯2.- THINGS REMOVED">
+###### <input type = "button" onclick = "showButtonthingsremoved()" value = "▶️2.- THINGS REMOVED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonthingsremoved() {
@@ -4510,7 +4509,7 @@ function showButtonthingsremoved() {
 <p id="thingsremoved"></p>
 
 
-###### <input type = "button" onclick = "showButtonmanscompliments()" value = "⏯3.- MAN'S COMPLIMENTS">
+###### <input type = "button" onclick = "showButtonmanscompliments()" value = "▶️3.- MAN'S COMPLIMENTS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmanscompliments() {
@@ -4521,7 +4520,7 @@ function showButtonmanscompliments() {
 <p id="manscompliments"></p>
 
 
-###### <input type = "button" onclick = "showButtonmamicallyoulater()" value = "⏯4.- MAMI CALL YOU LATER">
+###### <input type = "button" onclick = "showButtonmamicallyoulater()" value = "▶️4.- MAMI CALL YOU LATER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmamicallyoulater() {
@@ -4532,7 +4531,7 @@ function showButtonmamicallyoulater() {
 <p id="mamicallyoulater"></p>
 
 
-###### <input type = "button" onclick = "showButtonsocheap()" value = "⏯5.- SO CHEAP">
+###### <input type = "button" onclick = "showButtonsocheap()" value = "▶️5.- SO CHEAP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsocheap() {
@@ -4543,7 +4542,7 @@ function showButtonsocheap() {
 <p id="socheap"></p>
 
 
-###### <input type = "button" onclick = "showButtonaftermath()" value = "⏯6.- AFTERMATH">
+###### <input type = "button" onclick = "showButtonaftermath()" value = "▶️6.- AFTERMATH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaftermath() {
@@ -4554,7 +4553,7 @@ function showButtonaftermath() {
 <p id="aftermath"></p>
 
 
-###### <input type = "button" onclick = "showButtonlastdaysmorningbedroomtrash()" value = "⏯7.- LAST DAY'S MORNING BEDROOM TRASH">
+###### <input type = "button" onclick = "showButtonlastdaysmorningbedroomtrash()" value = "▶️7.- LAST DAY'S MORNING BEDROOM TRASH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlastdaysmorningbedroomtrash() {
@@ -4565,7 +4564,7 @@ function showButtonlastdaysmorningbedroomtrash() {
 <p id="lastdaysmorningbedroomtrash"></p>
 
 
-###### <input type = "button" onclick = "showButtonfirstdaysafternoondormerjunk()" value = "⏯8.- FIRST DAY'S AFTERNOON DORMER JUNK">
+###### <input type = "button" onclick = "showButtonfirstdaysafternoondormerjunk()" value = "▶️8.- FIRST DAY'S AFTERNOON DORMER JUNK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfirstdaysafternoondormerjunk() {
@@ -4576,7 +4575,7 @@ function showButtonfirstdaysafternoondormerjunk() {
 <p id="firstdaysafternoondormerjunk"></p>
 
 
-###### <input type = "button" onclick = "showButtontired()" value = "⏯9.- TIRED">
+###### <input type = "button" onclick = "showButtontired()" value = "▶️9.- TIRED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontired() {
@@ -4587,7 +4586,7 @@ function showButtontired() {
 <p id="tired"></p>
 
 
-###### <input type = "button" onclick = "showButtonwordsofchoice()" value = "⏯10.- WORDS OF CHOICE">
+###### <input type = "button" onclick = "showButtonwordsofchoice()" value = "▶️10.- WORDS OF CHOICE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwordsofchoice() {
@@ -4598,7 +4597,7 @@ function showButtonwordsofchoice() {
 <p id="wordsofchoice"></p>
 
 
-###### <input type = "button" onclick = "showButtongators()" value = "⏯11.- GATORS">
+###### <input type = "button" onclick = "showButtongators()" value = "▶️11.- GATORS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongators() {
@@ -4609,7 +4608,7 @@ function showButtongators() {
 <p id="gators"></p>
 
 
-###### <input type = "button" onclick = "showButtonimproviseover()" value = "⏯12.- IMPROVISE OVER">
+###### <input type = "button" onclick = "showButtonimproviseover()" value = "▶️12.- IMPROVISE OVER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonimproviseover() {
@@ -4620,7 +4619,7 @@ function showButtonimproviseover() {
 <p id="improviseover"></p>
 
 
-###### <input type = "button" onclick = "showButtonchangeofview()" value = "⏯13.- CHANGE OF VIEW">
+###### <input type = "button" onclick = "showButtonchangeofview()" value = "▶️13.- CHANGE OF VIEW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonchangeofview() {
@@ -4631,7 +4630,7 @@ function showButtonchangeofview() {
 <p id="changeofview"></p>
 
 
-###### <input type = "button" onclick = "showButtontheether()" value = "⏯14.- THE ETHER">
+###### <input type = "button" onclick = "showButtontheether()" value = "▶️14.- THE ETHER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontheether() {
@@ -4642,7 +4641,7 @@ function showButtontheether() {
 <p id="theether"></p>
 
 
-###### <input type = "button" onclick = "showButtonunbidden()" value = "⏯15.- UNBIDDEN">
+###### <input type = "button" onclick = "showButtonunbidden()" value = "▶️15.- UNBIDDEN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunbidden() {
@@ -4653,7 +4652,7 @@ function showButtonunbidden() {
 <p id="unbidden"></p>
 
 
-###### <input type = "button" onclick = "showButtontaboo()" value = "⏯16.- TABOO">
+###### <input type = "button" onclick = "showButtontaboo()" value = "▶️16.- TABOO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontaboo() {
@@ -4664,7 +4663,7 @@ function showButtontaboo() {
 <p id="taboo"></p>
 
 
-###### <input type = "button" onclick = "showButtonwheredoiweirdoi()" value = "⏯17.- WHERE DO I WEIRDO I">
+###### <input type = "button" onclick = "showButtonwheredoiweirdoi()" value = "▶️17.- WHERE DO I WEIRDO I">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwheredoiweirdoi() {
@@ -4675,7 +4674,7 @@ function showButtonwheredoiweirdoi() {
 <p id="wheredoiweirdoi"></p>
 
 
-###### <input type = "button" onclick = "showButtonmorework()" value = "⏯18.- MORE WORK">
+###### <input type = "button" onclick = "showButtonmorework()" value = "▶️18.- MORE WORK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmorework() {
@@ -4686,7 +4685,7 @@ function showButtonmorework() {
 <p id="morework"></p>
 
 
-###### <input type = "button" onclick = "showButtonbdayboi()" value = "⏯19.- BDAY BOI">
+###### <input type = "button" onclick = "showButtonbdayboi()" value = "▶️19.- BDAY BOI">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbdayboi() {
@@ -4697,7 +4696,7 @@ function showButtonbdayboi() {
 <p id="bdayboi"></p>
 
 
-###### <input type = "button" onclick = "showButtonraw()" value = "⏯20.- RAW">
+###### <input type = "button" onclick = "showButtonraw()" value = "▶️20.- RAW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonraw() {
@@ -4711,7 +4710,7 @@ function showButtonraw() {
 #### 21.- 'Gloomy dances' <a name=gloomydances></a>
 [![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
 
-###### <input type = "button" onclick = "showButtonyeahyeah()" value = "⏯1.- YEAH YEAH">
+###### <input type = "button" onclick = "showButtonyeahyeah()" value = "▶️1.- YEAH YEAH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonyeahyeah() {
@@ -4722,7 +4721,7 @@ function showButtonyeahyeah() {
 <p id="yeahyeah"></p>
 
 
-###### <input type = "button" onclick = "showButtonbby()" value = "⏯2.- BBY">
+###### <input type = "button" onclick = "showButtonbby()" value = "▶️2.- BBY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbby() {
@@ -4733,7 +4732,7 @@ function showButtonbby() {
 <p id="bby"></p>
 
 
-###### <input type = "button" onclick = "showButtonmcguffin()" value = "⏯3.- MCGUFFIN">
+###### <input type = "button" onclick = "showButtonmcguffin()" value = "▶️3.- MCGUFFIN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmcguffin() {
@@ -4744,7 +4743,7 @@ function showButtonmcguffin() {
 <p id="mcguffin"></p>
 
 
-###### <input type = "button" onclick = "showButtonalmsgiving()" value = "⏯4.- ALMSGIVING">
+###### <input type = "button" onclick = "showButtonalmsgiving()" value = "▶️4.- ALMSGIVING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonalmsgiving() {
@@ -4755,7 +4754,7 @@ function showButtonalmsgiving() {
 <p id="almsgiving"></p>
 
 
-###### <input type = "button" onclick = "showButtonproductproject()" value = "⏯5.- PRODUCT PROJECT">
+###### <input type = "button" onclick = "showButtonproductproject()" value = "▶️5.- PRODUCT PROJECT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonproductproject() {
@@ -4766,7 +4765,7 @@ function showButtonproductproject() {
 <p id="productproject"></p>
 
 
-###### <input type = "button" onclick = "showButtondistractions()" value = "⏯6.- DISTRACTIONS">
+###### <input type = "button" onclick = "showButtondistractions()" value = "▶️6.- DISTRACTIONS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondistractions() {
@@ -4777,7 +4776,7 @@ function showButtondistractions() {
 <p id="distractions"></p>
 
 
-###### <input type = "button" onclick = "showButtonsecrets()" value = "⏯7.- SECRETS">
+###### <input type = "button" onclick = "showButtonsecrets()" value = "▶️7.- SECRETS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsecrets() {
@@ -4788,7 +4787,7 @@ function showButtonsecrets() {
 <p id="secrets"></p>
 
 
-###### <input type = "button" onclick = "showButtoncascade()" value = "⏯8.- CASCADE">
+###### <input type = "button" onclick = "showButtoncascade()" value = "▶️8.- CASCADE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncascade() {
@@ -4799,7 +4798,7 @@ function showButtoncascade() {
 <p id="cascade"></p>
 
 
-###### <input type = "button" onclick = "showButtonsunscreen()" value = "⏯9.- SUNSCREEN">
+###### <input type = "button" onclick = "showButtonsunscreen()" value = "▶️9.- SUNSCREEN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsunscreen() {
@@ -4810,7 +4809,7 @@ function showButtonsunscreen() {
 <p id="sunscreen"></p>
 
 
-###### <input type = "button" onclick = "showButtonsofarsocloseyourfriendswillbeokay()" value = "⏯10.- SO FAR SO CLOSE YOUR FRIENDS WILL BE OKAY">
+###### <input type = "button" onclick = "showButtonsofarsocloseyourfriendswillbeokay()" value = "▶️10.- SO FAR SO CLOSE YOUR FRIENDS WILL BE OKAY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsofarsocloseyourfriendswillbeokay() {
@@ -4821,7 +4820,7 @@ function showButtonsofarsocloseyourfriendswillbeokay() {
 <p id="sofarsocloseyourfriendswillbeokay"></p>
 
 
-###### <input type = "button" onclick = "showButtontrip()" value = "⏯11.- TRIP">
+###### <input type = "button" onclick = "showButtontrip()" value = "▶️11.- TRIP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrip() {
@@ -4832,7 +4831,7 @@ function showButtontrip() {
 <p id="trip"></p>
 
 
-###### <input type = "button" onclick = "showButtonappear()" value = "⏯12.- APPEAR">
+###### <input type = "button" onclick = "showButtonappear()" value = "▶️12.- APPEAR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonappear() {
@@ -4843,7 +4842,7 @@ function showButtonappear() {
 <p id="appear"></p>
 
 
-###### <input type = "button" onclick = "showButtonunveil()" value = "⏯13.- UNVEIL">
+###### <input type = "button" onclick = "showButtonunveil()" value = "▶️13.- UNVEIL">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunveil() {
@@ -4854,7 +4853,7 @@ function showButtonunveil() {
 <p id="unveil"></p>
 
 
-###### <input type = "button" onclick = "showButtonplans()" value = "⏯14.- PLANS">
+###### <input type = "button" onclick = "showButtonplans()" value = "▶️14.- PLANS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonplans() {
@@ -4865,7 +4864,7 @@ function showButtonplans() {
 <p id="plans"></p>
 
 
-###### <input type = "button" onclick = "showButtonflickering()" value = "⏯15.- FLICKERING">
+###### <input type = "button" onclick = "showButtonflickering()" value = "▶️15.- FLICKERING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflickering() {
@@ -4876,7 +4875,7 @@ function showButtonflickering() {
 <p id="flickering"></p>
 
 
-###### <input type = "button" onclick = "showButtonlacourdemongrandpère()" value = "⏯16.- LA COUR DE MON GRAND-PèRE">
+###### <input type = "button" onclick = "showButtonlacourdemongrandpère()" value = "▶️16.- LA COUR DE MON GRAND-PèRE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlacourdemongrandpère() {
@@ -4887,7 +4886,7 @@ function showButtonlacourdemongrandpère() {
 <p id="lacourdemongrandpère"></p>
 
 
-###### <input type = "button" onclick = "showButtonwhatspoppin()" value = "⏯17.- WHAT'S POPPIN'">
+###### <input type = "button" onclick = "showButtonwhatspoppin()" value = "▶️17.- WHAT'S POPPIN'">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwhatspoppin() {
@@ -4898,7 +4897,7 @@ function showButtonwhatspoppin() {
 <p id="whatspoppin"></p>
 
 
-###### <input type = "button" onclick = "showButtonpromise()" value = "⏯18.- PROMISE">
+###### <input type = "button" onclick = "showButtonpromise()" value = "▶️18.- PROMISE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpromise() {
@@ -4909,7 +4908,7 @@ function showButtonpromise() {
 <p id="promise"></p>
 
 
-###### <input type = "button" onclick = "showButtonunspeak()" value = "⏯19.- UNSPEAK">
+###### <input type = "button" onclick = "showButtonunspeak()" value = "▶️19.- UNSPEAK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonunspeak() {
@@ -4920,7 +4919,7 @@ function showButtonunspeak() {
 <p id="unspeak"></p>
 
 
-###### <input type = "button" onclick = "showButtonusedtobemyfriend()" value = "⏯20.- USED TO BE MY FRIEND">
+###### <input type = "button" onclick = "showButtonusedtobemyfriend()" value = "▶️20.- USED TO BE MY FRIEND">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonusedtobemyfriend() {
@@ -4934,7 +4933,7 @@ function showButtonusedtobemyfriend() {
 #### 22.- 'Not Too Bad' <a name=nottoobad></a>
 [![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
 
-###### <input type = "button" onclick = "showButtonkeralloch()" value = "⏯1.- KER AL LOCH">
+###### <input type = "button" onclick = "showButtonkeralloch()" value = "▶️1.- KER AL LOCH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkeralloch() {
@@ -4945,7 +4944,7 @@ function showButtonkeralloch() {
 <p id="keralloch"></p>
 
 
-###### <input type = "button" onclick = "showButtonbleak()" value = "⏯2.- BLEAK">
+###### <input type = "button" onclick = "showButtonbleak()" value = "▶️2.- BLEAK">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbleak() {
@@ -4956,7 +4955,7 @@ function showButtonbleak() {
 <p id="bleak"></p>
 
 
-###### <input type = "button" onclick = "showButtonseed()" value = "⏯3.- SEED">
+###### <input type = "button" onclick = "showButtonseed()" value = "▶️3.- SEED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonseed() {
@@ -4967,7 +4966,7 @@ function showButtonseed() {
 <p id="seed"></p>
 
 
-###### <input type = "button" onclick = "showButtongrewth()" value = "⏯4.- GREWTH">
+###### <input type = "button" onclick = "showButtongrewth()" value = "▶️4.- GREWTH">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongrewth() {
@@ -4978,7 +4977,7 @@ function showButtongrewth() {
 <p id="grewth"></p>
 
 
-###### <input type = "button" onclick = "showButtonsadkidsgame()" value = "⏯5.-  SAD KIDS GAME">
+###### <input type = "button" onclick = "showButtonsadkidsgame()" value = "▶️5.-  SAD KIDS GAME">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsadkidsgame() {
@@ -4989,7 +4988,7 @@ function showButtonsadkidsgame() {
 <p id="sadkidsgame"></p>
 
 
-###### <input type = "button" onclick = "showButtonworthless()" value = "⏯6.- WORTHLESS">
+###### <input type = "button" onclick = "showButtonworthless()" value = "▶️6.- WORTHLESS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonworthless() {
@@ -5000,7 +4999,7 @@ function showButtonworthless() {
 <p id="worthless"></p>
 
 
-###### <input type = "button" onclick = "showButtonresile()" value = "⏯7.- RESILE">
+###### <input type = "button" onclick = "showButtonresile()" value = "▶️7.- RESILE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonresile() {
@@ -5011,7 +5010,7 @@ function showButtonresile() {
 <p id="resile"></p>
 
 
-###### <input type = "button" onclick = "showButtonnab()" value = "⏯8.- NAB">
+###### <input type = "button" onclick = "showButtonnab()" value = "▶️8.- NAB">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnab() {
@@ -5022,7 +5021,7 @@ function showButtonnab() {
 <p id="nab"></p>
 
 
-###### <input type = "button" onclick = "showButtondimbone()" value = "⏯9.- DIM BONE">
+###### <input type = "button" onclick = "showButtondimbone()" value = "▶️9.- DIM BONE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondimbone() {
@@ -5033,7 +5032,7 @@ function showButtondimbone() {
 <p id="dimbone"></p>
 
 
-###### <input type = "button" onclick = "showButtondistantechoesoflostloves()" value = "⏯10.- DISTANT ECHOES OF LOST LOVES">
+###### <input type = "button" onclick = "showButtondistantechoesoflostloves()" value = "▶️10.- DISTANT ECHOES OF LOST LOVES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondistantechoesoflostloves() {
@@ -5044,7 +5043,7 @@ function showButtondistantechoesoflostloves() {
 <p id="distantechoesoflostloves"></p>
 
 
-###### <input type = "button" onclick = "showButtonstalwart()" value = "⏯11.- STALWART">
+###### <input type = "button" onclick = "showButtonstalwart()" value = "▶️11.- STALWART">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstalwart() {
@@ -5055,7 +5054,7 @@ function showButtonstalwart() {
 <p id="stalwart"></p>
 
 
-###### <input type = "button" onclick = "showButtongiddy()" value = "⏯12.- GIDDY">
+###### <input type = "button" onclick = "showButtongiddy()" value = "▶️12.- GIDDY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtongiddy() {
@@ -5066,7 +5065,7 @@ function showButtongiddy() {
 <p id="giddy"></p>
 
 
-###### <input type = "button" onclick = "showButtonwag()" value = "⏯13.- WAG">
+###### <input type = "button" onclick = "showButtonwag()" value = "▶️13.- WAG">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwag() {
@@ -5077,7 +5076,7 @@ function showButtonwag() {
 <p id="wag"></p>
 
 
-###### <input type = "button" onclick = "showButtondeardiary()" value = "⏯14.- DEAR DIARY">
+###### <input type = "button" onclick = "showButtondeardiary()" value = "▶️14.- DEAR DIARY">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondeardiary() {
@@ -5088,7 +5087,7 @@ function showButtondeardiary() {
 <p id="deardiary"></p>
 
 
-###### <input type = "button" onclick = "showButtonaigredoux()" value = "⏯15.- AIGRE-DOUX">
+###### <input type = "button" onclick = "showButtonaigredoux()" value = "▶️15.- AIGRE-DOUX">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaigredoux() {
@@ -5099,7 +5098,7 @@ function showButtonaigredoux() {
 <p id="aigredoux"></p>
 
 
-###### <input type = "button" onclick = "showButtonlifewithoutu()" value = "⏯16.- LIFE WITHOUT U">
+###### <input type = "button" onclick = "showButtonlifewithoutu()" value = "▶️16.- LIFE WITHOUT U">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonlifewithoutu() {
@@ -5110,7 +5109,7 @@ function showButtonlifewithoutu() {
 <p id="lifewithoutu"></p>
 
 
-###### <input type = "button" onclick = "showButtonbane()" value = "⏯17.- BANE">
+###### <input type = "button" onclick = "showButtonbane()" value = "▶️17.- BANE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbane() {
@@ -5121,7 +5120,7 @@ function showButtonbane() {
 <p id="bane"></p>
 
 
-###### <input type = "button" onclick = "showButtonforlorn()" value = "⏯18.- FORLORN">
+###### <input type = "button" onclick = "showButtonforlorn()" value = "▶️18.- FORLORN">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonforlorn() {
@@ -5132,7 +5131,7 @@ function showButtonforlorn() {
 <p id="forlorn"></p>
 
 
-###### <input type = "button" onclick = "showButtoncloaks()" value = "⏯19.- CLOAKS">
+###### <input type = "button" onclick = "showButtoncloaks()" value = "▶️19.- CLOAKS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncloaks() {
@@ -5143,7 +5142,7 @@ function showButtoncloaks() {
 <p id="cloaks"></p>
 
 
-###### <input type = "button" onclick = "showButtonbatteriesnotincluded()" value = "⏯20.- BATTERIES NOT INCLUDED">
+###### <input type = "button" onclick = "showButtonbatteriesnotincluded()" value = "▶️20.- BATTERIES NOT INCLUDED">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonbatteriesnotincluded() {
@@ -5154,7 +5153,7 @@ function showButtonbatteriesnotincluded() {
 <p id="batteriesnotincluded"></p>
 
 
-###### <input type = "button" onclick = "showButtonpleasantstrangeness()" value = "⏯21.-  PLEASANT STRANGENESS">
+###### <input type = "button" onclick = "showButtonpleasantstrangeness()" value = "▶️21.-  PLEASANT STRANGENESS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonpleasantstrangeness() {
@@ -5168,7 +5167,7 @@ function showButtonpleasantstrangeness() {
 #### 23.- 'There is Another' <a name=thereisanother></a>
 [![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
 
-###### <input type = "button" onclick = "showButtonkeptmehanging()" value = "⏯1.-  KEPT ME HANGING">
+###### <input type = "button" onclick = "showButtonkeptmehanging()" value = "▶️1.-  KEPT ME HANGING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonkeptmehanging() {
@@ -5179,7 +5178,7 @@ function showButtonkeptmehanging() {
 <p id="keptmehanging"></p>
 
 
-###### <input type = "button" onclick = "showButtonsolution()" value = "⏯2.- SOLUTION">
+###### <input type = "button" onclick = "showButtonsolution()" value = "▶️2.- SOLUTION">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsolution() {
@@ -5190,7 +5189,7 @@ function showButtonsolution() {
 <p id="solution"></p>
 
 
-###### <input type = "button" onclick = "showButtonwherewereyouthisfridaynight()" value = "⏯3.- WHERE WERE YOU THIS FRIDAY NIGHT">
+###### <input type = "button" onclick = "showButtonwherewereyouthisfridaynight()" value = "▶️3.- WHERE WERE YOU THIS FRIDAY NIGHT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonwherewereyouthisfridaynight() {
@@ -5201,7 +5200,7 @@ function showButtonwherewereyouthisfridaynight() {
 <p id="wherewereyouthisfridaynight"></p>
 
 
-###### <input type = "button" onclick = "showButtonleaks()" value = "⏯4.- LEAKS">
+###### <input type = "button" onclick = "showButtonleaks()" value = "▶️4.- LEAKS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonleaks() {
@@ -5212,7 +5211,7 @@ function showButtonleaks() {
 <p id="leaks"></p>
 
 
-###### <input type = "button" onclick = "showButtonundertow()" value = "⏯5.- UNDERTOW">
+###### <input type = "button" onclick = "showButtonundertow()" value = "▶️5.- UNDERTOW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonundertow() {
@@ -5223,7 +5222,7 @@ function showButtonundertow() {
 <p id="undertow"></p>
 
 
-###### <input type = "button" onclick = "showButtoncrosslines()" value = "⏯6.- CROSS LINES">
+###### <input type = "button" onclick = "showButtoncrosslines()" value = "▶️6.- CROSS LINES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtoncrosslines() {
@@ -5234,7 +5233,7 @@ function showButtoncrosslines() {
 <p id="crosslines"></p>
 
 
-###### <input type = "button" onclick = "showButtonnothingleft()" value = "⏯7.- NOTHING LEFT">
+###### <input type = "button" onclick = "showButtonnothingleft()" value = "▶️7.- NOTHING LEFT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonnothingleft() {
@@ -5245,7 +5244,7 @@ function showButtonnothingleft() {
 <p id="nothingleft"></p>
 
 
-###### <input type = "button" onclick = "showButtononefloor()" value = "⏯8.- ONE FLOOR">
+###### <input type = "button" onclick = "showButtononefloor()" value = "▶️8.- ONE FLOOR">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtononefloor() {
@@ -5256,7 +5255,7 @@ function showButtononefloor() {
 <p id="onefloor"></p>
 
 
-###### <input type = "button" onclick = "showButtonhandle()" value = "⏯9.- HANDLE">
+###### <input type = "button" onclick = "showButtonhandle()" value = "▶️9.- HANDLE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhandle() {
@@ -5267,7 +5266,7 @@ function showButtonhandle() {
 <p id="handle"></p>
 
 
-###### <input type = "button" onclick = "showButtonmilling()" value = "⏯10.- MILLING">
+###### <input type = "button" onclick = "showButtonmilling()" value = "▶️10.- MILLING">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmilling() {
@@ -5278,7 +5277,7 @@ function showButtonmilling() {
 <p id="milling"></p>
 
 
-###### <input type = "button" onclick = "showButtonmayhap()" value = "⏯11.- MAYHAP">
+###### <input type = "button" onclick = "showButtonmayhap()" value = "▶️11.- MAYHAP">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonmayhap() {
@@ -5289,7 +5288,7 @@ function showButtonmayhap() {
 <p id="mayhap"></p>
 
 
-###### <input type = "button" onclick = "showButtondiffidentage()" value = "⏯12.- DIFFIDENT AGE">
+###### <input type = "button" onclick = "showButtondiffidentage()" value = "▶️12.- DIFFIDENT AGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondiffidentage() {
@@ -5300,7 +5299,7 @@ function showButtondiffidentage() {
 <p id="diffidentage"></p>
 
 
-###### <input type = "button" onclick = "showButtondubious()" value = "⏯13.- DUBIOUS">
+###### <input type = "button" onclick = "showButtondubious()" value = "▶️13.- DUBIOUS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondubious() {
@@ -5311,7 +5310,7 @@ function showButtondubious() {
 <p id="dubious"></p>
 
 
-###### <input type = "button" onclick = "showButtonstrike()" value = "⏯14.- STRIKE">
+###### <input type = "button" onclick = "showButtonstrike()" value = "▶️14.- STRIKE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonstrike() {
@@ -5322,7 +5321,7 @@ function showButtonstrike() {
 <p id="strike"></p>
 
 
-###### <input type = "button" onclick = "showButtondissent()" value = "⏯15.- DISSENT">
+###### <input type = "button" onclick = "showButtondissent()" value = "▶️15.- DISSENT">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtondissent() {
@@ -5333,7 +5332,7 @@ function showButtondissent() {
 <p id="dissent"></p>
 
 
-###### <input type = "button" onclick = "showButtonhumdrum()" value = "⏯16.- HUMDRUM">
+###### <input type = "button" onclick = "showButtonhumdrum()" value = "▶️16.- HUMDRUM">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhumdrum() {
@@ -5344,7 +5343,7 @@ function showButtonhumdrum() {
 <p id="humdrum"></p>
 
 
-###### <input type = "button" onclick = "showButtontoss()" value = "⏯17.- TOSS">
+###### <input type = "button" onclick = "showButtontoss()" value = "▶️17.- TOSS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontoss() {
@@ -5355,7 +5354,7 @@ function showButtontoss() {
 <p id="toss"></p>
 
 
-###### <input type = "button" onclick = "showButtonsalver()" value = "⏯18.- SALVER">
+###### <input type = "button" onclick = "showButtonsalver()" value = "▶️18.- SALVER">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonsalver() {
@@ -5366,7 +5365,7 @@ function showButtonsalver() {
 <p id="salver"></p>
 
 
-###### <input type = "button" onclick = "showButtontrite()" value = "⏯19.- TRITE">
+###### <input type = "button" onclick = "showButtontrite()" value = "▶️19.- TRITE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontrite() {
@@ -5377,7 +5376,7 @@ function showButtontrite() {
 <p id="trite"></p>
 
 
-###### <input type = "button" onclick = "showButtonflowers()" value = "⏯20.- FLOWERS">
+###### <input type = "button" onclick = "showButtonflowers()" value = "▶️20.- FLOWERS">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonflowers() {
@@ -5388,7 +5387,7 @@ function showButtonflowers() {
 <p id="flowers"></p>
 
 
-###### <input type = "button" onclick = "showButtonaliveverge()" value = "⏯21.- ALIVE VERGE">
+###### <input type = "button" onclick = "showButtonaliveverge()" value = "▶️21.- ALIVE VERGE">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonaliveverge() {
@@ -5399,7 +5398,7 @@ function showButtonaliveverge() {
 <p id="aliveverge"></p>
 
 
-###### <input type = "button" onclick = "showButtontieyourshoes()" value = "⏯22.- TIE YOUR SHOES">
+###### <input type = "button" onclick = "showButtontieyourshoes()" value = "▶️22.- TIE YOUR SHOES">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtontieyourshoes() {
@@ -5410,7 +5409,7 @@ function showButtontieyourshoes() {
 <p id="tieyourshoes"></p>
 
 
-###### <input type = "button" onclick = "showButtonhalfbelow()" value = "⏯23.- HALF BELOW">
+###### <input type = "button" onclick = "showButtonhalfbelow()" value = "▶️23.- HALF BELOW">
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonhalfbelow() {
@@ -5421,4 +5420,4 @@ function showButtonhalfbelow() {
 <p id="halfbelow"></p>
 
 #### Cafés <a name="cafes"></a>
-[![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés")40% ````progress - 19/07/2022
+[![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés") - 40% progress - 19/07/2022
