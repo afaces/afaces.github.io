@@ -10,7 +10,9 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 }
 
 // Navbar
-
+.navbar {
+  padding: 0.5rem 0.25rem;
+}
 /* Style the navbar */
 
 /* Page content */
@@ -197,7 +199,7 @@ th {
   align-items: center;
   /*flex-direction: column;*/
   justify-content: center;
-  margin-top: 25px;
+  margin-top: 0px;
 }
 
 .track-art {
