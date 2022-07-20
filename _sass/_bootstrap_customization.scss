@@ -20,6 +20,16 @@ span{font-size:2rem;}
 .navbar {
   padding: 0.5rem 0.25rem;
 }
+
+.navbar-toggler {
+  padding: 0px 0px !important;
+}
+
+.navbar-toggle .icon-bar {
+    width: 14px !important;
+    height: 1px;
+}
+
 /* Style the navbar */
 
 /* Page content */
