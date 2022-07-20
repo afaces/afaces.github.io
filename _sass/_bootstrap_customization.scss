@@ -14,11 +14,12 @@ img.emojione {
  margin: 0px !important;
  display: inline !important;
 }
-span{font-size:2rem;}
+span{font-size:1.25rem;}
 
 // Navbar
 .navbar {
   padding: 0.5rem 0.25rem;
+  flexwrap: nowrap;
 }
 
 .navbar-toggler {
