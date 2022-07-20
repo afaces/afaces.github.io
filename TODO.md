@@ -7,12 +7,13 @@ Known bugs:
 - button ❇ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
 - ✳️button is shown to indicate that the track is present in the selected playlist, ✴ takes it out of the selected playlist
 - button 🔝 goes back to the top of the page and it shows at the low right page limit when enough scroll down is made
-- ➕➖ volume keys (not float, we want int here to control volume and being able to put it more loud like vlc)
+- ➕➖ volume keys (not float, we want int here to control volume and being able to put it more loud like vlc) buttons do make up or down when pressed and move volume 
 - Button ⏹ Pauses all playlist or track playing and gets back to the actual playing track if there is any
 - On mouse over without click there different buttons emoji change yet to be stablished
 - Tooltip over emojis tags correctly triggers
 - Try not to pause on refresh
 - Max volume of the song can be increased (?)
+- Change Menu theme icon to custom emoji 🎚️
 
 - Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 

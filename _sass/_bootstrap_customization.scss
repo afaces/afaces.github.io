@@ -249,6 +249,7 @@ th {
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: center;
 }
 
 .playpause-track,
@@ -273,7 +274,7 @@ th {
   /*width: 75%;*/
   max-width: 350px;
   display: flex;
-  justify-content: center;
+  /*justify-content: center;*/
   align-items: center;
 }
 
