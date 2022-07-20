@@ -10,7 +10,6 @@ Known bugs:
 - Max volume of the song can be increased (?)
 - Change Menu theme icon to custom emoji 🎚️
 
-
 Go for:
 - Create script to scrape names of tracks and orders of tracks from Spotify Playlists by URL
 - Create basic contact section for the page- button ❇ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist

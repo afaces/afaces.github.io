@@ -338,6 +338,7 @@ i.fa-step-backward {
 }
 
 .back-to-top {
+  z-index: 9999;
   position: fixed;
   right: 2rem;
   bottom: 2rem;
