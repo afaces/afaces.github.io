@@ -215,11 +215,11 @@ th {
 
 /* Changing the font sizes to suitable ones */
 .now-playing {
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 
 .track-name {
-  font-size: 1.5rem;
+  font-size: 1.15rem;
 }
 
 .track-artist {
@@ -253,8 +253,8 @@ th {
 
 /* Define the slider width so that it scales properly */
 .slider_container {
-  width: 75%;
-  max-width: 400px;
+  /*width: 75%;*/
+  max-width: 350px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -301,7 +301,7 @@ th {
 
 .current-time,
 .total-duration {
-  padding: 10px;
+  padding: 4px;
 }
 
 i.fa-volume-down,

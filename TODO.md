@@ -1,23 +1,20 @@
 Known bugs: 
 - js
 - avoid tag duplication
-- Consistely test simple css in webpage
-- A Button/text href for each album to show hidden track buttons for each correspondant album
+- A Button/text href for each album to show hidden track buttons for each correspondant album (now being shown)
 - Transform numbers in song tags to text (0: zero, 1: one...)
-- menu titles are clicked to show/hide the album songs
-- Show now playing meant to be on top of everything when scrolls down enough it mantains to be placed on the top
-- Starting one song ends the previous EVENT 
-- button ❇️ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
-- ✳️ button is shown to indicate that the track is present in the selected playlist, ✴ takes it out of the selected playlist
-- If button ⏭ is pressed, the position of the playlist moves to the next track, if there is no playlist, justs plays the next song
+- album menu title names are clicked to show/hide the album songs and album cover
+- button ❇ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
+- ✳️button is shown to indicate that the track is present in the selected playlist, ✴ takes it out of the selected playlist
 - button 🔝 goes back to the top of the page and it shows at the low right page limit when enough scroll down is made
-- ➕➖ volume keys (not float, we want int here)
+- ➕➖ volume keys (not float, we want int here to control volume and being able to put it more loud like vlc)
 - Button ⏹ Pauses all playlist or track playing and gets back to the actual playing track if there is any
 - On mouse over without click there different buttons emoji change yet to be stablished
 - Tooltip over emojis tags correctly triggers
 - Try not to pause on refresh
-- Create list with the images of the covers albums
-Animation:
+- Max volume of the song can be increased (?)
+
+- Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 
 and then it hides the music player controls of the song and the emoji, then button turns back to the original one and if it being pressed again and back to normal and it show the correct music player and the buttons...
 - Button for each album to Show/Hide all album related songs buttons 
