@@ -3044,3 +3044,15 @@ function seekUpdate() {
 
 // Load the first track in the tracklist
 loadTrack(track_index);
+
+
+$(window).load(function() {
+
+  function convert() {
+    var input = document.body.innerHTML;
+    var output = emojione.unicodeToImage(input);
+    document.body.innerHTML = output;
+  }
+
+  convert();
+});

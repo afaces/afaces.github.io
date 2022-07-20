@@ -9,6 +9,13 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   @import url($web-font-path);
 }
 
+img.emojione {
+ // Override any img styles to ensure Emojis are displayed inline
+ margin: 0px !important;
+ display: inline !important;
+}
+span{font-size:2rem;}
+
 // Navbar
 .navbar {
   padding: 0.5rem 0.25rem;

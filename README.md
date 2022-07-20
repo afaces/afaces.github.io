@@ -1,5 +1,6 @@
 # Create or log in into GitHub account
-# Create repository named YOUR_ACCOUNT_NAME.github.io in github webpage.
+# Create repository named YOUR_ACCOUNT_NAME.github.io to create your github webpage repository.
+
 <code>git clone https://github.com/YOUR_ACCOUNT_NAME/YOUR_ACCOUNT_NAME.github.io</code>
 
 <code>git clone https://github.com/afaces/afaces.github.io</code>
