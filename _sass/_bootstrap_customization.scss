@@ -19,7 +19,7 @@ span{font-size:1.25rem;}
 // Navbar
 .navbar {
   padding: 0.5rem 0.25rem;
-  flexwrap: nowrap;
+  flex-wrap: nowrap;
 }
 
 .navbar-toggler {
@@ -68,7 +68,7 @@ span{font-size:1.25rem;}
 }
 
 .nav-item {
-  margin-right: 2rem;
+  margin-right: 0.25rem;
 }
 
 // Buttons
@@ -121,6 +121,7 @@ span{font-size:1.25rem;}
 body {
   font-weight: 200;
   letter-spacing: 1px;
+  font-size: 0.75rem;
 }
 
 h1,
