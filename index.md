@@ -10,35 +10,33 @@ title: Afaces fanpage
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafaces.tk&count_bg=%2379C83D&title_bg=%23555555&icon=applemusic.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Alt text](assets/images/icon/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![Alt text](assets/images/icon/bandcamp.svg)](https://afaces.bandcamp.com) [![Alt text](assets/images/icon/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Alt text](assets/images/icon/facebook.svg)](https://www.facebook.com/afaces/) [![Alt text](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/) [![Alt text](assets/images/icon/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Alt text](assets/images/icon/napster.svg)](https://us.napster.com/artist/afaces) [![Alt text](assets/images/icon/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![Alt text](assets/images/icon/soundcloud.svg)](https://soundcloud.com/afaces) [![Alt text](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Alt text](assets/images/icon/tidal.svg)](https://tidal.com/browse/artist/10889435) [![Alt text](assets/images/icon/tiktok.svg)](https://www.tiktok.com/@afaces) [![Alt text](assets/images/icon/twitter.svg)](https://twitter.com/afaces2) [![Alt text](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
-
 ## Table of contents
-1. [Nefasto](#nefasto)
-2. [Writer](#writer)
-3. [Back and Fro](#backandfro)
-4. [planetc.](#planetc)
-5. [Black](#black)
-6. [list](#list)
-7. [A cool name](#acoolname)
-8. [50%](#50)
-9. [advisory content](#advisorycontent)
-10. [BUY NEVER](#buynever)
-11. [Bull's-eye](#bullseye)
-12. [Where are my royalties](#wherearemyroyalties)
-13. [The bad words](#thebadwords)
-14. [Who u tryna' impress](#whoutrynaimpress)
-15. [Journey to Wasted Youth](#journeytowastedyouth)
-16. [Lyricless Miracles](#lyriclessmiracles)
-17. [irl](#irl)
-18. [before senescence](#beforesenescence)
-19. [back to the origins](#backtotheorigins)
-20. [conversation conservation](#conversationconservation)
-21. [Gloomy dances](#gloomydances)
-22. [Not Too Bad](#nottoobad)
-23. [There is Another](#thereisanother)
-24. [Cafés](#cafes)
+1. [Nefasto](#nefastoAlbum)
+2. [Writer](#writerAlbum)
+3. [Back and Fro](#backandfroAlbum)
+4. [Planetc](#planetcAlbum)
+5. [Black](#blackAlbum)
+6. [list](#listAlbum)
+7. [A cool name](#acoolnameAlbum)
+8. [50%](#50Album)
+9. [advisory content](#advisorycontentAlbum)
+10. [BUY NEVER](#buyneverAlbum)
+11. [Bull's-eye](#bullseyeAlbum)
+12. [Where are my royalties](#wherearemyroyaltiesAlbum)
+13. [Who u tryna' impress](#whoutrynaimpressAlbum)
+14. [The bad words](#thebadwordsAlbum)
+15. [Journey to Wasted Youth](#journeytowastedyouthAlbum)
+16. [Lyricless Miracles](#lyriclessmiraclesAlbum)
+17. [irl](#irlAlbum)
+18. [before senescence](#beforesenescenceAlbum)
+19. [back to the origins](#backtotheoriginsAlbum)
+20. [conversation conservation](#conversationconservationAlbum)
+21. [Gloomy dances](#gloomydancesAlbum)
+22. [Not Too Bad](#nottoobadAlbum)
+23. [There is Another](#thereisanotherAlbum)
+24. [Cafés](#cafesAlbum)
 
-
-#### 1.- 'Nefasto' <a name=nefasto></a>
+#### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
 ###### <input type = "button" onclick = "showButtonnefasto()" value = "▶️1 - NEFASTO">
@@ -305,7 +303,7 @@ function showButtonplatform() {
 <p id="platform"></p>
 
 
-#### 2.- 'Writer' <a name=writer></a>
+#### 2.- 'Writer' <a name=writerAlbum></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
 
 ###### <input type = "button" onclick = "showButtonpencil()" value = "▶️1 - PENCIL">
@@ -572,7 +570,7 @@ function showButtonlastsight() {
 <p id="lastsight"></p>
 
 
-#### 3.- 'Back and Fro' <a name=backandfro></a>
+#### 3.- 'Back and Fro' <a name=backandfroAlbum></a>
 [![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
 
 ###### <input type = "button" onclick = "showButtontaste()" value = "▶️1 - TASTE">
@@ -795,7 +793,7 @@ function showButtontoandfro() {
 <p id="toandfro"></p>
 
 
-#### 4.- 'Planetc' <a name=planetc></a>
+#### 4.- 'Planetc' <a name=planetcAlbum></a>
 [![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
 
 ###### <input type = "button" onclick = "showButtonambrosia()" value = "▶️1 - AMBROSIA">
@@ -1018,7 +1016,7 @@ function showButtonyeahr() {
 <p id="yeahr"></p>
 
 
-#### 5.- 'Black' <a name=black></a>
+#### 5.- 'Black' <a name=blackAlbum></a>
 [![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
 
 ###### <input type = "button" onclick = "showButtonscrean()" value = "▶️1 - SCREAN">
@@ -1296,7 +1294,7 @@ function showButtonshipfriend() {
 <p id="shipfriend"></p>
 
 
-#### 6.- 'list' <a name=list></a>
+#### 6.- 'list' <a name=listAlbum></a>
 [![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
 
 ###### <input type = "button" onclick = "showButtonace()" value = "▶️1 - ACE">
@@ -1541,7 +1539,7 @@ function showButtonupward() {
 <p id="upward"></p>
 
 
-#### 7.- 'A cool name' <a name=acoolname></a>
+#### 7.- 'A cool name' <a name=acoolnameAlbum></a>
 [![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
 
 ###### <input type = "button" onclick = "showButtonnegativ()" value = "▶️1 - NEGATIV">
@@ -1742,7 +1740,7 @@ function showButtonboom() {
 <p id="boom"></p>
 
 
-#### 8.- '50%' <a name=50></a>
+#### 8.- '50%' <a name=50Album></a>
 [![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
 
 ###### <input type = "button" onclick = "showButtonnoone()" value = "▶️1 - NO ONE">
@@ -1987,7 +1985,7 @@ function showButtonhotpockets() {
 <p id="hotpockets"></p>
 
 
-#### 9.- 'advisory content' <a name=advisorycontent></a>
+#### 9.- 'advisory content' <a name=advisorycontentAlbum></a>
 [![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
 
 ###### <input type = "button" onclick = "showButtoncigarretadvertisement()" value = "▶️1 - CIGARRET ADVERTISEMENT">
@@ -2221,7 +2219,7 @@ function showButtonforbear() {
 <p id="forbear"></p>
 
 
-#### 10.- 'BUY NEVER' <a name=buynever></a>
+#### 10.- 'BUY NEVER' <a name=buyneverAlbum></a>
 [![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
 
 ###### <input type = "button" onclick = "showButtonentrance()" value = "▶️1 .- ENTRANCE">
@@ -2455,7 +2453,7 @@ function showButtonroadstonowhere() {
 <p id="roadstonowhere"></p>
 
 
-#### 11.- 'Bull's-eye' <a name=bullseye></a>
+#### 11.- 'Bull's-eye' <a name=bullseyeAlbum></a>
 [![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
 
 ###### <input type = "button" onclick = "showButtontryyourworst()" value = "▶️1 - TRY YOUR WORST">
@@ -2678,7 +2676,7 @@ function showButtonnotsnew() {
 <p id="notsnew"></p>
 
 
-#### 12.- 'Where are my royalties' <a name=wherearemyroyalties></a>
+#### 12.- 'Where are my royalties' <a name=wherearemyroyaltiesAlbum></a>
 [![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
 
 ###### <input type = "button" onclick = "showButtongodknowsno()" value = "▶️1 - GOD KNOWS NO">
@@ -2879,7 +2877,7 @@ function showButtonmnoalu() {
 <p id="mnoalu"></p>
 
 
-#### 13.- 'Who u tryna' impress' <a name=whoutrynaimpress></a>
+#### 13.- 'Who u tryna' impress' <a name=whoutrynaimpressAlbum></a>
 [![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
 
 ###### <input type = "button" onclick = "showButtonoverlovely()" value = "▶️1 - OVER LOVELY">
@@ -3146,7 +3144,7 @@ function showButtoncastlequeenside() {
 <p id="castlequeenside"></p>
 
 
-#### 14.- 'The bad words' <a name=thebadwords></a>
+#### 14.- 'The bad words' <a name=thebadwordsAlbum></a>
 [![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
 
 ###### <input type = "button" onclick = "showButtonyouthieve()" value = "▶️1 - YOUTHIEVE">
@@ -3380,7 +3378,7 @@ function showButtonbacktoanewstateofnormality() {
 <p id="backtoanewstateofnormality"></p>
 
 
-#### 15.- 'Journey to Wasted Youth' <a name=journeytowastedyouth></a>
+#### 15.- 'Journey to Wasted Youth' <a name=journeytowastedyouthAlbum></a>
 [![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
 
 ###### <input type = "button" onclick = "showButtongetyouhype()" value = "▶️1 - GET YOU HYPE">
@@ -3603,7 +3601,7 @@ function showButtonelope() {
 <p id="elope"></p>
 
 
-#### 16.- 'Lyricless Miracles' <a name=lyriclessmiracles></a>
+#### 16.- 'Lyricless Miracles' <a name=lyriclessmiraclesAlbum></a>
 [![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
 
 ###### <input type = "button" onclick = "showButtonplace()" value = "▶️1 - PLACE">
@@ -3837,7 +3835,7 @@ function showButtonlightning() {
 <p id="lightning"></p>
 
 
-#### 17.- 'irl' <a name=irl></a>
+#### 17.- 'irl' <a name=irlAlbum></a>
 [![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
 
 ###### <input type = "button" onclick = "showButtonmisery()" value = "▶️1.- MISERY">
@@ -4038,7 +4036,7 @@ function showButtonpayday() {
 <p id="payday"></p>
 
 
-#### 18.- 'before senescence' <a name=beforesenescence></a>
+#### 18.- 'before senescence' <a name=beforesenescenceAlbum></a>
 [![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
 
 ###### <input type = "button" onclick = "showButtonbellathorneafacesremix()" value = "▶️LONELY - BELLA THORNE - AFACES REMIX">
@@ -4250,7 +4248,7 @@ function showButtonsoundtestt() {
 <p id="soundtestt"></p>
 
 
-#### 19.- 'back to the origins' <a name=backtotheorigins></a>
+#### 19.- 'back to the origins' <a name=backtotheoriginsAlbum></a>
 [![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
 
 ###### <input type = "button" onclick = "showButtonthissonghasnovideo()" value = "▶️1.- THIS SONG HAS NO VIDEO">
@@ -4484,7 +4482,7 @@ function showButtongoodnight() {
 <p id="goodnight"></p>
 
 
-#### 20.- 'conversation conservation' <a name=conversationconservation></a>
+#### 20.- 'conversation conservation' <a name=conversationconservationAlbum></a>
 [![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
 
 ###### <input type = "button" onclick = "showButtonmessystreak()" value = "▶️1.- MESSY STREAK">
@@ -4707,7 +4705,7 @@ function showButtonraw() {
 <p id="raw"></p>
 
 
-#### 21.- 'Gloomy dances' <a name=gloomydances></a>
+#### 21.- 'Gloomy dances' <a name=gloomydancesAlbum></a>
 [![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
 
 ###### <input type = "button" onclick = "showButtonyeahyeah()" value = "▶️1.- YEAH YEAH">
@@ -4930,7 +4928,7 @@ function showButtonusedtobemyfriend() {
 <p id="usedtobemyfriend"></p>
 
 
-#### 22.- 'Not Too Bad' <a name=nottoobad></a>
+#### 22.- 'Not Too Bad' <a name=nottoobadAlbum></a>
 [![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
 
 ###### <input type = "button" onclick = "showButtonkeralloch()" value = "▶️1.- KER AL LOCH">
@@ -5164,7 +5162,7 @@ function showButtonpleasantstrangeness() {
 <p id="pleasantstrangeness"></p>
 
 
-#### 23.- 'There is Another' <a name=thereisanother></a>
+#### 23.- 'There is Another' <a name=thereisanotherAlbum></a>
 [![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
 
 ###### <input type = "button" onclick = "showButtonkeptmehanging()" value = "▶️1.-  KEPT ME HANGING">
@@ -5419,5 +5417,5 @@ function showButtonhalfbelow() {
 </script>
 <p id="halfbelow"></p>
 
-#### Cafés <a name="cafes"></a>
+#### Cafés <a name="cafesAlbum"></a>
 [![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés") - 40% progress - 19/07/2022
