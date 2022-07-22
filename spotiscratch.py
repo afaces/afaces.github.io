@@ -57,17 +57,3 @@ playlistList[0] = firstPosition
 for i in playlistList[:-1]:
     print(i)
 
-
-# First is the name and author of the playlist, nice! :)
-# The last line is the actual songs and position of the playlist.
-lastline = ""
-
-'''
-with open("new_items.csv", "w") as f:
-    pepe = "olaa, mama\n"
-    f.write(pepe)
-    for items in itemlocator:
-        print(items)
-
-'''
-
