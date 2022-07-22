@@ -19,7 +19,7 @@ span{font-size:1.25rem;}
 // Navbar
 .navbar {
   padding: 0.5rem 0.25rem;
-  flex-wrap: nowrap;
+  flex-wrap: flex-end;
 }
 
 .navbar-toggler {
@@ -276,7 +276,7 @@ th {
   /*width: 75%;*/
   max-width: 350px;
   display: flex;
-  justify-content: left;
+  justify-content: right;
   align-items: center;
 }
 
