@@ -19,7 +19,7 @@ span{font-size:1.25rem;}
 // Navbar
 .navbar {
   padding: 0.5rem 0.25rem;
-  flex-wrap: flex-end;
+  flex-wrap: inherit;
 }
 
 .navbar-nav {
@@ -281,7 +281,7 @@ th {
   /*width: 75%;*/
   max-width: 350px;
   display: flex;
-  justify-content: right;
+  justify-content: left;
   align-items: center;
 }
 
