@@ -28,6 +28,10 @@
 - Redirect YOUR_DOMAIN_NAME.tk URL to YOUR_DOMAIN_NAME.github.io free https://redirect.pizza
 - Set up inside GitHub's repository YOUR_DOMAIN_NAME.github.io set the domain the correspondant URL.
 
+# Use formspree.io for contact page
+
+# Use Stripe for donations
+
 p. Ex: [afaces.tk](https://afaces.tk)
 
 
