@@ -17,7 +17,7 @@
         })
         .then(function (result){
 
-        }
+        });
     })
 </script>
 
