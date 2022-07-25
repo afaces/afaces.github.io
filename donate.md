@@ -3,7 +3,7 @@
 <script>
     var stripe = Stripe('pk_test_51LP7WYGzzgXMTNqrdpY7OHCbvvlPqgtYEUZmBJw66X0j5ybqCkcbfXYJ5SfEMmeoCXxEq8Hok5WHl2rBzttayq9b00cV1h6dPP');
 
-    document.getElementById("checkout").AddEventListener("click", function() {
+    document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
           lineItems: [
             {
