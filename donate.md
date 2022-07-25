@@ -22,6 +22,10 @@
 </script>
 
 ## Please make sure you really want to donate, there is not a refund.
-#### Click the next button to proceed
+#### Click on any button to proceed
 
-<input type = "button" id = "checkout" onclick = "redirectToCheckout()" value = "Donate 20€ to Afaces">
+<input type="button" id="checkout" value="Donate 20€ to Afaces">
+
+<a href="https://paypal.com/paypalme/axelcurros">
+<img border="0" alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg">
+</a>
