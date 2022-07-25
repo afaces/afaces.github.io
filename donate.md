@@ -24,4 +24,4 @@
 ## Please make sure you really want to donate, there is not a refund.
 #### Click the next button to proceed
 
-<input type = "button" id = "checkout" onclick = "stripe.redirectToCheckout()" value = "Donate 20€ to Afaces">
+<input type = "button" id = "checkout" onclick = "var stripe = Stripe('pk_test_51LP7WYGzzgXMTNqrdpY7OHCbvvlPqgtYEUZmBJw66X0j5ybqCkcbfXYJ5SfEMmeoCXxEq8Hok5WHl2rBzttayq9b00cV1h6dPP'); stripe.redirectToCheckout()" value = "Donate 20€ to Afaces">
