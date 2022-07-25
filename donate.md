@@ -94,9 +94,10 @@ function redirectToCheckoutOneHundred() {
 </script>
 
 ## Please make sure you really want to donate, there is not a refund.
-#### Click on any button to proceed, please wait a few seconds for the page to be loaded.
+#### Click on any button to proceed
+###### please wait a few seconds for the page to be loaded.
 
-<div>
+<div class="paypalbutton">
     <input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
     <input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
     <input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
