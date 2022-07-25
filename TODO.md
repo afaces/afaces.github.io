@@ -29,7 +29,12 @@ change the actual playlist in the main player.
 - - button ❇ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
 - ✳️button is shown to indicate that the track is present in the selected playlist, ✴ takes it out of the selected playlist
 - Button ⏹ Pauses all playlist or track playing and gets back to the start of the actual playing track it is placed under div buttons 
-- Checkbox in contact section to enable email contact saving in a private storage
+- Checkbox in contact section to enable email contact subscribing to google docs or something like that for saving in them (avoiding duplication writing) into a private storage
+- Create new playlist (emojis) logic is added when download buttons are displayed when album title is clicked.
+- Always load deafult playlist
+- Change alternating saved playlists
+- Simple add song to the actual playlist logic
+- Remove song element from actual playlist
 
 - Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 
