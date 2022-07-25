@@ -20,4 +20,4 @@ stripe.redirectToCheckout({
 });
 </script>
 
-Donate 20€ to Afaces
+<input type = "button" onclick = "redirectToCheckout()" value = "Donate 20€ to Afaces">
