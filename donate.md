@@ -21,4 +21,4 @@
     })
 </script>
 
-<button id="checkout">"Donate 20€ to Afaces"</button>
+<input type = "button" id = "checkout" onclick = "stripe.redirectToCheckout()" value = "Donate 20€ to Afaces">
