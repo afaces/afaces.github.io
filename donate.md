@@ -18,7 +18,6 @@ document.getElementById("checkout").addEventListener("click", function() {
 		.then(function(result) {
         });
     })
-
 </script>
 
 ## Please make sure you really want to donate, there is not a refund.
