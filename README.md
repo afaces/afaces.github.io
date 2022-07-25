@@ -37,7 +37,7 @@ p. Ex: [afaces.tk](https://afaces.tk)
 # Use formspree.io for contact page
 
 # Use Stripe for donations
-
+Activate Checkout client CLIENT-ONLY INTEGRATION within stripe dashboard
 
 
 
