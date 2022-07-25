@@ -15,10 +15,13 @@
         successUrl: 'https://afaces.tk/success',
         cancelUrl: 'https://afaces.tk/cancel',
         })
-        .then(function (result)){
+        .then(function (result){
 
         }
     })
 </script>
+
+## Please make sure you really want to donate, there is not a refund.
+#### Click the next button to proceed
 
 <input type = "button" id = "checkout" onclick = "stripe.redirectToCheckout()" value = "Donate 20€ to Afaces">

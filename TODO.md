@@ -16,14 +16,20 @@ Known bugs:
 - Change Menu theme icon to this custom emoji 🎚️ 
 - navbar-toggler-icon sticky on the right side of the screen and does not break jumpline
 - volume slider incorrectly sized when web showing on a full display in PC view
-- 'Buy on Bandcamp' and company menu items and time of the reproduction var number with a smaller font size style
+- 'Buy on Bandcamp' and company menu items and time of the reproduction var number with a smaller font size style and properly shown in navbar menu
 
 Go for:
 - Create script to scrape names of tracks and orders of tracks from Spotify Playlists by URL
-- Create basic contact section for the page
+- Give a custom style to contact form
+- Create custom playlist substitutor system using Afaces number's playlists (+ Temazos de Afaces) and use it to effectively
+change the actual playlist in the main player.
+- Trigger song listening in song titles in main player.
+- Trigger display of the buttons of the songs individual audioplayer the tracks of the album when album title (href??) is clicked
+- Create basic contact section style for the page
 - - button ❇ add the song to the playlist ✴ takes it out to mantain a local playlist and is used to create new playlists and also indicates the selected current playlist
 - ✳️button is shown to indicate that the track is present in the selected playlist, ✴ takes it out of the selected playlist
 - Button ⏹ Pauses all playlist or track playing and gets back to the start of the actual playing track it is placed under div buttons 
+- Checkbox in contact section to enable email contact saving in a private storage
 
 - Animation:
 - When the button of the song is played the emoji changes to ⏮, when this same button is pressed again music goes back to the beggining of the track 
