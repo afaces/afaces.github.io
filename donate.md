@@ -1,6 +1,6 @@
 
 
-## Please make sure you really want to donate, there is not a refund.
+## Make sure you really want to donate, there is not a refund.
 #### Double click on any button with the amount you want to proceed to donate
 ###### please wait a few seconds for the page to be loaded.
 
