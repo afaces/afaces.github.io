@@ -7,7 +7,7 @@ function redirectToCheckoutOne() {
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
-                    price: 'price_1LP7fRGzzgXMTNqrSvnLR3kO', // Replace with the ID of your price
+                    price: 'price_1LPblJGzzgXMTNqr1aO4jCXi', // Replace with the ID of your price
                     quantity: 1,
                 }, ],
                 mode: 'payment',
@@ -25,7 +25,7 @@ function redirectToCheckoutFive() {
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
-                    price: 'price_1LP7fRGzzgXMTNqrgNuAQoFn', // Replace with the ID of your price
+                    price: 'price_1LPblJGzzgXMTNqrWBEQtXoJ', // Replace with the ID of your price
                     quantity: 1,
                 }, ],
                 mode: 'payment',
@@ -43,7 +43,7 @@ function redirectToCheckoutTwenty() {
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
-                    price: 'price_1LP7fQGzzgXMTNqrdiSr61hW', // Replace with the ID of your price
+                    price: 'price_1LPblJGzzgXMTNqrLPdpAb1q', // Replace with the ID of your price
                     quantity: 1,
                 }, ],
                 mode: 'payment',
@@ -61,7 +61,7 @@ function redirectToCheckoutFifty() {
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
-                    price: 'price_1LP7fRGzzgXMTNqrKyjp4Q5d', // Replace with the ID of your price
+                    price: 'price_1LPblJGzzgXMTNqrw2kNK7Od', // Replace with the ID of your price
                     quantity: 1,
                 }, ],
                 mode: 'payment',
@@ -79,7 +79,7 @@ function redirectToCheckoutOneHundred() {
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
-                    price: 'price_1LP7fRGzzgXMTNqr5dXiR0Zu', // Replace with the ID of your price
+                    price: 'price_1LPblKGzzgXMTNqruyXcvpTn', // Replace with the ID of your price
                     quantity: 1,
                 }, ],
                 mode: 'payment',
