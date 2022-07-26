@@ -26,7 +26,6 @@ function redirectToCheckoutOne() {
 </script>
 <input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
 
-<script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
 function redirectToCheckoutFive() { 
     document.getElementById("checkout").addEventListener("click", function() {
@@ -46,7 +45,6 @@ function redirectToCheckoutFive() {
 </script>
 <input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
 
-<script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
 function redirectToCheckoutTwenty() { 
     document.getElementById("checkout").addEventListener("click", function() {
@@ -66,7 +64,6 @@ function redirectToCheckoutTwenty() {
 </script>
 <input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
 
-<script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
 function redirectToCheckoutFifty() {
 document.getElementById("checkout").addEventListener("click", function() {
@@ -86,7 +83,6 @@ document.getElementById("checkout").addEventListener("click", function() {
 </script>
 <input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€ to Afaces">
 
-<script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
 function redirectToCheckoutOneHundred() { 
     document.getElementById("checkout").addEventListener("click", function() {
