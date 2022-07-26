@@ -5,13 +5,7 @@
 ###### please wait a few seconds for the page to be loaded.
 
 <div class="paypalbutton">
-<input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€ to Afaces">
-
-<script>
+<script type="text/javascript" src="/index.js">
 function redirectToCheckoutOne() {
     var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
     
@@ -29,7 +23,10 @@ function redirectToCheckoutOne() {
             });
         })
 }
+</script>
+<input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
 
+<script type="text/javascript" src="/index.js">
 function redirectToCheckoutFive() {
     var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
     
@@ -47,7 +44,10 @@ function redirectToCheckoutFive() {
             });
         })
 }
+</script>
+<input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
 
+<script type="text/javascript" src="/index.js">
 function redirectToCheckoutTwenty() {
     var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
     
@@ -65,7 +65,10 @@ function redirectToCheckoutTwenty() {
             });
         })
 }
+</script>
+<input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
 
+<script type="text/javascript" src="/index.js">
 function redirectToCheckoutFifty() {
     var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
     
@@ -83,7 +86,10 @@ function redirectToCheckoutFifty() {
             });
         })
 }
+</script>
+<input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€ to Afaces">
 
+<script type="text/javascript" src="/index.js">
 function redirectToCheckoutOneHundred() {
     var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
     
@@ -101,8 +107,8 @@ function redirectToCheckoutOneHundred() {
             });
         })
 }
-
 </script>
+<input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€ to Afaces">
 
 </div>
 
