@@ -97,14 +97,28 @@ function redirectToCheckoutOneHundred() {
 #### Click on any button to proceed
 ###### please wait a few seconds for the page to be loaded.
 
+<div class="paypalbutton">
 <input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
 <input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
 <input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
 <input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€ to Afaces">
 <input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€ to Afaces">
+</div>
 
 <div class="paypalbutton">
     <a href="https://paypal.com/paypalme/axelcurros">
         <img border="0" alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg">
     </a>
+    <form action="https://www.paypal.com/donate" method="post" target="_top">
+ <!-- Identify your business so that you can collect the payments. -->
+ <input type="hidden" name="business" value="axelfernandezcurros@gmail.com">
+ <!-- Specify details about the contribution -->
+ <input type="hidden" name="no_recurring" value="0">
+ <input type="hidden" name="item_name" value="Afaces music">
+ <input type="hidden" name="item_number" value="Make a donation">
+ <input type="hidden" name="currency_code" value="EUR">
+ <!-- Display the payment button. -->
+ <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
+ <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+</form>
 </div>
