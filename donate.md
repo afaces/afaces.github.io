@@ -1,33 +1,14 @@
 
 
 ## Make sure you really want to donate, there is not a refund.
+
 #### Double click on any button with the amount you want to proceed to donate
+
 ###### please wait a few seconds for the page to be loaded.
 
 <script type="text/javascript" src="https://js.stripe.com/v3/"></script>
 
-<script type="text/javascript">
-    var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-</script>
-
-<script type="text/javascript">
-function redirectToCheckoutOne() { 
-    document.getElementById("checkout").addEventListener("click", function() {
-        stripe.redirectToCheckout({
-                lineItems: [{
-                    price: 'price_1LPblJGzzgXMTNqr1aO4jCXi', // Replace with the ID of your price
-                    quantity: 1,
-                }, ],
-                mode: 'payment',
-                successUrl: 'https://afaces.tk/success',
-                cancelUrl: 'https://afaces.tk/cancel',
-            })
-            .then(function(result) {
-            });
-        })
-}
-</script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€">
+<input type="button" onclick="location.href='https://buy.stripe.com/8wMg0kfQbfdr22I001';" value="Donate 1€">
 
 <script type="text/javascript">
 function redirectToCheckoutFive() { 
