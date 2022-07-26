@@ -5,9 +5,12 @@
 ###### please wait a few seconds for the page to be loaded.
 
 <script type="text/javascript" src="https://js.stripe.com/v3/"></script>
-<script type="text/javascript">
-var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
 
+<script type="text/javascript">
+    var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
+</script>
+
+<script type="text/javascript">
 function redirectToCheckoutOne() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
@@ -27,8 +30,6 @@ function redirectToCheckoutOne() {
 <input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€">
 
 <script type="text/javascript">
-var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-
 function redirectToCheckoutFive() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
@@ -48,8 +49,6 @@ function redirectToCheckoutFive() {
 <input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€">
 
 <script type="text/javascript">
-var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-
 function redirectToCheckoutTwenty() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
@@ -69,8 +68,6 @@ function redirectToCheckoutTwenty() {
 <input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€">
 
 <script type="text/javascript">
-var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-
 function redirectToCheckoutFifty() {
 document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
@@ -90,8 +87,6 @@ document.getElementById("checkout").addEventListener("click", function() {
 <input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€">
 
 <script type="text/javascript">
-var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-
 function redirectToCheckoutOneHundred() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
