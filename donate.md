@@ -1,5 +1,16 @@
 <script src="https://js.stripe.com/v3/"></script>
 
+## Please make sure you really want to donate, there is not a refund.
+#### Click on any button to proceed
+###### please wait a few seconds for the page to be loaded.
+
+<div class="paypalbutton">
+<input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€ to Afaces">
+
 <script>
 function redirectToCheckoutOne() {
     var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
@@ -93,16 +104,6 @@ function redirectToCheckoutOneHundred() {
 
 </script>
 
-## Please make sure you really want to donate, there is not a refund.
-#### Click on any button to proceed
-###### please wait a few seconds for the page to be loaded.
-
-<div class="paypalbutton">
-<input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€ to Afaces">
-<input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€ to Afaces">
 </div>
 
 <div class="paypalbutton">
