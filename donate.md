@@ -1,7 +1,7 @@
 
 
 ## Please make sure you really want to donate, there is not a refund.
-#### Click on any button to proceed
+#### Double click on any button with the amount you want to proceed to donate
 ###### please wait a few seconds for the page to be loaded.
 
 <script src="https://js.stripe.com/v3/">
@@ -24,7 +24,7 @@ function redirectToCheckoutOne() {
         })
 }
 </script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutOne()" value="Donate 1€">
 
 <script type="text/javascript">
 function redirectToCheckoutFive() { 
@@ -43,7 +43,7 @@ function redirectToCheckoutFive() {
         })
 }
 </script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€">
 
 <script type="text/javascript">
 function redirectToCheckoutTwenty() { 
@@ -62,7 +62,7 @@ function redirectToCheckoutTwenty() {
         })
 }
 </script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€">
 
 <script type="text/javascript">
 function redirectToCheckoutFifty() {
@@ -81,7 +81,7 @@ document.getElementById("checkout").addEventListener("click", function() {
         })
 }
 </script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€">
 
 <script type="text/javascript">
 function redirectToCheckoutOneHundred() { 
@@ -100,7 +100,9 @@ function redirectToCheckoutOneHundred() {
         })
 }
 </script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€ to Afaces">
+<input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€">
+
+## To donate through Paypal: 
 
 <div class="paypalbutton">
     <a href="https://paypal.com/paypalme/axelcurros">
