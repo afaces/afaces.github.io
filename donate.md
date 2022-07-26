@@ -4,7 +4,7 @@
 #### Double click on any button with the amount you want to proceed to donate
 ###### please wait a few seconds for the page to be loaded.
 
-<script src="https://js.stripe.com/v3/"></script>
+<script type="text/javascript" src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
 var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
 
