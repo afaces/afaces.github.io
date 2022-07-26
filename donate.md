@@ -4,7 +4,6 @@
 #### Click on any button to proceed
 ###### please wait a few seconds for the page to be loaded.
 
-<div class="paypalbutton">
 <script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
 function redirectToCheckoutOne() {
@@ -114,8 +113,6 @@ function redirectToCheckoutOneHundred() {
 }
 </script>
 <input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€ to Afaces">
-
-</div>
 
 <div class="paypalbutton">
     <a href="https://paypal.com/paypalme/axelcurros">
