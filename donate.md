@@ -4,11 +4,11 @@
 #### Click on any button to proceed
 ###### please wait a few seconds for the page to be loaded.
 
-<script src="https://js.stripe.com/v3/"></script>
-<script type="text/javascript">
-function redirectToCheckoutOne() {
+<script src="https://js.stripe.com/v3/">
     var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-    
+</script>
+<script type="text/javascript">
+function redirectToCheckoutOne() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
@@ -28,9 +28,7 @@ function redirectToCheckoutOne() {
 
 <script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
-function redirectToCheckoutFive() {
-    var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-    
+function redirectToCheckoutFive() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
@@ -50,9 +48,7 @@ function redirectToCheckoutFive() {
 
 <script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
-function redirectToCheckoutTwenty() {
-    var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-    
+function redirectToCheckoutTwenty() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
@@ -73,9 +69,7 @@ function redirectToCheckoutTwenty() {
 <script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
 function redirectToCheckoutFifty() {
-    var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-    
-    document.getElementById("checkout").addEventListener("click", function() {
+document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
                     price: 'price_1LPblJGzzgXMTNqrw2kNK7Od', // Replace with the ID of your price
@@ -94,9 +88,7 @@ function redirectToCheckoutFifty() {
 
 <script src="https://js.stripe.com/v3/"></script>
 <script type="text/javascript">
-function redirectToCheckoutOneHundred() {
-    var stripe = Stripe('pk_live_51LP7WYGzzgXMTNqrg7ECBiuknWQo4TLUoyYX6NERMhNsr0DmdY7O7znm3vxOSNNvCCil4AfsbSNJPWjQppX7YgF700jrHHNVWZ');
-    
+function redirectToCheckoutOneHundred() { 
     document.getElementById("checkout").addEventListener("click", function() {
         stripe.redirectToCheckout({
                 lineItems: [{
