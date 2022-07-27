@@ -1,4 +1,5 @@
-## Donation successful
+## THANK YOU
+#### Donation successful
 
 You will be redirected to [main](https://afaces.tk) page in 3 seconds
 <script>
