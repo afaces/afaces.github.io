@@ -6,85 +6,15 @@
 
 ###### please wait a few seconds for the page to be loaded.
 
-<script type="text/javascript" src="https://js.stripe.com/v3/"></script>
-
 <input type="button" onclick="location.href='https://buy.stripe.com/8wMg0kfQbfdr22I001';" value="Donate 1€">
 
-<script type="text/javascript">
-function redirectToCheckoutFive() { 
-    document.getElementById("checkout").addEventListener("click", function() {
-        stripe.redirectToCheckout({
-                lineItems: [{
-                    price: 'price_1LPblJGzzgXMTNqrWBEQtXoJ', // Replace with the ID of your price
-                    quantity: 1,
-                }, ],
-                mode: 'payment',
-                successUrl: 'https://afaces.tk/success',
-                cancelUrl: 'https://afaces.tk/cancel',
-            })
-            .then(function(result) {
-            });
-        })
-}
-</script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutFive()" value="Donate 5€">
+<input type="button" onclick="location.href='https://buy.stripe.com/bIY6pK5bx8P3dLqbIK';" value="Donate 5€">
 
-<script type="text/javascript">
-function redirectToCheckoutTwenty() { 
-    document.getElementById("checkout").addEventListener("click", function() {
-        stripe.redirectToCheckout({
-                lineItems: [{
-                    price: 'price_1LPblJGzzgXMTNqrLPdpAb1q', // Replace with the ID of your price
-                    quantity: 1,
-                }, ],
-                mode: 'payment',
-                successUrl: 'https://afaces.tk/success',
-                cancelUrl: 'https://afaces.tk/cancel',
-            })
-            .then(function(result) {
-            });
-        })
-}
-</script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutTwenty()" value="Donate 20€">
+<input type="button" onclick="location.href='https://buy.stripe.com/8wM29u33pfdr0YEeUX';" value="Donate 20€">
 
-<script type="text/javascript">
-function redirectToCheckoutFifty() {
-document.getElementById("checkout").addEventListener("click", function() {
-        stripe.redirectToCheckout({
-                lineItems: [{
-                    price: 'price_1LPblJGzzgXMTNqrw2kNK7Od', // Replace with the ID of your price
-                    quantity: 1,
-                }, ],
-                mode: 'payment',
-                successUrl: 'https://afaces.tk/success',
-                cancelUrl: 'https://afaces.tk/cancel',
-            })
-            .then(function(result) {
-            });
-        })
-}
-</script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutFifty()" value="Donate 50€">
+<input type="button" onclick="location.href='https://buy.stripe.com/dR6bK48nJ6GVaze3cg';" value="Donate 50€">
 
-<script type="text/javascript">
-function redirectToCheckoutOneHundred() { 
-    document.getElementById("checkout").addEventListener("click", function() {
-        stripe.redirectToCheckout({
-                lineItems: [{
-                    price: 'price_1LPblKGzzgXMTNqruyXcvpTn', // Replace with the ID of your price
-                    quantity: 1,
-                }, ],
-                mode: 'payment',
-                successUrl: 'https://afaces.tk/success',
-                cancelUrl: 'https://afaces.tk/cancel',
-            })
-            .then(function(result) {
-            });
-        })
-}
-</script>
-<input type="button" id="checkout" onclick = "redirectToCheckoutOneHundred()" value="Donate 100€">
+<input type="button" onclick="location.href='https://buy.stripe.com/bIY5lG9rN9T78r6dQW';" value="Donate 100€">
 
 ## To donate through Paypal: 
 
