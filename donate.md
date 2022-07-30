@@ -13,6 +13,7 @@
 
 <input type="button" onclick="location.href='https://buy.stripe.com/bIY5lG9rN9T78r6dQW';" value="Donate 100€">
 </div>
+
 ## To donate through Paypal: 
 
 <div class="paypalbutton">
