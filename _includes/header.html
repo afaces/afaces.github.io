@@ -2,11 +2,12 @@
   <div class="container">
   <div class="player">
     <div class="details">
-      <div class="track-art"></div>
-      <marquee direction="left" scrolldelay="120"><div class="track-name">Track Name</div></marquee>
       <div class="track-artist">Track Artist</div>
+      <marquee direction="left" scrolldelay="120"><div class="track-name">Track Name</div></marquee>
+      
     </div>
     <div class="buttons">
+      <div class="track-art"></div>
       <div class="prev-track" onclick="prevTrack()"><i class="fa fa-step-backward fa-2x"><span>⏮</span></i></div>
       <div class="playpause-track" onclick="playpauseTrack()"><i class="fa fa-play-circle fa-5x"><span>⏯</span></i></div>
       <div class="next-track" onclick="nextTrack()"><i class="fa fa-step-forward fa-2x"><span>⏭</span></i></div>
@@ -54,7 +55,7 @@
                <input type="hidden" name="item_number" value="Make a donation">
                <input type="hidden" name="currency_code" value="EUR">
                <!-- Display the payment button. -->
-               <input type="image" name="submit" src="<a href='https://dryicons.com/free-icons/donate-button'></a>" alt="Donate">
+               <input type="image" name="submit" src="assets/paypalbutton.png" alt="Donate">
                <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
             </form>
           </li>
