@@ -10,10 +10,11 @@ with open("mixCloudMetadata.txt", "r") as r:
             htmlLines.append(line)
 bashList = str(subprocess.check_output(["head", "-1", "mixCloudSongData.sh"])).replace('"', '')
 bashList = bashList.split('(')[1].split(')')[0].split(' ')
+
 iframeList = []
+
 for line in htmlLines:
-    print(line, " oli oli oli")
-    iframeList.append(line.split('"html":')[1].split(',"author_name"')[0].replace('\\', '').replace('height="120"', 'height="60"')[1:-1])
+    iframeList.append(line.split('"html":')[1].split(',"author_name"')[0].replace('\\', '').replace('height="120"', 'height="60"').replace('"', '')[1:-1])
 
 #print(len(iframeList))
 
