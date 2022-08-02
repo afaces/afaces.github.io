@@ -31,7 +31,7 @@ playlists = ["https://open.spotify.com/playlist/2a4YUDpE5KQRDbPT0E9tJ2",
 badplaylists = ["https://open.spotify.com/playlist/5sj85p0DBgtP5GJr7tpAwH", "https://open.spotify.com/playlist/0dvjiEDQneQrUiTGjpHb7W"] # Uh-uh & 20
 artistURL = "/user/1153971537"
 
-url = playlists[20]
+url = playlists[24]
 res = requests.get(url)
 html_page = res.content
 
@@ -87,12 +87,16 @@ linesURL = str(el)
 myList = []
 
 if url in badplaylists:
-    print("aki printeo si la url está en la badplaylist")
-    print("veo que las dos primeras crashean")
     index = 0
-    for i in playlistList[:-1]:
+    for i in range(len(playlistList[:-1])):
         trackURL = linesURL.split(artistURL)[1].split("href")[index].split('"')[1]
-        content = i + ", " + trackURL
+        if "https://" not in trackURL:
+            trackURL = linesURL.split(artistURL)[1].split("href")[i + 3].split('"')[1]
+            if "https://" not in trackURL:
+                trackURL = linesURL.split(artistURL)[1].split("href")[i + 1].split('"')[1]
+                # TODO: Correct 1st track name
+        playlist = playlistList[:-1]
+        content = playlist[i] + ", " + trackURL
         myList.append(content)
         index += 2
 else:
@@ -102,9 +106,6 @@ else:
         content = i + ", " + trackURL
         myList.append(content)
         index += 2
-# TODO: Some playlist url don't show link properly due to (what is thought) index desyncronization, musht check sources of difference
-
-
 
 for song in range(len(myList)):
     name = myList[song].split(",")[0]
