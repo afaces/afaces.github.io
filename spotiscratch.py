@@ -35,7 +35,7 @@ result = ""
 for i in namePlaylist[:-3]:
     result = result + i + " "
 namePlaylist = result
-# print(namePlaylist)
+print(namePlaylist)
 
 playlist = lines[len(lines) - 1]
 comment = playlist.split("more-icon-android")[0]
