@@ -31,7 +31,7 @@ playlists = ["https://open.spotify.com/playlist/2a4YUDpE5KQRDbPT0E9tJ2",
 badplaylists = ["https://open.spotify.com/playlist/5sj85p0DBgtP5GJr7tpAwH", "https://open.spotify.com/playlist/0dvjiEDQneQrUiTGjpHb7W"] # Uh-uh & 20
 artistURL = "/user/1153971537"
 
-url = playlists[24]
+url = playlists[20]
 res = requests.get(url)
 html_page = res.content
 
