@@ -28,7 +28,7 @@ with open("mixCloudTracks.md", "w") as o:
             if 0 < thing < 4:
                 edited = '"' + thingy[thing].split('=')[1] + '"'
                 if thing == 3:
-                    edited = thingy[thing][3:][1:]
+                    edited = thingy[thing][3:][1:].replace("?feed=https%3A%2F%2Fwww.mixcloud.com%2F", "?hide_cover=1&mini=1&feed=%2F")
                     edited = '"' + edited + '"'
                 that = thingy[thing].split("=")[0] + "=" + edited
             elif thing == 4:
