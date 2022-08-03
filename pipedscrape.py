@@ -1,14 +1,17 @@
-import asyncio
-import aiohttp
 import requests
 from bs4 import BeautifulSoup
+from requests_html import HTMLSession
 
 url = "https://piped.kavin.rocks/channel/UC8q43meCJbtzr3UMdznZZ-Q"
 
+session = HTMLSession()
+r = session.get(url)
+
 res = requests.get(url)
 html_page = res.content
+r.html.render()
 
-soup = BeautifulSoup(html_page, 'html.parser')
+soup = BeautifulSoup(html_page, "lxml")
 text = soup.find_all(text=True)
 output = ''
 blacklist = [
@@ -28,3 +31,4 @@ for t in text:
 
 lines = output.split('\n')
 print(lines)
+
