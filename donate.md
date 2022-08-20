@@ -41,16 +41,15 @@
 #### My ApeCoin Wallet
 [![APE](https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue)]()
 
-
 <div class="paypalbutton">
-    <img src="assets/ape_wallet_qr.jpg" width="200" height="200" />
+    <img src="assets/ape_wallet_qr.jpg" width="150" height="150" />
 </div>
 
 #### My Ethereum Wallet
 [![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
 
 <div class="paypalbutton">
-    <img src="assets/eth_wallet_qr.jpg" width="200" height="200" />
+    <img src="assets/eth_wallet_qr.jpg" width="150" height="150" />
 </div>
 
 ###### Donate 0.01 ETH
@@ -61,16 +60,16 @@
 <script>
     var MY_ADDRESS = '0xD2592996A462A5C5478fF3AfE09943095ce4C178'
     var tipButton = document.querySelector('.tip-button')
-
+    
     tipButton.addEventListener('click', function() 
         {
         if (typeof web3 === 'undefined') 
             {
             return renderMessage('<div>You need to install <a href=“https://metmask.io“>MetaMask </a> to use this feature.  <a href=“https://metmask.io“>https://metamask.io</a></div>')
             }
-
+    
         var user_address = web3.eth.accounts[0]
-
+    
         web3.eth.sendTransaction(
             {
             to: MY_ADDRESS,
@@ -83,11 +82,11 @@
                 renderMessage('Thanks for the generosity!!')
             })
         })
-
+    
     function renderMessage (message) 
         {
         var messageEl = document.querySelector('.message')
         messageEl.innerHTML = message
         }
-    </script>
+</script>
 
