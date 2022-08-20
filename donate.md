@@ -22,6 +22,8 @@
     </a>
 </div>
 
+<br></br>
+
 ## To donate through cryptocurrency: 
 
 <style>
