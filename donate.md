@@ -37,25 +37,55 @@
 </style>
 
 #### My ApeCoin Wallet
+[![APE](https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue)]()
+
+
 <div class="paypalbutton">
-    <a href="https://paypal.com/paypalme/axelcurros">
-        <img src="assets/ape_wallet_qr.jpg" width="200" height="200" />
-    </a>
+    <img src="assets/ape_wallet_qr.jpg" width="200" height="200" />
 </div>
 
-[![APE](https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue)]()
+#### My Ethereum Wallet
+[![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
+
+<div class="paypalbutton">
+    <img src="assets/eth_wallet_qr.jpg" width="200" height="200" />
+</div>
+
+###### Donate 0.01 ETH
 
 <img class="tip-button" src="https://www.srcmake.com/uploads/5/3/9/0/5390645/donateetherbutton_orig.png" alt="Metamask tip button" style="width:97%;">
 <div class="message"></div>
 
-<br>
+<script>
+    var MY_ADDRESS = '0xD2592996A462A5C5478fF3AfE09943095ce4C178'
+    var tipButton = document.querySelector('.tip-button')
 
-#### My Ethereum Wallet
-<div class="paypalbutton">
-    <a href="https://paypal.com/paypalme/axelcurros">
-<img src="assets/eth_wallet_qr.jpg" width="200" height="200" />
-    </a>
-</div>
+    tipButton.addEventListener('click', function() 
+        {
+        if (typeof web3 === 'undefined') 
+            {
+            return renderMessage('<div>You need to install <a href=“https://metmask.io“>MetaMask </a> to use this feature.  <a href=“https://metmask.io“>https://metamask.io</a></div>')
+            }
 
-[![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
+        var user_address = web3.eth.accounts[0]
+
+        web3.eth.sendTransaction(
+            {
+            to: MY_ADDRESS,
+            from: user_address,
+            value: web3.toWei('0.01', 'ether'),
+            }, 
+            function (err, transactionHash) 
+                {
+                if (err) return renderMessage('There was a problem!: ' + err.message)
+                renderMessage('Thanks for the generosity!!')
+            })
+        })
+
+    function renderMessage (message) 
+        {
+        var messageEl = document.querySelector('.message')
+        messageEl.innerHTML = message
+        }
+    </script>
 
