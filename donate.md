@@ -56,12 +56,11 @@
 #### To donate through Ethereum Wallet 0xD2592996A462A5C5478fF3AfE09943095ce4C178
 [![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
 
-<script>
 <div class="paypalbutton">
     <img src="assets/eth_wallet_qr.jpg" width="150" height="150" />
 </div>
 
-
+<script>
 function copyData() {
     var text = document.getElementById("textArea").value;
     var listener = function(ev) {
