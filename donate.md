@@ -14,7 +14,7 @@
 <input type="button" title="Donate 100€"  onclick="location.href='https://buy.stripe.com/bIY5lG9rN9T78r6dQW';" value="Donate 100€">
 </div>
 
-## To donate through Paypal: 
+## To donate through PayPal: 
 
 <div class="paypalbutton">
     <a href="https://paypal.com/paypalme/axelcurros">
@@ -48,7 +48,9 @@
 
 <div class="tooltip">
 <button id="btn" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()">
-  <span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>Copy</button>
+  <span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>
+  Copy
+</button>
 </div>
 
 
