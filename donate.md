@@ -62,6 +62,13 @@ test
   Copy
 </button>
 
+
+test test test
+
+
+<input type="button" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
+<span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>
+
 test
 
 
