@@ -7,9 +7,9 @@
     </div>
     <div class="buttons">
       <div class="track-art"></div>
-      <div class="prev-track" onclick="prevTrack()"><i class="fa fa-step-backward fa-2x"><span>⏮</span></i></div>
-      <div class="playpause-track" onclick="playpauseTrack()"><i class="fa fa-play-circle fa-5x"><span>⏯</span></i></div>
-      <div class="next-track" onclick="nextTrack()"><i class="fa fa-step-forward fa-2x"><span>⏭</span></i></div>
+      <div title="Previous" class="prev-track" onclick="prevTrack()"><i class="fa fa-step-backward fa-2x"><span>⏮</span></i></div>
+      <div title="Play/Pause" class="playpause-track" onclick="playpauseTrack()"><i class="fa fa-play-circle fa-5x"><span>⏯</span></i></div>
+      <div title="Next" class="next-track" onclick="nextTrack()"><i class="fa fa-step-forward fa-2x"><span>⏭</span></i></div>
       <div class="now-playing">PLAYING x OF y</div>
 
     </div>
@@ -45,7 +45,7 @@
             </a>
           </li>
           <li class="nav-item">
-             <form action="https://www.paypal.com/donate" method="post" target="_top">
+             <form title="Donate to Afaces" action="https://www.paypal.com/donate" method="post" target="_top">
                <!-- Identify your business so that you can collect the payments. -->
                <input type="hidden" name="business" value="axelfernandezcurros@gmail.com">
                <!-- Specify details about the contribution -->
@@ -59,7 +59,11 @@
             </form>
           </li>
           <li class="nav-item">
-            <a class="nav-link"><button onclick="topFunction()" id="back-to-top" title="Go to top">🔝</button><a href="https://afaces.tk"><img alt="Afaces" src="assets/avatar.jpg" width=25" height="25"></a></a>
+            <a class="nav-link"><button onclick="topFunction()" id="back-to-top" title="Go to top">🔝</button>
+              <a href="https://afaces.tk">
+                <img alt="Afaces" title="Back to main page" src="assets/avatar.jpg" width=25" height="25">
+              </a>
+            </a>
           </li>
         </ul>
       </div>

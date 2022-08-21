@@ -44,17 +44,46 @@
 </div>
 
 <textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
+
 <div class="tooltip">
-<button id="btn" onclick="copyData()" onmouseout="outFunc()">
+<button id="btn" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()">
   <span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>Copy</button>
 </div>
+
+<button id="btn" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()">
+  <span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>Copy</button>
 
 #### To donate through Ethereum Wallet 0xD2592996A462A5C5478fF3AfE09943095ce4C178
 [![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
 
+<script>
 <div class="paypalbutton">
     <img src="assets/eth_wallet_qr.jpg" width="150" height="150" />
 </div>
+
+
+function copyData() {
+    var text = document.getElementById("textArea").value;
+    var listener = function(ev) {
+	 ev.clipboardData.setData("text/plain", text);
+	 ev.preventDefault();
+    };
+    document.addEventListener("copy", listener);
+    document.execCommand("copy");
+    document.removeEventListener("copy", listener);
+
+    navigator.clipboard.writeText(text.value);
+
+    var tooltip = document.getElementById("myTooltip");
+    tooltip.innerHTML = "Copied: " + text.value;
+}
+
+function outFunc() {
+  var tooltip = document.getElementById("myTooltip");
+  tooltip.innerHTML = "Copy to clipboard";
+}
+</script>
+
 
 ###### Donate 0.01 ETH
 
