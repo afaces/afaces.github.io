@@ -38,6 +38,12 @@
 
 #### ApeCoin 
 [![APE](https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue)]()
+TEST
+TEST
+TEST
+
+<img src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" width="114" height="38" onclick="copyData();" />
+
 <textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
 
 
