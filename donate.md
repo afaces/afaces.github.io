@@ -36,8 +36,9 @@
         }
 </style>
 
-#### To donate through ApeCoin 
+#### ApeCoin 
 [![APE](https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue)]()
+
 
 <div class="paypalbutton">
     <img src="assets/ape_wallet_qr.jpg" width="150" height="150" />
@@ -50,11 +51,10 @@
   <span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>Copy</button>
 </div>
 
-<button id="btn" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()">
-  <span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>Copy</button>
 
-#### To donate through Ethereum Wallet 0xD2592996A462A5C5478fF3AfE09943095ce4C178
+#### Ethereum 0xD2592996A462A5C5478fF3AfE09943095ce4C178
 [![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
+
 
 <div class="paypalbutton">
     <img src="assets/eth_wallet_qr.jpg" width="150" height="150" />
