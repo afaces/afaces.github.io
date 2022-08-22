@@ -39,19 +39,17 @@
 #### ApeCoin 
 [![APE](https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue)]()
 TEST
-TEST
-TEST
 
-<img src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" width="114" height="38" onclick="copyData();" />
+
+<img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" onclick="copyData(document.getElementById('demo').innerHTML);" />0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C
 
 <textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
-
 
 <div class="paypalbutton">
     <img src="assets/ape_wallet_qr.jpg" width="150" height="150" onclick="copyData();"/>
 </div>
 
-test
+test!!!!
 
 <div class="tooltip">
 <button id="btn" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()">
@@ -60,12 +58,12 @@ test
 </button>
 </div>
 
-test!!!
+test!!!?=?=
 
 
 <input type="button" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
 
-test?
+test
 
 
 #### Ethereum 0xD2592996A462A5C5478fF3AfE09943095ce4C178
@@ -77,21 +75,10 @@ test?
 </div>
 
 <script>
-function copyData() {
-    var text = document.getElementById("textArea").value;
-    var listener = function(ev) {
-	 ev.clipboardData.setData("text/plain", text);
-	 ev.preventDefault();
-    };
-    document.addEventListener("copy", listener);
-    document.execCommand("copy");
-    document.removeEventListener("copy", listener);
 
-    navigator.clipboard.writeText(text.value);
-
-    var tooltip = document.getElementById("myTooltip");
-    tooltip.innerHTML = "Copied: " + text.value;
-}
+function copyData(text) {
+    window.prompt("Copy to clipboard: Ctrl+C, Enter", text);
+  }
 
 function outFunc() {
   var tooltip = document.getElementById("myTooltip");
