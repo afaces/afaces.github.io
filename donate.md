@@ -46,7 +46,7 @@
     <div class="tooltip">
         <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
     </div>
-<textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C
+<textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
 <input type="button" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
 </div>
 
