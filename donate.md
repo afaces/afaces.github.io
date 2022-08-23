@@ -38,15 +38,17 @@
 
 #### ApeCoin 
 
-<img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" value="0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C" onclick="copyData();" />0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C
+<img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" value="0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C" onclick="copyData();" /><textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
+
 <input type="button" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
 
 
-<textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
 
 <div class="paypalbutton">
     <img src="assets/ape_wallet_qr.jpg" width="150" height="150" title="APE Wallet QR code" onclick="copyData();" onmouseout="outFunc()"/> 
-    <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C
+<br>    
+<div>
+    <span class="tooltiptext" id="myTooltip">Copy to clipboard</span></div>
 </div>
 
 
