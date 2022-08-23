@@ -40,15 +40,24 @@
 
 <img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" onclick="copyData();" />
 
+<textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
 
 <div class="paypalbutton">
     <img src="assets/ape_wallet_qr.jpg" width="150" height="150" title="APE Wallet QR code" onclick="copyData();" onmouseout="outFunc()"/>
     <div class="tooltip">
         <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
     </div>
-    <pre><code class="language-css">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</code></pre>
 </div>
 
+<div class="paypalbutton">
+    <pre>
+        <code class="language-css">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</code>
+    </pre>
+</div>
+
+<div class="paypalbutton">    
+    <input type="button" title="Copy APE Address to phone clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
+</div>
 
 #### Ethereum 0xD2592996A462A5C5478fF3AfE09943095ce4C178
 [![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
