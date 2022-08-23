@@ -404,6 +404,11 @@ img:hover {
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
+textarea {
+    width: 250px;
+    display: none;
+}
+
 .tooltip {
   position: relative;
   display: inline-block;
