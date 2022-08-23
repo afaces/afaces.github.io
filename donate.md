@@ -47,7 +47,8 @@
         <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
     </div>
 <textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
-<input type="button" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
+<pre><code class="language-css">.0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</code></pre>
+<input type="button" title="Copy APE Address to phone clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
 </div>
 
 
@@ -61,20 +62,27 @@
 
 <script>
 
-function copyData() {
-    var text = document.getElementById("textArea").value;
-    var listener = function(ev) {
-	 ev.clipboardData.setData("text/plain", text);
-	 ev.preventDefault();
-    };
-    document.addEventListener("copy", listener);
-    document.execCommand("copy");
-    document.removeEventListener("copy", listener);
+const copyButtonLabel = "Copy Address";
 
-    navigator.clipboard.writeText(text.value);
+// use a class selector if available
+let blocks = document.querySelectorAll("pre");
 
-    var tooltip = document.getElementById("myTooltip");
-    tooltip.innerHTML = "Copied: " + text.value;
+blocks.forEach((block) => {
+  // only add a button if browser supports Clipboard API
+  if (navigator.clipboard) {
+    let button = document.createElement("button");
+    button.innerText = copyButtonLabel;
+    button.addEventListener("click", copyCode);
+    block.appendChild(button);
+  }
+});
+
+async function copyCode(event) {
+  const button = event.srcElement;
+  const pre = button.parentElement;
+  let code = pre.querySelector("code");
+  let text = code.innerText;
+  await navigator.clipboard.writeText(text);
 }
 
 function outFunc() {
