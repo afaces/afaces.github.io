@@ -38,30 +38,15 @@
 
 #### ApeCoin 
 
-<img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" value="0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C" onclick="copyData(document.getElementById('demo').innerHTML);" />0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C
+<img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" value="0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C" onclick="copyData();" />0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C
+<input type="button" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
+
 
 <textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
 
 <div class="paypalbutton">
-    <img src="assets/ape_wallet_qr.jpg" onclick="copyData(document.getElementById('demo').innerHTML);"/>
+    <img src="assets/ape_wallet_qr.jpg" width="150" height="150" title="APE Wallet QR code" onclick="copyData();" onmouseout="outFunc()"/> 
 </div>
-
-test!!!!
-
-<div class="tooltip">
-<button id="btn" title="Copy APE Address to clipboard" onclick="copyData(document.getElementById('demo').innerHTML);" onmouseout="outFunc()">
-  <span class="tooltiptext" id="myTooltip">Copy APE Address to clipboard</span>
-  Copy
-</button>
-</div>
-
-test!!!?=?=
-
-
-<input type="button" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
-
-test
-
 
 #### Ethereum 0xD2592996A462A5C5478fF3AfE09943095ce4C178
 [![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
@@ -73,9 +58,21 @@ test
 
 <script>
 
-function copyData(text) {
-    window.prompt("Copy to clipboard: Ctrl+C, Enter", text);
-  }
+function copyData() {
+    var text = document.getElementById("textArea").value;
+    var listener = function(ev) {
+	 ev.clipboardData.setData("text/plain", text);
+	 ev.preventDefault();
+    };
+    document.addEventListener("copy", listener);
+    document.execCommand("copy");
+    document.removeEventListener("copy", listener);
+
+    navigator.clipboard.writeText(text.value);
+
+    var tooltip = document.getElementById("myTooltip");
+    tooltip.innerHTML = "Copied: " + text.value;
+}
 
 function outFunc() {
   var tooltip = document.getElementById("myTooltip");
