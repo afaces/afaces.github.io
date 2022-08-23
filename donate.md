@@ -38,7 +38,7 @@
 
 #### ApeCoin 
 
-<img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" value="0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C" onclick="copyData();" />
+<img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" onclick="copyData();" />
 
 <textarea id="textArea">0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C</textarea>
 <input type="button" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
