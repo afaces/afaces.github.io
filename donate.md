@@ -56,7 +56,7 @@
 </div>
 
 <div class="paypalbutton">    
-    <input type="button" title="Copy APE Address to phone clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
+    <input type="button" title="Copy APE Address to phone clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy Address to phone's clipboard">
 </div>
 
 #### Ethereum 0xD2592996A462A5C5478fF3AfE09943095ce4C178
@@ -80,6 +80,12 @@ blocks.forEach((block) => {
     let button = document.createElement("button");
     button.innerText = copyButtonLabel;
     button.addEventListener("click", copyCode);
+    block.appendChild(button);
+  }
+  else {
+    let button = document.createElement("button");
+    button.innerText = copyButtonLabel;
+    button.addEventListener("click", copyData);
     block.appendChild(button);
   }
 });
