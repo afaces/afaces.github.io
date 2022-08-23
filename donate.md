@@ -48,6 +48,7 @@
     <img src="assets/ape_wallet_qr.jpg" width="150" height="150" title="APE Wallet QR code" onclick="copyData();" onmouseout="outFunc()"/> 
 </div>
 
+
 #### Ethereum 0xD2592996A462A5C5478fF3AfE09943095ce4C178
 [![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
 
