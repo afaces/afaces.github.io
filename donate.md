@@ -43,12 +43,10 @@
 <input type="button" title="Copy APE Address to clipboard" onclick="copyData()" onmouseout="outFunc()" value = "Copy">
 
 
-
 <div class="paypalbutton">
-    <img src="assets/ape_wallet_qr.jpg" width="150" height="150" title="APE Wallet QR code" onclick="copyData();" onmouseout="outFunc()"/> 
-<br>    
-<div>
-    <span class="tooltiptext" id="myTooltip">Copy to clipboard</span></div>
+    <img src="assets/ape_wallet_qr.jpg" width="150" height="150" title="APE Wallet QR code" onclick="copyData();" onmouseout="outFunc()"/>
+<div class="tooltip">
+    <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
 </div>
 
 
