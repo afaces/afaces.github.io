@@ -53,12 +53,20 @@
     </div>
 </div>
 
-#### Ethereum 0xD2592996A462A5C5478fF3AfE09943095ce4C178
-[![ETH](https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue)]()
+#### Ethereum
+<img id="demo" src="https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue" title="APE address" onclick="copyData();" />
 
+<pre>
+    <code class="language-css">0xD2592996A462A5C5478fF3AfE09943095ce4C178</code>
+</pre>
+
+<textarea id="textArea">0xD2592996A462A5C5478fF3AfE09943095ce4C178</textarea>
 
 <div class="paypalbutton">
     <img src="assets/eth_wallet_qr.jpg" width="150" height="150" />
+    <div class="tooltip">
+        <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
+    </div>
 </div>
 
 <script>
