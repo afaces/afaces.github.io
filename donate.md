@@ -36,8 +36,7 @@
         }
 </style>
 
-#### ApeCoin 
-<button onclick="copyData();" title="APE Adress"><img width=25" height="25" src="assets/apecoin-icon.svg"/><button>  
+#### ApeCoin <button onclick="copyData();" title="APE Adress"><img width=25" height="25" src="assets/apecoin-icon.svg"/><button>  
 
 
 <img id="demo" src="https://img.shields.io/badge/APE%20Adress%3A-0xC429F920caa9D9Fa4b1FAC8e3F247c7fE8Dcfc9C-blue" title="APE address" onclick="copyData();" />
