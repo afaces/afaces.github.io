@@ -54,13 +54,13 @@
 </div>
 
 #### Ethereum
-<img id="demo" src="https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue" title="APE address" onclick="copyData();" />
+<img id="demo" src="https://img.shields.io/badge/Ethereum%20Adress%3A-0xD2592996A462A5C5478fF3AfE09943095ce4C178-blue" title="ETH address" onclick="copyData2();" />
 
 <pre>
     <code class="language-css">0xD2592996A462A5C5478fF3AfE09943095ce4C178</code>
 </pre>
 
-<textarea id="textArea">0xD2592996A462A5C5478fF3AfE09943095ce4C178</textarea>
+<textarea id="textArea2">0xD2592996A462A5C5478fF3AfE09943095ce4C178</textarea>
 
 <div class="paypalbutton">
     <img src="assets/eth_wallet_qr.jpg" width="150" height="150" />
@@ -102,6 +102,22 @@ async function copyCode(event) {
 
 function copyData() {
     var text = document.getElementById("textArea").value;
+    var listener = function(ev) {
+	 ev.clipboardData.setData("text/plain", text);
+	 ev.preventDefault();
+    };
+    document.addEventListener("copy", listener);
+    document.execCommand("copy");
+    document.removeEventListener("copy", listener);
+
+    navigator.clipboard.writeText(text.value);
+
+    var tooltip = document.getElementById("myTooltip");
+    tooltip.innerHTML = "Copied: " + text.value;
+}
+	
+function copyData2() {
+    var text = document.getElementById("textArea2").value;
     var listener = function(ev) {
 	 ev.clipboardData.setData("text/plain", text);
 	 ev.preventDefault();
