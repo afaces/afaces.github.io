@@ -2,4 +2,8 @@
 [![Alt text](https://img.youtube.com/vi/qambOh18jj0/0.jpg)](https://www.youtube.com/watch?v=qambOh18jj0 "NIGHTMARES")
 [![Alt text](https://img.youtube.com/vi/qgRIEg3jISM/0.jpg)](https://www.youtube.com/watch?v=qgRIEg3jISM "PLAY MY MIND")
 [![Alt text](https://img.youtube.com/vi/-J8jhnwHOUc/0.jpg)](https://www.youtube.com/watch?v=-J8jhnwHOUc "OH YEAH HEY")
+[![Alt text](https://img.youtube.com/vi/V_4OiHaNno0/0.jpg)](https://www.youtube.com/watch?v=V_4OiHaNno0 "this song has no video")
 [![Alt text](https://img.youtube.com/vi/wZj6cHFvKF8/0.jpg)](https://www.youtube.com/watch?v=wZj6cHFvKF8 "MY MOTHER'S SOFTENER")
+[![Alt text](https://img.youtube.com/vi/ntrcOpoKo6g/0.jpg)](https://www.youtube.com/watch?v=ntrcOpoKo6g "INCEL")
+[![Alt text](https://img.youtube.com/vi/ru9XeVBvwsc/0.jpg)](https://www.youtube.com/watch?v=ru9XeVBvwsc "CARETAKER")
+[![Alt text](https://img.youtube.com/vi/q642i-jRWOA/0.jpg)](https://www.youtube.com/watch?v=q642i-jRWOA "MIN THE NAME OF LIFE")
