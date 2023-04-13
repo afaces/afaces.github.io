@@ -35,6 +35,7 @@ title: Afaces fanpage
 22. [Not Too Bad](#nottoobadAlbum)
 23. [There is Another](#thereisanotherAlbum)
 24. [Cafés](#cafesAlbum)
+25. [Mental Breakdown in The Virtual Kitchen](#mentalbreakdowninthevirtualkitchenAlbum)
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
@@ -5418,19 +5419,8 @@ function showButtonhalfbelow() {
 <p id="halfbelow"></p>
 
 #### Cafés <a name="cafesAlbum"></a>
-[![Not Too Bad](assets/images/icon/cafes_cover.png)](https://soundcloud.com/afaces  "cafés") - 43.4% progress - 19/07/2022
+[![24.- 'Cafés'](https://img.youtube.com/vi/0sYNIjkrPnY/0.jpg)](https://www.youtube.com/watch?v=0sYNIjkrPnY  "24.- 'Cafés'")
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1262198707&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1273791280&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1274323663&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1279094278&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1284817819&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1285672036&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1288181437&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1295498167&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1295878504&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1299457294&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1307874046&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1309923367&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1312878148&show_artwork=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1262198707&show_artwork=true"></iframe>
+#### Mental Breakdown in The Virtual Kitchen <a name="mentalbreakdowninthevirtualkitchenAlbum"></a>
+[![25.- 'Mental Breakdown in The Virtual Kitchen'](https://img.youtube.com/vi/SDWjbspXElQ/0.jpg)](https://www.youtube.com/watch?v=SDWjbspXElQ  "25.- 'Mental Breakdown in The Virtual Kitchen'")
+
