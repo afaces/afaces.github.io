@@ -123,6 +123,14 @@ Afaces has released a variety of albums, including:
 
 <a href="https://www.youtube.com/watch?v=8JVWviP2SS0&list=PLvEI0iOxif00iF8BQ809HpLdh_gN6BMdh"><img src="https://f4.bcbits.com/img/a0212777781_2.jpg" alt="alt text" width="200"/></a>
 
+- [“Mental Breakdown in The Virtual Kitchen ”](https://www.youtube.com/watch?v=SDWjbspXElQ) (January 31, 2023)
+
+<a href="https://www.youtube.com/watch?v=UVdZyVcWc-o&list=OLAK5uy_n0NYdXbO-NRhN8ryGZ8R1JxEY300_lkmE"><img src="https://f4.bcbits.com/img/a1070228566_10.jpg" alt="alt text" width="200"/></a>
+
+- [“Natural Stupidity”](https://youtu.be/c60OIAPuF3E) (May 16, 2023)
+
+<a href="https://www.youtube.com/@axelaxel12"><img src="https://f4.bcbits.com/img/a2734150432_10.jpg" alt="alt text" width="200"/></a>
+
 #### Videos:
 
 Afaces has released a variety of music videos for some of his tracks, including:
@@ -135,6 +143,7 @@ Afaces has released a variety of music videos for some of his tracks, including:
 - [“MY MOTHER'S SOFTENER” (2020)](https://www.youtube.com/watch?v=wZj6cHFvKF8)
 - [“INCEL” (2022)](https://www.youtube.com/watch?v=ntrcOpoKo6g)
 - [“CARETAKER” (2023)](https://www.youtube.com/watch?v=ru9XeVBvwsc)
+- [“IN THE NAME OF LIFE” (2023)](https://www.youtube.com/watch?v=q642i-jRWOA)
 
 #### Live Shows:
 
