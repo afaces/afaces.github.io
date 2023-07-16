@@ -129,7 +129,7 @@ Afaces has released a variety of albums, including:
 
 - [“Natural Stupidity”](https://youtu.be/c60OIAPuF3E) (May 16, 2023)
 
-<a href="https://www.youtube.com/@axelaxel12"><img src="https://f4.bcbits.com/img/a2734150432_10.jpg" alt="alt text" width="200"/></a>
+<a href="https://www.youtube.com/watch?v=1_4kwo-9TVM&list=OLAK5uy_nrhTCKLLPCwjPLf2jze3un1yIr0Et7S_E"><img src="https://f4.bcbits.com/img/a2734150432_10.jpg" alt="alt text" width="200"/></a>
 
 #### Videos:
 
