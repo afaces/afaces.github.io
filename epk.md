@@ -6,22 +6,18 @@ Welcome to the official Electronic Press Kit for Afaces, the Spanish dance/elect
 
 #### Bio:
 
-Axel Fernández Curros, Afaces, is a Spanish based music producer, DJ and multi-instrumentalist, specializing in a unique blend of dance, electronic, and downtempo music.
-Afaces has been playing music since a very young age, he sings and play the guitar, drums, bass, and clarinet. His love of music has taken him to many places and he has performed at festivals and events in Spain. 
-With a passion for creating music that is both unique and captivating, Afaces has been making waves in the music industry since his debut in 2019. 
-Afaces’ music is a reflection of his diverse influences and is characterized by its intricate soundscapes, lush melodies, and infectious rhythms.
-Afaces is an artist to watch and an undiscovered gem in the music scene. His unique blend of music is sure to captivate and inspire listeners.
+Axel Fernández Curros, Afaces, is a Spanish-based music producer, DJ, and multi-instrumentalist, specializing in a unique blend of dance, electronic, and downtempo music. Afaces has been playing music since a very young age, mastering the guitar, drums, bass, clarinet, and vocals. His love of music has taken him to many places, and he has performed at festivals and events across Spain. With a passion for creating music that is both unique and captivating, Afaces has been making waves in the music industry since his debut in 2019. His music is a reflection of diverse influences and is characterized by intricate soundscapes, lush melodies, and infectious rhythms. Afaces is an artist to watch, and his dark and atmospheric blend of music is sure to captivate and inspire listeners worldwide.
 
 #### Press:
 
-Afaces hasn't been featured in any music publications. He hasn't also been featured in any radio shows.
+Afaces hasn't been featured in any music publications or radio shows yet.
 
 #### Social Media:
 
 Afaces can be found on a variety of platforms:
 
 [![Amazon Music](assets/images/icon/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![BandCamp](assets/images/icon/bandcamp.svg)](https://afaces.bandcamp.com) [![Deezer](assets/images/icon/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Facebook](assets/images/icon/facebook.svg)](https://www.facebook.com/afaces/) [![Instagram](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/) [![Apple Music](assets/images/icon/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Napster](assets/images/icon/napster.svg)](https://us.napster.com/artist/afaces) [![PayPal](assets/images/icon/paypal.svg)](https://paypal.me/axelcurros) [![Shazam](assets/images/icon/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![SoundCloud](assets/images/icon/soundcloud.svg)](https://soundcloud.com/afaces) [![Spotify](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Tidal](assets/images/icon/tidal.svg)](https://tidal.com/browse/artist/10889435) [![TikTok](assets/images/icon/tiktok.svg)](https://www.tiktok.com/@afaces) [![Twitter](assets/images/icon/twitter.svg)](https://twitter.com/afaces2) [![YouTube](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
-- [FANPAGE](https://afaces.tk)
+- [FANPAGE](https://afaces.github.io)
 
 #### Discography:
 
@@ -162,3 +158,12 @@ For all bookings and enquiries, please contact:
 Email: afacesmusic@gmail.com
 
 Phone: +34 620 335 859
+
+## Follow Afaces:
+
+[![YouTube](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
+[![Spotify](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l)
+[![Instagram](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/)
+[![Twitter](assets/images/icon/twitter.svg)](https://twitter.com/afaces2)
+
+Stay connected and join the journey with Afaces!
