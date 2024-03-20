@@ -36,6 +36,8 @@ title: Afaces fanpage
 23. [There is Another](#thereisanotherAlbum)
 24. [Cafés](#cafesAlbum)
 25. [Mental Breakdown in The Virtual Kitchen](#mentalbreakdowninthevirtualkitchenAlbum)
+26. [Natural Stupidity](#naturalstupidityAlbum)
+27. [Uncivil](#uncivilAlbum)
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
@@ -5423,4 +5425,10 @@ function showButtonhalfbelow() {
 
 #### Mental Breakdown in The Virtual Kitchen <a name="mentalbreakdowninthevirtualkitchenAlbum"></a>
 [![25.- 'Mental Breakdown in The Virtual Kitchen'](https://img.youtube.com/vi/SDWjbspXElQ/0.jpg)](https://www.youtube.com/watch?v=SDWjbspXElQ  "25.- 'Mental Breakdown in The Virtual Kitchen'")
+
+#### Natural Stupidity <a name="naturalstupidityAlbum"></a>
+[![26.- 'Natural Stupidity'](https://img.youtube.com/vi/c60OIAPuF3E/0.jpg)](https://www.youtube.com/watch?v=c60OIAPuF3E  "26.- 'Natural Stupidity'")
+
+#### Uncivil <a name="uncivilAlbum"></a>
+[![27.- 'Uncivil'](https://img.youtube.com/vi/b63grPuQfpw/0.jpg)](https://www.youtube.com/watch?v=b63grPuQfpw  "27.- 'Uncivil'")
 
