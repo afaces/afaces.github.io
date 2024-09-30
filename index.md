@@ -99,7 +99,7 @@ function showButtonbabyonfire() {
 <p id="babyonfire"></p>
 
 
-###### <input type = "button" onclick = "showButtonfloating()" value = "▶️5 - FLOATING"></h6>
+<h6><input type = "button" onclick = "showButtonfloating()" value = "▶️5 - FLOATING"></h6>
 <script type="text/javascript" src="/index.js"></script>
 <script>
 function showButtonfloating() {
