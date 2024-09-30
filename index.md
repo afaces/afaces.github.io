@@ -41,12 +41,12 @@ title: Afaces fanpage
 27. [Uncivil](#uncivilAlbum)
 
 ### LP's
-1. [Ole y Ole]()
-2. [lorem ipsum]()
-3. [The day of the trial]()
-4. [bad rabbits]()
-5. [Tránsito]()
-6. [Accidente]()
+1. [Ole y Ole](#oleyoleLP)
+2. [lorem ipsum](#loremipsumLP)
+3. [The day of the trial](#thedayofthetrialLP)
+4. [bad rabbits](#badrabbitsLP)
+5. [Tránsito](#transitoLP)
+6. [Accidente](#accidenteLP)
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
