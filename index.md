@@ -10,6 +10,7 @@ title: Afaces fanpage
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafaces.tk&count_bg=%2379C83D&title_bg=%23555555&icon=applemusic.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Amazon Music](assets/images/icon/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![BandCamp](assets/images/icon/bandcamp.svg)](https://afaces.bandcamp.com) [![Deezer](assets/images/icon/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Facebook](assets/images/icon/facebook.svg)](https://www.facebook.com/afaces/) [![Instagram](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/) [![Apple Music](assets/images/icon/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Napster](assets/images/icon/napster.svg)](https://us.napster.com/artist/afaces) [![PayPal](assets/images/icon/paypal.svg)](https://paypal.me/axelcurros) [![Shazam](assets/images/icon/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![SoundCloud](assets/images/icon/soundcloud.svg)](https://soundcloud.com/afaces) [![Spotify](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Tidal](assets/images/icon/tidal.svg)](https://tidal.com/browse/artist/10889435) [![TikTok](assets/images/icon/tiktok.svg)](https://www.tiktok.com/@afaces) [![Twitter](assets/images/icon/twitter.svg)](https://twitter.com/afaces2) [![YouTube](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
+
 ## Table of contents
 ### Albums
 1. [Nefasto](#nefastoAlbum)
@@ -49,11 +50,9 @@ title: Afaces fanpage
 6. [Accidente](#accidenteLP)
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
-[![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
 <details>
 <summary>Track List</summary>
-
 
 <h6><input type = "button" onclick = "showButtonnefasto()" value = "▶️1 - NEFASTO"></h6>
 <script type="text/javascript" src="/index.js"></script>
@@ -318,8 +317,9 @@ function showButtonplatform() {
 </script>
 <p id="platform"></p>
 
-
 </details>
+
+[![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
 #### 2.- 'Writer' <a name=writerAlbum></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
