@@ -56,8 +56,9 @@ i=0
 for album in $(ls | sort -h); do
   echo
   echo "#### ${album} <a name=${album_tags[i]}></a>" >> "${buttons_file}"
+  echo "<details>" >> "${buttons_file}"
+  echo "<summary>Track List</summary>" >> "${buttons_file}"
 
-  echo "[![${album}](https://img.youtube.com/vi/${video_IDs[$i]}/0.jpg)](https://www.youtube.com/watch?v=${video_IDs[$i]}  \"${album}\")" >> "${buttons_file}"
   cd "${album}"
   i=$((i+1))
   for song in $(ls | sort -h); do
@@ -83,5 +84,8 @@ function showButton${song_tag}() {
   echo >> "${buttons_file}"
   cd ..
 done
+echo "</details>" >> "${buttons_file}"
+echo "[![${album}](https://img.youtube.com/vi/${video_IDs[$i]}/0.jpg)](https://www.youtube.com/watch?v=${video_IDs[$i]}  \"${album}\")" >> "${buttons_file}"
+
 
 cd "${current_directory}"
