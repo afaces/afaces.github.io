@@ -11,6 +11,7 @@ title: Afaces fanpage
 
 [![Amazon Music](assets/images/icon/amazonmusic.svg)](https://music.amazon.com/artists/B07MWG7VY1/afaces) [![BandCamp](assets/images/icon/bandcamp.svg)](https://afaces.bandcamp.com) [![Deezer](assets/images/icon/deezer.svg)](https://www.deezer.com/es/artist/57830442) [![Facebook](assets/images/icon/facebook.svg)](https://www.facebook.com/afaces/) [![Instagram](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/) [![Apple Music](assets/images/icon/itunes.svg)](https://music.apple.com/us/artist/afaces/1450474907) [![Napster](assets/images/icon/napster.svg)](https://us.napster.com/artist/afaces) [![PayPal](assets/images/icon/paypal.svg)](https://paypal.me/axelcurros) [![Shazam](assets/images/icon/shazam.svg)](https://www.shazam.com/es/artist/afaces/1450474907) [![SoundCloud](assets/images/icon/soundcloud.svg)](https://soundcloud.com/afaces) [![Spotify](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l) [![Tidal](assets/images/icon/tidal.svg)](https://tidal.com/browse/artist/10889435) [![TikTok](assets/images/icon/tiktok.svg)](https://www.tiktok.com/@afaces) [![Twitter](assets/images/icon/twitter.svg)](https://twitter.com/afaces2) [![YouTube](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
 ## Table of contents
+### Albums
 1. [Nefasto](#nefastoAlbum)
 2. [Writer](#writerAlbum)
 3. [Back and Fro](#backandfroAlbum)
@@ -38,6 +39,14 @@ title: Afaces fanpage
 25. [Mental Breakdown in The Virtual Kitchen](#mentalbreakdowninthevirtualkitchenAlbum)
 26. [Natural Stupidity](#naturalstupidityAlbum)
 27. [Uncivil](#uncivilAlbum)
+
+### LP's
+1. [Ole y Ole]()
+2. [lorem ipsum]()
+3. [The day of the trial]()
+4. [bad rabbits]()
+5. [Tránsito]()
+6. [Accidente]()
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
@@ -5432,3 +5441,22 @@ function showButtonhalfbelow() {
 #### Uncivil <a name="uncivilAlbum"></a>
 [![27.- 'Uncivil'](https://img.youtube.com/vi/b63grPuQfpw/0.jpg)](https://www.youtube.com/watch?v=b63grPuQfpw  "27.- 'Uncivil'")
 
+
+### LP's 
+#### 1.- 'Ole y Ole' <a name=oleyoleLP></a>
+[![1.- 'Ole y Ole'](https://img.youtube.com/vi/g9hcz4P5CQE/0.jpg)](https://www.youtube.com/watch?v=g9hcz4P5CQE  "1.- 'Ole y Ole'")
+
+#### 2.- 'lorem ipsum' <a name=loremipsumLP></a>
+[![2.- 'lorem ipsum'](https://img.youtube.com/vi/Yc3NPdmnUJg/0.jpg)](https://www.youtube.com/watch?v=Yc3NPdmnUJg  "2.- 'lorem ipsum'")
+
+#### 3.- 'The day of the trial' <a name=thedayofthetrialLP></a>
+[![3.- 'The day of the trial'](https://img.youtube.com/vi/rM_sBnq9peM/0.jpg)](https://www.youtube.com/watch?v=rM_sBnq9peM  "3.- 'The day of the trial'")
+
+#### 4.- 'bad rabbits' <a name=badrabbitsLP></a>
+[![4.- 'bad rabbits'](https://img.youtube.com/vi/gT3_2KV9hQw/0.jpg)](https://www.youtube.com/watch?v=gT3_2KV9hQw  "4.- 'bad rabbits'")
+
+#### 5.- 'Tránsito' <a name=transitoLP></a>
+[![5.- 'Tránsito'](https://img.youtube.com/vi/4GoEA-aqaBc/0.jpg)](https://www.youtube.com/watch?v=4GoEA-aqaBc  "5.- 'Tránsito'")
+
+#### 6.- 'Accidente' <a name=accidenteLP></a>
+[![6.- 'Accidente'](https://img.youtube.com/vi/_3MDFE9F2qw/0.jpg)](https://www.youtube.com/watch?v=_3MDFE9F2qw  "6.- 'Accidente'")
