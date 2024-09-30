@@ -51,6 +51,9 @@ title: Afaces fanpage
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
+<details>
+<summary>Track List</summary>
+
 ###### <input type = "button" onclick = "showButtonnefasto()" value = "▶️1 - NEFASTO">
 <script type="text/javascript" src="/index.js"></script>
 <script>
@@ -314,6 +317,7 @@ function showButtonplatform() {
 </script>
 <p id="platform"></p>
 
+</details>
 
 #### 2.- 'Writer' <a name=writerAlbum></a>
 [![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
