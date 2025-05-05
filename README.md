@@ -1,53 +1,114 @@
-# Create or log in into GitHub account
-# Create repository named YOUR_ACCOUNT_NAME.github.io to create your github webpage repository.
+# 🎧 afaces.github.io – Página web de artista musical independiente
 
-<code>git clone https://github.com/YOUR_ACCOUNT_NAME/YOUR_ACCOUNT_NAME.github.io</code>
-<code>cd YOUR_ACCOUNT_NAME.github.io</code>
+> Infraestructura para liberar tu música fuera de las distribuidoras, sin tarifas, sin censura, y 100% bajo tu control.
 
-<code>git clone https://github.com/afaces/afaces.github.io</code>
+Este repositorio te permite crear tu propia página web de artista con radio, catálogo musical, botones de descarga, sistema de donaciones y contacto. Basado en GitHub Pages, Bootstrap 4 y herramientas automáticas para que cualquier artista pueda tener su espacio sin depender de plataformas privadas.
 
-<code>mv afaces.github.io/* .</code>
-<code>rmdir afaces.github.io</code>
+---
 
-## Feel free to inspect all the contents of the different files included in the project and change the information correspondantly.
+## 🚀 Instrucciones de instalación
 
-# Generate buttons file (first you need to edit with your own information about albums)
-<code>bash create_song_buttons.sh</code>
+### 1. Crear el repositorio de tu web
 
-## Substitute the buttons.md file content that comes out after running create_song_buttons.sh to your index.md
-<code>cat buttons.md >> index.md</code>
-# Generate albums (first you need to edit with your own information about albums)
-<code>bash create_navbar_player.sh</code>
+1. Crea o accede a tu cuenta de GitHub.
+2. Crea un repositorio llamado:  
+   `YOUR_ACCOUNT_NAME.github.io`
 
-## Substitute player.js track_list with the one generated in albums.json by create_navbar_player.sh
+### 2. Clonar y copiar el proyecto base
 
-# Move files to .mp3
-<code>move_to_mp3.sh</code>
+```bash
+git clone https://github.com/YOUR_ACCOUNT_NAME/YOUR_ACCOUNT_NAME.github.io
+cd YOUR_ACCOUNT_NAME.github.io
 
-# 
+git clone https://github.com/afaces/afaces.github.io
+mv afaces.github.io/* .
+rmdir afaces.github.io
+````
 
+---
 
-# Link domain to github for pages to have custom web domain:
+## 🎛️ Personalización de tu sitio
 
-- Register a new domain name (https://www.freenom.com as example for '.tk' or https://www.000webhost.com for free domain registering)
-- Redirect YOUR_DOMAIN_NAME.tk URL to YOUR_DOMAIN_NAME.github.io free https://redirect.pizza
-- Set up inside GitHub's repository YOUR_DOMAIN_NAME.github.io set the domain the correspondant URL.
-p. Ex: [afaces.tk](https://afaces.tk)
-- 
-# Use formspree.io for contact page
+### 3. Editar la información de tus álbumes
 
-# Use Stripe for donations
-Activate Checkout client CLIENT-ONLY INTEGRATION within stripe dashboard
+* Modifica los archivos de datos (ej: `albums.txt`) con tus álbumes y canciones.
 
+### 4. Generar botones para cada canción
 
+```bash
+bash create_song_buttons.sh
+```
 
+* Sustituye el contenido generado de `buttons.md` dentro de tu `index.md`:
 
-# Web Generated with Boostrap 4 for Github Pages
+```bash
+cat buttons.md >> index.md
+```
 
-## Contribution
+### 5. Generar la barra de reproducción
 
-[See the contribution guide.](./CONTRIBUTING.md)
+```bash
+bash create_navbar_player.sh
+```
 
-## Theme from bootswatch
+* Sustituye el `track_list` de `player.js` con el contenido de `albums.json` generado.
 
-#### Afaces
+### 6. Convertir archivos a `.mp3` (opcional)
+
+```bash
+bash move_to_mp3.sh
+```
+
+---
+
+## 🌐 Dominio personalizado (opcional)
+
+1. Registra un dominio gratuito en [freenom.com](https://www.freenom.com) o [000webhost.com](https://www.000webhost.com).
+2. Usa [redirect.pizza](https://redirect.pizza) para redireccionar `tudominio.tk` a `YOUR_ACCOUNT_NAME.github.io`.
+3. En el repositorio de GitHub, ve a Settings > Pages y añade tu dominio personalizado (ej. `afaces.tk`).
+
+---
+
+## 💌 Contacto y donaciones
+
+* Contacto: usa [Formspree.io](https://formspree.io) para activar tu formulario.
+* Donaciones: activa integración `Client-only Checkout` desde [Stripe Dashboard](https://dashboard.stripe.com/).
+
+---
+
+## 📦 Características técnicas
+
+* HTML5 + Bootstrap 4
+* Scripts automatizados (`bash`)
+* Integración con GitHub Pages
+* 100% editable y autogestionado
+* Repositorio sin bases de datos ni backend
+
+---
+
+## 🧠 Contribución
+
+> ¡Este proyecto busca músicos, desarrolladores y artistas que quieran escapar del sistema de streaming!
+
+Consulta la [guía de colaboración](./CONTRIBUTING.md) si deseas ayudar o forkear este sistema.
+
+---
+
+## 🎨 Tema visual
+
+Este sitio usa un tema de [Bootswatch](https://bootswatch.com) para Bootstrap 4.
+
+---
+
+## 🖋 Autor
+
+**Afaces**
+[afaces.github.io](https://afaces.github.io)
+Libre para que cualquiera lo use, lo modifique y lo propague.
+
+---
+
+> ✊ La música no necesita tarifas para existir.
+> 🔥 Este es tu sitio. Tu radio. Tu catálogo. Tu arte.
+> 🧨 Forkea, edita, difunde, resiste.
+
