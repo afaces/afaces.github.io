@@ -13,6 +13,10 @@ title: Afaces fanpage
 
 ## Table of contents
 ### Albums
+
+<details>
+<summary>Album List</summary>
+
 1. [Nefasto](#nefastoAlbum)
 2. [Writer](#writerAlbum)
 3. [Back and Fro](#backandfroAlbum)
@@ -41,7 +45,13 @@ title: Afaces fanpage
 26. [Natural Stupidity](#naturalstupidityAlbum)
 27. [Uncivil](#uncivilAlbum)
 
+</details>
+
 ### LP's
+
+<details>
+<summary>LP List</summary>
+
 1. [Ole y Ole](#oleyoleLP)
 2. [lorem ipsum](#loremipsumLP)
 3. [The day of the trial](#thedayofthetrialLP)
@@ -76,6 +86,8 @@ title: Afaces fanpage
 32. [Ecos Digitales](#ecosdigitalesLP)
 33. [Año Cincuenta](#anocincuentaLP)
 34. [Pactos Digitales](#pactosdigitalesLP)
+
+</details>
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 
