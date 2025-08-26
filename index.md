@@ -350,7 +350,9 @@ function showButtonplatform() {
 [![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
 
 #### 2.- 'Writer' <a name=writerAlbum></a>
-[![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonpencil()" value = "▶️1 - PENCIL">
 <script type="text/javascript" src="/index.js"></script>
@@ -615,9 +617,15 @@ function showButtonlastsight() {
 </script>
 <p id="lastsight"></p>
 
+</details>  
+
+[![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
+
 
 #### 3.- 'Back and Fro' <a name=backandfroAlbum></a>
-[![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtontaste()" value = "▶️1 - TASTE">
 <script type="text/javascript" src="/index.js"></script>
@@ -838,9 +846,16 @@ function showButtontoandfro() {
 </script>
 <p id="toandfro"></p>
 
+</details>  
+
+[![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
+
+
 
 #### 4.- 'Planetc' <a name=planetcAlbum></a>
-[![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonambrosia()" value = "▶️1 - AMBROSIA">
 <script type="text/javascript" src="/index.js"></script>
@@ -1061,9 +1076,15 @@ function showButtonyeahr() {
 </script>
 <p id="yeahr"></p>
 
+</details>  
+
+[![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
+
 
 #### 5.- 'Black' <a name=blackAlbum></a>
-[![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonscrean()" value = "▶️1 - SCREAN">
 <script type="text/javascript" src="/index.js"></script>
@@ -1340,8 +1361,15 @@ function showButtonshipfriend() {
 <p id="shipfriend"></p>
 
 
+</details>  
+
+[![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
+
+
 #### 6.- 'list' <a name=listAlbum></a>
-[![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonace()" value = "▶️1 - ACE">
 <script type="text/javascript" src="/index.js"></script>
@@ -1584,9 +1612,14 @@ function showButtonupward() {
 </script>
 <p id="upward"></p>
 
+</details>  
+
+[![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
 
 #### 7.- 'A cool name' <a name=acoolnameAlbum></a>
-[![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonnegativ()" value = "▶️1 - NEGATIV">
 <script type="text/javascript" src="/index.js"></script>
@@ -1785,9 +1818,15 @@ function showButtonboom() {
 </script>
 <p id="boom"></p>
 
+</details>  
+
+[![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
+
 
 #### 8.- '50%' <a name=50Album></a>
-[![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonnoone()" value = "▶️1 - NO ONE">
 <script type="text/javascript" src="/index.js"></script>
@@ -2030,9 +2069,15 @@ function showButtonhotpockets() {
 </script>
 <p id="hotpockets"></p>
 
+</details>  
+
+[![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
+
 
 #### 9.- 'advisory content' <a name=advisorycontentAlbum></a>
-[![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtoncigarretadvertisement()" value = "▶️1 - CIGARRET ADVERTISEMENT">
 <script type="text/javascript" src="/index.js"></script>
@@ -2264,9 +2309,15 @@ function showButtonforbear() {
 </script>
 <p id="forbear"></p>
 
+</details>  
+
+[![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
+
 
 #### 10.- 'BUY NEVER' <a name=buyneverAlbum></a>
-[![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonentrance()" value = "▶️1 .- ENTRANCE">
 <script type="text/javascript" src="/index.js"></script>
@@ -2498,9 +2549,15 @@ function showButtonroadstonowhere() {
 </script>
 <p id="roadstonowhere"></p>
 
+</details>  
+
+[![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
+
 
 #### 11.- 'Bull's-eye' <a name=bullseyeAlbum></a>
-[![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtontryyourworst()" value = "▶️1 - TRY YOUR WORST">
 <script type="text/javascript" src="/index.js"></script>
@@ -2721,9 +2778,15 @@ function showButtonnotsnew() {
 </script>
 <p id="notsnew"></p>
 
+</details>  
+
+[![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
+
 
 #### 12.- 'Where are my royalties' <a name=wherearemyroyaltiesAlbum></a>
-[![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtongodknowsno()" value = "▶️1 - GOD KNOWS NO">
 <script type="text/javascript" src="/index.js"></script>
@@ -2922,9 +2985,15 @@ function showButtonmnoalu() {
 </script>
 <p id="mnoalu"></p>
 
+</details>  
+
+[![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
+
 
 #### 13.- 'Who u tryna' impress' <a name=whoutrynaimpressAlbum></a>
-[![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonoverlovely()" value = "▶️1 - OVER LOVELY">
 <script type="text/javascript" src="/index.js"></script>
@@ -3189,9 +3258,15 @@ function showButtoncastlequeenside() {
 </script>
 <p id="castlequeenside"></p>
 
+</details>  
+
+[![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
+
 
 #### 14.- 'The bad words' <a name=thebadwordsAlbum></a>
-[![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonyouthieve()" value = "▶️1 - YOUTHIEVE">
 <script type="text/javascript" src="/index.js"></script>
@@ -3423,9 +3498,15 @@ function showButtonbacktoanewstateofnormality() {
 </script>
 <p id="backtoanewstateofnormality"></p>
 
+</details>  
+
+[![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
+
 
 #### 15.- 'Journey to Wasted Youth' <a name=journeytowastedyouthAlbum></a>
-[![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtongetyouhype()" value = "▶️1 - GET YOU HYPE">
 <script type="text/javascript" src="/index.js"></script>
@@ -3646,9 +3727,15 @@ function showButtonelope() {
 </script>
 <p id="elope"></p>
 
+</details>
+
+[![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
+
 
 #### 16.- 'Lyricless Miracles' <a name=lyriclessmiraclesAlbum></a>
-[![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonplace()" value = "▶️1 - PLACE">
 <script type="text/javascript" src="/index.js"></script>
@@ -3880,9 +3967,15 @@ function showButtonlightning() {
 </script>
 <p id="lightning"></p>
 
+</details>  
+
+[![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
+
 
 #### 17.- 'irl' <a name=irlAlbum></a>
-[![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonmisery()" value = "▶️1.- MISERY">
 <script type="text/javascript" src="/index.js"></script>
@@ -4081,9 +4174,15 @@ function showButtonpayday() {
 </script>
 <p id="payday"></p>
 
+</details>  
+
+[![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
+
 
 #### 18.- 'before senescence' <a name=beforesenescenceAlbum></a>
-[![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonbellathorneafacesremix()" value = "▶️LONELY - BELLA THORNE - AFACES REMIX">
 <script type="text/javascript" src="/index.js"></script>
@@ -4294,8 +4393,15 @@ function showButtonsoundtestt() {
 <p id="soundtestt"></p>
 
 
+
+</details>  
+
+[![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
+
 #### 19.- 'back to the origins' <a name=backtotheoriginsAlbum></a>
-[![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonthissonghasnovideo()" value = "▶️1.- THIS SONG HAS NO VIDEO">
 <script type="text/javascript" src="/index.js"></script>
@@ -4527,9 +4633,15 @@ function showButtongoodnight() {
 </script>
 <p id="goodnight"></p>
 
+</details>  
+
+[![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
+
 
 #### 20.- 'conversation conservation' <a name=conversationconservationAlbum></a>
-[![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonmessystreak()" value = "▶️1.- MESSY STREAK">
 <script type="text/javascript" src="/index.js"></script>
@@ -4750,9 +4862,14 @@ function showButtonraw() {
 </script>
 <p id="raw"></p>
 
+</details>  
+
+[![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
 
 #### 21.- 'Gloomy dances' <a name=gloomydancesAlbum></a>
-[![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonyeahyeah()" value = "▶️1.- YEAH YEAH">
 <script type="text/javascript" src="/index.js"></script>
@@ -4973,9 +5090,15 @@ function showButtonusedtobemyfriend() {
 </script>
 <p id="usedtobemyfriend"></p>
 
+</details>  
+
+[![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
+
 
 #### 22.- 'Not Too Bad' <a name=nottoobadAlbum></a>
-[![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonkeralloch()" value = "▶️1.- KER AL LOCH">
 <script type="text/javascript" src="/index.js"></script>
@@ -5208,8 +5331,16 @@ function showButtonpleasantstrangeness() {
 <p id="pleasantstrangeness"></p>
 
 
+
+</details>  
+
+[![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
+
+
 #### 23.- 'There is Another' <a name=thereisanotherAlbum></a>
-[![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
+
+<details>
+<summary>Track List</summary>
 
 ###### <input type = "button" onclick = "showButtonkeptmehanging()" value = "▶️1.-  KEPT ME HANGING">
 <script type="text/javascript" src="/index.js"></script>
@@ -5462,6 +5593,10 @@ function showButtonhalfbelow() {
 }
 </script>
 <p id="halfbelow"></p>
+
+</details>  
+
+[![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
 
 #### Cafés <a name="cafesAlbum"></a>
 [![24.- 'Cafés'](https://img.youtube.com/vi/0sYNIjkrPnY/0.jpg)](https://www.youtube.com/watch?v=0sYNIjkrPnY  "24.- 'Cafés'")
