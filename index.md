@@ -48,6 +48,34 @@ title: Afaces fanpage
 4. [bad rabbits](#badrabbitsLP)
 5. [Tránsito](#transitoLP)
 6. [Accidente](#accidenteLP)
+7. [El Horizonte](#elhorizonteLP)
+8. [Basura](#basuraLP)
+9. [Emigrante](#emigranteLP)
+10. [Las Máquinas](#lasmaquinasLP)
+11. [Pacizeq](#pacizeqLP)
+12. [Revoltaz](#revoltazLP)
+13. [Disculpaz-nos](#disculpaznosLP)
+14. [Legiz-Kaizen Eternaz](#legizkaizeneternazLP)
+15. [Nexuz-Persönaz](#nexuzpersonazLP)
+16. [Nexuz Sonoraz](#nexuzsonorazLP)
+17. [NEXUZ SOPHIA: KONZEPT FRAKTUR](#nexuzsophiakonzeptfrakturLP)
+18. [PROTOCOLO D.E.U.S. - CONSTRUYENDO EL FUTURO](#protocolodeusconstruyendoelfuturoLP)
+19. [SYN KODE: The Complete System Report](#synkodethecompletesystemreportLP)
+20. [ARCHIVE-ZERO](#archivezeroLP)
+21. [KODE-ZERO](#kodezeroLP)
+22. [PROTOCOLO ESCAPE: Capítulo 1 (Piloto)](#protocoloescapecapitulo1pilotoLP)
+23. [Entre Líneas](#entrelineasLP)
+24. [La Villa Está Que Arde](#lavillaestaqueardeLP)
+25. [La Cancha Está Por Estallar](#lacanchaestaporestallarLP)
+26. [Todo Se Quema](#todosequemaLP)
+27. [Geometría del Vacío](#geometriadelvacioLP)
+28. [Calles Vacías](#callesvaciasLP)
+29. [Veneno Diario](#venenodiarioLP)
+30. [Cartografías](#cartografiasLP)
+31. [Desaparecemos Juntos](#desaparecemosjuntosLP)
+32. [Ecos Digitales](#ecosdigitalesLP)
+33. [Año Cincuenta](#anocincuentaLP)
+34. [Pactos Digitales](#pactosdigitalesLP)
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 
@@ -5466,3 +5494,88 @@ function showButtonhalfbelow() {
 
 #### 6.- 'Accidente' <a name=accidenteLP></a>
 [![6.- 'Accidente'](https://img.youtube.com/vi/_3MDFE9F2qw/0.jpg)](https://www.youtube.com/watch?v=_3MDFE9F2qw  "6.- 'Accidente'")
+
+#### 7.- 'El Horizonte' <a name=elhorizonteLP></a>
+[![7.- 'El Horizonte'](https://img.youtube.com/vi/2VOKZlw9XSQ/0.jpg)](https://www.youtube.com/watch?v=2VOKZlw9XSQ  "7.- 'El Horizonte'")
+
+#### 8.- 'Basura' <a name=basuraLP></a>
+[![8.- 'Basura'](https://img.youtube.com/vi/X-9fiOfZ7O0/0.jpg)](https://www.youtube.com/watch?v=X-9fiOfZ7O0  "8.- 'Basura'")
+
+#### 9.- 'Emigrante' <a name=emigranteLP></a>
+[![9.- 'Emigrante'](https://img.youtube.com/vi/wl5WPae8h8o/0.jpg)](https://www.youtube.com/watch?v=wl5WPae8h8o  "9.- 'Emigrante'")
+
+#### 10.- 'Las Máquinas' <a name=lasmaquinasLP></a>
+[![10.- 'Las Máquinas'](https://img.youtube.com/vi/7R3M1R2Jtbs/0.jpg)](https://www.youtube.com/watch?v=7R3M1R2Jtbs  "10.- 'Las Máquinas'")
+
+#### 11.- 'Pacizeq' <a name=pacizeqLP></a>
+[![11.- 'Pacizeq'](https://img.youtube.com/vi/YZjFu2Ku_fk/0.jpg)](https://www.youtube.com/watch?v=YZjFu2Ku_fk  "11.- 'Pacizeq'")
+
+#### 12.- 'Revoltaz' <a name=revoltazLP></a>
+[![12.- 'Revoltaz'](https://img.youtube.com/vi/e8p_SwbU_9M/0.jpg)](https://www.youtube.com/watch?v=e8p_SwbU_9M  "12.- 'Revoltaz'")
+
+#### 13.- 'Disculpaz-nos' <a name=disculpaznosLP></a>
+[![13.- 'Disculpaz-nos'](https://img.youtube.com/vi/5NUVnX4aHM0/0.jpg)](https://www.youtube.com/watch?v=5NUVnX4aHM0  "13.- 'Disculpaz-nos'")
+
+#### 14.- 'Legiz-Kaizen Eternaz' <a name=legizkaizeneternazLP></a>
+[![14.- 'Legiz-Kaizen Eternaz'](https://img.youtube.com/vi/fA2zYyttQn8/0.jpg)](https://www.youtube.com/watch?v=fA2zYyttQn8  "14.- 'Legiz-Kaizen Eternaz'")
+
+#### 15.- 'Nexuz-Persönaz' <a name=nexuzpersonazLP></a>
+[![15.- 'Nexuz-Persönaz'](https://img.youtube.com/vi/WY2UcpWj2UU/0.jpg)](https://www.youtube.com/watch?v=WY2UcpWj2UU  "15.- 'Nexuz-Persönaz'")
+
+#### 16.- 'Nexuz Sonoraz' <a name=nexuzsonorazLP></a>
+[![16.- 'Nexuz Sonoraz'](https://img.youtube.com/vi/FoSlrs8JxJ0/0.jpg)](https://www.youtube.com/watch?v=FoSlrs8JxJ0  "16.- 'Nexuz Sonoraz'")
+
+#### 17.- 'NEXUZ SOPHIA: KONZEPT FRAKTUR' <a name=nexuzsophiakonzeptfrakturLP></a>
+[![17.- 'NEXUZ SOPHIA: KONZEPT FRAKTUR'](https://img.youtube.com/vi/t-glKj9Krp0/0.jpg)](https://www.youtube.com/watch?v=t-glKj9Krp0  "17.- 'NEXUZ SOPHIA: KONZEPT FRAKTUR'")
+
+#### 18.- 'PROTOCOLO D.E.U.S. - CONSTRUYENDO EL FUTURO' <a name=protocolodeusconstruyendoelfuturoLP></a>
+[![18.- 'PROTOCOLO D.E.U.S. - CONSTRUYENDO EL FUTURO'](https://img.youtube.com/vi/Nnp0Ffwx4Ac/0.jpg)](https://www.youtube.com/watch?v=Nnp0Ffwx4Ac  "18.- 'PROTOCOLO D.E.U.S. - CONSTRUYENDO EL FUTURO'")
+
+#### 19.- 'SYN KODE: The Complete System Report' <a name=synkodethecompletesystemreportLP></a>
+[![19.- 'SYN KODE: The Complete System Report'](https://img.youtube.com/vi/k-ZwEKnSG38/0.jpg)](https://www.youtube.com/watch?v=k-ZwEKnSG38  "19.- 'SYN KODE: The Complete System Report'")
+
+#### 20.- 'ARCHIVE-ZERO' <a name=archivezeroLP></a>
+[![20.- 'ARCHIVE-ZERO'](https://img.youtube.com/vi/8Kkf_Y9OWV0/0.jpg)](https://www.youtube.com/watch?v=8Kkf_Y9OWV0  "20.- 'ARCHIVE-ZERO'")
+
+#### 21.- 'KODE-ZERO' <a name=kodezeroLP></a>
+[![21.- 'KODE-ZERO'](https://img.youtube.com/vi/2ltQVLJpKSo/0.jpg)](https://www.youtube.com/watch?v=2ltQVLJpKSo  "21.- 'KODE-ZERO'")
+
+#### 22.- 'PROTOCOLO ESCAPE: Capítulo 1 (Piloto)' <a name=protocoloescapecapitulo1pilotoLP></a>
+[![22.- 'PROTOCOLO ESCAPE: Capítulo 1 (Piloto)'](https://img.youtube.com/vi/QXn7dgudcTU/0.jpg)](https://www.youtube.com/watch?v=QXn7dgudcTU  "22.- 'PROTOCOLO ESCAPE: Capítulo 1 (Piloto)'")
+
+#### 23.- 'Entre Líneas' <a name=entrelineasLP></a>
+[![23.- 'Entre Líneas'](https://img.youtube.com/vi/KIz9tKGR8yQ/0.jpg)](https://www.youtube.com/watch?v=KIz9tKGR8yQ  "23.- 'Entre Líneas'")
+
+#### 24.- 'La Villa Está Que Arde' <a name=lavillaestaqueardeLP></a>
+[![24.- 'La Villa Está Que Arde'](https://img.youtube.com/vi/wUf3MYR2gVE/0.jpg)](https://www.youtube.com/watch?v=wUf3MYR2gVE  "24.- 'La Villa Está Que Arde'")
+
+#### 25.- 'La Cancha Está Por Estallar' <a name=lacanchaestaporestallarLP></a>
+[![25.- 'La Cancha Está Por Estallar'](https://img.youtube.com/vi/jF1ptJTZe6U/0.jpg)](https://www.youtube.com/watch?v=jF1ptJTZe6U  "25.- 'La Cancha Está Por Estallar'")
+
+#### 26.- 'Todo Se Quema' <a name=todosequemaLP></a>
+[![26.- 'Todo Se Quema'](https://img.youtube.com/vi/rwSk4r2SpMA/0.jpg)](https://www.youtube.com/watch?v=rwSk4r2SpMA  "26.- 'Todo Se Quema'")
+
+#### 27.- 'Geometría del Vacío' <a name=geometriadelvacioLP></a>
+[![27.- 'Geometría del Vacío'](https://img.youtube.com/vi/zXGaZHMvGuQ/0.jpg)](https://www.youtube.com/watch?v=zXGaZHMvGuQ  "27.- 'Geometría del Vacío'")
+
+#### 28.- 'Calles Vacías' <a name=callesvaciasLP></a>
+[![28.- 'Calles Vacías'](https://img.youtube.com/vi/0y0O8tCu5F0/0.jpg)](https://www.youtube.com/watch?v=0y0O8tCu5F0  "28.- 'Calles Vacías'")
+
+#### 29.- 'Veneno Diario' <a name=venenodiarioLP></a>
+[![29.- 'Veneno Diario'](https://img.youtube.com/vi/Ex_ZPrCh7aU/0.jpg)](https://www.youtube.com/watch?v=Ex_ZPrCh7aU  "29.- 'Veneno Diario'")
+
+#### 30.- 'Cartografías' <a name=cartografiasLP></a>
+[![30.- 'Cartografías'](https://img.youtube.com/vi/XG_Ekvc1ssY/0.jpg)](https://www.youtube.com/watch?v=XG_Ekvc1ssY  "30.- 'Cartografías'")
+
+#### 31.- 'Desaparecemos Juntos' <a name=desaparecemosjuntosLP></a>
+[![31.- 'Desaparecemos Juntos'](https://img.youtube.com/vi/q-J8ozYTFec/0.jpg)](https://www.youtube.com/watch?v=q-J8ozYTFec  "31.- 'Desaparecemos Juntos'")
+
+#### 32.- 'Ecos Digitales' <a name=ecosdigitalesLP></a>
+[![32.- 'Ecos Digitales'](https://img.youtube.com/vi/nnhfLpMbICc/0.jpg)](https://www.youtube.com/watch?v=nnhfLpMbICc  "32.- 'Ecos Digitales'")
+
+#### 33.- 'Año Cincuenta' <a name=anocincuentaLP></a>
+[![33.- 'Año Cincuenta'](https://img.youtube.com/vi/CbWGu_zEE_A/0.jpg)](https://www.youtube.com/watch?v=CbWGu_zEE_A  "33.- 'Año Cincuenta'")
+
+#### 34.- 'Pactos Digitales' <a name=(pactosdigitalesLP)></a>
+[![34.- 'Pactos Digitales'](https://img.youtube.com/vi/BsTNbf7pKXo/0.jpg)](https://www.youtube.com/watch?v=BsTNbf7pKXo  "34.- 'Pactos Digitales'")
+
