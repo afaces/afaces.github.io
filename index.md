@@ -5576,6 +5576,6 @@ function showButtonhalfbelow() {
 #### 33.- 'Año Cincuenta' <a name=anocincuentaLP></a>
 [![33.- 'Año Cincuenta'](https://img.youtube.com/vi/CbWGu_zEE_A/0.jpg)](https://www.youtube.com/watch?v=CbWGu_zEE_A  "33.- 'Año Cincuenta'")
 
-#### 34.- 'Pactos Digitales' <a name=(pactosdigitalesLP)></a>
+#### 34.- 'Pactos Digitales' <a name=pactosdigitalesLP></a>
 [![34.- 'Pactos Digitales'](https://img.youtube.com/vi/BsTNbf7pKXo/0.jpg)](https://www.youtube.com/watch?v=BsTNbf7pKXo  "34.- 'Pactos Digitales'")
 
