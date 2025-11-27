@@ -76,6 +76,38 @@ title: Afaces fanpage
 32. [Ecos Digitales](#ecosdigitalesLP)
 33. [Año Cincuenta](#anocincuentaLP)
 34. [Pactos Digitales](#pactosdigitalesLP)
+35. [Inmóvil](#inmovilLP)
+36. [Despertar](#despertarLP)
+37. [ARQUITECTOS DEL MAÑANA](#arquitectosdelmanyanaLP)
+38. [La Puerta del Servicio](#lapuertadelservicioLP)
+39. [Cuarenta Espejos](#cuarentaespejosLP)
+40. [Estación Fantasma](#estacionfantasmaLP)
+41. [Gris](#grisLP)
+42. [Juega, juega](#juegajuegaLP)
+43. [Señal Perdida](#senalperdidaLP)
+44. [Cosmos Villero: La Última Frontera](#cosmosvillerolaultimafronteraLP)
+45. [Lo](#loLP)
+46. [El Duelo](#eldueloLP)
+47. [Código de Carne](#codigodecarneLP)
+48. [Aquí No Hay Futuro, Solo Gasolineras](#aquinohayfuturosologasolinerasLP)
+49. [Los Afaces - Deux Genesis](#losafacesdeuxgenesisLP)
+50. [Ya Lo Sabes](#yalosabesLP)
+51. [Yo huelo a nada en el espejo del baño de damas](#yohueloanadaenelespejodelbanodedamasLP)
+52. [El Papeleo](#elpapeleoLP)
+53. [Si Pero No](#siperonoLP)
+54. [Espero Nada](#esperonadaLP)
+55. [Kenosis](#kenosisLP)
+56. [Justo Antes De La Primera Mentira](#justoantesdelaprimeramentiraLP)
+57. [Error Humano](#errorhumanoLP)
+58. [Infraestructuras Invisibles](#infraestructurasinvisiblesLP)
+59. [Cicatrices en el Asfalto](#cicatricesenelasfaltoLP)
+60. [El Precio del Perdón](#elpreciodelperdonLP)
+61. [Alta γ](#altaLP)
+62. [Confinamiento Digital En La Burbuja Artificial](#confinamientodigitalenlaburbujaartificialLP)
+63. [Vibe Check](#vibecheckLP)
+64. [Abismo](#abismoLP)
+65. [1/9: El Censo del Silencio](#19elcensodelsilencioLP)
+66. [CERO ABSOLUTO DIGITAL](#ceroabsolutodigitalLP)
 
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
@@ -5714,4 +5746,102 @@ function showButtonhalfbelow() {
 
 #### 34.- 'Pactos Digitales' <a name=pactosdigitalesLP></a>
 [![34.- 'Pactos Digitales'](https://img.youtube.com/vi/BsTNbf7pKXo/0.jpg)](https://www.youtube.com/watch?v=BsTNbf7pKXo  "34.- 'Pactos Digitales'")
+
+#### 35.- 'Inmóvil' <a name=inmovilLP></a>
+[![35.- 'Inmóvil'](https://img.youtube.com/vi/8LFGqnocqKQ/0.jpg)](https://www.youtube.com/watch?v=8LFGqnocqKQ  "35.- 'Inmóvil'")
+
+#### 36.- 'Despertar' <a name=despertarLP></a>
+[![36.- 'Despertar'](https://img.youtube.com/vi/dsBZmyS9vVo/0.jpg)](https://www.youtube.com/watch?v=dsBZmyS9vVo  "36.- 'Despertar'")
+
+#### 37.- 'ARQUITECTOS DEL MAÑANA' <a name=arquitectosdelmanyanaLP></a>
+[![37.- 'ARQUITECTOS DEL MAÑANA'](https://img.youtube.com/vi/SPKE6Mbypfs/0.jpg)](https://www.youtube.com/watch?v=SPKE6Mbypfs  "37.- 'ARQUITECTOS DEL MAÑANA'")
+
+#### 38.-  'La Puerta del Servicio' <a name=lapuertadelservicioLP></a>
+[![38.- 'La Puerta del Servicio'](https://img.youtube.com/vi/DG8IG7pjFkw/0.jpg)](https://www.youtube.com/watch?v=DG8IG7pjFkw  "38.- 'La Puerta del Servicio'")
+
+#### 39.-  'Cuarenta Espejos' <a name=cuarentaespejosLP></a>
+[![39.- 'Cuarenta Espejos'](https://img.youtube.com/vi/1Y3DoR7AVvQ/0.jpg)](https://www.youtube.com/watch?v=1Y3DoR7AVvQ  "39.- 'Cuarenta Espejos'")
+
+#### 40.-  'Estación Fantasma' <a name=estacionfantasmaLP></a>
+[![40.- 'Estación Fantasma'](https://img.youtube.com/vi/n8PcbVtlqo8/0.jpg)](https://www.youtube.com/watch?v=n8PcbVtlqo8  "40.- 'Estación Fantasma'")
+
+#### 41.-  'Gris' <a name=grisLP></a>
+[![41.- 'Gris'](https://img.youtube.com/vi/6qXZUmk0nN4/0.jpg)](https://www.youtube.com/watch?v=6qXZUmk0nN4  "41.- 'Gris'")
+
+#### 42.-  'Juega, juega' <a name=juegajuegaLP></a>
+[![42.- 'Juega, juega'](https://img.youtube.com/vi/SyQT5uKy7xI/0.jpg)](https://www.youtube.com/watch?v=SyQT5uKy7xI  "42.- 'Juega, juega'")
+
+#### 43.-  'Señal Perdida' <a name=senalperdidaLP></a>
+[![43.- 'Señal Perdida'](https://img.youtube.com/vi/dfO5yMOObuk/0.jpg)](https://www.youtube.com/watch?v=dfO5yMOObuk  "43.- 'Señal Perdida'")
+
+#### 44.-  'Cosmos Villero: La Última Frontera' <a name=cosmosvillerolaultimafronteraLP></a>
+[![44.- 'Cosmos Villero: La Última Frontera'](https://img.youtube.com/vi/CKS3NOSIZaQ/0.jpg)](https://www.youtube.com/watch?v=CKS3NOSIZaQ  "44.- 'Cosmos Villero: La Última Frontera'")
+
+#### 45.-  'Lo' <a name=loLP></a>
+[![45.- 'Lo'](https://img.youtube.com/vi/YRkw4u1BsGk/0.jpg)](https://www.youtube.com/watch?v=YRkw4u1BsGk  "45.- 'Lo'")
+
+#### 46.-  'El Duelo' <a name=eldueloLP></a>
+[![46.- 'El Duelo'](https://img.youtube.com/vi/daq8KDDobfw/0.jpg)](https://www.youtube.com/watch?v=daq8KDDobfw  "46.- 'El Duelo'")
+
+#### 47.-  'Código de Carne' <a name=codigodecarneLP></a>
+[![47.- 'Código de Carne'](https://img.youtube.com/vi/9L7dmSua6dE/0.jpg)](https://www.youtube.com/watch?v=9L7dmSua6dE  "47.- 'Código de Carne'")
+
+#### 48.-  'Aquí No Hay Futuro, Solo Gasolineras' <a name=aquinohayfuturosologasolinerasLP></a>
+[![48.- 'Aquí No Hay Futuro, Solo Gasolineras'](https://img.youtube.com/vi/OfrYrcML6uw/0.jpg)](https://www.youtube.com/watch?v=OfrYrcML6uw  "48.- 'Aquí No Hay Futuro, Solo Gasolineras'")
+
+#### 49.-  'Los Afaces - Deux Genesis' <a name=losafacesdeuxgenesisLP></a>
+[![49.- 'Los Afaces - Deux Genesis'](https://img.youtube.com/vi/ZJSpIfSxOM4/0.jpg)](https://www.youtube.com/watch?v=ZJSpIfSxOM4  "49.- 'Los Afaces - Deux Genesis'")
+
+#### 50.-  'Ya Lo Sabes' <a name=yalosabesLP></a>
+[![50.- 'Ya Lo Sabes'](https://img.youtube.com/vi/YUVDROFMQXU/0.jpg)](https://www.youtube.com/watch?v=YUVDROFMQXU  "50.- 'Ya Lo Sabes'")
+
+#### 51.-  'Yo huelo a nada en el espejo del baño de damas' <a name=yohueloanadaenelespejodelbanodedamasLP></a>
+[![51.- 'Yo huelo a nada en el espejo del baño de damas'](https://img.youtube.com/vi/cZPFBw3UvBU/0.jpg)](https://www.youtube.com/watch?v=cZPFBw3UvBU  "51.- 'Yo huelo a nada en el espejo del baño de damas'")
+
+#### 52.-  'El Papeleo' <a name=elpapeleoLP></a>
+[![52.- 'El Papeleo'](https://img.youtube.com/vi/wwI7QhV55PI/0.jpg)](https://www.youtube.com/watch?v=wwI7QhV55PI  "52.- 'El Papeleo'")
+
+#### 53.-  'Si Pero No' <a name=siperonoLP></a>
+[![53.- 'Si Pero No'](https://img.youtube.com/vi/SkYrdw0Rtiw/0.jpg)](https://www.youtube.com/watch?v=SkYrdw0Rtiw  "53.- 'Si Pero No'")
+
+#### 54.-  'Espero Nada' <a name=esperonadaLP></a>
+[![54.- 'Espero Nada'](https://img.youtube.com/vi/jbNRWI18pq0/0.jpg)](https://www.youtube.com/watch?v=jbNRWI18pq0  "54.- 'Espero Nada'")
+
+#### 55.-  'Kenosis' <a name=kenosisLP></a>
+[![55.- 'Kenosis'](https://img.youtube.com/vi/mCLvyOfKl10/0.jpg)](https://www.youtube.com/watch?v=mCLvyOfKl10  "55.- 'Kenosis'")
+
+#### 56.-  'Justo Antes De La Primera Mentira' <a name=justoantesdelaprimeramentiraLP></a>
+[![56.- 'Justo Antes De La Primera Mentira'](https://img.youtube.com/vi/Fpvvc0S7EAc/0.jpg)](https://www.youtube.com/watch?v=Fpvvc0S7EAc  "56.- 'Justo Antes De La Primera Mentira'")
+
+#### 57.-  'Error Humano' <a name=errorhumanoLP></a>
+[![57.- 'Error Humano'](https://img.youtube.com/vi/Tpp4QdJNWhc/0.jpg)](https://www.youtube.com/watch?v=Tpp4QdJNWhc  "57.- 'Error Humano'")
+
+#### 58.-  'Infraestructuras Invisibles' <a name=infraestructurasinvisiblesLP></a>
+[![58.- 'Infraestructuras Invisibles'](https://img.youtube.com/vi/pheTyQdAUIs/0.jpg)](https://www.youtube.com/watch?v=pheTyQdAUIs  "58.- 'Infraestructuras Invisibles'")
+
+#### 59.-  'Cicatrices en el Asfalto' <a name=cicatricesenelasfaltoLP></a>
+[![59.- 'Cicatrices en el Asfalto'](https://img.youtube.com/vi/na0GE7OiMH8/0.jpg)](https://www.youtube.com/watch?v=na0GE7OiMH8  "59.- 'Cicatrices en el Asfalto'")
+
+#### 60.-  'El Precio del Perdón' <a name=elpreciodelperdonLP></a>
+[![60.- 'El Precio del Perdón'](https://img.youtube.com/vi/V-hQKslu0cQ/0.jpg)](https://www.youtube.com/watch?v=V-hQKslu0cQ  "60.- 'El Precio del Perdón'")
+
+#### 61.-  'Alta γ' <a name=altaLP></a>
+[![61.- 'Alta γ'](https://img.youtube.com/vi/z9lNsQ84A6Y/0.jpg)](https://www.youtube.com/watch?v=z9lNsQ84A6Y  "61.- 'Alta γ'")
+
+#### 62.-  'Confinamiento Digital En La Burbuja Artificial' <a name=confinamientodigitalenlaburbujaartificialLP></a>
+[![62.- 'Confinamiento Digital En La Burbuja Artificial'](https://img.youtube.com/vi/jLGa5OhGq90/0.jpg)](https://www.youtube.com/watch?v=jLGa5OhGq90  "62.- 'Confinamiento Digital En La Burbuja Artificial'")
+
+#### 63.-  'Vibe Check' <a name=vibecheckLP></a>
+[![63.- 'Vibe Check'](https://img.youtube.com/vi/ZcuR2DZ2wpI/0.jpg)](https://www.youtube.com/watch?v=ZcuR2DZ2wpI  "63.- 'Vibe Check'")
+
+#### 64.-  'Abismo' <a name=abismoLP></a>
+[![64.- 'Abismo'](https://img.youtube.com/vi/xQgLod7QYGo/0.jpg)](https://www.youtube.com/watch?v=xQgLod7QYGo  "64.- 'Abismo'")
+
+#### 65.-  '1/9: El Censo del Silencio' <a name=19elcensodelsilencioLP></a>
+[![65.- '1/9: El Censo del Silencio'](https://img.youtube.com/vi/h2ey9bvqu5g/0.jpg)](https://www.youtube.com/watch?v=h2ey9bvqu5g  "65.- '1/9: El Censo del Silencio'")
+
+#### 66.-  'CERO ABSOLUTO DIGITAL' <a name=ceroabsolutodigitalLP></a>
+[![66.- 'CERO ABSOLUTO DIGITAL'](https://img.youtube.com/vi/1kZlRJcPVbE/0.jpg)](https://www.youtube.com/watch?v=1kZlRJcPVbE  "66.- 'CERO ABSOLUTO DIGITAL'")
+
+
 
