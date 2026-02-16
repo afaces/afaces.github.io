@@ -108,6 +108,11 @@ title: Afaces fanpage
 64. [Abismo](#abismoLP)
 65. [1/9: El Censo del Silencio](#19elcensodelsilencioLP)
 66. [CERO ABSOLUTO DIGITAL](#ceroabsolutodigitalLP)
+67. [FRAGMENTOS DEL ALMA](#fragmentosdelalmaLP)
+68. [Estática Burocrática](#estaticaburocraticaLP)
+69. [NEÓN & CENIZA](#neonycenizaLP)
+70. [Teoría del Eco](#teoriadelecoLP)
+71. [Ceniza y Sal: Manual de Desaparición](#cenizaysalmanualdedesaparicionLP)
 
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
@@ -5843,5 +5848,18 @@ function showButtonhalfbelow() {
 #### 66.-  'CERO ABSOLUTO DIGITAL' <a name=ceroabsolutodigitalLP></a>
 [![66.- 'CERO ABSOLUTO DIGITAL'](https://img.youtube.com/vi/1kZlRJcPVbE/0.jpg)](https://www.youtube.com/watch?v=1kZlRJcPVbE  "66.- 'CERO ABSOLUTO DIGITAL'")
 
+#### 67.-  'FRAGMENTOS DEL ALMA' <a name=fragmentosdelalmaLP></a>
+[![67.- 'FRAGMENTOS DEL ALMA'](https://img.youtube.com/vi/lFjtizCZIUU/0.jpg)](https://www.youtube.com/watch?v=lFjtizCZIUU  "67.- 'FRAGMENTOS DEL ALMA'")
 
+#### 68.-  'Estática Burocrática' <a name=estaticaburocraticaLP></a>
+[![68.- 'Estática Burocrática'](https://img.youtube.com/vi/VhmJ1VB3Khs/0.jpg)](https://www.youtube.com/watch?v=VhmJ1VB3Khs  "68.- 'Estática Burocrática'")
+
+#### 69.-  'NEÓN & CENIZA' <a name=neonycenizaLP></a>
+[![69.- 'NEÓN & CENIZA'](https://img.youtube.com/vi/aRglG-BPso8/0.jpg)](https://www.youtube.com/watch?v=aRglG-BPso8  "69.- 'NEÓN & CENIZA'")
+
+#### 70.-  'Teoría del Eco' <a name=teoriadelecoLP></a>
+[![70.- 'Teoría del Eco'](https://img.youtube.com/vi/1tdX0wxQkew/0.jpg)](https://www.youtube.com/watch?v=1tdX0wxQkew  "70.- 'Teoría del Eco'")
+
+#### 71.-  'Ceniza y Sal: Manual de Desaparición' <a name=cenizaysalmanualdedesaparicionLP></a>
+[![71.- 'Ceniza y Sal: Manual de Desaparición'](https://img.youtube.com/vi/iJEtYEkKi68/0.jpg)](https://www.youtube.com/watch?v=iJEtYEkKi68  "71.- 'Ceniza y Sal: Manual de Desaparición'")
 
