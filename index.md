@@ -113,6 +113,8 @@ title: Afaces fanpage
 69. [NEÓN & CENIZA](#neonycenizaLP)
 70. [Teoría del Eco](#teoriadelecoLP)
 71. [Ceniza y Sal: Manual de Desaparición](#cenizaysalmanualdedesaparicionLP)
+72. [remanencia.log](#remanencialogLP)
+73. [LAS ÚLTIMAS HABITACIONES DE SANGRE](#lasultimashabitacionesdesangreLP)
 
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
@@ -5862,4 +5864,10 @@ function showButtonhalfbelow() {
 
 #### 71.-  'Ceniza y Sal: Manual de Desaparición' <a name=cenizaysalmanualdedesaparicionLP></a>
 [![71.- 'Ceniza y Sal: Manual de Desaparición'](https://img.youtube.com/vi/iJEtYEkKi68/0.jpg)](https://www.youtube.com/watch?v=iJEtYEkKi68  "71.- 'Ceniza y Sal: Manual de Desaparición'")
+
+#### 72.-  'remanencia.log' <a name=remanencialogLP></a>
+[![72.- 'remanencia.log'](https://img.youtube.com/vi/gpJyMsyZ4dA/0.jpg)](https://www.youtube.com/watch?v=gpJyMsyZ4dA  "72.- 'remanencia.log'")
+
+#### 73.-  'LAS ÚLTIMAS HABITACIONES DE SANGRE' <a name=lasultimashabitacionesdesangreLP></a>
+[![73.- 'LAS ÚLTIMAS HABITACIONES DE SANGRE'](https://img.youtube.com/vi/9GE5o7Xt4Qk/0.jpg)](https://www.youtube.com/watch?v=9GE5o7Xt4Qk  "73.- 'LAS ÚLTIMAS HABITACIONES DE SANGRE'")
 
