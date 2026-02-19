@@ -167,7 +167,7 @@ Phone: +34 620 335 859
 
 [![YouTube](assets/images/icon/youtube.svg)](https://www.youtube.com/user/axelaxel12)
 [![Spotify](assets/images/icon/spotify.svg)](https://open.spotify.com/artist/3zbzWzOqZcY3mZBG5ICF9l)
-[![Instagram](assets/images/icon/instagram.svg)](https://www.instagram.com/_afaces/)
+[![Instagram](assets/images/icon/instagram.svg)](https://www.instagram.com/el_afaces/)
 [![Twitter](assets/images/icon/twitter.svg)](https://twitter.com/afaces2)
 
 Stay connected and join the journey with Afaces!
