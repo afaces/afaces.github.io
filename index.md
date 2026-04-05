@@ -117,7 +117,10 @@ title: Afaces fanpage
 71. [Ceniza y Sal: Manual de Desaparición](#cenizaysalmanualdedesaparicionLP)
 72. [remanencia.log](#remanencialogLP)
 73. [LAS ÚLTIMAS HABITACIONES DE SANGRE](#lasultimashabitacionesdesangreLP)
-
+74. [PRIVACIDAD PÚBLICA](#privacidadpublicaLP)
+75. [Sin Cara Propia](#sincarapropiaLP)
+76. [PROTOCOLO EXTREMO](#protocoloextremoLP)
+77. [MEMORIA RESIDUAL](#memoriaresidualLP)
 
 #### 1.- 'Nefasto' <a name=nefastoAlbum></a>
 
@@ -5872,4 +5875,16 @@ function showButtonhalfbelow() {
 
 #### 73.-  'LAS ÚLTIMAS HABITACIONES DE SANGRE' <a name=lasultimashabitacionesdesangreLP></a>
 [![73.- 'LAS ÚLTIMAS HABITACIONES DE SANGRE'](https://img.youtube.com/vi/9GE5o7Xt4Qk/0.jpg)](https://www.youtube.com/watch?v=9GE5o7Xt4Qk  "73.- 'LAS ÚLTIMAS HABITACIONES DE SANGRE'")
+
+#### 74.-  'PRIVACIDAD PÚBLICA' <a name=privacidadpublicaLP></a>
+[![74.- 'PRIVACIDAD PÚBLICA'](https://img.youtube.com/vi/ncxhYf_PugQ/0.jpg)](https://www.youtube.com/watch?v=ncxhYf_PugQ  "74.- 'PRIVACIDAD PÚBLICA'")
+
+#### 75.-  'Sin Cara Propia' <a name=sincarapropiaLP></a>
+[![75.- 'Sin Cara Propia'](https://img.youtube.com/vi/MoNzoQ__daU/0.jpg)](https://www.youtube.com/watch?v=MoNzoQ__daU  "75.- 'Sin Cara Propia'")
+
+#### 76.-  'PROTOCOLO EXTREMO' <a name=protocoloextremoLP></a>
+[![76.- 'PROTOCOLO EXTREMO'](https://img.youtube.com/vi/AfHPHMEUmGw/0.jpg)](https://www.youtube.com/watch?v=AfHPHMEUmGw  "76.- 'PROTOCOLO EXTREMO'")
+
+#### 77.-  'MEMORIA RESIDUAL' <a name=memoriaresidualLP></a>
+[![77.- 'MEMORIA RESIDUAL'](https://img.youtube.com/vi/3BUQpEgzf2Y/0.jpg)](https://www.youtube.com/watch?v=3BUQpEgzf2Y  "77.- 'MEMORIA RESIDUAL'")
 
