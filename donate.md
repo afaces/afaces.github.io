@@ -3,7 +3,6 @@
 ###### please wait a few seconds for the page to be loaded when any button or image is pressed to proceed.
 
 <div class="paypalbutton">
-<input type="button" title="Donate 1€" onclick="location.href='https://buy.stripe.com/8wMg0kfQbfdr22I001';" value="Donate 1€">
 
 <input type="button" title="Donate 15€" onclick="location.href='https://buy.stripe.com/bIY6pK5bx8P3dLqbIK';" value="Donate 5€">
 
