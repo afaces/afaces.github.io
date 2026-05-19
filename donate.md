@@ -4,7 +4,7 @@
 
 <div class="paypalbutton">
 
-<input type="button" title="Donate 15€" onclick="location.href='https://buy.stripe.com/bIY6pK5bx8P3dLqbIK';" value="Donate 5€">
+<input type="button" title="Donate 5€" onclick="location.href='https://buy.stripe.com/bIY6pK5bx8P3dLqbIK';" value="Donate 5€">
 
 <input type="button" title="Donate 20€" onclick="location.href='https://buy.stripe.com/8wM29u33pfdr0YEeUX';" value="Donate 20€">
 
