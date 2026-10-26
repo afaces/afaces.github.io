@@ -215,8 +215,7 @@ Afaces performances in clubs and festivals:
 For all bookings and enquiries, please contact:
 
 **Afaces**  
-Email: afacesmusic@gmail.com  
-Phone: +34 620 335 859
+Email: afaces@salou.tinet.cat 
 
 ---
 
