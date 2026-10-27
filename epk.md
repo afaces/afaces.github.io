@@ -229,3 +229,6 @@ Email: afaces@salou.tinet.cat
 [![Twitter](assets/images/icon/twitter.svg)](https://twitter.com/afaces2)
 
 Stay connected and join the journey with Afaces.
+
+---
+**Dossier de prensa actualizado:** [Consultar el EPK oficial de Afaces](https://usuaris.tinet.cat/afaces/prensa.html).
