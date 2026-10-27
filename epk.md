@@ -1,3 +1,5 @@
+> ⚠️ Este EPK ha sido movido. La versión actualizada y oficial se encuentra en: https://usuaris.tinet.cat/afaces/prensa.html
+
 ## Afaces Electronic Press Kit
 
 Welcome to the official Electronic Press Kit for **Afaces**, the Spanish dance/electronic/downtempo project of Axel Fernández Curros.
